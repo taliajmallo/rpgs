@@ -26,15 +26,15 @@
 | **Will** | +0             | - 
 
 ## Skills 
-| Skill             |     | Temp | 
-|-------------------|-----|------| 
-| *Bluff*           | +9  | - 
-| *Disable Device*  | +9  | - 
-| *Escape Artist*   | +11 | - 
-| *Perception*      | +6  | - 
-| *Sense Motive*    | +5  | - 
-| *Sleight of Hand* | +8  | - 
-| *Stealth*         | +10 | - 
+| Skill              |     | Temp | 
+|--------------------|-----|------| 
+| *Bluff*            | +9  | - 
+| *Disable Device*   | +9  | - 
+| *Escape Artist*    | +11 | - 
+| *Perception*       | +6  | - 
+| *Sleight of Hand*  | +8  | - 
+| *Stealth*          | +10 | - 
+| *Use Magic Device* | +8  | -
 If unlisted, just use ability score modifier.
 
 ## Languages, Proficiencies
@@ -47,10 +47,10 @@ If unlisted, just use ability score modifier.
 ## Traits & Drawbacks
 ### Attached
 You have a strong emotional attachment to your younger sister. Whenever she is either threatened, in danger, or in someone else's possession, you take a -1 penalty on Will saves and a -2 penalty on saves against fear effects. If she is ever lost, killed, or destroyed, exchange this drawback for the Doubt drawback. 
+### Arcane Dabbler
+Select two non-harmful arcane cantrips. You can cast these two cantrips (*Detect Magic*, *Read Magic*) once per day each (caster level 1st). If you have levels in a class that can cast these cantrips, your caster level for these cantrips is equal to that class level.
 ### Criminal
 You spent your early life robbing and stealing to get by. Select one of the following skills: **Disable Device**, ~~Intimidate~~, or ~~Sleight of Hand~~. You gain a +1 trait bonus on that skill, and it is always a class skill for you. 
-### Outcast's Intuition
-You are able to sense the motives of others and use that sense to bolster your magic against dispelling. You gain a +1 trait bonus on Sense Motive checks, and Sense Motive is always a class skill for you. In addition, your caster level is treated as 1 level higher for the purposes of any attempts to dispel your magic. 
 ### Vagabond Child
 You grew up among the outcasts and outlaws of your society, learning to forage and survive in an urban environment. Select one of the following skills - ~~Disable Device~~, **Escape Artist**, or ~~Sleight of Hand~~. You gain a +1 trait bonus on that skill, and it is always a class skill for you. 
 
