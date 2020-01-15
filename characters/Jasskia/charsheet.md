@@ -40,17 +40,15 @@
 If unlisted, just use ability score modifier.
 
 ## Languages, Proficiencies
-**Languages**: Common, Elven, Goblin, Vishkanya 
-
-**Weapons**: Simple, blowguns, kukri, and shuriken
-
-**Armor**: Light
+- **Languages**: Common, Elven, Goblin, Vishkanya 
+- **Weapons**: Simple, blowguns, kukri, and shuriken
+- **Armor**: Light
 
 ## Traits & Drawbacks
 ### Attached
-You have a strong emotional attachment to your younger sister. Whenever she is either threatened, in danger, or in someone else's possession, you take a -1 penalty on Will saves and a -2 penalty on saves against fear effects. If she is ever lost, killed, or destroyed, exchange this drawback for the Doubt drawback. 
+You have a strong emotional attachment to Cilanthia, your younger sister. Whenever she is either threatened, in danger, or in someone else's possession, you take a -1 penalty on Will saves and a -2 penalty on saves against fear effects. If she is ever lost, killed, or destroyed, exchange this drawback for the Doubt drawback. 
 ### Arcane Dabbler
-Select two non-harmful arcane cantrips. You can cast these two cantrips (*Detect Magic*, *Read Magic*) once per day each (caster level 1st). If you have levels in a class that can cast these cantrips, your caster level for these cantrips is equal to that class level.
+Select two non-harmful arcane cantrips (*Detect Magic*, *Read Magic*). You can cast these two cantrips once per day each (caster level 1st). If you have levels in a class that can cast these cantrips, your caster level for these cantrips is equal to that class level.
 ### Criminal
 You spent your early life robbing and stealing to get by. Select one of the following skills: **Disable Device**, ~~Intimidate~~, or ~~Sleight of Hand~~. You gain a +1 trait bonus on that skill, and it is always a class skill for you. 
 ### Vagabond Child
@@ -89,3 +87,28 @@ When using this infusion, your kinetic blast can strike any target within 120 fe
 ## Feats 
 ### Point-Blank Shot
 You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of up to 30 feet.
+
+## Spells 
+### Detect Magic
+| Divination Cantrip | |
+|--------------------|-|
+| Casting Time       | 1 standard action
+| Component          | V, S
+| Range              | 60 ft.
+| Area               | cone-shaped emanation
+| Duration           | concentration, up to 1 min./level (D)
+| Saving Throw       | none
+| Spell Resistance   | no
+You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.
+- 1st Round: Presence or absence of magical auras.
+- 2nd Round: Number of different magical auras and the power of the most potent aura.
+- 3rd Round: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Knowledge (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1/2 caster level for a nonspell effect.) If the aura emanates from a magic item, you can attempt to identify its properties.
+### Read Magic
+| Divination Cantrip | |
+|--------------------|-|
+| Casting            | Time 1 standard action
+| Components         | V, S, F (a clear crystal or mineral prism)
+| Range              | personal
+| Target             | you
+| Duration           | 10 min./level
+You can decipher magical inscriptions on objects – books, scrolls, weapons, and the like – that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once the spell is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic. You can read at the rate of one page (250 words) per minute. The spell allows you to identify a glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + spell level).
