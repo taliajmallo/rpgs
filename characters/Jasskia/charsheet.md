@@ -3,11 +3,11 @@
 ## Ability Scores
 | Stat    | Base    | Temp | 
 |---------|---------|------| 
-| **STR** | 12 (+1) | -
+| **STR** | 10 (--) | -
 | **DEX** | 18 (+4) | -
 | **CON** | 13 (+1) | -
 | **INT** | 14 (+2) | -
-| **WIS** | 10 (--) | -
+| **WIS** | 12 (+1) | -
 | **CHA** | 19 (+4) | -
 
 ## Secondary Stats
@@ -16,8 +16,8 @@
 | **HP**   | 9 Max          | -
 | **AC**   | 16 (14 T/12 F) | -
 | **BAB**  | +0             | -
-| **CMB**  | +1             | - 
-| **CMD**  | 15 (11 F)      | - 
+| **CMB**  | +0             | - 
+| **CMD**  | 14 (10 F)      | - 
 | **Init** | +4             | -
 
 ## Saves
@@ -25,7 +25,7 @@
 |----------|----------------|------| 
 | **Fort** | +3 (+1/Poison) | - 
 | **Ref**  | +6             | - 
-| **Will** | +0             | - 
+| **Will** | +1             | - 
 
 ## Skills 
 | Skill              |     | Temp | 
@@ -33,7 +33,7 @@
 | *Bluff*            | +9  | - 
 | *Disable Device*   | +9  | - 
 | *Escape Artist*    | +11 | - 
-| *Perception*       | +6  | - 
+| *Perception*       | +7  | - 
 | *Sleight of Hand*  | +8  | - 
 | *Stealth*          | +10 | - 
 | *Use Magic Device* | +8  | -
@@ -92,11 +92,11 @@ You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of u
 ### Detect Magic
 | Divination Cantrip | |
 |--------------------|-|
-| Casting Time       | 1 standard action
-| Component          | V, S
+| Casting Time       | Action
+| Component          | VS
 | Range              | 60 ft.
-| Area               | cone-shaped emanation
-| Duration           | concentration, up to 1 min./level (D)
+| Area               | Cone
+| Duration           | C, 1 min/lvl
 | Saving Throw       | none
 | Spell Resistance   | no
 You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.
@@ -106,9 +106,9 @@ You detect magical auras. The amount of information revealed depends on how long
 ### Read Magic
 | Divination Cantrip | |
 |--------------------|-|
-| Casting            | Time 1 standard action
-| Components         | V, S, F (a clear crystal or mineral prism)
+| Casting            | Action
+| Components         | VSF (a clear crystal or mineral prism)
 | Range              | personal
 | Target             | you
-| Duration           | 10 min./level
-You can decipher magical inscriptions on objects – books, scrolls, weapons, and the like – that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once the spell is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic. You can read at the rate of one page (250 words) per minute. The spell allows you to identify a glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + spell level).
+| Duration           | 10 min/lvl
+You can decipher magical  inscriptions on objects – books, scrolls, weapons, and the like – that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed or trapped scroll. Furthermore, once the spell is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic. You can read at the rate of one page (250 words) per minute. The spell allows you to identify a glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + spell level).
