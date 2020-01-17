@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Vishkanya Kineticist (Overwhelming Soul) 1
+## CE Vishkanya Kineticist (Overwhelming Soul) / VMC Rogue 1
 ## Ability Scores
 | Stat    | Base    | Temp | 
 |---------|---------|------| 
