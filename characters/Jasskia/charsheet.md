@@ -70,7 +70,7 @@ Use CHA instead of CON for all kineticist abilities. Add Bluff and Diplomacy to 
 Your primary elemental focus is Aether. You add Knowledge (Engineering) and Sleight of Hand to your class skill list, and gain the *Basic Telekinesis* talent and *Telekinetic Blast* blast.
 ### Kinetic Blast
 As a standard action, you can unleash a kinetic blast at a single target up to a range of 30 feet. You must have at least 1 hand free to aim. Kinetic blasts are always treated as magic, always deal full damage to swarms, may be readied to counterspell any spell of equal or lower level that shares its descriptor, and have descriptors corresponding to any energy damage type(s) they deal. They count as a weapon for feats like Weapon Focus, but you are never considered to be holding them, and you cannot use Vital Strike with them. 
-Physical blasts are ranged attacks that deal 1d6 + 5 (2+CHA Mod) damage, increasing by 1d6 + 1 every odd level. Energy blasts are ranged touch attacks that deal 1d6 + 2 damage, increasing by 1d6 every odd level.
+Physical blasts are ranged attacks that deal 1d6 + 5 (2+CHA Mod) damage, increasing by 1d6 + 1 every odd level. Energy blasts are ranged touch attacks that deal 1d6 + 2 (1/2 CHA Mod) damage, increasing by 1d6 every odd level.
 You may use infusions to modify the properties of your blast, so long as the total burn when cast is zero.
 ### Gather Power
 If you have both hands free, you may gather power in a loud and visible display to reduce the burn of a blast used immediately after. A move action reduces the blast by 1, a full-round action reduces it by 2, and a full-round plus a move action reduces it by 3. 
