@@ -1,5 +1,10 @@
 # Jasskia 
 ## CE Vishkanya Kineticist (Overwhelming Soul) / VMC Rogue 1
+## Appearance & Vital Stats 
+From a distance, Jass appears to be a lithe and well-tanned human woman, with a tidy braid of black 
+hair that reaches down to her shoulder. However, at a close range it's clear that she's one of the 
+scaled Vishkanya of the Bla'kroya dessert, peering at the world through the golden eyes of a serpent. 
+5'5", 110 lbs
 ## Ability Scores
 | Stat    | Base    | Temp | 
 |---------|---------|------| 
