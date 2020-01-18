@@ -1,8 +1,41 @@
 # Jasskia's Journal
 ## Session 1
-April 27, 957
+April 27, 957 - Disembarked at Viridia with Pyra. Here's hoping this job goes 
+smoother than my last abroad; I'd quite rather avoid being run out of town again.
 
-## Backstory - TODO
+## Campaign Notes
+### Companions
+#### Pyraloid - Ratfolk Oracle of the Streets / VMC Gunslinger
+Pyra is a business partner of mine. While I'd be hesitant to call her a friend, 
+we've worked together enough that it was prudent to teach her my native language. 
+Typically, she gathers the information that I use for my assignments. 
+#### ???
+#### ???
+#### ???
+#### ???  
+### Contacts
+#### Cilanthia - Beloved Younger Sister / Wizard-in-Training
+Cil is my sweet baby sister. She was only three when I accidentally killed our 
+parents, so I've been raising her myself as best I could. I've done everything I
+could to make sure she'll have a better life than mine. She's currently abroad 
+apprenticed to a master wizard, so I can only hope she'll have a safe and 
+successful life far from Garumna and the Locksmiths.  
+#### Fabricus - Shady Guildmaster / Head of the Locksmiths
+Fabricus is the person I've spent my last decade-and-some of life working for. 
+They're the head of the Locksmiths, Garumna's thieves guild, and not someone I 
+have any interest in crossing. I'm something of a favorite of theirs, so I'm not
+worried for my immediate future, but they're not known for being particularly 
+forgiving. 
+##### The Locksmiths
+The Locksmiths are Garumna's premiere thieves' guild. I made the mistake of 
+stealing from a member when I was 15, and they gave me the choice of joining or 
+dying. It wasn't a particularly difficult decision. Ever since, I've worked for 
+them, doing everything from petty theft to wetwork. I've got mixed feeling on 
+the guild as a whole: while I still resent them somewhat for threatening me into
+joining, they've treated me fairly by-and-large.  I'd like to leave someday, but
+not before I'm certain it won't jeopardize Cil's apprenticeship.  
+
+## Backstory
 ### Timeline:
 | Date    | Age | Event |
 |---------|-----|-------|
