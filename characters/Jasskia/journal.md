@@ -1,5 +1,6 @@
 # Jasskia's Journal
 ## Session 1
+April 27, 957
 
 ## Backstory - TODO
 ### Timeline:
@@ -13,6 +14,8 @@
 | May 947 |  17 | Cil expresses an interest in arcana, so Jass procures study materials as a birthday gift.
 | Sep 954 |  24 | Foreign wizard accepts Cil as apprentice
 | Jan 955 |  25 | Jass starts taking more tasks that require travel, now that she doesn't need to worry over Cil
-| Jan 957 |  27 | Jass is told to go find particular relic sword
-| Mar 957 |  27 | Jass departs to Viridia following a lead that a certain Kobold Paladin has been seen wielding it. 
+| Mar 957 |  27 | Jass is told to go find relic magic sword (bronze, ancient but immaculate, silver inlay of serpentine creatures)
+| Apr 957 |  27 | Jass departs to Viridia following a lead that a certain Kobold Paladin has been seen wielding it. 
 | Apr 957 |  27 | Jass meets & joins the party! (Turns out, the Kobold doesn't actually have it)
+
+*Every month is 30 days!*
