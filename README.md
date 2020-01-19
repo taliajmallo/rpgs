@@ -1,3 +1,4 @@
-# RPGS
-This repo is used to track characters for pen-and-paper role-playing games other
-than D&D 5th edition (particularly, Pathfinder).  
+# RPGs
+This repository contains resources for pen-and-paper roleplaying games, 
+particularly character sheets. I recommend VS Code with the Markdown All In One 
+extension for viewing and editing purposes. 

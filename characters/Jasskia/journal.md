@@ -18,14 +18,15 @@ encounters followed.
 ## Campaign Notes
 ### Companions
 #### Pyraloid - Ratfolk Oracle of the Streets / VMC Gunslinger
-Current alias Emily, passing off as a halfling 
-Pyra is a business partner of mine. While I'd be hesitant to call her a friend, 
+Pyra is a business partner of mine. While I'd be hesitant to call her close, 
 we've worked together enough that it was prudent to teach her my native language. 
-Typically, she gathers the information that I use for my assignments. 
+Typically, she gathers the information that I use for my assignments. Currently,
+she's going by the alias of Emily and disguising herself as a halfling. 
 #### Braveheart Kobold Paladin
-An insane Kobold child
+An adolescent kobold paladin. I have doubts as to his sanity. 
 #### Casmar - Human (?) Druid
-A (relatively) sane humanoid wearing tons of feathers. 
+A (relatively) sane humanoid wearing tons of feathers. Seems to be a druid of 
+some skill. 
 #### Xulri - Human Barbarian
 ???
 #### Seldana - Elf Investigator
