@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Vishkanya Kineticist (Overwhelming Soul) / VMC Rogue 1++ (LEVEL TODO)
+## CE Vishkanya Kineticist (Overwhelming Soul) / VMC Rogue 2
 ## Appearance & Vital Stats 
 From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
 tidy braid of black hair that reaches down to her shoulder. However, at a close 
@@ -19,30 +19,32 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 | Stat     |                | Temp | 
 |----------|----------------|------| 
-| **HP**   | 9 Max          | 6 lethal
+| **HP**   | 14 Max         | -
+| **THP**  | 2 Persistent   | -
 | **AC**   | 16 (14 T/12 F) | -
-| **BAB**  | +0             | -
-| **CMB**  | +0             | - 
+| **BAB**  | +1             | -
+| **CMB**  | +1             | - 
 | **CMD**  | 14 (10 F)      | - 
 | **Init** | +4             | -
 
 ## Saves
 | Save     |                | Temp | 
 |----------|----------------|------| 
-| **Fort** | +3 (+1/Poison) | - 
-| **Ref**  | +6             | - 
-| **Will** | +1             | - 
+| **Fort** | +4 (+1/Poison) | - 
+| **Ref**  | +7             | - 
+| **Will** | +0             | - 
 
 ## Skills 
-| Skill              |     | Temp | 
-|--------------------|-----|------| 
-| *Bluff*            | +9  | - 
-| *Disable Device*   | +9  | - 
-| *Escape Artist*    | +11 | - 
-| *Perception*       | +7  | - 
-| *Sleight of Hand*  | +8  | - 
-| *Stealth*          | +10 | - 
-| *Use Magic Device* | +8  | -
+| Skill              | Bonus (Ranks) | Temp | 
+|--------------------|---------------|------| 
+| *Bluff*            | +9  (1)       | - 
+| *Disable Device*   | +10 (2)       | - 
+| *Escape Artist*    | +11 (1)       | - 
+| *Perception*       | +7  (2)       | - 
+| *Sleight of Hand*  | +9  (2)       | - 
+| *Spellcraft*       | +8  (2)       | - 
+| *Stealth*          | +11 (2)       | - 
+| *Use Magic Device* | +9  (2)       | - 
 If unlisted, just use ability score modifier.
 
 ## Languages, Proficiencies
@@ -57,11 +59,10 @@ Whenever she is either threatened, in danger, or in someone else's possession,
 you take a -1 penalty on Will saves and a -2 penalty on saves against fear 
 effects. If she is ever lost, killed, or destroyed, exchange this drawback for 
 the Doubt drawback. 
-### Arcane Dabbler
-Select two non-harmful arcane cantrips (*Detect Magic*, *Read Magic*). You can 
-cast these two cantrips once per day each (caster level 1st). If you have levels 
-in a class that can cast these cantrips, your caster level for these cantrips is 
-equal to that class level.
+### Classically-Schooled
+Encouraging Cil's interest in magic meant reading a wide variety of arcane texts.
+You gain a +1 trait bonus on Spellcraft checks, and Spellcraft is always a class
+skill for you.
 ### Criminal
 You spent your early life robbing and stealing to get by. Select one of the 
 following skills: **Disable Device**, ~~Intimidate~~, or ~~Sleight of Hand~~. 
@@ -121,6 +122,9 @@ Modified Mage Hand or Open/Close cantrip: As an action, at a range of 110 feet
 levels, min 5) up to 30 feet/round as long as concentration lasts. Can instead 
 create aetherial container for same weight of fluids, or open/close unsecured 
 container/door/ect. 
+#### Telekinetic Finesse (Utility, Level 1, Burn -) 
+You can perform any sort of fine manipulation you choose within close range, 
+including attempting Sleight of Hand and Disable Device checks.
 #### Telekinetic Blast (Simple Blast, Level 0, Burn 0)
 Throw a nearby unattended object weighing no more than 5 lbs (5/level). On a hit, 
 either deal blast damage with your choice of physical damage type, or deal 
@@ -129,43 +133,14 @@ roll). To throw a weapon and use its damage, you must be proficient and able to
 wield it one-handed. 
 #### Extended Range (Form Infusion, Level 1, Burn 1) 
 When using this infusion, your blast can strike any target within 120 feet.
+#### Force Ward (Defense, Level -, Burn 0)
+You constantly surround yourself with a ward of force. You gain a number of 
+temporary hit points equal to your kineticist level. If the damage you take 
+from any source is reduced to zero, it is counted as a miss for the purposes
+of of abilities that trigger on a hit or miss. The temporary hitpoints 
+regenerate at a rate of 1 per minute. 
 
 ## Feats 
 ### Point-Blank Shot
 You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of 
 up to 30 feet.
-
-## Spells 
-### Detect Magic
-| Divination Cantrip | |
-|--------------------|-|
-| Casting Time       | Action
-| Component          | VS
-| Range              | 60 ft.
-| Area               | Cone
-| Duration           | C, 1 min/lvl
-| Saving Throw       | none
-| Spell Resistance   | no
-You detect magical auras. The amount of information revealed depends on how long 
-you study a particular area or subject.
-- 1st Round: Presence or absence of magical auras.
-- 2nd Round: Number of different magical auras and the power of the most potent aura.
-- 3rd Round: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Knowledge (arcana) skill checks to determine the school of magic involved in each. (Make one check per aura: DC 15 + spell level, or 15 + 1/2 caster level for a nonspell effect.) If the aura emanates from a magic item, you can attempt to identify its properties.
-### Read Magic
-| Divination Cantrip | |
-|--------------------|-|
-| Casting            | Action
-| Components         | VSF (a clear crystal or mineral prism)
-| Range              | personal
-| Target             | you
-| Duration           | 10 min/lvl
-You can decipher magical  inscriptions on objects – books, scrolls, weapons, and 
-the like – that would otherwise be unintelligible. This deciphering does not 
-normally invoke the magic contained in the writing, although it may do so in the 
-case of a cursed or trapped scroll. Furthermore, once the spell is cast and you 
-have read the magical inscription, you are thereafter able to read that 
-particular writing without recourse to the use of read magic. You can read at 
-the rate of one page (250 words) per minute. The spell allows you to identify a 
-glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with 
-a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check 
-(DC 10 + spell level).
