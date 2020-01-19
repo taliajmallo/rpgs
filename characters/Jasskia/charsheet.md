@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Vishkanya Kineticist (Overwhelming Soul) / VMC Rogue 1
+## CE Vishkanya Kineticist (Overwhelming Soul) / VMC Rogue 1++ (LEVEL TODO)
 ## Appearance & Vital Stats 
 From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
 tidy braid of black hair that reaches down to her shoulder. However, at a close 
@@ -9,17 +9,17 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Ability Scores
 | Stat    | Base    | Temp | 
 |---------|---------|------| 
-| **STR** | 10 (--) | -
+| **STR** | 12 (+1) | -
 | **DEX** | 18 (+4) | -
 | **CON** | 13 (+1) | -
 | **INT** | 14 (+2) | -
-| **WIS** | 12 (+1) | -
+| **WIS** | 10 (--) | -
 | **CHA** | 19 (+4) | -
 
 ## Secondary Stats
 | Stat     |                | Temp | 
 |----------|----------------|------| 
-| **HP**   | 9 Max          | -
+| **HP**   | 9 Max          | 6 lethal
 | **AC**   | 16 (14 T/12 F) | -
 | **BAB**  | +0             | -
 | **CMB**  | +0             | - 

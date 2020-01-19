@@ -1,18 +1,35 @@
 # Jasskia's Journal
 ## Session 1
-April 27, 957 - Disembarked at Viridia with Pyra. Here's hoping this job goes 
-smoother than my last abroad; I'd quite rather avoid being run out of town again.
+### April 27, 957 - 
+Disembarked at Viridia with Pyra. Here's hoping this job goes smoother than my 
+last abroad; I'd quite rather avoid being run out of town again. Asked around 
+town about our mark, and were sent into some mines. Pyra's disguising herself as 
+a halfling and calling herself Emily. I think she's a bit overcautious, but 
+whatever makes her happy?
+We joined parties with who we think is our mark, a clearly *insane* 
+kobold child and paladin. Haven't yet had a chance to determine whether his 
+ornate sword is the one we're after. His party is investigating an unearthed 
+dungeon defended by duergar, but we dealt with the first batch pretty handily. 
+A couple rooms later, Pyra and I were knocked out by a duergar alchemist, but 
+the druid in the party was able to revive us with some potions of healing. We 
+claimed a decent chunk of loot and wealth. A handful of other insignificant 
+encounters followed. 
 
 ## Campaign Notes
 ### Companions
 #### Pyraloid - Ratfolk Oracle of the Streets / VMC Gunslinger
+Current alias Emily, passing off as a halfling 
 Pyra is a business partner of mine. While I'd be hesitant to call her a friend, 
 we've worked together enough that it was prudent to teach her my native language. 
 Typically, she gathers the information that I use for my assignments. 
-#### ???
-#### ???
-#### ???
-#### ???  
+#### Braveheart Kobold Paladin
+An insane Kobold child
+#### Casmar - Human (?) Druid
+A (relatively) sane humanoid wearing tons of feathers. 
+#### Xulri - Human Barbarian
+???
+#### Seldana - Elf Investigator
+???
 ### Contacts
 #### Cilanthia - Beloved Younger Sister / Wizard-in-Training
 Cil is my sweet baby sister. She was only three when I accidentally killed our 
