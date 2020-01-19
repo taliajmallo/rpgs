@@ -22,8 +22,9 @@ Pyra is a business partner of mine. While I'd be hesitant to call her close,
 we've worked together enough that it was prudent to teach her my native language. 
 Typically, she gathers the information that I use for my assignments. Currently,
 she's going by the alias of Emily and disguising herself as a halfling. 
-#### Braveheart Kobold Paladin
-An adolescent kobold paladin. I have doubts as to his sanity. 
+#### Braveheart - Kobold Paladin
+An adolescent kobold paladin who believes he's a reincarnated halfing hero. I 
+have doubts as to his sanity. 
 #### Casmar - Human (?) Druid
 A (relatively) sane humanoid wearing tons of feathers. Seems to be a druid of 
 some skill. 
