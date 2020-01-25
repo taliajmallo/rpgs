@@ -15,7 +15,8 @@ the druid in the party was able to revive us with some potions of healing. We
 claimed a decent chunk of loot and wealth. A handful of other insignificant 
 encounters followed. 
 ## Session 2
-#### April 28, 957
+### April 27, 957
+
 
 ## Campaign Notes
 ### Companions

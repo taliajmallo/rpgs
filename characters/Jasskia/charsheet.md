@@ -19,7 +19,7 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 | Stat     |                | Temp | 
 |----------|----------------|------| 
-| **HP**   | 23 Max         | -
+| **HP**   | 23 Max         | 6 Lethal
 | **THP**  | 2 Persistent   | -
 | **Burn** | -2HP/Burn      | -
 | **AC**   | 16 (14 T/12 F) | -
