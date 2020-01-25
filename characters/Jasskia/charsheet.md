@@ -19,7 +19,7 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 | Stat     |                | Temp | 
 |----------|----------------|------| 
-| **HP**   | 20 Max         | -
+| **HP**   | 23 Max         | -
 | **THP**  | 2 Persistent   | -
 | **Burn** | -2HP/Burn      | -
 | **AC**   | 16 (14 T/12 F) | -
@@ -169,6 +169,5 @@ healing 1d6 (1d6 / 4 character levels, min 1d6) damage. This is a standard
 action when used on another target, or a swift action when used on yourself. 
 
 ## Feats 
-### Point-Blank Shot
-You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of 
-up to 30 feet.
+### Toughness
++1 HP / Level, min 3

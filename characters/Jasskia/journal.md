@@ -1,10 +1,10 @@
 # Jasskia's Journal
 ## Session 1
-### April 27, 957 - 
+### April 27, 957 
 Disembarked at Viridia with Pyra. Here's hoping this job goes smoother than my 
 last abroad; I'd quite rather avoid being run out of town again. Asked around 
 town about our mark, and were sent into some mines. Pyra's disguising herself as 
-a halfling and calling herself Emily. I think she's a bit overcautious, but 
+a halfling and calling herself Amelie. I think she's a bit overcautious, but 
 whatever makes her happy?
 We joined parties with who we think is our mark, a clearly *insane* 
 kobold child and paladin. Haven't yet had a chance to determine whether his 
@@ -14,6 +14,8 @@ A couple rooms later, Pyra and I were knocked out by a duergar alchemist, but
 the druid in the party was able to revive us with some potions of healing. We 
 claimed a decent chunk of loot and wealth. A handful of other insignificant 
 encounters followed. 
+## Session 2
+#### April 28, 957
 
 ## Campaign Notes
 ### Companions
@@ -21,7 +23,7 @@ encounters followed.
 Pyra is a business partner of mine. While I'd be hesitant to call her close, 
 we've worked together enough that it was prudent to teach her my native language. 
 Typically, she gathers the information that I use for my assignments. Currently,
-she's going by the alias of Emily and disguising herself as a halfling. 
+she's going by the alias of Amelie and disguising herself as a halfling. 
 #### Braveheart - Kobold Paladin
 An adolescent kobold paladin who believes he's a reincarnated halfing hero. I 
 have doubts as to his sanity. 
