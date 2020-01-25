@@ -19,14 +19,14 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 | Stat     |                | Temp | 
 |----------|----------------|------| 
-| **HP**   | 23 Max         | 6 Lethal
+| **HP**   | 23 Max         | - 
 | **THP**  | 2 Persistent   | -
-| **Burn** | -2HP/Burn      | -
-| **AC**   | 16 (14 T/12 F) | -
-| **BAB**  | +1             | -
+| **Burn** | -2HP/Burn      | - 
+| **AC**   | 16 (14 T/12 F) | - 
+| **BAB**  | +1             | - 
 | **CMB**  | +1             | - 
 | **CMD**  | 14 (10 F)      | - 
-| **Init** | +4             | -
+| **Init** | +4             | - 
 
 ## Saves
 | Save     |                | Temp | 
@@ -112,7 +112,8 @@ make a concentration check (DC 10 + Damage taken + effective spell level) or
 gain a negative level that disappears after a day. 
 ### Kinetic Chirurgery 
 You may never gain or use infusions, but instead gain the Kinetic Healing talent
-for free at first level. At third level and every odd level thereafter, gain a
+for free at first level. You may use this talent a number of times per day equal
+to your CON modifier At third level and every odd level thereafter, gain a
 paladin mercy; you may apply a single mercy to any target of Kinetic Healing or 
 Healing Burst. 
 ### Wild Talents
@@ -120,12 +121,10 @@ DC 13 (10+CON Mod) + Talent effective spell level
 #### Kinetic Healer (Utility, Level 1, Burn 1) 
 With a touch, you can heal a willing living creature of an amount of damage 
 equal to your kinetic blast‘s damage. Instead of paying the burn cost yourself, 
-you can cause the recipient to take 1 point of burn. Non-kineticists do not take
-any damage from burn, but may only accept burn equal to their Constitution 
-modifier (minimum 1). This is a house rule. 
+you can cause the recipient to take 1 point of burn. 
 #### Basic Telekinesis (Utility, Level 1, Burn 0)
-Modified Mage Hand or Open/Close cantrip: As an action, at a range of 110 feet 
-(100 + 10/level), you may move an unattended object weighing 5lbs (5 per 2 
+Modified Mage Hand or Open/Close cantrip: As an action, at a range of 30 feet 
+(25 + 5 / 2levels), you may move an unattended object weighing 10lbs (5 per 2 
 levels, min 5) up to 30 feet/round as long as concentration lasts. Can instead 
 create aetherial container for same weight of fluids, or open/close unsecured 
 container/door/ect. 
@@ -133,7 +132,7 @@ container/door/ect.
 You can perform any sort of fine manipulation you choose within close range, 
 including attempting Sleight of Hand and Disable Device checks.
 #### Telekinetic Blast (Simple Blast, Level 0, Burn 0)
-Throw a nearby unattended object weighing no more than 5 lbs (5/level). On a hit, 
+Throw a nearby unattended object weighing no more than 10 lbs (5/level). On a hit, 
 either deal blast damage with your choice of physical damage type, or deal 
 damage as if you'd have thrown the object (using CON instead of STR for damage 
 roll). To throw a weapon and use its damage, you must be proficient and able to 
@@ -143,7 +142,12 @@ You constantly surround yourself with a ward of force. You gain a number of
 temporary hit points equal to your kineticist level. If the damage you take 
 from any source is reduced to zero, it is counted as a miss for the purposes
 of of abilities that trigger on a hit or miss. The temporary hitpoints 
-regenerate at a rate of 1 per minute. 
+regenerate at a rate of 1 per minute, and accepting burn from an Aether wild 
+talent restores temporary hitpoints equal to your level. 
+You may accept burn to empower this. Every point of burn increases the maximum 
+temporary HP by half your level, and every two points of burn increase the 
+regeneration rate by 1 per minute. 
+
 ## VMC Class Features
 ### Mystery of Life
 Divine entities have gifted you with supernatural powers of healing, much to 
