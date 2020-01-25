@@ -14,7 +14,7 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 | **CON** | 17 (+3) | -
 | **INT** | 14 (+2) | -
 | **WIS** | 10 (--) | -
-| **CON** | 15 (+2) | -
+| **CHA** | 15 (+2) | -
 
 ## Secondary Stats
 | Stat     |                | Temp | 
