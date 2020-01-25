@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Vishkanya Kineticist (Overwhelming Soul) / VMC Rogue 2
+## CE Vishkanya Kineticist (Kinetic Chirurgeon) / VMC Oracle 2
 ## Appearance & Vital Stats 
 From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
 tidy braid of black hair that reaches down to her shoulder. However, at a close 
@@ -11,16 +11,17 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |---------|---------|------| 
 | **STR** | 12 (+1) | -
 | **DEX** | 18 (+4) | -
-| **CON** | 13 (+1) | -
+| **CON** | 17 (+3) | -
 | **INT** | 14 (+2) | -
 | **WIS** | 10 (--) | -
-| **CHA** | 19 (+4) | -
+| **CON** | 15 (+2) | -
 
 ## Secondary Stats
 | Stat     |                | Temp | 
 |----------|----------------|------| 
-| **HP**   | 14 Max         | -
+| **HP**   | 20 Max         | -
 | **THP**  | 2 Persistent   | -
+| **Burn** | -2HP/Burn      | -
 | **AC**   | 16 (14 T/12 F) | -
 | **BAB**  | +1             | -
 | **CMB**  | +1             | - 
@@ -30,21 +31,21 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Saves
 | Save     |                | Temp | 
 |----------|----------------|------| 
-| **Fort** | +4 (+1/Poison) | - 
+| **Fort** | +6 (+1/Poison) | - 
 | **Ref**  | +7             | - 
 | **Will** | +0             | - 
 
 ## Skills 
 | Skill              | Bonus (Ranks) | Temp | 
 |--------------------|---------------|------| 
-| *Bluff*            | +9  (1)       | - 
+| *Bluff*            | +7  (1)       | - 
 | *Disable Device*   | +10 (2)       | - 
 | *Escape Artist*    | +11 (1)       | - 
 | *Perception*       | +7  (2)       | - 
 | *Sleight of Hand*  | +9  (2)       | - 
-| *Spellcraft*       | +8  (2)       | - 
-| *Stealth*          | +11 (2)       | - 
-| *Use Magic Device* | +9  (2)       | - 
+| *Spellcraft*       | +7  (1)       | - 
+| *Stealth*          | +10 (1)       | - 
+| *Use Magic Device* | +7  (2)       | - 
 If unlisted, just use ability score modifier.
 
 ## Languages, Proficiencies
@@ -84,12 +85,9 @@ You have resistance on saving throws against poison equal to your hit dice, you
 never accidentally poison yourself when using or applying poison, and you may 
 envenom a held weapon a number of times per day equal to your CON modifier as a 
 swift action. 
-*Vishkanya Venom*: Injury; save Fort DC 11 (10 + 1/2 HD + CON mod); frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
+*Vishkanya Venom*: Injury; save Fort DC 14 (10 + 1/2 HD + CON mod); frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
 
 ## Class Features
-### Mind over Matter
-Use CHA instead of CON for all kineticist abilities. Add Bluff and Diplomacy to 
-your list of class skills. 
 ### Elemental Focus (Aether)
 Your primary elemental focus is Aether. You add Knowledge (Engineering) and 
 Sleight of Hand to your class skill list, and gain the *Basic Telekinesis* 
@@ -102,10 +100,8 @@ counterspell any spell of equal or lower level that shares its descriptor, and
 have descriptors corresponding to any energy damage type(s) they deal. They 
 count as a weapon for feats like Weapon Focus, but you are never considered to 
 be holding them, and you cannot use Vital Strike with them. 
-You may use infusions to modify the properties of your blast, so long as the 
-total burn when cast is zero.
-- Physical blasts are ranged attacks that deal 1d6 + 5 (2+CHA Mod) damage, increasing by 1d6 + 1 every odd level. 
-- Energy blasts are ranged touch attacks that deal 1d6 + 2 (1/2 CHA Mod) damage, increasing by 1d6 every odd level.
+- Physical blasts are ranged attacks that deal 1d6 + 4 (2+CON Mod) damage, increasing by 1d6 + 1 every odd level. 
+- Energy blasts are ranged touch attacks that deal 1d6 + 1 (1/2 CON Mod) damage, increasing by 1d6 every odd level.
 ### Gather Power
 If you have both hands free, you may gather power in a loud and visible display 
 to reduce the burn of a blast used immediately after. A move action reduces the 
@@ -114,8 +110,19 @@ action reduces it by 3.
 If you take damage between starting to gather power and finishing the blast, 
 make a concentration check (DC 10 + Damage taken + effective spell level) or 
 gain a negative level that disappears after a day. 
+### Kinetic Chirurgery 
+You may never gain or use infusions, but instead gain the Kinetic Healing talent
+for free at first level. At third level and every odd level thereafter, gain a
+paladin mercy; you may apply a single mercy to any target of Kinetic Healing or 
+Healing Burst. 
 ### Wild Talents
-DC 14 (10+CHA Mod) + Talent effective spell level
+DC 13 (10+CON Mod) + Talent effective spell level
+#### Kinetic Healer (Utility, Level 1, Burn 1) 
+With a touch, you can heal a willing living creature of an amount of damage 
+equal to your kinetic blast‘s damage. Instead of paying the burn cost yourself, 
+you can cause the recipient to take 1 point of burn. Non-kineticists do not take
+any damage from burn, but may only accept burn equal to their Constitution 
+modifier (minimum 1). This is a house rule. 
 #### Basic Telekinesis (Utility, Level 1, Burn 0)
 Modified Mage Hand or Open/Close cantrip: As an action, at a range of 110 feet 
 (100 + 10/level), you may move an unattended object weighing 5lbs (5 per 2 
@@ -128,17 +135,38 @@ including attempting Sleight of Hand and Disable Device checks.
 #### Telekinetic Blast (Simple Blast, Level 0, Burn 0)
 Throw a nearby unattended object weighing no more than 5 lbs (5/level). On a hit, 
 either deal blast damage with your choice of physical damage type, or deal 
-damage as if you'd have thrown the object (using CHA instead of STR for damage 
+damage as if you'd have thrown the object (using CON instead of STR for damage 
 roll). To throw a weapon and use its damage, you must be proficient and able to 
 wield it one-handed. 
-#### Extended Range (Form Infusion, Level 1, Burn 1) 
-When using this infusion, your blast can strike any target within 120 feet.
 #### Force Ward (Defense, Level -, Burn 0)
 You constantly surround yourself with a ward of force. You gain a number of 
 temporary hit points equal to your kineticist level. If the damage you take 
 from any source is reduced to zero, it is counted as a miss for the purposes
 of of abilities that trigger on a hit or miss. The temporary hitpoints 
 regenerate at a rate of 1 per minute. 
+## VMC Class Features
+### Mystery of Life
+Divine entities have gifted you with supernatural powers of healing, much to 
+your confusion and chagrin. This has no immediate effect. 
+### Curse of the Merciful
+You are cursed with a supernatural compulsion to render aid to any who request 
+it. If a non-enemy character who is adjacent asks you to heal them, or asks you 
+for help and you can tell they have taken damage or drain or suffer from a 
+disease or poison, you must help them on your next turn. If they have a 
+condition or suffer from a poison or disease that you can neutralize or cure 
+with any ability you possess or any spell you can cast, you must do so as your 
+next action. Otherwise, if they have taken any damage, you must cast a spell or 
+use an ability that heals hit points. Also, you cannot perform a coup de grace. 
+You gain the ability to lay on hands, as the paladin ability, using your curse 
+level (1/2 character level via VMC, +5 at character level 11) as your paladin 
+level.
+- At 5th curse level (10th character level), you gain a mercy, as the paladin ability.
+- At 10th curse level (11th character level), you gain a second mercy, and can exchange your first mercy for a different one.
+- At 15th curse level (20th character level), you gain a third mercy, and can exchange one of your existing mercies for a different one.
+#### Lay on Hands (Merciful)
+You may cure wounds with a touch 2 (1/4 character level + CHA mod) times per day, 
+healing 1d6 (1d6 / 4 character levels, min 1d6) damage. This is a standard 
+action when used on another target, or a swift action when used on yourself. 
 
 ## Feats 
 ### Point-Blank Shot
