@@ -15,8 +15,26 @@ the druid in the party was able to revive us with some potions of healing. We
 claimed a decent chunk of loot and wealth. A handful of other insignificant 
 encounters followed. 
 ## Session 2
-### April 27, 957
-
+### April 27, 957 
+We rendezvoused with the rest of the party, and decided to return to the mining 
+camp to rest after I exhausted myself patching them up. Pyra and I shared a
+tent since we don't particularly trust our companions. 
+### April 28, 957
+After a rendezvous with the rest of the party, we returned to the mining camp 
+and got some rest. I slept in, assisted Pyra in identifying the magic armor we
+found (not actually enchanted on their own, but affected by an area spell), 
+and caught Xulri coming back to camp bloodied with a deer slung over her 
+shoulder. She asked for healing and I was forced to comply. 
+Once everyone was ready, we decided to venture back into the dungeon. Cas's 
+bird set off a bear trap, and exposed us to the Duergar waiting invisibly at the
+end of the hallway. We managed to survive the ambush, but my injury-prone allies 
+required a good bit of healing. 
+Most of the rooms we went through yesterday haven't been changed, beyond minor 
+cleaning and whatnot. We stumbled across a pit of corpses, which Seldana 
+indicated is atypical for dwarves (they apparently venerate their dead). I'd 
+think that we'd have encountered a giant already if there was one here, but I'll
+admit that it's a reasonable concern. 
+TODO: Wrap up later
 
 ## Campaign Notes
 ### Companions
@@ -32,9 +50,11 @@ have doubts as to his sanity.
 A (relatively) sane humanoid wearing tons of feathers. Seems to be a druid of 
 some skill. 
 #### Xulri - Human Barbarian
-???
+She seems injury-prone, but otherwise competent. I'm probably going to end up 
+healing her a lot in the coming weeks. 
 #### Seldana - Elf Investigator
-???
+All things considered, probably the sanest and most well-adjusted member of the 
+party. 
 ### Contacts
 #### Cilanthia - Beloved Younger Sister / Wizard-in-Training
 Cil is my sweet baby sister. She was only three when I accidentally killed our 
@@ -65,6 +85,7 @@ not before I'm certain it won't jeopardize Cil's apprenticeship.
 | May 938 |   8 | Cilanthia (younger sister) is born. 
 | Nov 941 |  11 | Jass accidentally kills her parents when her telekinesis first manifests.
 | Jan 942 |  12 | Jass gets better at using her power safely, and starts using telekinesis to steal (mainly food).
+| Feb 942 |  12 | Jass first discovers her healing powers and curse when a beggar asks her for help. 
 | Oct 945 |  15 | Jass is caught stealing valuables by a member of the Locksmiths (Local thieves' guild), and is *"encouraged"* to join. 
 | May 947 |  17 | Cil expresses an interest in arcana, so Jass procures study materials as a birthday gift.
 | Sep 954 |  24 | Foreign wizard accepts Cil as apprentice

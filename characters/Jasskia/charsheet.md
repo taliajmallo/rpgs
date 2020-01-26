@@ -19,14 +19,15 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 | Stat     |                | Temp | 
 |----------|----------------|------| 
-| **HP**   | 23 Max         | - 
-| **THP**  | 2 Persistent   | -
-| **Burn** | -2HP/Burn      | - 
-| **AC**   | 16 (14 T/12 F) | - 
+| **HP**   | 23 Max         | 2 Lethal, 10 Nonlethal (Burn)
+| **THP**  | 0 Persistent   | -
+| **Burn** | -2HP/Burn      | 5 Burn 
+| **AC**   | 16 (14 T/12 F) | +2 Circumstance (Swarm Scatter)
 | **BAB**  | +1             | - 
 | **CMB**  | +1             | - 
 | **CMD**  | 14 (10 F)      | - 
-| **Init** | +4             | - 
+| **Init** | +4             | -
+| **Hero** | 3              | N/A TODO: Take Antihero feat instead 
 
 ## Saves
 | Save     |                | Temp | 
@@ -118,17 +119,17 @@ paladin mercy; you may apply a single mercy to any target of Kinetic Healing or
 Healing Burst. 
 ### Wild Talents
 DC 13 (10+CON Mod) + Talent effective spell level
-#### Kinetic Healer (Utility, Level 1, Burn 1) 
+#### Kinetic Healer (Utility (Universal), Level 1, Burn 1) 
 With a touch, you can heal a willing living creature of an amount of damage 
 equal to your kinetic blast‘s damage. Instead of paying the burn cost yourself, 
 you can cause the recipient to take 1 point of burn. 
-#### Basic Telekinesis (Utility, Level 1, Burn 0)
+#### Basic Telekinesis (Utility (Aether), Level 1, Burn 0)
 Modified Mage Hand or Open/Close cantrip: As an action, at a range of 30 feet 
 (25 + 5 / 2levels), you may move an unattended object weighing 10lbs (5 per 2 
 levels, min 5) up to 30 feet/round as long as concentration lasts. Can instead 
 create aetherial container for same weight of fluids, or open/close unsecured 
 container/door/ect. 
-#### Telekinetic Finesse (Utility, Level 1, Burn -) 
+#### Telekinetic Finesse (Utility (Aether), Level 1, Burn -) 
 You can perform any sort of fine manipulation you choose within close range, 
 including attempting Sleight of Hand and Disable Device checks.
 #### Telekinetic Blast (Simple Blast, Level 0, Burn 0)
@@ -154,13 +155,12 @@ Divine entities have gifted you with supernatural powers of healing, much to
 your confusion and chagrin. This has no immediate effect. 
 ### Curse of the Merciful
 You are cursed with a supernatural compulsion to render aid to any who request 
-it. If a non-enemy character who is adjacent asks you to heal them, or asks you 
-for help and you can tell they have taken damage or drain or suffer from a 
-disease or poison, you must help them on your next turn. If they have a 
-condition or suffer from a poison or disease that you can neutralize or cure 
-with any ability you possess or any spell you can cast, you must do so as your 
-next action. Otherwise, if they have taken any damage, you must cast a spell or 
-use an ability that heals hit points. Also, you cannot perform a coup de grace. 
+it. If a non-enemy character asks you to heal them, or asks you for help and you 
+can tell they have taken damage or drain or suffer from a disease or poison, you 
+must help them on your next turn. If they have a condition or suffer from a 
+poison or disease that you can neutralize or cure ith any ability you possess or 
+any spell you can cast, you must do so as your next action. Otherwise, if they 
+have taken any damage, you must cast a spell or use an ability that heals hit points. Also, you cannot perform a coup de grace. 
 You gain the ability to lay on hands, as the paladin ability, using your curse 
 level (1/2 character level via VMC, +5 at character level 11) as your paladin 
 level.

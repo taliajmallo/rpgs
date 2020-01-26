@@ -8,8 +8,8 @@
 
 | Dailies            | Uses        | Effect |
 |--------------------|-------------|--------|
-| **Kinetic Healer** | [ ] [ ] [ ] | Kinetic healer uses without incurring burn
-| **Lay on Hands**   | [ ] [ ]     | Heal 1d6 as a standard action
+| **Kinetic Healer** | [x] [x] [x] | Kinetic healer uses without incurring burn
+| **Lay on Hands**   | [x] [x]     | Heal 1d6 as a standard action
 
 ## Out-of-combat notable actions
 | At-Wills | Effect | 
