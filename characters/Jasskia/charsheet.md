@@ -17,28 +17,32 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 | **CHA** | 15 (+2) | -
 
 ## Secondary Stats
-| Stat     |                | Temp | 
-|----------|----------------|------| 
-| **HP**   | 23 Max         | 2 Lethal, 10 Nonlethal (Burn)
-| **THP**  | 0 Persistent   | -
+| Stat     |                | Temp/Notes | 
+|----------|----------------|------------| 
+| **HP**   | 20 Max         | 2 Lethal, 10 Nonlethal (Burn)
+| **THP**  | 0 Persistent   | *Regenerates at rate of 1/minute*
 | **Burn** | -2HP/Burn      | 5 Burn 
-| **AC**   | 16 (14 T/12 F) | +2 Circumstance (Swarm Scatter)
+| **AC**   | 16 (14 T/12 F) | -
+| **Init** | +4             | -
+| **Goal** | 80/1000 Healed | *-2 per damage dealt*
+
+## Tertiary Stats
+| Stat     |                | Temp/Notes | 
+|----------|----------------|------------| 
 | **BAB**  | +1             | - 
 | **CMB**  | +1             | - 
 | **CMD**  | 14 (10 F)      | - 
-| **Init** | +4             | -
-| **Hero** | 3              | N/A TODO: Take Antihero feat instead 
 
 ## Saves
-| Save     |                | Temp | 
-|----------|----------------|------| 
+| Save     |                | Temp/Notes | 
+|----------|----------------|------------| 
 | **Fort** | +6 (+1/Poison) | - 
 | **Ref**  | +7             | - 
 | **Will** | +0             | - 
 
 ## Skills 
-| Skill              | Bonus (Ranks) | Temp | 
-|--------------------|---------------|------| 
+| Skill              | Bonus (Ranks) | Temp/Notes | 
+|--------------------|---------------|------------| 
 | *Bluff*            | +7  (1)       | - 
 | *Disable Device*   | +10 (2)       | - 
 | *Escape Artist*    | +11 (1)       | - 
@@ -160,7 +164,8 @@ can tell they have taken damage or drain or suffer from a disease or poison, you
 must help them on your next turn. If they have a condition or suffer from a 
 poison or disease that you can neutralize or cure ith any ability you possess or 
 any spell you can cast, you must do so as your next action. Otherwise, if they 
-have taken any damage, you must cast a spell or use an ability that heals hit points. Also, you cannot perform a coup de grace. 
+have taken any damage, you must cast a spell or use an ability that heals hit 
+points. Also, you cannot perform a coup de grace. 
 You gain the ability to lay on hands, as the paladin ability, using your curse 
 level (1/2 character level via VMC, +5 at character level 11) as your paladin 
 level.
@@ -173,5 +178,11 @@ healing 1d6 (1d6 / 4 character levels, min 1d6) damage. This is a standard
 action when used on another target, or a swift action when used on yourself. 
 
 ## Feats 
-### Toughness
-+1 HP / Level, min 3
+### Healer's Touch (80 / 1000)
+After curing a cumulative total of 1000 points of damage, plus 2 for every point 
+of damage dealt, your Kinetic Healer ability talent always restores its maximum
+possible hitpoints when used on a target other than yourself. 
+### Mystic Healer
+Add additional dice to any form of healing you generate. This starts as +1d4, 
+increasing to 1d6 at 4th level, 2d6 at 7th level, 3d6 at 10th level, and 4d6 at
+13th level. 

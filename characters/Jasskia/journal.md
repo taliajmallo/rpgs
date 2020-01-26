@@ -24,17 +24,27 @@ After a rendezvous with the rest of the party, we returned to the mining camp
 and got some rest. I slept in, assisted Pyra in identifying the magic armor we
 found (not actually enchanted on their own, but affected by an area spell), 
 and caught Xulri coming back to camp bloodied with a deer slung over her 
-shoulder. She asked for healing and I was forced to comply. 
+shoulder. She asked for healing and I was forced by my curse to comply. 
 Once everyone was ready, we decided to venture back into the dungeon. Cas's 
 bird set off a bear trap, and exposed us to the Duergar waiting invisibly at the
 end of the hallway. We managed to survive the ambush, but my injury-prone allies 
-required a good bit of healing. 
+required a good bit of healing and several of our foes escaped before we could
+execute them. 
 Most of the rooms we went through yesterday haven't been changed, beyond minor 
 cleaning and whatnot. We stumbled across a pit of corpses, which Seldana 
 indicated is atypical for dwarves (they apparently venerate their dead). I'd 
 think that we'd have encountered a giant already if there was one here, but I'll
 admit that it's a reasonable concern. 
-TODO: Wrap up later
+After some more uneventful (re-)exploring, we came across an evil altar that 
+Pyra detected a magical aura on top of. I, like a fool, assumed that the aura 
+belonged to a magic item, and disturbed the altar to find the item; instead, a 
+fiendish dog was summoned. We killed it easily, but I still feel like a bit of a
+dunce for falling for such an obvious ploy. 
+After slaying the dog, we found what was likely once an office of sorts. The 
+escaped Duergar from earlier had joined ranks with some of their allies, and 
+fortified themselves to make a last stand. We successfully killed them all, but 
+it was a rather hairy fight I'd rather not repeat. Keeping all of these allies 
+alive and breathing is an exhausting ordeal. 
 
 ## Campaign Notes
 ### Companions
@@ -46,7 +56,7 @@ she's going by the alias of Amelie and disguising herself as a halfling.
 #### Braveheart - Kobold Paladin
 An adolescent kobold paladin who believes he's a reincarnated halfing hero. I 
 have doubts as to his sanity. 
-#### Casmar - Human (?) Druid
+#### Casmar - Human Druid
 A (relatively) sane humanoid wearing tons of feathers. Seems to be a druid of 
 some skill. 
 #### Xulri - Human Barbarian
