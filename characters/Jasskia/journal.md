@@ -45,7 +45,7 @@ escaped Duergar from earlier had joined ranks with some of their allies, and
 fortified themselves to make a last stand. We successfully killed them all, but 
 it was a rather hairy fight I'd rather not repeat. Keeping all of these allies 
 alive and breathing is an exhausting ordeal. 
-
+## Session 3
 ## Campaign Notes
 ### Companions
 #### Pyraloid - Ratfolk Oracle of the Streets / VMC Gunslinger
@@ -71,7 +71,7 @@ Cil is my sweet baby sister. She was only three when I accidentally killed our
 parents, so I've been raising her myself as best I could. I've done everything I
 could to make sure she'll have a better life than mine. She's currently abroad 
 apprenticed to a master wizard, so I can only hope she'll have a safe and 
-successful life far from Garumna and the Locksmiths.  
+successful life far from Garumna and the Locksmiths.	
 #### Fabricus - Shady Guildmaster / Head of the Locksmiths
 Fabricus is the person I've spent my last decade-and-some of life working for. 
 They're the head of the Locksmiths, Garumna's thieves guild, and not someone I 
@@ -84,24 +84,24 @@ stealing from a member when I was 15, and they gave me the choice of joining or
 dying. It wasn't a particularly difficult decision. Ever since, I've worked for 
 them, doing everything from petty theft to wetwork. I've got mixed feeling on 
 the guild as a whole: while I still resent them somewhat for threatening me into
-joining, they've treated me fairly by-and-large.  I'd like to leave someday, but
-not before I'm certain it won't jeopardize Cil's apprenticeship.  
+joining, they've treated me fairly by-and-large.	I'd like to leave someday, but
+not before I'm certain it won't jeopardize Cil's apprenticeship.	
 
 ## Backstory
 ### Timeline:
-| Date    | Age | Event |
-|---------|-----|-------|
-| Dec 929 |   0 | Jasskia is born in Garumna.
-| May 938 |   8 | Cilanthia (younger sister) is born. 
-| Nov 941 |  11 | Jass accidentally kills her parents when her telekinesis first manifests.
-| Jan 942 |  12 | Jass gets better at using her power safely, and starts using telekinesis to steal (mainly food).
-| Feb 942 |  12 | Jass first discovers her healing powers and curse when a beggar asks her for help. 
-| Oct 945 |  15 | Jass is caught stealing valuables by a member of the Locksmiths (Local thieves' guild), and is *"encouraged"* to join. 
-| May 947 |  17 | Cil expresses an interest in arcana, so Jass procures study materials as a birthday gift.
-| Sep 954 |  24 | Foreign wizard accepts Cil as apprentice
-| Jan 955 |  25 | Jass starts taking more tasks that require travel, now that she doesn't need to worry over Cil
-| Mar 957 |  27 | Jass is told to go find relic magic sword (bronze, ancient but immaculate, silver inlay of serpentine creatures)
-| Apr 957 |  27 | Jass departs to Viridia following a lead that a certain Kobold Paladin has been seen wielding it. 
-| Apr 957 |  27 | Jass meets & joins the party! (Turns out, the Kobold doesn't actually have it)
+| Date		| Age	| Event	|
+|-----------|-----|--------|
+| Dec 929	|	0	| Jasskia is born in Garumna.
+| May 938	|	8	| Cilanthia (younger sister) is born. 
+| Nov 941	|	11	| Jass accidentally kills her parents when her telekinesis first manifests.
+| Jan 942	|	12	| Jass gets better at using her power safely, and starts using telekinesis to steal (mainly food).
+| Feb 942	|	12	| Jass first discovers her healing powers and curse when a beggar asks her for help. 
+| Oct 945	|	15	| Jass is caught stealing valuables by a member of the Locksmiths (Local thieves' guild), and is *"encouraged"* to join. 
+| May 947	|	17	| Cil expresses an interest in arcana, so Jass procures study materials as a birthday gift.
+| Sep 954	|	24	| Foreign wizard accepts Cil as apprentice
+| Jan 955	|	25	| Jass starts taking more tasks that require travel, now that she doesn't need to worry over Cil
+| Mar 957	|	27	| Jass is told to go find relic magic sword (bronze, ancient but immaculate, silver inlay of serpentine creatures)
+| Apr 957	|	27	| Jass departs to Viridia following a lead that a certain Kobold Paladin has been seen wielding it. 
+| Apr 957	|	27	| Jass meets & joins the party! (Turns out, the Kobold doesn't actually have it)
 
 *Every month is 30 days!*

@@ -7,50 +7,51 @@ range it's clear that she's one of the scaled Vishkanya of the Bla'kroya dessert
 peering at the world through the golden eyes of a serpent. 
 Jass stands at approximately 5'5", weighing 110 lbs.
 ## Ability Scores
-| Stat    | Base    | Temp | 
-|---------|---------|------| 
-| **STR** | 12 (+1) | -
-| **DEX** | 18 (+4) | -
-| **CON** | 17 (+3) | -
-| **INT** | 14 (+2) | -
-| **WIS** | 10 (--) | -
-| **CHA** | 15 (+2) | -
+|	Stat		|	Base		|	Temp	|	
+|-----------|-----------|--------|	
+|	**STR** 	|	12 (+1)	|	-
+|	**DEX** 	|	18 (+4)	|	-
+|	**CON** 	|	17 (+3) 	|	-
+|	**INT** 	|	14 (+2) 	|	-
+|	**WIS** 	|	10 (--) 	|	-
+|	**CHA** 	|	15 (+2) 	|	-
 
 ## Secondary Stats
-| Stat     |                | Temp/Notes | 
-|----------|----------------|------------| 
-| **HP**   | 20 Max         | 2 Lethal, 10 Nonlethal (Burn)
-| **THP**  | 0 Persistent   | *Regenerates at rate of 1/minute*
-| **Burn** | -2HP/Burn      | 5 Burn 
-| **AC**   | 16 (14 T/12 F) | -
-| **Init** | +4             | -
-| **Goal** | 80/1000 Healed | *-2 per damage dealt*
+|	Stat		|	Base				|	Temp/Notes	|	
+|-----------|-----------------|--------------|	
+|	**HP**	|	20 Max			|	2 Lethal, 10 Nonlethal (Burn)
+|	**THP**	|	2 Persistent	|	-2, *Regenerates at rate of 1/minute*
+|	**Burn**	|	-2HP/Burn		|	5 Burn 
+|	**Goal**	|	80/1000 Healed	|	*-2 per damage dealt*
 
 ## Tertiary Stats
-| Stat     |                | Temp/Notes | 
-|----------|----------------|------------| 
-| **BAB**  | +1             | - 
-| **CMB**  | +1             | - 
-| **CMD**  | 14 (10 F)      | - 
+|	Stat		|	Base				|	Temp/Notes	|	
+|-----------|-----------------|--------------|	
+|	**AC**	|	16 (14 T/12 F)	|	-
+|	**Init**	|	+4					|	-
+|	**BAB**	|	+1					|	- 
+|	**CMB**	|	+1					|	- 
+|	**CMD**	|	14 (10 F)		|	- 
 
 ## Saves
-| Save     |                | Temp/Notes | 
-|----------|----------------|------------| 
-| **Fort** | +6 (+1/Poison) | - 
-| **Ref**  | +7             | - 
-| **Will** | +0             | - 
+|	Save		|	Base	|	Temp/Notes	|	
+|-----------|--------|--------------|	
+|	**Fort**	|	+6 	|	- 
+|	**Ref**	|	+7		|	- 
+|	**Will**	|	+0		|	- 
+Other Modifiers: +1 vs Poison
 
 ## Skills 
-| Skill              | Bonus (Ranks) | Temp/Notes | 
-|--------------------|---------------|------------| 
-| *Bluff*            | +7  (1)       | - 
-| *Disable Device*   | +10 (2)       | - 
-| *Escape Artist*    | +11 (1)       | - 
-| *Perception*       | +7  (2)       | - 
-| *Sleight of Hand*  | +9  (2)       | - 
-| *Spellcraft*       | +7  (1)       | - 
-| *Stealth*          | +10 (1)       | - 
-| *Use Magic Device* | +7  (2)       | - 
+|	Skill						|	Bonus (Rank)	|	Temp/Notes	|	
+|-----------------------|-----------------|--------------|	
+|	*Bluff*					|	+7	(1)			|	- 
+|	*Disable Device*		|	+10 (2)			|	-3 Armor (Medium load) 
+|	*Escape Artist*		|	+11 (1)			|	-3 Armor (Medium load) 
+|	*Perception*			|	+7	(2)			|	- 
+|	*Sleight of Hand*		|	+9	(2)			|	-3 Armor (Medium load) 
+|	*Spellcraft*			|	+7	(1)			|	- 
+|	*Stealth*				|	+10 (1)			|	-3 Armor (Medium load)  
+|	*Use Magic Device*	|	+7	(2)			|	- 
 If unlisted, just use ability score modifier.
 
 ## Languages, Proficiencies
@@ -90,7 +91,7 @@ You have resistance on saving throws against poison equal to your hit dice, you
 never accidentally poison yourself when using or applying poison, and you may 
 envenom a held weapon a number of times per day equal to your CON modifier as a 
 swift action. 
-*Vishkanya Venom*: Injury; save Fort DC 14 (10 + 1/2 HD + CON mod); frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
+ - *Vishkanya Venom*: Injury; save Fort DC 14 (10 + 1/2 HD + CON mod); frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
 
 ## Class Features
 ### Elemental Focus (Aether)
@@ -118,9 +119,9 @@ gain a negative level that disappears after a day.
 ### Kinetic Chirurgery 
 You may never gain or use infusions, but instead gain the Kinetic Healing talent
 for free at first level. You may use this talent a number of times per day equal
-to your CON modifier At third level and every odd level thereafter, gain a
-paladin mercy; you may apply a single mercy to any target of Kinetic Healing or 
-Healing Burst. 
+to your CON modifier without applying burn.  At third level and every odd level 
+thereafter, gain a paladin mercy; you may apply a single mercy to any target of 
+Kinetic Healing or Healing Burst. 
 ### Wild Talents
 DC 13 (10+CON Mod) + Talent effective spell level
 #### Kinetic Healer (Utility (Universal), Level 1, Burn 1) 
@@ -137,8 +138,8 @@ container/door/ect.
 You can perform any sort of fine manipulation you choose within close range, 
 including attempting Sleight of Hand and Disable Device checks.
 #### Telekinetic Blast (Simple Blast, Level 0, Burn 0)
-Throw a nearby unattended object weighing no more than 10 lbs (5/level). On a hit, 
-either deal blast damage with your choice of physical damage type, or deal 
+Throw a nearby unattended object weighing no more than 10 lbs (5/level). On a 
+hit, either deal blast damage with your choice of physical damage type, or deal 
 damage as if you'd have thrown the object (using CON instead of STR for damage 
 roll). To throw a weapon and use its damage, you must be proficient and able to 
 wield it one-handed. 
