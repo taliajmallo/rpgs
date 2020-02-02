@@ -4,12 +4,12 @@
  - [x] Medium: 44–86 lbs, max Dex +3 and armor check -3
  - [ ] Heavy: 87–130 lbs, max Dex +1 and armor check -6
 ## Worn Equipment
-|	Name					|	Weight	|	Notes	|
-|--------------------|-----------|--------|
+|	Name						|	Weight	|	Notes	|
+|-----------------------|-----------|--------|
 |	Peasant's clothes		|	2 lbs 	|
 |	Leather Armor			|	15 lbs 	|	+2 AC, max DEX +6
 |	Backpack					|	43.5 (2)	|	
-|	Bracers of Burglary	|	-			|	TODO: Figure out later
+|	Bracers of Burglary	|	-			|	Transforms to MW Thieves' Tools, 1/day take 10 disable
 |	Soul Jar Staff			|	-			| 	Staff containing many souls
 |	**Total**				|	60.5 lbs	|
 
@@ -39,12 +39,13 @@
 
 ## Misc
 |	Name			|	Weight	|	Notes	|
-|--------------|-----------|-------|
+|--------------|-----------|--------|
 |	Bedroll		|	5			|
 |	Mess Kit		|	1			|
 |	Waterskin	|	-			|
-|	**Total**	|	6 lbs			| Contained in backpack
+|	**Total**	|	6 lbs		| Contained in backpack
 
 ## Wealth
-24 pp 91gp 92sp 18cp
+32 pp 19gp 12sp 18cp
 2x uncut citrine worth 55gp
+*Total* 1.6 lbs

@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Vishkanya Kineticist (Kinetic Chirurgeon) / VMC Oracle 2 -> 3 TODO
+## CE Vishkanya Kineticist (Kinetic Chirurgeon) / VMC Oracle 3 
 ## Appearance & Vital Stats 
 From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
 tidy braid of black hair that reaches down to her shoulder. However, at a close 
@@ -19,9 +19,9 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 |	Stat		|	Base				|	Temp/Notes	|	
 |-----------|-----------------|--------------|	
-|	**HP**	|	20 Max			|	10 Nonlethal
-|	**THP**	|	2 Persistent	| *Regenerates at rate of 1/minute*
-|	**Burn**	|	-2HP/Burn		|	5 Burn 
+|	**HP**	|	30 max			|	15 Nonlethal
+|	**THP**	|	3 Persistent	| *Regenerates at rate of 1/minute*
+|	**Burn**	|	-3HP/Burn		|	5 Burn 
 |	**Goal**	|	205/1000 HP		|	*-2 per damage dealt*
 
 ## Tertiary Stats
@@ -29,7 +29,7 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |-----------|-----------------|--------------|	
 |	**AC**	|	16 (14 T/12 F)	|	-
 |	**Init**	|	+4					|	-
-|	**BAB**	|	+1					|	- 
+|	**BAB**	|	+2					|	- 
 |	**CMB**	|	+1					|	- 
 |	**CMD**	|	14 (10 F)		|	- 
 
@@ -38,21 +38,23 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |-----------|--------|--------------|	
 |	**Fort**	|	+6 	|	- 
 |	**Ref**	|	+7		|	- 
-|	**Will**	|	+0		|	- 
+|	**Will**	|	+1		|	- 
 Other Modifiers: +1 vs Poison
 
 ## Skills 
 |	Skill						|	Bonus (Rank)	|	Temp/Notes	|	
 |-----------------------|-----------------|--------------|	
 |	*Bluff*					|	+7	(1)			|	- 
-|	*Disable Device*		|	+10 (2)			|	-3 Armor (Medium load) 
+|	*Disable Device*		|	+11 (3)			|	-3 Armor (Medium load), +2 Circumstance (MW Tools)
 |	*Escape Artist*		|	+11 (1)			|	-3 Armor (Medium load) 
+|	*Kn., Arcana*			|	+3 (1)			|	-
+|	*Kn., Engineering*	|	+3 (1)			|	-
+|	*Kn., Local*			|	+6 (1)			|	-
 |	*Perception*			|	+7	(2)			|	- 
-|	*Sleight of Hand*		|	+9	(2)			|	-3 Armor (Medium load) 
+|	*Sleight of Hand*		|	+10 (3)			|	-3 Armor (Medium load) 
 |	*Spellcraft*			|	+7	(1)			|	- 
 |	*Stealth*				|	+10 (1)			|	-3 Armor (Medium load)  
-|	*Use Magic Device*	|	+7	(2)			|	- 
-If unlisted, just use ability score modifier.
+|	*Use Magic Device*	|	+8	(3)			|	- 
 
 ## Languages, Proficiencies
 - **Languages**: Common, Elven, Goblin, Vishkanya 
@@ -95,9 +97,9 @@ swift action.
 
 ## Class Features
 ### Elemental Focus (Aether)
-Your primary elemental focus is Aether. You add Knowledge (Engineering) and 
-Sleight of Hand to your class skill list, and gain the *Basic Telekinesis* 
-talent and *Telekinetic Blast* blast.
+Your primary elemental focus is Aether. You add ~~Knowledge (Engineering)~~ 
+Knowledge (Local) and Sleight of Hand to your class skill list, and gain the 
+*Basic Telekinesis* talent and *Telekinetic Blast* blast.
 ### Kinetic Blast
 As a standard action, you can unleash a kinetic blast at a single target up to a 
 range of 30 feet. You must have at least 1 hand free to aim. Kinetic blasts are 
@@ -122,6 +124,9 @@ for free at first level. You may use this talent a number of times per day equal
 to your CON modifier without applying burn.  At third level and every odd level 
 thereafter, gain a paladin mercy; you may apply a single mercy to any target of 
 Kinetic Healing or Healing Burst. 
+### Kinetic Mercies
+#### Fatigued 
+You may remove fatigue from targets of Kinetic Healer of Healing Burst.
 ### Wild Talents
 DC 13 (10+CON Mod) + Talent effective spell level
 #### Kinetic Healer (Utility (Universal), Level 1, Burn 1) 
@@ -153,11 +158,25 @@ talent restores temporary hitpoints equal to your level.
 You may accept burn to empower this. Every point of burn increases the maximum 
 temporary HP by half your level, and every two points of burn increase the 
 regeneration rate by 1 per minute. 
+### Overflow
+You accidentally pick up ambient debris with telekinesis whenever you carry burn.
+You may suppress this effect, but doing so also suppresses any other benefits of
+Overflow. For every point of burn you carry, up to a maximum of 1/3 of your 
+Kineticist level, you gain +1 to attack rolls with kinetic blasts and +2 to 
+damage or healing dealt with blasts, Kinetic Healer, or Healing Burst. 
+Starting at 6th level, you gain a chance to ignore critical hits or sneak 
+attacks equal to 5% per carried burn, and whenever you carry at least 3 burn, 
+you gain a +2 size bonus to two physical ability scores of your choice. 
+At 11th level, whenever you carry at least 5 burn, your size bonuses change to a
++4 bonus to one physical ability score and +2 to the other two. 
+At 16th level, whenever you carry at least 7 burn, your size bonuses change to a
++6 bonus to one physical ability score, a +4 bonus to a second, and a +2 bonus 
+to the third. 
 
 ## VMC Class Features
 ### Mystery of Life
 Divine entities have gifted you with supernatural powers of healing, much to 
-your confusion and chagrin. This has no immediate effect. 
+your confusion and chagrin.
 ### Curse of the Merciful
 You are cursed with a supernatural compulsion to render aid to any who request 
 it. If a non-enemy character asks you to heal them, or asks you for help and you 
@@ -177,9 +196,19 @@ level.
 You may cure wounds with a touch 2 (1/4 character level + CHA mod) times per day, 
 healing 1d6 (1d6 / 4 character levels, min 1d6) damage. This is a standard 
 action when used on another target, or a swift action when used on yourself. 
+### Revelation: Life Link
+As a standard action, you may create a bond between yourself and another 
+creature. Each round at the start of your turn, if the bonded creature is 
+wounded for 5 or more hit points below its maximum hit points, it heals 5 hit 
+points and you take 5 hit points of damage. You may have a single bond active at 
+a time, plus an additional bond for every level after 5th. This bond continues 
+until the bonded creature dies, you die, the distance between you and the other 
+creature exceeds medium range, or you end it as an immediate action (if you have 
+multiple bonds active, you may end as many as you want as part of the same 
+immediate action).
 
 ## Feats 
-### Healer's Touch (80 / 1000)
+### Healer's Touch (205 / 1000)
 After curing a cumulative total of 1000 points of damage, plus 2 for every point 
 of damage dealt, your Kinetic Healer ability talent always restores its maximum
 possible hitpoints when used on a target other than yourself. 
