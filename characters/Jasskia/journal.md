@@ -46,6 +46,18 @@ fortified themselves to make a last stand. We successfully killed them all, but
 it was a rather hairy fight I'd rather not repeat. Keeping all of these allies 
 alive and breathing is an exhausting ordeal. 
 ## Session 3
+### April 28, 957
+We finished looting the meeting room (?) our last fight was in, and proceeded to
+the surface for a well-deserved rest.
+### April 29, 957
+We scoured the remaining unexplored rooms. The throne room and hidden bedroom 
+both held a wealth of magic items, and the remaining duergar's hidey-hole held
+a potent magical staff. Braveheart seems to think it's evil in nature; I refuse
+to validate that belief (how can a non-intelligent item truly be *evil*?) but
+recognize it as a Soul Jar Staff from some of Cil's books. I'm holding onto it
+for the time being since everyone else thinks it's unsettling. Most of the rest
+of the day we spent dividing up loot and wealth. 
+
 ## Campaign Notes
 ### Companions
 #### Pyraloid - Ratfolk Oracle of the Streets / VMC Gunslinger

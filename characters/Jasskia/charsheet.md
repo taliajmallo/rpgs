@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Vishkanya Kineticist (Kinetic Chirurgeon) / VMC Oracle 2
+## CE Vishkanya Kineticist (Kinetic Chirurgeon) / VMC Oracle 2 -> 3 TODO
 ## Appearance & Vital Stats 
 From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
 tidy braid of black hair that reaches down to her shoulder. However, at a close 
@@ -19,10 +19,10 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 |	Stat		|	Base				|	Temp/Notes	|	
 |-----------|-----------------|--------------|	
-|	**HP**	|	20 Max			|	2 Lethal, 10 Nonlethal (Burn)
-|	**THP**	|	2 Persistent	|	-2, *Regenerates at rate of 1/minute*
+|	**HP**	|	20 Max			|	10 Nonlethal
+|	**THP**	|	2 Persistent	| *Regenerates at rate of 1/minute*
 |	**Burn**	|	-2HP/Burn		|	5 Burn 
-|	**Goal**	|	80/1000 Healed	|	*-2 per damage dealt*
+|	**Goal**	|	205/1000 HP		|	*-2 per damage dealt*
 
 ## Tertiary Stats
 |	Stat		|	Base				|	Temp/Notes	|	

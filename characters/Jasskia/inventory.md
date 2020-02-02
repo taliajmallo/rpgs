@@ -6,10 +6,13 @@
 ## Worn Equipment
 |	Name					|	Weight	|	Notes	|
 |--------------------|-----------|--------|
-|	Peasant's clothes	|	2 lbs 	|
-|	Leather Armor		|	15 lbs 	|	+2 AC, max DEX +6
-|	Backpack				|	43.5 (2)	|	
-|	**Total**			|	60.5 lbs	|
+|	Peasant's clothes		|	2 lbs 	|
+|	Leather Armor			|	15 lbs 	|	+2 AC, max DEX +6
+|	Backpack					|	43.5 (2)	|	
+|	Bracers of Burglary	|	-			|	TODO: Figure out later
+|	Soul Jar Staff			|	-			| 	Staff containing many souls
+|	**Total**				|	60.5 lbs	|
+
 ## Tools
 |	Name					|	Weight	|	Notes	|
 |--------------------|-----------|--------|
@@ -31,8 +34,8 @@
 |	Rope (50ft Hemp)	|	10 ea.	|	1x			|	
 |	Acid Flask			|	1 ea.		|	6x			|
 |	Alchemist's Fire	|	1 ea.		|	5x			|
-|	Poison Dart			|	-			|	1x			|	Small Centipede poison
-|	**Total**			|	23.5 lbs	|	-			| Contained in backpack
+|	Poison Dart			|	-			|	4x			|	Small Centipede poison
+|	**Total**			|	23.5 lbs	|	-			|	Contained in backpack
 
 ## Misc
 |	Name			|	Weight	|	Notes	|
@@ -43,10 +46,5 @@
 |	**Total**	|	6 lbs			| Contained in backpack
 
 ## Wealth
-89gp 92s 15c
+24 pp 91gp 92sp 18cp
 2x uncut citrine worth 55gp
-
-## Other
-|	|	|	|
-|--|--|--|
-|	
