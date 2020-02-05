@@ -1,9 +1,43 @@
 # Downtime
 ## Calendar System
-Every month is four weeks long. Each week, players determine what to do with their downtime. At the end of each week, players have access to Opportunities, and must pick one. These represent significant events that require multiple party members present. 
+Each week, players determine what to do with their downtime. Downtime can be 
+spent on a variety of activities, ranging from building resources to preparing 
+for a job. If a player picks an option other than Rest, they gain the benefits 
+of a short rest, and may spend hit dice to restore health. 
+Each weekend, players may elect to attempt a job from those available to them.
+Players are not required to attempt a job, but some jobs are time-sensitive, and 
+going too long without attempting a job may cause players' Wealth or Influence 
+to decrease. 
 ## Downtime Options
- - Rest: Spend your time relaxing and recovering. Take a long rest.
- - Train: Spend your time learning something new. Progress towards a new proficiency (8 weeks) or feat (24 weeks). ~~Limiting factors: per-level limit, diminishing returns, ???~~
- - Work: Put extra effort into a new day job or promotion. Increase wealth by 1 (1+Wealth weeks)
- - Network: Meet people and make friends. Increase reputation by 1 (1+Rep weeks)
- - Prepare: Follow up on an opportunity, obtain useful information, or procure an uncommon item. 
+### Rest
+You can spend your downtime resting to take a long rest, restoring your health
+to full and resetting uses of any class features that require a long rest to 
+recharge. 
+### Train a Proficiency or Feat
+You can spend your downtime training to acquire a new feat, or to gain 
+proficiency with a new language, skill, tool, weapon category, or armor category. 
+The first time you spend downtime training, choose a feat or proficiency. After
+spending 8 weeks of downtime training for a proficiency, or 20 weeks of downtime
+training for a feat, permanently gain that proficiency or feat. The next time 
+you spend downtime training, pick a new feat or proficiency. 
+A character may not train more than three skills per character level, or one 
+feat per character level. 
+### Increase Wealth
+You can spend your downtime working a day job, picking pockets, or otherwise 
+obtaining funds. After spending a number of weeks of downtime equal to 1 plus 
+your current Wealth on increasing your wealth, permanently increase your Wealth 
+by 1 and reset your progress on increasing it. You do not lose progress if your 
+Wealth increases or decreases from other effects.
+### Increase Influence
+You can spend your downtime meeting people and making contacts. After spending a
+number of weeks of downtime equal to 1 plus your current Influence on Networking, 
+increase your Influence by 1 and reset your Networking progress. You do not lose 
+Networking progress if your Influence increases or decreases from other effects. 
+### Prepare for a Job
+You can spend your downtime preparing for a job to gain unique advantages, such
+as a floor plan or an insider contact. Every job will have a number of 
+Opportunities available, each of which will provide some benefit for that job. 
+Some opportunities will require skill checks, while others may require spending
+Wealth or Influence. 
+
+
