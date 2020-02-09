@@ -19,10 +19,10 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 |	Stat		|	Base				|	Temp/Notes	|	
 |-----------|-----------------|--------------|	
-|	**HP**	|	30 max			|	15 Nonlethal
+|	**HP**	|	30 max			|	15 Nonlethal (Burn), 3 Nonlethal, 11 Lethal
 |	**THP**	|	3 Persistent	| *Regenerates at rate of 1/minute*
 |	**Burn**	|	-3HP/Burn		|	5 Burn 
-|	**Goal**	|	205/1000 HP		|	*-2 per damage dealt*
+|	**Goal**	|	283/1000 HP		|	*-2 per damage dealt*
 
 ## Tertiary Stats
 |	Stat		|	Base				|	Temp/Notes	|	
@@ -45,15 +45,15 @@ Other Modifiers: +1 vs Poison
 |	Skill						|	Bonus (Rank)	|	Temp/Notes	|	
 |-----------------------|-----------------|--------------|	
 |	*Bluff*					|	+7	(1)			|	- 
-|	*Disable Device*		|	+11 (3)			|	-3 Armor (Medium load), +2 Circumstance (MW Tools)
-|	*Escape Artist*		|	+11 (1)			|	-3 Armor (Medium load) 
+|	*Disable Device*		|	+11 (3)			| +2 Circumstance (MW Tools)
+|	*Escape Artist*		|	+11 (1)			|	-
 |	*Kn., Arcana*			|	+3 (1)			|	-
 |	*Kn., Engineering*	|	+3 (1)			|	-
 |	*Kn., Local*			|	+6 (1)			|	-
 |	*Perception*			|	+7	(2)			|	- 
-|	*Sleight of Hand*		|	+10 (3)			|	-3 Armor (Medium load) 
+|	*Sleight of Hand*		|	+10 (3)			|	-
 |	*Spellcraft*			|	+7	(1)			|	- 
-|	*Stealth*				|	+10 (1)			|	-3 Armor (Medium load)  
+|	*Stealth*				|	+10 (1)			|	-
 |	*Use Magic Device*	|	+8	(3)			|	- 
 
 ## Languages, Proficiencies

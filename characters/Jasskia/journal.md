@@ -57,6 +57,10 @@ to validate that belief (how can a non-intelligent item truly be *evil*?) but
 recognize it as a Soul Jar Staff from some of Cil's books. I'm holding onto it
 for the time being since everyone else thinks it's unsettling. Most of the rest
 of the day we spent dividing up loot and wealth. 
+## Session 4
+### April 29, 957
+TODO
+
 
 ## Campaign Notes
 ### Companions
