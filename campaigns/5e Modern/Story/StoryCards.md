@@ -1,9 +1,10 @@
 # Jobs
 ## Main quests
-### <???>
-Prerequisites: None
-Expected Benefits: Value 10 payday per participant, story progress
-Summary: 
+### Mission: Exogeni Satellite Lab
+- Prerequisites: None
+- Expected Benefits: Value 10 payday per participant, story progress
+Summary: Jane, an information broker that works with the party, has a contact 
+for a time-sensitive job with a big payout.  
 #### Opportunity: Observe Security
 Cost: Value 10 favor, a successful DC 10 stealth check, or a successful DC 15 
 bluff check. 

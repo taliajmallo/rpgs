@@ -6,7 +6,7 @@ for a job. If a player picks an option other than Rest, they gain the benefits
 of a short rest, and may spend hit dice to restore health. 
 Each weekend, players may elect to attempt a job from those available to them.
 Players are not required to attempt a job, but some jobs are time-sensitive, and 
-going too long without attempting a job may cause players' Wealth or Influence 
+going too long without attempting a job may cause players' Wealth or Reputation 
 to decrease. 
 ## Downtime Options
 ### Rest
@@ -28,16 +28,17 @@ obtaining funds. After spending a number of weeks of downtime equal to 1 plus
 your current Wealth on increasing your wealth, permanently increase your Wealth 
 by 1 and reset your progress on increasing it. You do not lose progress if your 
 Wealth increases or decreases from other effects.
-### Increase Influence
+### Increase Reputation
 You can spend your downtime meeting people and making contacts. After spending a
-number of weeks of downtime equal to 1 plus your current Influence on Networking, 
-increase your Influence by 1 and reset your Networking progress. You do not lose 
-Networking progress if your Influence increases or decreases from other effects. 
+number of weeks of downtime equal to 1 plus your current Reputation on increasing 
+your Reputation, increase your Reputation by 1 and reset your progress on 
+increasing it. You do not lose Networking progress if your Reputation increases 
+or decreases from other effects. 
 ### Prepare for a Job
 You can spend your downtime preparing for a job to gain unique advantages, such
 as a floor plan or an insider contact. Every job will have a number of 
 Opportunities available, each of which will provide some benefit for that job. 
 Some opportunities will require skill checks, while others may require spending
-Wealth or Influence. 
+Wealth or Reputation. 
 
 
