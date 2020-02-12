@@ -30,15 +30,22 @@ by 1 and reset your progress on increasing it. You do not lose progress if your
 Wealth increases or decreases from other effects.
 ### Increase Reputation
 You can spend your downtime meeting people and making contacts. After spending a
-number of weeks of downtime equal to 1 plus your current Reputation on increasing 
-your Reputation, increase your Reputation by 1 and reset your progress on 
-increasing it. You do not lose Networking progress if your Reputation increases 
-or decreases from other effects. 
+number of weeks of downtime equal to 1 plus your current Reputation on 
+increasing your Reputation, increase your Reputation by 1 and reset your 
+progress on increasing it. You do not lose Networking progress if your 
+Reputation increases or decreases from other effects. 
 ### Prepare for a Job
 You can spend your downtime preparing for a job to gain unique advantages, such
 as a floor plan or an insider contact. Every job will have a number of 
 Opportunities available, each of which will provide some benefit for that job. 
 Some opportunities will require skill checks, while others may require spending
 Wealth or Reputation. 
+### Acquire Rare or Illegal Items
+You can spend your downtime finding deals for difficult-to-obtain items. Rare 
+goods and common illegal goods require a number of days equal to the item's 
+Value, while rare illegal goods require a number of days equal to twice the 
+item's Value. Downtime must be spent in 5-day increments, but you can buy more 
+than one item per week if time permits, and you may "save" excess days to obtain
+a future item more quickly. 
 
 
