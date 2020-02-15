@@ -59,22 +59,38 @@ for the time being since everyone else thinks it's unsettling. Most of the rest
 of the day we spent dividing up loot and wealth. 
 ## Session 4
 ### April 29, 957
-TODO
-
+After we divvied up everything we found, we returned to town to sell it and 
+relax some before moving on. However, Braveheart seems to attract trouble in 
+need of fixing the same way trash attracts flies, and so I was rudely dragged 
+away from fleecing fools in the tavern to aid my companions in tracking down a 
+lost halfing child. Seldana & Pyra managed to find enough from the townsfolk to
+point to a ruined manor outside town, and because it was thought to be haunted, 
+it was decided we should all go immediately. On the way there, we nearly had a 
+fight with a wild boar, but Casmar was able to calm it without much trouble. 
+Inside the manor itself, we made our way through illusions and traps before we
+came to the actual culprit, a sahuagin necromancer keeping the child to serve as
+a snack later. We cut down a considerable number of skeletons, but ultimately 
+decided to parley with the creature instead of risking our lives further. It was
+an outcast from its people, and actually quite reasonable to deal with. The 
+final bargain was that we would return the child to her family, and allow the 
+necromancer to siphon souls out of the soul jar staff I've been carrying (I 
+objected heavily to this point, but even Pyra refused to back me up) in exchange 
+for not killing him and putting him on contact with townsfolk that might 
+consider cooperation. 
 
 ## Campaign Notes
 ### Companions
-#### Pyraloid - Ratfolk Oracle of the Streets / VMC Gunslinger
-Pyra is a business partner of mine. While I'd be hesitant to call her close, 
+#### Pyraloid - ~~Ratfolk Oracle of the Streets / VMC Gunslinger~~
+<!-- Pyra is a business partner of mine. While I'd be hesitant to call her close, 
 we've worked together enough that it was prudent to teach her my native language. 
 Typically, she gathers the information that I use for my assignments. Currently,
-she's going by the alias of Amelie and disguising herself as a halfling. 
+she's going by the alias of Amelie and disguising herself as a halfling.  -->
 #### Braveheart - Kobold Paladin
 An adolescent kobold paladin who believes he's a reincarnated halfing hero. I 
 have doubts as to his sanity. 
 #### Casmar - Human Druid
 A (relatively) sane humanoid wearing tons of feathers. Seems to be a druid of 
-some skill. 
+some skill, but absolutely no understanding of civilized society. 
 #### Xulri - Human Barbarian
 She seems injury-prone, but otherwise competent. I'm probably going to end up 
 healing her a lot in the coming weeks. 
