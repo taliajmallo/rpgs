@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Vishkanya Kineticist (Kinetic Chirurgeon) / VMC Oracle 3 
+## CE Changeling Kineticist (Kinetic Chirurgeon/Dark Elementalist) / VMC Oracle 3 
 ## Appearance & Vital Stats 
 From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
 tidy braid of black hair that reaches down to her shoulder. However, at a close 
@@ -10,30 +10,31 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
 |	**STR** 	|	12 (+1)	|	-
-|	**DEX** 	|	18 (+4)	|	-
-|	**CON** 	|	17 (+3) 	|	-
-|	**INT** 	|	14 (+2) 	|	-
+|	**DEX** 	|	16 (+3)	|	-
+|	**CON** 	|	12 (+1) 	|	-
+|	**INT** 	|	19 (+4) 	|	-
 |	**WIS** 	|	10 (--) 	|	-
-|	**CHA** 	|	15 (+2) 	|	-
+|	**CHA** 	|	15 (+1) 	|	-
 
 ## Secondary Stats
-|	Stat		|	Base				|	Temp/Notes	|	
-|-----------|-----------------|--------------|	
-|	**HP**	|	30 max			|	15 Nonlethal (Burn), 3 Nonlethal, 11 Lethal
-|	**THP**	|	3 Persistent	| *Regenerates at rate of 1/minute*
-|	**Burn**	|	-3HP/Burn		|	5 Burn 
-|	**Goal**	|	283/1000 HP		|	*-2 per damage dealt*
+|	Stat			|	Base				|	Temp/Notes	|	
+|--------------|-----------------|--------------|	
+|	**HP**		|	21 max			|	15 Nonlethal (Burn), 3 Nonlethal, 11 Lethal
+|	**THP**		|	3 Persistent	| *Regenerates at rate of 1/minute*
+|	**Burn**		|	-3HP/Burn		|	5 Burn 
+|	**Buffer**	|	Max 1				|
+|	**Healing**	|	283/1000 HP		|	*-2 per damage dealt*
 
 ## Tertiary Stats
 |	Stat		|	Base				|	Temp/Notes	|	
 |-----------|-----------------|--------------|	
-|	**AC**	|	16 (14 T/12 F)	|	-
-|	**Init**	|	+4					|	-
+|	**AC**	|	15 (13 T/12 F)	|	-
+|	**Init**	|	+3					|	-
 |	**BAB**	|	+2					|	- 
 |	**CMB**	|	+1					|	- 
-|	**CMD**	|	14 (10 F)		|	- 
+|	**CMD**	|	13 (10 F)		|	- 
 
-## Saves
+## Saves - TODO fix
 |	Save		|	Base	|	Temp/Notes	|	
 |-----------|--------|--------------|	
 |	**Fort**	|	+6 	|	- 
@@ -41,7 +42,7 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |	**Will**	|	+1		|	- 
 Other Modifiers: +1 vs Poison
 
-## Skills 
+## Skills - TODO Reallocate
 |	Skill						|	Bonus (Rank)	|	Temp/Notes	|	
 |-----------------------|-----------------|--------------|	
 |	*Bluff*					|	+7	(1)			|	- 
@@ -55,9 +56,9 @@ Other Modifiers: +1 vs Poison
 |	*Spellcraft*			|	+7	(1)			|	- 
 |	*Stealth*				|	+10 (1)			|	-
 |	*Use Magic Device*	|	+8	(3)			|	- 
-
++6
 ## Languages, Proficiencies
-- **Languages**: Common, Elven, Goblin, Vishkanya 
+- **Languages**: Common, Draconic, Dwarven, Elven, Goblin, Vishkanya 
 - **Weapons**: Simple, blowguns, kukri, and shuriken
 - **Armor**: Light
 
@@ -84,8 +85,7 @@ trait bonus on that skill, and it is always a class skill for you.
 
 ## Racial Features
 ### Base Properties
-Your size is medium, you have a speed of 30 feet, and you can see twice as far 
-as a human in low light conditions. 
+Your size is medium, you have a speed of 30 feet, and you have darkvision. 
 ### Vishkanya Skill Affinities (Limber, Keen Senses)
 You have a +2 racial bonus to Escape Artist, Perception, and Stealth checks. 
 ### Vishkanya Poison
@@ -94,6 +94,12 @@ never accidentally poison yourself when using or applying poison, and you may
 envenom a held weapon a number of times per day equal to your CON modifier as a 
 swift action. 
  - *Vishkanya Venom*: Injury; save Fort DC 14 (10 + 1/2 HD + CON mod); frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
+### Favored Class Bonus (Aether III)
+Choose one kineticist element you possess. Increase the maximum value of your 
+internal buffer by +1/3 (maximum +3). This extra amount can only be spent in 
+place of accepting burn for the selected element. If you reach the maximum bonus 
+from this favored class bonus and possess more than one element at that time, 
+you can choose that element to apply this favored class bonus to.
 
 ## Class Features
 ### Elemental Focus (Aether)
@@ -118,6 +124,12 @@ action reduces it by 3.
 If you take damage between starting to gather power and finishing the blast, 
 make a concentration check (DC 10 + Damage taken + effective spell level) or 
 gain a negative level that disappears after a day. 
+### Dark Studies
+A dark elementalist’s base Will save bonus from the kineticist class is equal to 2 + 1/2 her kineticist level, and her base Reflex and Fortitude save bonuses are equal to 1/3 her kineticist level. She gains all Knowledge skills as class skills.
+
+A dark elementalist uses her Intelligence modifier instead of her Constitution modifier to determine her damage with wild talents, the DCs of Constitution-based wild talents, the durations of wild talents with Constitution-based durations, her bonus on concentration checks for wild talents, and any other Constitution-based effects of all her wild talents.
+
+This alters the kineticist’s class skills and base saving throws and the key ability score of wild talents.
 ### Kinetic Chirurgery 
 You may never gain or use infusions, but instead gain the Kinetic Healing talent
 for free at first level. You may use this talent a number of times per day equal
