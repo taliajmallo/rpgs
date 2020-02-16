@@ -9,9 +9,10 @@
 |	**Lay on Hands**			|	N/A			| 	Heal 1d6 + 1d4
 
 ## Per-Day actions
-|	Dailies					| Uses						| Effect	|
-|-----------------------|-----------------------|--------|
-|	**Soul Burn**			|	[ ] [ ] [ ] [ ] [ ]	|	Reduce current burn by 2 
+|	Dailies					|	Uses						|	Effect	|
+|-----------------------|-----------------------|-----------|
+|	**Current Burn**		|	[ ] [ ] [ ]				|	-3 HP/Burn
+|	**Soul Burn**			|	[ ] [ ] [ ] [ ] [ ]	|	Reduce current burn by 2, but only burn from healing
 | 	**Chirurgery**			|	[ ] [ ] [ ]	[ ]		|	Kinetic healer uses without incurring burn
 | 	**Lay on Hands**		|	[ ] [ ]					|	Heal 1d6 + 1d4 as a standard action
 |	**Steady Disable**	|	[ ] 						|	Take 10 on a disable device check, even in combat

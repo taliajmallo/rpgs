@@ -4,14 +4,14 @@
  - [ ] Medium: 44–86 lbs, max Dex +3 and armor check -3
  - [ ] Heavy: 87–130 lbs, max Dex +1 and armor check -6
 ## Worn Equipment
-|	Name						|	Weight	|	Notes	|
-|-----------------------|-----------|--------|
-|	Peasant's clothes		|	1 lbs 	|
-|	Leather Armor			|	15 lbs 	|	+2 AC, max DEX +6
-|	Backpack					|	31.5 (2)	|	
-|	Bracers of Burglary	|	-			|	Transforms to MW Thieves' Tools, 1/day take 10 disable
-|	Soul Jar Staff			|	-			| 	Staff containing many souls
-|	**Total**				|	42.5 lbs	|
+|	Name								|	Weight	|	Notes	|
+|-----------------------------|-----------|--------|
+|	Peasant's clothes				|	1 lbs 	|
+|	Leather Armor					|	15 lbs 	|	+2 AC, max DEX +6
+|	Backpack							|	31.5 (2)	|	
+|	Bracers of Burglary			|	-			|	Transforms to MW Thieves' Tools, 1/day take 10 disable
+|	Ring of Maniacal Devices	| 	-			| 	+5 to Disable Device & Craft (Trap)
+|	**Total**						|	42.5 lbs	|
 
 ## Tools
 |	Name					|	Weight	|	Notes	|

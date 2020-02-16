@@ -41,23 +41,23 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |	**Will**	|	+3		|	- 
 
 ## Skills 
-|	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes	|	
-|-----------------------|--------|--------|--------|--------|--------------|	
-|	*Bluff*					|	+5		|	1+3	|	+1		|	-		|
-|	*Disable Device*		|	+12	|	3+3	|	+3		|	+3		| 	+1 Trait, +2 Circumstance (MW Tools)
-|	*Escape Artist*		|	+8		|	1+3	|	+3		|	+1		|	+1 Trait
+|	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
+|-----------------------|--------|--------|--------|--------|-----------------|	
+|	*Bluff*					|	+7		|	3+3	|	+1		|	-		| 	-
+|	*Disable Device*		|	+17	|	3+3	|	+3		|	+8		| 	+1 Trait, +2 Circ (Tools), +5 Comp (Ring)
 |	*Kn., Arcana*			|	+10	|	3+3	|	+4		|	-		|	-
 |	*Kn., Planes*			|	+10	|	3+3	|	+4		|	-		|	-
 |	*Kn., Engineering*	|	+8		|	1+3	|	+4		|	-		|	-
 |	*Kn., Local*			|	+8		|	1+3	|	+4		|	-		|	-
+|	*Kn., Religion*		|	+8		|	1+3	|	+4		|	-		|	-
 |	*Perception*			|	+4		| 	1+3	|	- 		|	-		|	-
 |	*Sleight of Hand*		|	+9		|	3+3	|	+3		|	-		|	-
 |	*Spellcraft*			|	+11	|	3+3	|	+4		|	+1		|	+1 Trait 
 |	*Stealth*				|	+7		|	1+3	|	+3		|	-		|	-
-|	*Use Magic Device*	|	+7		|	3+3	|	+1		|	-		|	-
+|	*Use Magic Device*	|	+5		|	1+3	|	+1		|	-		|	-
 
 ## Languages, Proficiencies
-- **Languages**: Common, Draconic, Dwarven, Elven, Goblin, Vishkanya 
+- **Languages**: Common, Humic, Dwarvish, Elven, Goblin, Vishkanya 
 - **Weapons**: Simple 
 - **Armor**: Light
 
@@ -76,15 +76,16 @@ class skill for you.
 You spent your early life robbing and stealing to get by. Select one of the 
 following skills: **Disable Device**, ~~Intimidate~~, or ~~Sleight of Hand~~. 
 You gain a +1 trait bonus on that skill, and it is always a class skill for you. 
-### Vagabond Child
-You grew up among the outcasts and outlaws of your society, learning to forage 
-and survive in an urban environment. Select one of the following skills - 
-~~Disable Device~~, **Escape Artist**, or ~~Sleight of Hand~~. You gain a +1 
-trait bonus on that skill, and it is always a class skill for you. 
+### Stealthy Escape
+When trying to escape manacles, rope, or other similar restraints (but not 
+grapples or similar attacks), you may make a Sleight of Hand check instead of 
+your Escape Artist modifier. If you free yourself, you gain a +2 trait bonus on 
+Bluff checks to pretend that you are still bound.
 
 ## Racial Features
 ### Base Properties
-Your size is medium, you have a speed of 30 feet, and you have darkvision. 
+Your size is medium, you have a speed of 30 feet, and you have darkvision to a 
+range of 60 feet. 
 ### Sea Lungs (Sea Hag Mother)
 The changeling may hold her breath for a number of rounds equal to three times 
 her Constitution before she risks drowning.
@@ -103,9 +104,9 @@ Each time you take this benefit, gain +1/3 of a use of Soul Power per day.
 
 ## Class Features
 ### Elemental Focus (Aether)
-Your primary elemental focus is Aether. You add ~~Knowledge (Engineering)~~ 
-Knowledge (Local) and Sleight of Hand to your class skill list, and gain the 
-*Basic Telekinesis* talent and *Telekinetic Blast* blast.
+Your primary elemental focus is Aether. You add Knowledge (Engineering) and 
+Sleight of Hand to your class skill list, and gain the *Basic Telekinesis* 
+talent and *Telekinetic Blast* blast.
 ### Kinetic Blast
 As a standard action, you can unleash a kinetic blast at a single target up to a 
 range of 30 feet. You must have at least 1 hand free to aim. Kinetic blasts are 
@@ -153,7 +154,7 @@ Kinetic Healing or Healing Burst.
 #### Fatigued 
 You may remove fatigue from targets of Kinetic Healer of Healing Burst.
 ### Wild Talents
-DC 13 (10+INT Mod) + Talent effective spell level
+DC 14 (10+INT Mod) + Talent effective spell level
 #### Kinetic Healer (Utility (Universal), Level 1, Burn 1) 
 With a touch, you can heal a willing living creature of an amount of damage 
 equal to your kinetic blast‘s damage. Instead of paying the burn cost yourself, 

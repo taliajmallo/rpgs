@@ -77,14 +77,28 @@ necromancer to siphon souls out of the soul jar staff I've been carrying (I
 objected heavily to this point, but even Pyra refused to back me up) in exchange 
 for not killing him and putting him on contact with townsfolk that might 
 consider cooperation. 
+## Session 5
+### April 30, 957
+We worked with the sahuagin to destroy the staff, and he promptly shooed us out 
+of his home. We then decided to capitalize on the fact that the spirit that 
+attacked me apparently only shows up at night, and investigated the mansion. 
+Several rooms were covered in ectoplasmic gooey webbing, spelling out some 
+odd phrases. We later determined that these might be endings to the unfinished 
+manuscript of Neil O'Shaqspear, found elsewhere in the manor. After casing the 
+entire manor, we found that the spirit was most likely Neil himself, and laid 
+him to rest by finishing his manuscript and having Braveheart perform a reading
+of it. We then turned around to return back to town with any of the valuables we
+could grab. 
+### May 1, 957
+On returning to town, we found it aflame and filled with screaming villagers. 
 
 ## Campaign Notes
 ### Companions
-#### Pyraloid - ~~Ratfolk Oracle of the Streets / VMC Gunslinger~~
-<!-- Pyra is a business partner of mine. While I'd be hesitant to call her close, 
-we've worked together enough that it was prudent to teach her my native language. 
-Typically, she gathers the information that I use for my assignments. Currently,
-she's going by the alias of Amelie and disguising herself as a halfling.  -->
+#### Pyraloid of Garumna - Mer-Elf Magus
+Pyra is a business partner of mine, and technically my niece on my mother's side 
+(one of her mothers is also a changeling, like myself, and there aren't many 
+hags in this area of the world). She and I get along pretty well, and our skills
+complement each other's. 
 #### Braveheart - Kobold Paladin
 An adolescent kobold paladin who believes he's a reincarnated halfing hero. I 
 have doubts as to his sanity. 
@@ -118,7 +132,7 @@ them, doing everything from petty theft to wetwork. I've got mixed feeling on
 the guild as a whole: while I still resent them somewhat for threatening me into
 joining, they've treated me fairly by-and-large.	I'd like to leave someday, but
 not before I'm certain it won't jeopardize Cil's apprenticeship.	
-#### Viskiks - Sahaugin Necromancer
+#### Viskiks - Sahuagin Necromancer
 
 ## Backstory
 ### Timeline:
