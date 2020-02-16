@@ -19,7 +19,12 @@ encounters followed.
 We rendezvoused with the rest of the party, and decided to return to the mining 
 camp to rest after I exhausted myself patching them up. Pyra and I shared a
 tent since we don't particularly trust our companions. 
-### April 28, 957houlder. She asked for healing and I was forced by my curse to comply. 
+### April 28, 95
+After a rendezvous with the rest of the party, we returned to the mining camp 
+and got some rest. I slept in, assisted Pyra in identifying the magic armor we
+found (not actually enchanted on their own, but affected by an area spell), 
+and caught Xulri coming back to camp bloodied with a deer slung over her 
+shoulder. She asked for healing and I was forced by my curse to comply. 
 Once everyone was ready, we decided to venture back into the dungeon. Cas's 
 bird set off a bear trap, and exposed us to the Duergar waiting invisibly at the
 end of the hallway. We managed to survive the ambush, but my injury-prone allies 
