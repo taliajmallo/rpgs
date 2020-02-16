@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Vishkanya Kineticist (Kinetic Chirurgeon) / VMC Oracle 3 
+## CE Changeling Kineticist (Kinetic Chirurgeon/Dark Elementalist) / VMC Oracle 3 
 ## Appearance & Vital Stats 
 From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
 tidy braid of black hair that reaches down to her shoulder. However, at a close 
@@ -10,55 +10,55 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
 |	**STR** 	|	12 (+1)	|	-
-|	**DEX** 	|	18 (+4)	|	-
-|	**CON** 	|	17 (+3) 	|	-
-|	**INT** 	|	14 (+2) 	|	-
+|	**DEX** 	|	16 (+3)	|	-
+|	**CON** 	|	12 (+1) 	|	-
+|	**INT** 	|	19 (+4) 	|	-
 |	**WIS** 	|	10 (--) 	|	-
-|	**CHA** 	|	15 (+2) 	|	-
+|	**CHA** 	|	15 (+1) 	|	-
 
 ## Secondary Stats
-|	Stat		|	Base				|	Temp/Notes	|	
-|-----------|-----------------|--------------|	
-|	**HP**	|	30 max			|	15 Nonlethal (Burn), 3 Nonlethal, 11 Lethal
-|	**THP**	|	3 Persistent	| *Regenerates at rate of 1/minute*
-|	**Burn**	|	-3HP/Burn		|	5 Burn 
-|	**Goal**	|	283/1000 HP		|	*-2 per damage dealt*
+|	Stat			|	Base				|	Temp/Notes	|	
+|--------------|-----------------|--------------|	
+|	**HP**		|	21 max			|	
+|	**THP**		|	3 Persistent	| *Regenerates at rate of 1/minute*
+|	**Burn**		|	-3HP/Burn		|	0 Burn 
+|	**Healing**	|	283/1000 HP		|	*-2 per damage dealt*
 
 ## Tertiary Stats
 |	Stat		|	Base				|	Temp/Notes	|	
 |-----------|-----------------|--------------|	
-|	**AC**	|	16 (14 T/12 F)	|	-
-|	**Init**	|	+4					|	-
+|	**AC**	|	15 (13 T/12 F)	|	-
+|	**Init**	|	+3					|	-
 |	**BAB**	|	+2					|	- 
 |	**CMB**	|	+1					|	- 
-|	**CMD**	|	14 (10 F)		|	- 
+|	**CMD**	|	13 (10 F)		|	- 
 
-## Saves
+## Saves 
 |	Save		|	Base	|	Temp/Notes	|	
 |-----------|--------|--------------|	
-|	**Fort**	|	+6 	|	- 
-|	**Ref**	|	+7		|	- 
-|	**Will**	|	+1		|	- 
-Other Modifiers: +1 vs Poison
+|	**Fort**	|	+2 	|	- 
+|	**Ref**	|	+4		|	- 
+|	**Will**	|	+3		|	- 
 
 ## Skills 
-|	Skill						|	Bonus (Rank)	|	Temp/Notes	|	
-|-----------------------|-----------------|--------------|	
-|	*Bluff*					|	+7	(1)			|	- 
-|	*Disable Device*		|	+11 (3)			| +2 Circumstance (MW Tools)
-|	*Escape Artist*		|	+11 (1)			|	-
-|	*Kn., Arcana*			|	+3 (1)			|	-
-|	*Kn., Engineering*	|	+3 (1)			|	-
-|	*Kn., Local*			|	+6 (1)			|	-
-|	*Perception*			|	+7	(2)			|	- 
-|	*Sleight of Hand*		|	+10 (3)			|	-
-|	*Spellcraft*			|	+7	(1)			|	- 
-|	*Stealth*				|	+10 (1)			|	-
-|	*Use Magic Device*	|	+8	(3)			|	- 
+|	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes	|	
+|-----------------------|--------|--------|--------|--------|--------------|	
+|	*Bluff*					|	+5		|	1+3	|	+1		|	-		|
+|	*Disable Device*		|	+12	|	3+3	|	+3		|	+3		| 	+1 Trait, +2 Circumstance (MW Tools)
+|	*Escape Artist*		|	+8		|	1+3	|	+3		|	+1		|	+1 Trait
+|	*Kn., Arcana*			|	+10	|	3+3	|	+4		|	-		|	-
+|	*Kn., Planes*			|	+10	|	3+3	|	+4		|	-		|	-
+|	*Kn., Engineering*	|	+8		|	1+3	|	+4		|	-		|	-
+|	*Kn., Local*			|	+8		|	1+3	|	+4		|	-		|	-
+|	*Perception*			|	+4		| 	1+3	|	- 		|	-		|	-
+|	*Sleight of Hand*		|	+9		|	3+3	|	+3		|	-		|	-
+|	*Spellcraft*			|	+11	|	3+3	|	+4		|	+1		|	+1 Trait 
+|	*Stealth*				|	+7		|	1+3	|	+3		|	-		|	-
+|	*Use Magic Device*	|	+7		|	3+3	|	+1		|	-		|	-
 
 ## Languages, Proficiencies
-- **Languages**: Common, Elven, Goblin, Vishkanya 
-- **Weapons**: Simple, blowguns, kukri, and shuriken
+- **Languages**: Common, Draconic, Dwarven, Elven, Goblin, Vishkanya 
+- **Weapons**: Simple 
 - **Armor**: Light
 
 ## Traits & Drawbacks
@@ -70,8 +70,8 @@ effects. If she is ever lost, killed, or destroyed, exchange this drawback for
 the Doubt drawback. 
 ### Classically-Schooled
 Encouraging Cil's interest in magic meant reading a wide variety of arcane texts.
-You gain a +1 trait bonus on Spellcraft checks, and Spellcraft is always a class
-skill for you.
+You gain a +1 trait bonus on **Spellcraft** checks, and Spellcraft is always a 
+class skill for you.
 ### Criminal
 You spent your early life robbing and stealing to get by. Select one of the 
 following skills: **Disable Device**, ~~Intimidate~~, or ~~Sleight of Hand~~. 
@@ -84,16 +84,22 @@ trait bonus on that skill, and it is always a class skill for you.
 
 ## Racial Features
 ### Base Properties
-Your size is medium, you have a speed of 30 feet, and you can see twice as far 
-as a human in low light conditions. 
-### Vishkanya Skill Affinities (Limber, Keen Senses)
-You have a +2 racial bonus to Escape Artist, Perception, and Stealth checks. 
-### Vishkanya Poison
-You have resistance on saving throws against poison equal to your hit dice, you 
-never accidentally poison yourself when using or applying poison, and you may 
-envenom a held weapon a number of times per day equal to your CON modifier as a 
-swift action. 
- - *Vishkanya Venom*: Injury; save Fort DC 14 (10 + 1/2 HD + CON mod); frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
+Your size is medium, you have a speed of 30 feet, and you have darkvision. 
+### Sea Lungs (Sea Hag Mother)
+The changeling may hold her breath for a number of rounds equal to three times 
+her Constitution before she risks drowning.
+### Hag Magic
+Hag Magic: Some changelings develop a gift for spellcasting instead of their 
+mothers’ overtly fearsome traits. A changeling with this trait displays one or 
+more stark white streaks in her hair as a child. The DCs of any saving throws 
+against enchantment spells she casts increase by 1, and if her Charisma score is 
+11 or higher, she also gains the following spell-like abilities, usable once per 
+day each: dancing lights, detect magic, disguise self, and pass without trace. 
+The caster level of these spell-like abilities is equal to the changeling’s 
+character level. The DC for these spell-like abilities is equal to 10 + the 
+spell’s level + the changeling’s Charisma modifier. 
+### Favored Class Bonus - Dark Elementalist Alternate III
+Each time you take this benefit, gain +1/3 of a use of Soul Power per day. 
 
 ## Class Features
 ### Elemental Focus (Aether)
@@ -108,8 +114,8 @@ counterspell any spell of equal or lower level that shares its descriptor, and
 have descriptors corresponding to any energy damage type(s) they deal. They 
 count as a weapon for feats like Weapon Focus, but you are never considered to 
 be holding them, and you cannot use Vital Strike with them. 
-- Physical blasts are ranged attacks that deal 1d6 + 4 (2+CON Mod) damage, increasing by 1d6 + 1 every odd level. 
-- Energy blasts are ranged touch attacks that deal 1d6 + 1 (1/2 CON Mod) damage, increasing by 1d6 every odd level.
+- Physical blasts are ranged attacks that deal 2d6 + 6 (2+INT Mod) damage, increasing by 1d6 + 1 every odd level. 
+- Energy blasts are ranged touch attacks that deal 2d6 + 2 (1/2 INT Mod) damage, increasing by 1d6 every odd level.
 ### Gather Power
 If you have both hands free, you may gather power in a loud and visible display 
 to reduce the burn of a blast used immediately after. A move action reduces the 
@@ -117,18 +123,37 @@ blast by 1, a full-round action reduces it by 2, and a full-round plus a move
 action reduces it by 3. 
 If you take damage between starting to gather power and finishing the blast, 
 make a concentration check (DC 10 + Damage taken + effective spell level) or 
-gain a negative level that disappears after a day. 
+take burn. 
+### Soul Power (Healing Buffer Variant) 
+The maximum burn you can intentionally accept is 3. However, a number of times 
+per day equal to your Intelligence modifier (4), as a full-round action you can
+gather up souls of sentient creatures with a collective CR equal to or greater 
+than your level, and offload 2 burn onto them. This doesn't heal the nonlethal
+damage, but does allow you to heal that damage through other means. You may only
+offload burn spent on Kinetic Healer and Healing Burst. A soul used in this way
+cannot be brought back to life as if it died of a death effect. 
+At 6th level, racking a soul in this way forces anyone trying to bring the 
+creature back to life to succeed at a caster level check (DC = 10 + level) or 
+the attempt fails. At 11th level, even if the creature returns from the dead, 
+its soul is so damaged by the agony that it takes 2d6 points of Wisdom damage. 
+At 16th level, the soul is destroyed in the process, and the creature can be 
+restored only by a miracle or wish.
+A dark elementalist gains attack and damage bonuses from elemental overflow 
+based on how many times that day she has used soul power to rack a soul, rather 
+than based on her current burn total. A dark elementalist does not gain size 
+bonuses to physical ability scores or a chance to ignore critical hits and sneak
+attacks from elemental overflow.
 ### Kinetic Chirurgery 
 You may never gain or use infusions, but instead gain the Kinetic Healing talent
 for free at first level. You may use this talent a number of times per day equal
-to your CON modifier without applying burn.  At third level and every odd level 
+to your INT Modifier without applying burn.  At third level and every odd level 
 thereafter, gain a paladin mercy; you may apply a single mercy to any target of 
 Kinetic Healing or Healing Burst. 
 ### Kinetic Mercies
 #### Fatigued 
 You may remove fatigue from targets of Kinetic Healer of Healing Burst.
 ### Wild Talents
-DC 13 (10+CON Mod) + Talent effective spell level
+DC 13 (10+INT Mod) + Talent effective spell level
 #### Kinetic Healer (Utility (Universal), Level 1, Burn 1) 
 With a touch, you can heal a willing living creature of an amount of damage 
 equal to your kinetic blast‘s damage. Instead of paying the burn cost yourself, 
@@ -159,19 +184,10 @@ You may accept burn to empower this. Every point of burn increases the maximum
 temporary HP by half your level, and every two points of burn increase the 
 regeneration rate by 1 per minute. 
 ### Overflow
-You accidentally pick up ambient debris with telekinesis whenever you carry burn.
-You may suppress this effect, but doing so also suppresses any other benefits of
-Overflow. For every point of burn you carry, up to a maximum of 1/3 of your 
+For every Soul Burn used today, up to a maximum of 1/3 of your 
 Kineticist level, you gain +1 to attack rolls with kinetic blasts and +2 to 
 damage or healing dealt with blasts, Kinetic Healer, or Healing Burst. 
-Starting at 6th level, you gain a chance to ignore critical hits or sneak 
-attacks equal to 5% per carried burn, and whenever you carry at least 3 burn, 
-you gain a +2 size bonus to two physical ability scores of your choice. 
-At 11th level, whenever you carry at least 5 burn, your size bonuses change to a
-+4 bonus to one physical ability score and +2 to the other two. 
-At 16th level, whenever you carry at least 7 burn, your size bonuses change to a
-+6 bonus to one physical ability score, a +4 bonus to a second, and a +2 bonus 
-to the third. 
+
 
 ## VMC Class Features
 ### Mystery of Life
