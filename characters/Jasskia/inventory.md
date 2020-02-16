@@ -21,7 +21,7 @@
 |	Hammer				|	2 lbs 	|	Small & heavy
 |	Sewing Needle		|	-			|	Small & pointy
 |	Torch					|	1 lbs 	|	Flammable & bright 
-|	**Total**			|	6 lbs	|	Contained in backpack
+|	**Total**			|	6 lbs		|	Contained in backpack
 
 ## Supplies
 |	Name					|	Weight	|	Quantity	|	Notes	|

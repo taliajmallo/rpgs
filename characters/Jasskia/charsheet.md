@@ -19,10 +19,9 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	21 max			|	15 Nonlethal (Burn), 3 Nonlethal, 11 Lethal
+|	**HP**		|	21 max			|	
 |	**THP**		|	3 Persistent	| *Regenerates at rate of 1/minute*
-|	**Burn**		|	-3HP/Burn		|	5 Burn 
-|	**Buffer**	|	Max 1				|
+|	**Burn**		|	-3HP/Burn		|	0 Burn 
 |	**Healing**	|	283/1000 HP		|	*-2 per damage dealt*
 
 ## Tertiary Stats
@@ -34,31 +33,32 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |	**CMB**	|	+1					|	- 
 |	**CMD**	|	13 (10 F)		|	- 
 
-## Saves - TODO FIX
+## Saves 
 |	Save		|	Base	|	Temp/Notes	|	
 |-----------|--------|--------------|	
-|	**Fort**	|	+6 	|	- 
-|	**Ref**	|	+7		|	- 
-|	**Will**	|	+1		|	- 
+|	**Fort**	|	+2 	|	- 
+|	**Ref**	|	+4		|	- 
+|	**Will**	|	+3		|	- 
 
-## Skills - TODO REALLOCATE
-|	Skill						|	Bonus (Rank)	|	Temp/Notes	|	
-|-----------------------|-----------------|--------------|	
-|	*Bluff*					|	+7	(1)			|	- 
-|	*Disable Device*		|	+11 (3)			| +2 Circumstance (MW Tools)
-|	*Escape Artist*		|	+11 (1)			|	-
-|	*Kn., Arcana*			|	+3 (1)			|	-
-|	*Kn., Engineering*	|	+3 (1)			|	-
-|	*Kn., Local*			|	+6 (1)			|	-
-|	*Perception*			|	+7	(2)			|	- 
-|	*Sleight of Hand*		|	+10 (3)			|	-
-|	*Spellcraft*			|	+7	(1)			|	- 
-|	*Stealth*				|	+10 (1)			|	-
-|	*Use Magic Device*	|	+8	(3)			|	- 
-+6
+## Skills 
+|	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes	|	
+|-----------------------|--------|--------|--------|--------|--------------|	
+|	*Bluff*					|	+5		|	1+3	|	+1		|	-		|
+|	*Disable Device*		|	+12	|	3+3	|	+3		|	+3		| 	+1 Trait, +2 Circumstance (MW Tools)
+|	*Escape Artist*		|	+8		|	1+3	|	+3		|	+1		|	+1 Trait
+|	*Kn., Arcana*			|	+10	|	3+3	|	+4		|	-		|	-
+|	*Kn., Planes*			|	+10	|	3+3	|	+4		|	-		|	-
+|	*Kn., Engineering*	|	+8		|	1+3	|	+4		|	-		|	-
+|	*Kn., Local*			|	+8		|	1+3	|	+4		|	-		|	-
+|	*Perception*			|	+4		| 	1+3	|	- 		|	-		|	-
+|	*Sleight of Hand*		|	+9		|	3+3	|	+3		|	-		|	-
+|	*Spellcraft*			|	+11	|	3+3	|	+4		|	+1		|	+1 Trait 
+|	*Stealth*				|	+7		|	1+3	|	+3		|	-		|	-
+|	*Use Magic Device*	|	+7		|	3+3	|	+1		|	-		|	-
+
 ## Languages, Proficiencies
 - **Languages**: Common, Draconic, Dwarven, Elven, Goblin, Vishkanya 
-- **Weapons**: Simple, blowguns, kukri, and shuriken
+- **Weapons**: Simple 
 - **Armor**: Light
 
 ## Traits & Drawbacks
@@ -70,8 +70,8 @@ effects. If she is ever lost, killed, or destroyed, exchange this drawback for
 the Doubt drawback. 
 ### Classically-Schooled
 Encouraging Cil's interest in magic meant reading a wide variety of arcane texts.
-You gain a +1 trait bonus on Spellcraft checks, and Spellcraft is always a class
-skill for you.
+You gain a +1 trait bonus on **Spellcraft** checks, and Spellcraft is always a 
+class skill for you.
 ### Criminal
 You spent your early life robbing and stealing to get by. Select one of the 
 following skills: **Disable Device**, ~~Intimidate~~, or ~~Sleight of Hand~~. 
@@ -98,12 +98,8 @@ day each: dancing lights, detect magic, disguise self, and pass without trace.
 The caster level of these spell-like abilities is equal to the changeling’s 
 character level. The DC for these spell-like abilities is equal to 10 + the 
 spell’s level + the changeling’s Charisma modifier. 
-### Favored Class Bonus (Aether III)
-Choose one kineticist element you possess. Increase the maximum value of your 
-internal buffer by +1/3 (maximum +3). This extra amount can only be spent in 
-place of accepting burn for the selected element. If you reach the maximum bonus 
-from this favored class bonus and possess more than one element at that time, 
-you can choose that element to apply this favored class bonus to.
+### Favored Class Bonus - Dark Elementalist Alternate III
+Each time you take this benefit, gain +1/3 of a use of Soul Power per day. 
 
 ## Class Features
 ### Elemental Focus (Aether)
@@ -118,8 +114,8 @@ counterspell any spell of equal or lower level that shares its descriptor, and
 have descriptors corresponding to any energy damage type(s) they deal. They 
 count as a weapon for feats like Weapon Focus, but you are never considered to 
 be holding them, and you cannot use Vital Strike with them. 
-- Physical blasts are ranged attacks that deal 1d6 + 4 (2+CON Mod) damage, increasing by 1d6 + 1 every odd level. 
-- Energy blasts are ranged touch attacks that deal 1d6 + 1 (1/2 CON Mod) damage, increasing by 1d6 every odd level.
+- Physical blasts are ranged attacks that deal 2d6 + 6 (2+INT Mod) damage, increasing by 1d6 + 1 every odd level. 
+- Energy blasts are ranged touch attacks that deal 2d6 + 2 (1/2 INT Mod) damage, increasing by 1d6 every odd level.
 ### Gather Power
 If you have both hands free, you may gather power in a loud and visible display 
 to reduce the burn of a blast used immediately after. A move action reduces the 
@@ -127,54 +123,37 @@ blast by 1, a full-round action reduces it by 2, and a full-round plus a move
 action reduces it by 3. 
 If you take damage between starting to gather power and finishing the blast, 
 make a concentration check (DC 10 + Damage taken + effective spell level) or 
-gain a negative level that disappears after a day. 
-### Dark Studies TODO CLEANUP
-A dark elementalist’s base Will save bonus from the kineticist class is equal 
-to 2 + 1/2 her kineticist level, and her base Reflex and Fortitude save bonuses 
-are equal to 1/3 her kineticist level. She gains all Knowledge skills as class 
-skills.
-A dark elementalist uses her Intelligence modifier instead of her Constitution 
-modifier to determine her damage with wild talents, the DCs of Constitution-
-based wild talents, the durations of wild talents with Constitution-based 
-durations, her bonus on concentration checks for wild talents, and any other 
-Constitution-based effects of all her wild talents.
-### Soul Power TODO CLEANUP
-A dark elementalist uses the souls of others to protect herself from the dangers 
-of burn. She can’t choose to accept burn if doing so would raise her total 
-number of points of burn above 3. However, a number of times per day equal to 
-her Intelligence modifier, as a full-round action she can gather up the soul of 
-a sentient creature with a CR equal to or higher than her character level, as 
-long as that creature died in the past minute. When she does, some of her 
-existing burn is unloaded into the departing soul, racking it with unspeakable 
-torment, but reducing her current burn total by 1 point. A soul used in this way 
-cannot be brought back to life as if it died of a death effect. Using a soul 
-like this doesn’t heal the nonlethal damage from that point of burn immediately, 
-but does enable the dark elementalist to heal the nonlethal damage from that 
-point of burn normally.
+take burn. 
+### Soul Power (Healing Buffer Variant) 
+The maximum burn you can intentionally accept is 3. However, a number of times 
+per day equal to your Intelligence modifier (4), as a full-round action you can
+gather up souls of sentient creatures with a collective CR equal to or greater 
+than your level, and offload 2 burn onto them. This doesn't heal the nonlethal
+damage, but does allow you to heal that damage through other means. You may only
+offload burn spent on Kinetic Healer and Healing Burst. A soul used in this way
+cannot be brought back to life as if it died of a death effect. 
 At 6th level, racking a soul in this way forces anyone trying to bring the 
-creature back to life to succeed at a caster level check (DC = 10 + the dark 
-elementalist’s kineticist level) or the attempt fails. At 11th level, even if 
-the creature returns from the dead, its soul is so damaged by the agony that it 
-takes 2d6 points of Wisdom damage. At 16th level, the soul is destroyed in the 
-process, and the creature can be restored only by a miracle or wish.
+creature back to life to succeed at a caster level check (DC = 10 + level) or 
+the attempt fails. At 11th level, even if the creature returns from the dead, 
+its soul is so damaged by the agony that it takes 2d6 points of Wisdom damage. 
+At 16th level, the soul is destroyed in the process, and the creature can be 
+restored only by a miracle or wish.
 A dark elementalist gains attack and damage bonuses from elemental overflow 
 based on how many times that day she has used soul power to rack a soul, rather 
-than based on her current burn total. For instance, a 9th-level dark 
-elementalist who used soul power to rack three or more souls during the course 
-of the day would add a +3 bonus on attack rolls and a +6 bonus on damage rolls. 
-A dark elementalist does not gain size bonuses to physical ability scores or a 
-chance to ignore critical hits and sneak attacks from elemental overflow.
+than based on her current burn total. A dark elementalist does not gain size 
+bonuses to physical ability scores or a chance to ignore critical hits and sneak
+attacks from elemental overflow.
 ### Kinetic Chirurgery 
 You may never gain or use infusions, but instead gain the Kinetic Healing talent
 for free at first level. You may use this talent a number of times per day equal
-to your CON modifier without applying burn.  At third level and every odd level 
+to your INT Modifier without applying burn.  At third level and every odd level 
 thereafter, gain a paladin mercy; you may apply a single mercy to any target of 
 Kinetic Healing or Healing Burst. 
 ### Kinetic Mercies
 #### Fatigued 
 You may remove fatigue from targets of Kinetic Healer of Healing Burst.
 ### Wild Talents
-DC 13 (10+CON Mod) + Talent effective spell level
+DC 13 (10+INT Mod) + Talent effective spell level
 #### Kinetic Healer (Utility (Universal), Level 1, Burn 1) 
 With a touch, you can heal a willing living creature of an amount of damage 
 equal to your kinetic blast‘s damage. Instead of paying the burn cost yourself, 
@@ -204,20 +183,11 @@ talent restores temporary hitpoints equal to your level.
 You may accept burn to empower this. Every point of burn increases the maximum 
 temporary HP by half your level, and every two points of burn increase the 
 regeneration rate by 1 per minute. 
-### Overflow TODO CLEANUP
-You accidentally pick up ambient debris with telekinesis whenever you carry burn.
-You may suppress this effect, but doing so also suppresses any other benefits of
-Overflow. For every point of burn you carry, up to a maximum of 1/3 of your 
+### Overflow
+For every Soul Burn used today, up to a maximum of 1/3 of your 
 Kineticist level, you gain +1 to attack rolls with kinetic blasts and +2 to 
 damage or healing dealt with blasts, Kinetic Healer, or Healing Burst. 
-Starting at 6th level, you gain a chance to ignore critical hits or sneak 
-attacks equal to 5% per carried burn, and whenever you carry at least 3 burn, 
-you gain a +2 size bonus to two physical ability scores of your choice. 
-At 11th level, whenever you carry at least 5 burn, your size bonuses change to a
-+4 bonus to one physical ability score and +2 to the other two. 
-At 16th level, whenever you carry at least 7 burn, your size bonuses change to a
-+6 bonus to one physical ability score, a +4 bonus to a second, and a +2 bonus 
-to the third. 
+
 
 ## VMC Class Features
 ### Mystery of Life
