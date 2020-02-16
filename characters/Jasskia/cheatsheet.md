@@ -6,12 +6,13 @@
 |	**Telekinesis, Dagger**	|	+6 to hit	|	1d4 + 3 piercing; can poison as swift action
 |	**Life Link**				|	N/A			|	Take 5 damage to heal 1d4 + 5 
 |	**Kinetic Healer**		|	N/A			|	Heal 2d6 + 1d4 + 6, +2 if Soul Burn used today
+|	**Lay on Hands**			|	N/A			| 	Heal 1d6 + 1d4
 
 ## Per-Day actions
 |	Dailies					| Uses						| Effect	|
 |-----------------------|-----------------------|--------|
 |	**Soul Burn**			|	[ ] [ ] [ ] [ ] [ ]	|	Reduce current burn by 2 
-| 	**Chirurgery**			|	[ ] [ ] [ ]				|	Kinetic healer uses without incurring burn
+| 	**Chirurgery**			|	[ ] [ ] [ ]	[ ]		|	Kinetic healer uses without incurring burn
 | 	**Lay on Hands**		|	[ ] [ ]					|	Heal 1d6 + 1d4 as a standard action
 |	**Steady Disable**	|	[ ] 						|	Take 10 on a disable device check, even in combat
 | 	**Dancing Lights**	|	[ ]						|	As cantrip
