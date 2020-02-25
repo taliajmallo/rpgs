@@ -22,23 +22,23 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |	**HP**		|	21 max			|	
 |	**THP**		|	3 Persistent	| *Regenerates at rate of 1/minute*
 |	**Burn**		|	-3HP/Burn		|	0 Burn 
-|	**Healing**	|	283/1000 HP		|	*-2 per damage dealt*
+|	**Healing**	|	710/1000 HP		|	*-2 per damage dealt*
 
 ## Tertiary Stats
-|	Stat		|	Base				|	Temp/Notes	|	
-|-----------|-----------------|--------------|	
-|	**AC**	|	15 (13 T/12 F)	|	-
-|	**Init**	|	+3					|	-
-|	**BAB**	|	+2					|	- 
-|	**CMB**	|	+1					|	- 
-|	**CMD**	|	13 (10 F)		|	- 
+|	Stat			|	Base				|	Temp/Notes	|	
+|--------------|-----------------|--------------|	
+|	**AC**		|	15 (13 T/12 F)	|	-
+|	**Init**		|	+3					|	-
+|	**BAB**		|	+2					|	- 
+|	**CMB**		|	+1					|	- 
+|	**CMD**		|	13 (10 F)		|	- 
 
 ## Saves 
-|	Save		|	Base	|	Temp/Notes	|	
-|-----------|--------|--------------|	
-|	**Fort**	|	+2 	|	- 
-|	**Ref**	|	+4		|	- 
-|	**Will**	|	+3		|	- 
+|	Save			|	Base	|	Temp/Notes	|	
+|--------------|--------|--------------|	
+|	**Fort**		|	+2 	|	- 
+|	**Ref**		|	+4		|	- 
+|	**Will**		|	+3		|	- 
 
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
@@ -225,11 +225,11 @@ multiple bonds active, you may end as many as you want as part of the same
 immediate action).
 
 ## Feats 
-### Healer's Touch (205 / 1000)
+### Healer's Touch (1st)
 After curing a cumulative total of 1000 points of damage, plus 2 for every point 
 of damage dealt, your Kinetic Healer ability talent always restores its maximum
 possible hitpoints when used on a target other than yourself. 
-### Mystic Healer
+### Mystic Healer (1st Antihero)
 Add additional dice to any form of healing you generate. This starts as +1d4, 
 increasing to 1d6 at 4th level, 2d6 at 7th level, 3d6 at 10th level, and 4d6 at
 13th level. 

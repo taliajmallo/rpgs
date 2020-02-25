@@ -91,6 +91,8 @@ of it. We then turned around to return back to town with any of the valuables we
 could grab. 
 ### May 1, 957
 On returning to town, we found it aflame and filled with screaming villagers. 
+## Session 6
+### May 1, 957 TODO
 
 ## Campaign Notes
 ### Companions

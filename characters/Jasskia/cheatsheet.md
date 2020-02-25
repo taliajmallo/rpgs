@@ -12,13 +12,13 @@
 |	Dailies					|	Uses						|	Effect	|
 |-----------------------|-----------------------|-----------|
 |	**Current Burn**		|	[ ] [ ] [ ]				|	-3 HP/Burn
-|	**Soul Burn**			|	[ ] [ ] [ ] [ ] [ ]	|	Reduce current burn by 2, but only burn from healing
-| 	**Chirurgery**			|	[ ] [ ] [ ]	[ ]		|	Kinetic healer uses without incurring burn
-| 	**Lay on Hands**		|	[ ] [ ]					|	Heal 1d6 + 1d4 as a standard action
+|	**Soul Burn**			|	[x] [ ] [ ] [ ] [ ]	|	Reduce current burn by 2, but only burn from healing
+| 	**Chirurgery**			|	[x] [x] [x]	[x]		|	Kinetic healer uses without incurring burn
+| 	**Lay on Hands**		|	[x] [ ]					|	Heal 1d6 + 1d4 as a standard action
 |	**Steady Disable**	|	[ ] 						|	Take 10 on a disable device check, even in combat
 | 	**Dancing Lights**	|	[ ]						|	As cantrip
 | 	**Detect Magic**		|	[ ]						|	As cantrip
-|	**Disguise Self**		|	[ ]						|	As 1st level spell
+|	**Disguise Self**		|	[x]						|	As 1st level spell
 |	**Pass W/o Trace**	|	[ ]						|	As 1st level spell
 
 ## Out-of-combat notable actions
