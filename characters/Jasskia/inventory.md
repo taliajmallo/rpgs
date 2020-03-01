@@ -17,7 +17,7 @@
 |	Name								|	Weight	|	Notes		|
 |-----------------------------|-----------|-----------|
 |	Dagger							|	1 lbs 	|	1d4 piercing damage
-|	Marbles, bulk					|	2 lbs 	|	Telekinesis fodder
+|	Marbles, bulk					|	1 lbs 	|	Telekinesis fodder
 |	Hammer							|	2 lbs 	|	Small & heavy
 |	Sewing Needle					|	-			|	Small & pointy
 |	Torch								|	1 lbs 	|	Flammable & bright 
@@ -31,7 +31,8 @@
 |	Twine (50ft)					|	.5 ea.	|	5x			|
 |	Rope (50ft Hemp)				|	10 ea.	|	1x			|	
 |	Poison Dart						|	-			|	4x			|	Small Centipede poison
-|	**Total**						|	12.5 lbs	|	-			|	Contained in backpack
+|	Cask of Oil						|	1 ea.		|	1x			|	Flammable
+|	**Total**						|	13.5 lbs	|	-			|	Contained in backpack
 
 ## Misc
 |	Name								|	Weight	|	Notes		|

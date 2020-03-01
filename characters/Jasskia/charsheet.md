@@ -1,5 +1,5 @@
 # Jasskia 
-## CE Changeling Kineticist (Kinetic Chirurgeon/Dark Elementalist) / VMC Oracle 3 
+## CE Changeling Kinetic Chirurgeon/Dark Elementalist (VMC Oracle) 
 ## Appearance & Vital Stats 
 From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
 tidy braid of black hair that reaches down to her shoulder. However, at a close 
@@ -12,24 +12,23 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |	**STR** 	|	12 (+1)	|	-
 |	**DEX** 	|	16 (+3)	|	-
 |	**CON** 	|	12 (+1) 	|	-
-|	**INT** 	|	19 (+4) 	|	-
+|	**INT** 	|	21 (+5) 	|	-
 |	**WIS** 	|	10 (--) 	|	-
 |	**CHA** 	|	15 (+1) 	|	-
 
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	21 max			|	
-|	**THP**		|	3 Persistent	| *Regenerates at rate of 1/minute*
-|	**Burn**		|	-3HP/Burn		|	0 Burn 
-|	**Healing**	|	710/1000 HP		|	*-2 per damage dealt*
+|	**HP**		|	28 max			|	-6 Burn, -6 Nonlethal
+|	**THP**		|	4 Persistent	| *Regenerates at rate of 1/minute*
+|	**Burn**		|	-4HP/Burn		|	0 Burn 
 
 ## Tertiary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
 |	**AC**		|	15 (13 T/12 F)	|	-
 |	**Init**		|	+3					|	-
-|	**BAB**		|	+2					|	- 
+|	**BAB**		|	+3					|	- 
 |	**CMB**		|	+1					|	- 
 |	**CMD**		|	13 (10 F)		|	- 
 
@@ -38,23 +37,23 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |--------------|--------|--------------|	
 |	**Fort**		|	+2 	|	- 
 |	**Ref**		|	+4		|	- 
-|	**Will**		|	+3		|	- 
+|	**Will**		|	+4		|	- 
 
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Bluff*					|	+7		|	3+3	|	+1		|	-		| 	-
-|	*Disable Device*		|	+17	|	3+3	|	+3		|	+8		| 	+1 Trait, +2 Circ (Tools), +5 Comp (Ring)
-|	*Kn., Arcana*			|	+10	|	3+3	|	+4		|	-		|	-
-|	*Kn., Planes*			|	+10	|	3+3	|	+4		|	-		|	-
-|	*Kn., Engineering*	|	+8		|	1+3	|	+4		|	-		|	-
-|	*Kn., Local*			|	+8		|	1+3	|	+4		|	-		|	-
-|	*Kn., Religion*		|	+8		|	1+3	|	+4		|	-		|	-
+|	*Bluff*					|	+8		|	4+3	|	+1		|	-		| 	-
+|	*Disable Device*		|	+18	|	4+3	|	+3		|	+8		| 	+1 Trait, +2 Circ (Tools), +5 Comp (Ring)
+|	*Kn., Arcana*			|	+12	|	4+3	|	+5		|	-		|	-
+|	*Kn., Planes*			|	+12	|	4+3	|	+5		|	-		|	-
+|	*Kn., Engineering*	|	+9		|	1+3	|	+5		|	-		|	-
+|	*Kn., Local*			|	+9		|	1+3	|	+5		|	-		|	-
+|	*Kn., Religion*		|	+9		|	1+3	|	+5		|	-		|	-
 |	*Perception*			|	+4		| 	1+3	|	- 		|	-		|	-
-|	*Sleight of Hand*		|	+9		|	3+3	|	+3		|	-		|	-
-|	*Spellcraft*			|	+11	|	3+3	|	+4		|	+1		|	+1 Trait 
+|	*Sleight of Hand*		|	+9		|	4+3	|	+3		|	-		|	-
+|	*Spellcraft*			|	+13	|	4+3	|	+5		|	+1		|	+1 Trait 
 |	*Stealth*				|	+7		|	1+3	|	+3		|	-		|	-
-|	*Use Magic Device*	|	+5		|	1+3	|	+1		|	-		|	-
+|	*Use Magic Device*	|	+8		|	4+3	|	+1		|	-		|	-
 
 ## Languages, Proficiencies
 - **Languages**: Common, Humic, Dwarvish, Elven, Goblin, Vishkanya 
@@ -99,7 +98,7 @@ day each: dancing lights, detect magic, disguise self, and pass without trace.
 The caster level of these spell-like abilities is equal to the changeling’s 
 character level. The DC for these spell-like abilities is equal to 10 + the 
 spell’s level + the changeling’s Charisma modifier. 
-### Favored Class Bonus - Dark Elementalist Alternate III
+### Favored Class Bonus - Dark Elementalist Alternate IV
 Each time you take this benefit, gain +1/3 of a use of Soul Power per day. 
 
 ## Class Features
@@ -115,7 +114,7 @@ counterspell any spell of equal or lower level that shares its descriptor, and
 have descriptors corresponding to any energy damage type(s) they deal. They 
 count as a weapon for feats like Weapon Focus, but you are never considered to 
 be holding them, and you cannot use Vital Strike with them. 
-- Physical blasts are ranged attacks that deal 2d6 + 6 (2+INT Mod) damage, increasing by 1d6 + 1 every odd level. 
+- Physical blasts are ranged attacks that deal 2d6 + 7 (2+INT Mod) damage, increasing by 1d6 + 1 every odd level. 
 - Energy blasts are ranged touch attacks that deal 2d6 + 2 (1/2 INT Mod) damage, increasing by 1d6 every odd level.
 ### Gather Power
 If you have both hands free, you may gather power in a loud and visible display 
@@ -183,12 +182,17 @@ regenerate at a rate of 1 per minute, and accepting burn from an Aether wild
 talent restores temporary hitpoints equal to your level. 
 You may accept burn to empower this. Every point of burn increases the maximum 
 temporary HP by half your level, and every two points of burn increase the 
-regeneration rate by 1 per minute. 
+regeneration rate by 1 per minute.
+#### Kinetic Cover  (Utility, Level 1, Burn 0)
+You may create translucent telekinetic barriers as a standard action. Choose one 
+face of a 5-foot cube within 30 feet that is supported by the ground. It grants 
+total cover, has a hardness of 0, AC 5, and 8 hitpoints (2 per Kineticist level), 
+and may support a maximum of 5 points. You may have 7 (INT Mod + Kineticist 
+level) barriers active at a time.  
 ### Overflow
 For every Soul Burn used today, up to a maximum of 1/3 of your 
 Kineticist level, you gain +1 to attack rolls with kinetic blasts and +2 to 
 damage or healing dealt with blasts, Kinetic Healer, or Healing Burst. 
-
 
 ## VMC Class Features
 ### Mystery of Life
