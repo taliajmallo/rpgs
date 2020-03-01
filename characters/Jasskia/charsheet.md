@@ -19,7 +19,7 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	28 max			|	-6 Burn, -6 Nonlethal
+|	**HP**		|	28 max			|	-8 Burn, -6 Nonlethal
 |	**THP**		|	4 Persistent	| *Regenerates at rate of 1/minute*
 |	**Burn**		|	-4HP/Burn		|	0 Burn 
 
@@ -214,7 +214,7 @@ level.
 - At 10th curse level (11th character level), you gain a second mercy, and can exchange your first mercy for a different one.
 - At 15th curse level (20th character level), you gain a third mercy, and can exchange one of your existing mercies for a different one.
 #### Lay on Hands (Merciful)
-You may cure wounds with a touch 2 (1/4 character level + CHA mod) times per day, 
+You may cure wounds with a touch 3 (1/4 character level + CHA mod) times per day, 
 healing 1d6 (1d6 / 4 character levels, min 1d6) damage. This is a standard 
 action when used on another target, or a swift action when used on yourself. 
 ### Revelation: Life Link

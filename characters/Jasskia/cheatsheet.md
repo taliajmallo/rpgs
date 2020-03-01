@@ -14,7 +14,7 @@
 |	**Current Burn**		|	[x] [x] [x]					|	-4 HP/Burn
 |	**Soul Burn**			|	[x] [x] [x] [x] [x] [ ]	|	Reduce current burn by 2, but only burn from healing
 | 	**Chirurgery**			|	[x] [x] [x]	[x] [ ]		|	Kinetic healer uses without incurring burn
-| 	**Lay on Hands**		|	[x] [x]						|	Heal 1d6 + 1d4 as a standard action
+| 	**Lay on Hands**		|	[x] [x] [ ]					|	Heal 1d6 + 1d4 as a standard action
 |	**Steady Disable**	|	[x] 							|	Take 10 on a disable device check, even in combat
 | 	**Dancing Lights**	|	[ ]							|	As cantrip
 | 	**Detect Magic**		|	[ ]							|	As cantrip
