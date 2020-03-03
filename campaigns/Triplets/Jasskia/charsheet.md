@@ -17,8 +17,8 @@
 |	**AC**		|	13					|	-
 |	**Init**		|	+3					|	-
 |	**BAB**		|	+2					|	- 
-|	**CMB**		|	?					|	- 
-|	**CMD**		|	?					|	- 
+|	**CMB**		|	+3					|	- 
+|	**CMD**		|	14					|	- 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
@@ -35,6 +35,8 @@
 |	*Kn., Arcana*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Kn., Planes*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Kn., History*			|	+9		|	1+3	|	+5		|	-		|	-
+|	*Perception*			|	+2		|	-		|	-		|	+2		|	+2 Familiar
+|	*Sense Motive*			|	+2		|	-  	|	-		|	+2		|	+2 Familiar
 |	*Sleight of Hand*		|	+5		|	2		|	+3		|	-		|	-
 |	*Spellcraft*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Use Magic Device*	|	+5		|	1+3	|	+2		|	-		|	-
@@ -85,17 +87,17 @@ cast.
 
 ## Witch Class Features
 ### Patron: The Lost Prince (Peace)
-You gain the Peacebond hex at first level, but your patron requires that you 
-remain neutral to conflict when possible, and you cannot take an action that 
-causes damage against creatures who have not damaged another in the last 24 
-hours. Gain the following patron spells: 
+You gain the Peacebond hex at first level. Your patron requires that you remain 
+neutral to conflict whenever possible, and you cannot take an action that causes 
+damage against creatures who have not damaged another in the last 24 hours. Gain 
+the following patron spells at the specified levels: 
 	2.  Sanctuary
 	4.  Touch of Mercy
 	6.  Mantle of Calm
 	8.  Dismissal
-	10. Hymn of Mercy
+	10. Serenity
 	12. Word of Recall
-	14. Forcecage
+	14. Hymn of Peace
 	16. Euphoric Tranquility
 	18. Antipathy
 ### Familiar - Flowering Lattice

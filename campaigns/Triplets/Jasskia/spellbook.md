@@ -188,15 +188,6 @@ increases its level by 1.
 
 
 ### Level 1 Effects
-- Fade (Concealing, Illusion 1)
-  - Duration 1 round
-  - Saving Throw Will negates (harmless); Spell Resistance yes (harmless)
-  - Target Restrictions Selected
-The target of a wordspell with this effect word becomes invisible until the 
-beginning of the caster’s next turn. If the target attacks or otherwise takes 
-an offensive action, this effect ends.
-*Boost:* The target does not become visible if it attacks or takes an offensive 
-action.
 - Friendship (Command, Enchantment 1)
   - Duration 10 minutes/level
   - Saving Throw Will negates; Spell Resistance yes
@@ -241,6 +232,10 @@ possible. This otherwise functions as approach.
 although it is not considered flat-footed or helpless.
 *Boost:* This wordspell can use any target word. Boosting this effect word 
 increases its level by 3.
+- Wrack (Pain, Necromancy 1)
+  - Duration 1 round/level
+  - Saving Throw Fortitude negates; Spell Resistance yes
+The targets of a wordspell with this effect word are sickened.
 
 ### Level 2 Effects
 - Entangling Strands (Weather, Conjuration 2)
