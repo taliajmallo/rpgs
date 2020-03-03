@@ -7,11 +7,10 @@
 |	Name								|	Weight	|	Notes		|
 |-----------------------------|-----------|-----------|
 |	Peasant's clothes				|	1 lbs 	|
-|	Leather Armor					|	15 lbs 	|	+2 AC, max DEX +6
 |	Backpack							|	31.5 (2)	|	
 |	Bracers of Burglary			|	-			|	Transforms to MW Thieves' Tools, 1/day take 10 disable
 |	Ring of Maniacal Devices	| 	-			| 	+5 to Disable Device & Craft (Trap)
-|	**Total**						|	42.5 lbs	|
+|	**Total**						|	32.5 lbs	|
 
 ## Tools
 |	Name								|	Weight	|	Notes		|

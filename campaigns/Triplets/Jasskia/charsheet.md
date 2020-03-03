@@ -1,11 +1,5 @@
 # Jasskia 
-## CE Changeling Kinetic Chirurgeon/Dark Elementalist (VMC Oracle) 
-## Appearance & Vital Stats 
-From a distance, Jass appears to be a lithe and well-tanned human woman, with a 
-tidy braid of black hair that reaches down to her shoulder. However, at a close 
-range it's clear that she's one of the scaled Vishkanya of the Bla'kroya dessert, 
-peering at the world through the golden eyes of a serpent. 
-Jass stands at approximately 5'5", weighing 110 lbs.
+## CN Changeling Ley-line Vellemancer Seasons Witch (VMC Oracle) 4
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
@@ -14,23 +8,17 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 |	**CON** 	|	12 (+1) 	|	-
 |	**INT** 	|	21 (+5) 	|	-
 |	**WIS** 	|	10 (--) 	|	-
-|	**CHA** 	|	15 (+1) 	|	-
+|	**CHA** 	|	15 (+2) 	|	-
 
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	28 max			|	-8 Burn, -6 Nonlethal
-|	**THP**		|	4 Persistent	| *Regenerates at rate of 1/minute*
-|	**Burn**		|	-4HP/Burn		|	0 Burn 
-
-## Tertiary Stats
-|	Stat			|	Base				|	Temp/Notes	|	
-|--------------|-----------------|--------------|	
-|	**AC**		|	15 (13 T/12 F)	|	-
+|	**HP**		|	24 max			|	-8 Burn, -6 Nonlethal
+|	**AC**		|	13					|	-
 |	**Init**		|	+3					|	-
-|	**BAB**		|	+3					|	- 
-|	**CMB**		|	+1					|	- 
-|	**CMD**		|	13 (10 F)		|	- 
+|	**BAB**		|	+2					|	- 
+|	**CMB**		|	?					|	- 
+|	**CMD**		|	?					|	- 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
@@ -42,23 +30,19 @@ Jass stands at approximately 5'5", weighing 110 lbs.
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Bluff*					|	+8		|	4+3	|	+1		|	-		| 	-
+|	*Diplomacy*				|	+16	|	4+3	|	+5		|	+4		| 	+3 Familiar
 |	*Disable Device*		|	+18	|	4+3	|	+3		|	+8		| 	+1 Trait, +2 Circ (Tools), +5 Comp (Ring)
 |	*Kn., Arcana*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Kn., Planes*			|	+12	|	4+3	|	+5		|	-		|	-
-|	*Kn., Engineering*	|	+9		|	1+3	|	+5		|	-		|	-
-|	*Kn., Local*			|	+9		|	1+3	|	+5		|	-		|	-
-|	*Kn., Religion*		|	+9		|	1+3	|	+5		|	-		|	-
-|	*Perception*			|	+4		| 	1+3	|	- 		|	-		|	-
-|	*Sleight of Hand*		|	+9		|	4+3	|	+3		|	-		|	-
-|	*Spellcraft*			|	+13	|	4+3	|	+5		|	+1		|	+1 Trait 
-|	*Stealth*				|	+7		|	1+3	|	+3		|	-		|	-
-|	*Use Magic Device*	|	+8		|	4+3	|	+1		|	-		|	-
+|	*Kn., History*			|	+9		|	1+3	|	+5		|	-		|	-
+|	*Sleight of Hand*		|	+5		|	2		|	+3		|	-		|	-
+|	*Spellcraft*			|	+12	|	4+3	|	+5		|	-		|	-
+|	*Use Magic Device*	|	+5		|	1+3	|	+2		|	-		|	-
 
 ## Languages, Proficiencies
 - **Languages**: Common, Humic, Dwarvish, Elven, Goblin, Vishkanya 
 - **Weapons**: Simple 
-- **Armor**: Light
+- **Armor**: None
 
 ## Traits & Drawbacks
 ### Attached
@@ -67,19 +51,15 @@ Whenever she is either threatened, in danger, or in someone else's possession,
 you take a -1 penalty on Will saves and a -2 penalty on saves against fear 
 effects. If she is ever lost, killed, or destroyed, exchange this drawback for 
 the Doubt drawback. 
-### Classically-Schooled
-Encouraging Cil's interest in magic meant reading a wide variety of arcane texts.
-You gain a +1 trait bonus on **Spellcraft** checks, and Spellcraft is always a 
-class skill for you.
+### Two-World Magic
+Add the Lift spell word to your spell words known.  
 ### Criminal
 You spent your early life robbing and stealing to get by. Select one of the 
 following skills: **Disable Device**, ~~Intimidate~~, or ~~Sleight of Hand~~. 
 You gain a +1 trait bonus on that skill, and it is always a class skill for you. 
-### Stealthy Escape
-When trying to escape manacles, rope, or other similar restraints (but not 
-grapples or similar attacks), you may make a Sleight of Hand check instead of 
-your Escape Artist modifier. If you free yourself, you gain a +2 trait bonus on 
-Bluff checks to pretend that you are still bound.
+### Clever Wordplay
+You may use your Intelligence instead of your Charisma for the purposes of the 
+Diplomacy skill.
 
 ## Racial Features
 ### Base Properties
@@ -98,101 +78,66 @@ day each: dancing lights, detect magic, disguise self, and pass without trace.
 The caster level of these spell-like abilities is equal to the changeling’s 
 character level. The DC for these spell-like abilities is equal to 10 + the 
 spell’s level + the changeling’s Charisma modifier. 
-### Favored Class Bonus - Dark Elementalist Alternate IV
-Each time you take this benefit, gain +1/3 of a use of Soul Power per day. 
+### Favored Class Bonus - Witch IV
+Each time you take this benefit, gain a witch spell word to your spell words 
+known. This word must be at least one level below the highest word level you can 
+cast. 
 
-## Class Features
-### Elemental Focus (Aether)
-Your primary elemental focus is Aether. You add Knowledge (Engineering) and 
-Sleight of Hand to your class skill list, and gain the *Basic Telekinesis* 
-talent and *Telekinetic Blast* blast.
-### Kinetic Blast
-As a standard action, you can unleash a kinetic blast at a single target up to a 
-range of 30 feet. You must have at least 1 hand free to aim. Kinetic blasts are 
-always treated as magic, always deal full damage to swarms, may be readied to 
-counterspell any spell of equal or lower level that shares its descriptor, and 
-have descriptors corresponding to any energy damage type(s) they deal. They 
-count as a weapon for feats like Weapon Focus, but you are never considered to 
-be holding them, and you cannot use Vital Strike with them. 
-- Physical blasts are ranged attacks that deal 2d6 + 7 (2+INT Mod) damage, increasing by 1d6 + 1 every odd level. 
-- Energy blasts are ranged touch attacks that deal 2d6 + 2 (1/2 INT Mod) damage, increasing by 1d6 every odd level.
-### Gather Power
-If you have both hands free, you may gather power in a loud and visible display 
-to reduce the burn of a blast used immediately after. A move action reduces the 
-blast by 1, a full-round action reduces it by 2, and a full-round plus a move 
-action reduces it by 3. 
-If you take damage between starting to gather power and finishing the blast, 
-make a concentration check (DC 10 + Damage taken + effective spell level) or 
-take burn. 
-### Soul Power (Healing Buffer Variant) 
-The maximum burn you can intentionally accept is 3. However, a number of times 
-per day equal to your Intelligence modifier (4), as a full-round action you can
-gather up souls of sentient creatures with a collective CR equal to or greater 
-than your level, and offload 2 burn onto them. This doesn't heal the nonlethal
-damage, but does allow you to heal that damage through other means. You may only
-offload burn spent on Kinetic Healer and Healing Burst. A soul used in this way
-cannot be brought back to life as if it died of a death effect. 
-At 6th level, racking a soul in this way forces anyone trying to bring the 
-creature back to life to succeed at a caster level check (DC = 10 + level) or 
-the attempt fails. At 11th level, even if the creature returns from the dead, 
-its soul is so damaged by the agony that it takes 2d6 points of Wisdom damage. 
-At 16th level, the soul is destroyed in the process, and the creature can be 
-restored only by a miracle or wish.
-A dark elementalist gains attack and damage bonuses from elemental overflow 
-based on how many times that day she has used soul power to rack a soul, rather 
-than based on her current burn total. A dark elementalist does not gain size 
-bonuses to physical ability scores or a chance to ignore critical hits and sneak
-attacks from elemental overflow.
-### Kinetic Chirurgery 
-You may never gain or use infusions, but instead gain the Kinetic Healing talent
-for free at first level. You may use this talent a number of times per day equal
-to your INT Modifier without applying burn.  At third level and every odd level 
-thereafter, gain a paladin mercy; you may apply a single mercy to any target of 
-Kinetic Healing or Healing Burst. 
-### Kinetic Mercies
-#### Fatigued 
-You may remove fatigue from targets of Kinetic Healer of Healing Burst.
-### Wild Talents
-DC 14 (10+INT Mod) + Talent effective spell level
-#### Kinetic Healer (Utility (Universal), Level 1, Burn 1) 
-With a touch, you can heal a willing living creature of an amount of damage 
-equal to your kinetic blast‘s damage. Instead of paying the burn cost yourself, 
-you can cause the recipient to take 1 point of burn. 
-#### Basic Telekinesis (Utility (Aether), Level 1, Burn 0)
-Modified Mage Hand or Open/Close cantrip: As an action, at a range of 30 feet 
-(25 + 5 / 2levels), you may move an unattended object weighing 10lbs (5 per 2 
-levels, min 5) up to 30 feet/round as long as concentration lasts. Can instead 
-create aetherial container for same weight of fluids, or open/close unsecured 
-container/door/ect. 
-#### Telekinetic Finesse (Utility (Aether), Level 1, Burn -) 
-You can perform any sort of fine manipulation you choose within close range, 
-including attempting Sleight of Hand and Disable Device checks.
-#### Telekinetic Blast (Simple Blast, Level 0, Burn 0)
-Throw a nearby unattended object weighing no more than 10 lbs (5/level). On a 
-hit, either deal blast damage with your choice of physical damage type, or deal 
-damage as if you'd have thrown the object (using CON instead of STR for damage 
-roll). To throw a weapon and use its damage, you must be proficient and able to 
-wield it one-handed. 
-#### Force Ward (Defense, Level -, Burn 0)
-You constantly surround yourself with a ward of force. You gain a number of 
-temporary hit points equal to your kineticist level. If the damage you take 
-from any source is reduced to zero, it is counted as a miss for the purposes
-of of abilities that trigger on a hit or miss. The temporary hitpoints 
-regenerate at a rate of 1 per minute, and accepting burn from an Aether wild 
-talent restores temporary hitpoints equal to your level. 
-You may accept burn to empower this. Every point of burn increases the maximum 
-temporary HP by half your level, and every two points of burn increase the 
-regeneration rate by 1 per minute.
-#### Kinetic Cover  (Utility, Level 1, Burn 0)
-You may create translucent telekinetic barriers as a standard action. Choose one 
-face of a 5-foot cube within 30 feet that is supported by the ground. It grants 
-total cover, has a hardness of 0, AC 5, and 8 hitpoints (2 per Kineticist level), 
-and may support a maximum of 5 points. You may have 7 (INT Mod + Kineticist 
-level) barriers active at a time.  
-### Overflow
-For every Soul Burn used today, up to a maximum of 1/3 of your 
-Kineticist level, you gain +1 to attack rolls with kinetic blasts and +2 to 
-damage or healing dealt with blasts, Kinetic Healer, or Healing Burst. 
+## Witch Class Features
+### Patron: The Lost Prince (Peace)
+You gain the Peacebond hex at first level, but your patron requires that you 
+remain neutral to conflict when possible, and you cannot take an action that 
+causes damage against creatures who have not damaged another in the last 24 
+hours. Gain the following patron spells: 
+	2.  Sanctuary
+	4.  Touch of Mercy
+	6.  Mantle of Calm
+	8.  Dismissal
+	10. Hymn of Mercy
+	12. Word of Recall
+	14. Forcecage
+	16. Euphoric Tranquility
+	18. Antipathy
+### Familiar - Flowering Lattice
+You gain +3 to Bluff checks and the benefits of the Alertness feat (+2 to 
+Perception and Sense Motive checks, increased to +4 at 10 ranks). 
+#### Bountiful Fruits
+Once per week, a flowering lattice produces a handful of small fruits or berries 
+that remain ripe for 1 week. Eating all of the fruit takes 1 minute and affects 
+the eater as if she had consumed a berry affected by goodberry.
+### Season - Winter
+The save DCs of any of your spells that deal cold damage increase by 1. 
+### Hexes
+DC 17 (10 + 1/2 Witch level + INT Mod)
+#### Conduit Surge
+As a swift action, increase your effective caster level for the next spell you 
+cast by 1d4-1. Afterwards, make a Fortitude save (DC 10 + spell level + caster 
+level increase) or become staggered for a number of minutes equal to the spell
+level. At 8th level, the caster level  increase changes to 1d4. You can use this 
+5 (3 + CHA Mod) times per day. 
+#### Peacebond 
+As a standard action, prevent a creature from drawing a weapon for a number of
+rounds equal to your Witch level. This has no effect on natural weapons or 
+already-drawn weapons. A Will save negates, and once a creature has been 
+targeted by this hex, they cannot be targeted again for a day. 
+#### Healing 
+As a standard action, cast cure light wounds without using a spell slot. At 5th
+level, this allows you to cast cure moderate wounds instead. Once a creature has 
+been affected by this hex, they cannot be affected again for a day. 
+#### Protective Luck 
+As a standard action, warp fate around a creature other than you for 1 round. 
+Whenever it is targeted by an effect that requires an attack roll, including 
+weapon attacks, the attacker must roll twice and take the worst result. The 
+duration increases by 1 round at 8th and 16th level, and is affected by any 
+hexes that affect the Fortune hex.  
+#### Invest Hex
+Each day, you may implant 7 (INT Mod + half Witch level) hexes in willing 
+creatures. A creature may only have one hex implanted at a time, and implanting 
+a hex counts against the any limits of using that hex. Implanting a hex is a 
+standard action during which you touch a willing creature. You may activate the 
+hex as a free action at any time you are within medium range, or you may specify 
+a condition when you implant the hex upon which it will automatically trigger. 
+Implanted hexes last until the next time you regain your spells. 
 
 ## VMC Class Features
 ### Mystery of Life
@@ -231,8 +176,8 @@ immediate action).
 ## Feats 
 ### Healer's Touch (1st)
 After curing a cumulative total of 1000 points of damage, plus 2 for every point 
-of damage dealt, your Kinetic Healer ability talent always restores its maximum
-possible hitpoints when used on a target other than yourself. 
+of damage dealt, your healing spells always restores their maximum possible 
+hitpoints when used on a target other than yourself. 
 ### Mystic Healer (1st Antihero)
 Add additional dice to any form of healing you generate. This starts as +1d4, 
 increasing to 1d6 at 4th level, 2d6 at 7th level, 3d6 at 10th level, and 4d6 at

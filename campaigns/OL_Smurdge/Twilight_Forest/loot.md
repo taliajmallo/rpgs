@@ -39,7 +39,7 @@ As +1 Sword of any type. After killing a living or undead creature with this
 weapon, you may spend a hit die to regain that much HP. 
 
 ## Hunter's Reward
-### Feywarped Crossbow
+### Fey-warped Crossbow
 As +1 Heavy Crossbow. Instead of firing physical crossbow bolts, it fires 
 illusory bolts that deal psychic damage. These bolts disappear immediately after
 striking a target, and leave no physical evidence of a fired weapon behind. 
