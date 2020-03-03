@@ -1,5 +1,5 @@
 # Jasskia 
-## CN Changeling Ley-line Vellemancer Seasons Witch (VMC Oracle) 4
+## CN Changeling Ley-line Vellemancer Seasons Witch 4
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
@@ -141,11 +141,12 @@ hex as a free action at any time you are within medium range, or you may specify
 a condition when you implant the hex upon which it will automatically trigger. 
 Implanted hexes last until the next time you regain your spells. 
 
-## VMC Class Features
-### Mystery of Life
-Divine entities have gifted you with supernatural powers of healing, much to 
-your confusion and chagrin.
-### Curse of the Merciful
+## Feats 
+### Cursed Attonement (1st)
+Gain Curse of the Merciful. You may never take levels in a class that grants 
+divine spellcasting, and suffer a -2 penalty on all saving throws against 
+divine spells cast by worshippers of Sarenrae. 
+#### Curse of the Merciful
 You are cursed with a supernatural compulsion to render aid to any who request 
 it. If a non-enemy character asks you to heal them, or asks you for help and you 
 can tell they have taken damage or drain or suffer from a disease or poison, you 
@@ -164,23 +165,11 @@ level.
 You may cure wounds with a touch 3 (1/4 character level + CHA mod) times per day, 
 healing 1d6 (1d6 / 4 character levels, min 1d6) damage. This is a standard 
 action when used on another target, or a swift action when used on yourself. 
-### Revelation: Life Link
-As a standard action, you may create a bond between yourself and another 
-creature. Each round at the start of your turn, if the bonded creature is 
-wounded for 5 or more hit points below its maximum hit points, it heals 5 hit 
-points and you take 5 hit points of damage. You may have a single bond active at 
-a time, plus an additional bond for every level after 5th. This bond continues 
-until the bonded creature dies, you die, the distance between you and the other 
-creature exceeds medium range, or you end it as an immediate action (if you have 
-multiple bonds active, you may end as many as you want as part of the same 
-immediate action).
-
-## Feats 
-### Healer's Touch (1st)
+### Healer's Touch (1st Antihero)
 After curing a cumulative total of 1000 points of damage, plus 2 for every point 
 of damage dealt, your healing spells always restores their maximum possible 
 hitpoints when used on a target other than yourself. 
-### Mystic Healer (1st Antihero)
+### Mystic Healer (3rd)
 Add additional dice to any form of healing you generate. This starts as +1d4, 
 increasing to 1d6 at 4th level, 2d6 at 7th level, 3d6 at 10th level, and 4d6 at
 13th level. 
