@@ -30,7 +30,7 @@
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Diplomacy*				|	+16	|	4+3	|	+5		|	+4		| 	+3 Familiar
+|	*Diplomacy*				|	+15	|	4+3	|	+5		|	+3		| 	+3 Familiar
 |	*Disable Device*		|	+18	|	4+3	|	+3		|	+8		| 	+1 Trait, +2 Circ (Tools), +5 Comp (Ring)
 |	*Kn., Arcana*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Kn., Planes*			|	+12	|	4+3	|	+5		|	-		|	-
