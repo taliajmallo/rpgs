@@ -30,12 +30,12 @@
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Bluff*					|	+12	|	4+3	|	+5		|	+1		| 	
-|	*Disable Device*		|	+18	|	4+3	|	+3		|	+8		| 	+1 Trait, +2 Circ (Tools), +5 Comp (Ring)
+|	*Bluff*					|	+12	|	4+3	|	+5		|	-		| 	
+|	*Disable Device*		|	+14	|	4  	|	+3		|	+7		| 	+2 Circ (Tools), +5 Comp (Ring)
 |	*Kn., Arcana*			|	+12	|	4+3	|	+5		|	-		|	-
-|	*Kn., Planes*			|	+12	|	4+3	|	+5		|	-		|	-
-|	*Kn., History*			|	+9		|	1+3	|	+5		|	-		|	-7
-|	*Sleight of Hand*		|	+5		|	2		|	+3		|	-		|	-
+|	*Kn., Planes*			|	+10	|	2+3	|	+5		|	-		|	-
+|	*Kn., History*			|	+10	|	2+3	|	+5		|	-		|	-
+|	*Sleight of Hand*		|	+11		|	4+3	|	+3		|	+1		|	+1 Trait
 |	*Spellcraft*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Use Magic Device*	|	+5		|	1+3	|	+2		|	-		|	-
 
@@ -54,9 +54,9 @@ the Doubt drawback.
 ### Family Trade (Family)
 Bluff is a class skill for you, and if a family member with the Family Trade 
 trait is within 60 feet of you, gain a +2 trait bonus to Bluff checks. 
-### Mechanical Expertise (Regional)
+### Dealer (Regional)
 You spent your early life robbing and stealing to get by. You gain a +1 trait 
-bonus to **Disable Device**, and it is always a class skill for you. 
+bonus to **Sleight-of-Hand**, and it is always a class skill for you. 
 ### Clever Wordplay (Social)
 You may use your Intelligence instead of your Charisma for the purposes of the 
 Bluff skill.
@@ -149,9 +149,9 @@ points. Also, you cannot perform a coup de grace.
 You gain the ability to lay on hands, as the paladin ability, using your curse 
 level (1/2 character level via VMC, +5 at character level 11) as your paladin 
 level.
-- At 5th curse level (10th character level), you gain a mercy, as the paladin ability.
-- At 10th curse level (11th character level), you gain a second mercy, and can exchange your first mercy for a different one.
-- At 15th curse level (20th character level), you gain a third mercy, and can exchange one of your existing mercies for a different one.
+- At 5th curse level, you gain a mercy, as the paladin ability.
+- At 10th curse level, you gain a second mercy, and can exchange your first mercy for a different one.
+- At 15th curse level, you gain a third mercy, and can exchange one of your existing mercies for a different one.
 #### Lay on Hands (Merciful)
 You may cure wounds with a touch 3 (1/4 character level + CHA mod) times per day, 
 healing 1d6 (1d6 / 4 character levels, min 1d6) damage. This is a standard 
