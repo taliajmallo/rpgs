@@ -221,7 +221,8 @@ increases its level by 3.
 - Wrack (Pain, Necromancy 1)
   - Duration 1 round/level
   - Saving Throw Fortitude negates; Spell Resistance yes
-The targets of a wordspell with this effect word are sickened.
+The targets of a wordspell with this effect word are sickened (-2 to all attack, 
+damage, save, skill, or ability check rolls).
 
 ### Level 2 Effects
 - Entangling Strands (Weather, Conjuration 2)
@@ -235,7 +236,7 @@ increases its level by 1 if its associated target word is selected or by 2 if
 its associated target word is anything but selected.
 
 
-## Patron Spells Spells
+## Patron Spells
 - Sanctuary (Abjuration 1)
   - Casting Time 1 standard action
   - Components V, S, DF

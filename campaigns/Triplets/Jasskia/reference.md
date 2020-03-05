@@ -2,7 +2,7 @@
 ## In-combat notable actions
 | 	At-Wills						|	To-Hit/DC	|	Effect	|
 |--------------------------|--------------|-----------|
-|	Cone Cold Snap				|	DC 16			|	1d3 Cold damage, save/half
+|	Cone Cold Snap				|	DC 16			|	1d3 Cold damage to 10ft cone, save/half
 |	Selected Cold Snap		|	+5 RT			|	1d3 Cold damage
 |	Healing Hex					|	+5 MT/DC 16	|	18 (8+6+4) Healing or Positive, 1/Target/Day
 |	Peacebond Hex				|	DC 16			|	Can't draw weapons, 1/Target/Day
@@ -39,5 +39,20 @@ Healing Hex uses:
    - [ ] Ziggy
 
 ## Common Spells
-"Cone of Cure Light Wounds" - (Boost I?) Cone Flexible Lesser Cure, 2nd Level
-	Cure 16 (1d6+1d6+4) HP to all targets in 10/20 feet. 
+### Disable
+- "Minor Debilitating Symbol" - Burst Wrack
+  - Consumes 1st level slot
+  - Fort/Sickens all targets in 10ft burst
+- "Vine Chain" - Arc Entangling Strands
+  - Consumes 2nd level slot
+  - Reflex/Entangles 2 targets for 4 rounds; second has +2 on save
+### Support
+- "Lesser Cure" - Selected Lesser Cure
+	- Consumes 1st level slot
+	- Cure 16 (1d6+1d6+4) HP to single target in 30 feet
+- "Lesser Cure+" - Boost Selected Lesser Cure
+  - Consumes 1st level slot, 1 Boost
+  - Cure 18 (1d8+1d6+4) HP to single target in 30 feet
+- "Cone of Lesser Cure" - (Boost?) Cone Flexible Lesser Cure
+  - Consumes 2nd level slot, 1 Flexible, optional 1 Boost
+  - Cure 16 (1d6+1d6+4) HP to all targets in 10/20 feet. 
