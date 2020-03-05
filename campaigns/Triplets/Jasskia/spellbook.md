@@ -141,20 +141,6 @@ and does not allow a saving throw.
 The targets of a wordspell with this effect word have their base speed reduced 
 by half (minimum 10 feet).
 - Decipher (Language, Divination 0)
-  - Duration 1 minute/level
-  - Saving Throw none; Spell Resistance no
-  - Target Restrictions personal
-The target of a wordspell with this effect word can read text written in one 
-particular language, including the language of magic. The caster picks the 
-language when the wordspell is cast. For the duration, the target can read that 
-language as if fluent in it. If the caster chooses magic as the language, the 
-can decipher scrolls, glyphs, and other magic writing without triggering 
-them. A wordspell with this effect word does not impart the ability to determine 
-what a given language is based on its appearance; the caster must already know 
-the language or guess what language the writing is in to do so.
-*Boost:* This effect word can use the selected target word. Boosting this effect 
-word increases its level by 1.
-- Lift (Gravity, Transmutation 0)
   - Duration concentration
   - Saving Throw none; Spell Resistance no
   - Target Restrictions personal

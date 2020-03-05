@@ -30,13 +30,11 @@
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Diplomacy*				|	+15	|	4+3	|	+5		|	+3		| 	+3 Familiar
+|	*Bluff*					|	+12	|	4+3	|	+5		|	+1		| 	
 |	*Disable Device*		|	+18	|	4+3	|	+3		|	+8		| 	+1 Trait, +2 Circ (Tools), +5 Comp (Ring)
 |	*Kn., Arcana*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Kn., Planes*			|	+12	|	4+3	|	+5		|	-		|	-
-|	*Kn., History*			|	+9		|	1+3	|	+5		|	-		|	-
-|	*Perception*			|	+2		|	-		|	-		|	+2		|	+2 Familiar
-|	*Sense Motive*			|	+2		|	-  	|	-		|	+2		|	+2 Familiar
+|	*Kn., History*			|	+9		|	1+3	|	+5		|	-		|	-7
 |	*Sleight of Hand*		|	+5		|	2		|	+3		|	-		|	-
 |	*Spellcraft*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Use Magic Device*	|	+5		|	1+3	|	+2		|	-		|	-
@@ -53,15 +51,15 @@ Whenever she is either threatened, in danger, or in someone else's possession,
 you take a -1 penalty on Will saves and a -2 penalty on saves against fear 
 effects. If she is ever lost, killed, or destroyed, exchange this drawback for 
 the Doubt drawback. 
-### Two-World Magic
-Add the Lift spell word to your spell words known.  
-### Criminal
-You spent your early life robbing and stealing to get by. Select one of the 
-following skills: **Disable Device**, ~~Intimidate~~, or ~~Sleight of Hand~~. 
-You gain a +1 trait bonus on that skill, and it is always a class skill for you. 
-### Clever Wordplay
+### Family Trade (Family)
+Bluff is a class skill for you, and if a family member with the Family Trade 
+trait is within 60 feet of you, gain a +2 trait bonus to Bluff checks. 
+### Mechanical Expertise (Regional)
+You spent your early life robbing and stealing to get by. You gain a +1 trait 
+bonus to **Disable Device**, and it is always a class skill for you. 
+### Clever Wordplay (Social)
 You may use your Intelligence instead of your Charisma for the purposes of the 
-Diplomacy skill.
+Bluff skill.
 
 ## Racial Features
 ### Base Properties
@@ -100,13 +98,6 @@ the following patron spells at the specified levels:
 	14. Hymn of Peace
 	16. Euphoric Tranquility
 	18. Antipathy
-### Familiar - Flowering Lattice
-You gain +3 to Bluff checks and the benefits of the Alertness feat (+2 to 
-Perception and Sense Motive checks, increased to +4 at 10 ranks). 
-#### Bountiful Fruits
-Once per week, a flowering lattice produces a handful of small fruits or berries 
-that remain ripe for 1 week. Eating all of the fruit takes 1 minute and affects 
-the eater as if she had consumed a berry affected by goodberry.
 ### Season - Winter
 The save DCs of any of your spells that deal cold damage increase by 1. 
 ### Hexes
