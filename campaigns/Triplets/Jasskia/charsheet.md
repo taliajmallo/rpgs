@@ -1,14 +1,14 @@
 # Jasskia 
-## CN Changeling Ley-line Vellemancer Seasons Witch 4
+## CN Changeling Seductive Seasons Witch 4
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
 |	**STR** 	|	12 (+1)	|	-
 |	**DEX** 	|	16 (+3)	|	-
 |	**CON** 	|	12 (+1) 	|	-
-|	**INT** 	|	21 (+5) 	|	-
+|	**INT** 	|	16 (+3) 	|	-
 |	**WIS** 	|	10 (--) 	|	-
-|	**CHA** 	|	15 (+2) 	|	-
+|	**CHA** 	|	20 (+5) 	|	-
 
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
@@ -30,44 +30,46 @@
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Bluff*					|	+14	|	4+3	|	+5		|	-		| 	+2 Trait within 60' of Pyra
-|	*Disable Device*		|	+14	|	4  	|	+3		|	+7		| 	+2 Circ (Tools), +5 Comp (Ring)
-|	*Kn., Arcana*			|	+12	|	4+3	|	+5		|	-		|	-
-|	*Kn., Planes*			|	+10	|	2+3	|	+5		|	-		|	-
-|	*Kn., History*			|	+10	|	2+3	|	+5		|	-		|	-
+|	*Bluff*					|	+15	|	4+3	|	+5		|	+3*	| 	+3 Familiar, +2 Trait within 60' of Pyra, +2 Racial vs those attracted
+|	*Diplomacy*				|	+12	|	4+3	|	+5		|	-		| 	+2 to gather info
+|	*Intimidation*			|	+12	|	4+3	|	+5		|	-		| 	-
+|	*Perform (Sing)*		|	+9 	|	4		|	+5		|	-		|	-
 |	*Sleight of Hand*		|	+11	|	4+3	|	+3		|	+1		|	+1 Trait
-|	*Spellcraft*			|	+12	|	4+3	|	+5		|	-		|	-
-|	*Use Magic Device*	|	+5		|	1+3	|	+2		|	-		|	-
+|	*Sense Motive*			|	+2 	|	-  	|	-		|	+2		|	+2 Familiar
+|	*Perception*			|	+2 	|	-		|	-		|	+2		|	+2 Familiar
+
 
 ## Languages, Proficiencies
-- **Languages**: Common, Humic, Dwarvish, Elven, Goblin, Vishkanya 
+- **Languages**: Common, Humic, Elven, Goblin, Vishkanya 
 - **Weapons**: Simple 
 - **Armor**: None
 
 ## Traits & Drawbacks
-### Attached
-You have a strong emotional attachment to Cilanthia, your younger sister. 
-Whenever she is either threatened, in danger, or in someone else's possession, 
-you take a -1 penalty on Will saves and a -2 penalty on saves against fear 
-effects. If she is ever lost, killed, or destroyed, exchange this drawback for 
-the Doubt drawback. 
+### Family Ties
+When a family member makes a request of you, you must fulfill that request or 
+take a –2 penalty on all Wisdom– and Charisma-based ability checks and skill 
+checks until you either do what was requested or succeed at a DC 20 Will saving 
+throw, which you can attempt once per day at the start of each day. You can’t 
+take this drawback if you have no family. If you ever lose your family or lose 
+contact with your family, exchange this drawback for the Doubt drawback.
 ### Family Trade (Family)
 Bluff is a class skill for you, and if a family member with the Family Trade 
 trait is within 60 feet of you, gain a +2 trait bonus to Bluff checks. 
 ### Dealer (Regional)
 You spent your early life robbing and stealing to get by. You gain a +1 trait 
 bonus to **Sleight-of-Hand**, and it is always a class skill for you. 
-### Clever Wordplay (Social)
-You may use your Intelligence instead of your Charisma for the purposes of the 
-Bluff skill.
+### Affable
+You gain a +2 trait bonus on Diplomacy checks to gather information, and can do 
+so in half the normal time. In addition, Diplomacy and Knowledge (local) are 
+always class skills for you.
 
 ## Racial Features
 ### Base Properties
 Your size is medium, you have a speed of 30 feet, and you have darkvision to a 
 range of 60 feet. 
-### Sea Lungs (Sea Hag Mother)
-The changeling may hold her breath for a number of rounds equal to three times 
-her Constitution before she risks drowning.
+### Green Widow (Green Hag Mother)
+The changeling gains a +2 racial bonus on Bluff checks against creatures that 
+are sexually attracted to her.
 ### Hag Magic
 Hag Magic: Some changelings develop a gift for spellcasting instead of their 
 mothers’ overtly fearsome traits. A changeling with this trait displays one or 
@@ -84,56 +86,62 @@ known. This word must be at least one level below the highest word level you can
 cast. 
 
 ## Witch Class Features
-### Patron: The Lost Prince (Peace)
-You gain the Peacebond hex at first level. Your patron requires that you remain 
-neutral to conflict whenever possible, and you cannot take an action that causes 
-damage against creatures who have not damaged another in the last 24 hours. Gain 
-the following patron spells at the specified levels: 
-	2.  Sanctuary
-	4.  Touch of Mercy
-	6.  Mantle of Calm
-	8.  Dismissal
-	10. Serenity
-	12. Word of Recall
-	14. Hymn of Peace
-	16. Euphoric Tranquility
-	18. Antipathy
+### Patron: The Green Mother (Enchantment)
+You gain the Seduce hex at first level. Your patron demands that you use your 
+gifts skillfully, and any time a target of one of your mind-affecting hexes or 
+spells succeeds on their saving throw against the spell or hex, take damage 
+equal to their save result minus the spell or hex's DC, to a maximum of your hit
+dice. 
+Replacement spells: Unnatural Lust (2) Nixie's Lure (6), Wave of Ecstasy (14)
+### Familiar: Viper
+Gain +3 to Bluff, and the benefits of the Awareness feat (+2 Perception, Sense 
+Motive) while the familiar is within 60 feet of you. 
 ### Season - Winter
 The save DCs of any of your spells that deal cold damage increase by 1. 
 ### Hexes
-DC 17 (10 + 1/2 Witch level + INT Mod)
-#### Conduit Surge
-As a swift action, increase your effective caster level for the next spell you 
-cast by 1d4-1. Afterwards, make a Fortitude save (DC 10 + spell level + caster 
-level increase) or become staggered for a number of minutes equal to the spell
-level. At 8th level, the caster level  increase changes to 1d4. You can use this 
-5 (3 + CHA Mod) times per day. 
-#### Peacebond 
+DC 17 (10 + 1/2 Witch level + CHA Mod)
+#### Charm (1st)
+A witch can charm an animal or humanoid creature within 30 feet by beckoning and 
+speaking soothing words. This improves the attitude of an animal or humanoid 
+creature by 1 step, as if the witch had successfully used the Diplomacy skill. 
+The effect lasts for a number of rounds equal to the Witch’s Intelligence 
+modifier. A Will save negates this effect. Whether or not the save is successful, 
+a creature cannot be the target of this hex again for 1 day. At 8th level, this 
+effect improves the attitude of the target creature by 2 steps. This is a mind-
+affecting charm effect.
+The save DC of this hex is increased by 1. If the target is (or could be) 
+sexually attracted to the seducer, the save DC is instead increased by 2. If she 
+and the target have had willing sexual relations in the past 24 hours, the save 
+DC is instead increased by 3.
+#### Seduce (Bonus)
+The witch uses enthralling movements to fascinate a single creature within 60 
+feet that can see the witch. A Will save negates this effect. If the target is 
+(or could be) sexually attracted to the witch, the save DC is increased by 2. 
+The effect lasts for 1 round, but the witch can extend this effect for 1 
+additional round (up to a total number of rounds equal to her class level) by 
+taking a standard action to continue her enthralling movements. Whether or not 
+the target succeeds at its save, it cannot be the target of this ability again 
+for 1 day. At 8th level, the fascination effect lasts for 2 additional rounds 
+after the witch ceases taking a standard action to maintain it. This is a mind-
+affecting charm effect.
+#### Healing (Bonus)
+As a standard action, cast cure light wounds without using a spell slot. At 5th
+level, this allows you to cast cure moderate wounds instead. Once a creature has 
+been affected by this hex, they cannot be affected again for a day. 
+#### Peacebond (2nd)
 As a standard action, prevent a creature from drawing a weapon for a number of
 rounds equal to your Witch level. This has no effect on natural weapons or 
 already-drawn weapons. A Will save negates, and once a creature has been 
 targeted by this hex, they cannot be targeted again for a day. 
-#### Healing 
-As a standard action, cast cure light wounds without using a spell slot. At 5th
-level, this allows you to cast cure moderate wounds instead. Once a creature has 
-been affected by this hex, they cannot be affected again for a day. 
-#### Protective Luck 
+#### Protective Luck (4th) 
 As a standard action, warp fate around a creature other than you for 1 round. 
 Whenever it is targeted by an effect that requires an attack roll, including 
 weapon attacks, the attacker must roll twice and take the worst result. The 
 duration increases by 1 round at 8th and 16th level, and is affected by any 
 hexes that affect the Fortune hex.  
-#### Invest Hex
-Each day, you may implant 7 (INT Mod + half Witch level) hexes in willing 
-creatures. A creature may only have one hex implanted at a time, and implanting 
-a hex counts against the any limits of using that hex. Implanting a hex is a 
-standard action during which you touch a willing creature. You may activate the 
-hex as a free action at any time you are within medium range, or you may specify 
-a condition when you implant the hex upon which it will automatically trigger. 
-Implanted hexes last until the next time you regain your spells. 
 
 ## Feats 
-### Cursed Attonement (1st)
+### Cursed Atonement (1st)
 Gain Curse of the Merciful. You may never take levels in a class that grants 
 divine spellcasting, and suffer a -2 penalty on all saving throws against 
 divine spells cast by worshippers of Sarenrae. 
