@@ -4,7 +4,7 @@
 |-----------------------|--------------|-----------|
 |	Cone Cold Snap			|	DC 16			|	1d3 Cold damage to 10ft cone, save/half
 |	Selected Cold Snap	|	+5 RT       |	1d3 Cold damage
-|	Healing Hex				|	+5 MT/DC 16	|	18 (8+6+4) Healing or Positive, 1/Target/Day
+|	Healing Hex				|	+5 MT/DC 16	|	12 (8+4) Healing or Positive, 1/Target/Day
 |	Charm Hex				|	DC 16			|	Temporary +1 Attitude, 1/Target/Day
 |	Seduce Hex				|	DC 16			|	Fascinate, 1/Target/Day
 |	Peacebond Hex			|	DC 16			|	Can't draw weapons, 1/Target/Day
@@ -13,11 +13,8 @@
 ## Per-Day actions
 |	Dailies					|	Uses										|	Effect	|
 |-----------------------|-----------------------------------|-----------|
-|	Casting
-|	**1st Level Spells**	|	[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]	|
-|	**2nd Level Spells**	|	[ ] [ ] [ ] [ ]						|	
 |	Features & Hexes				
-| **Lay on Hands**		|	[x] [x] [ ]								|	Heal 12 (1d6+1d6) as a standard action
+| **Lay on Hands**		|	[x] [x] [ ]								|	Heal 6 (1d6) as a standard action
 |	Racials
 | **Dancing Lights**		|	[ ]										|	As cantrip
 | **Detect Magic**		|	[ ]										|	As cantrip
@@ -32,3 +29,4 @@ Healing Hex uses:
  - [ ] Casmar
    - [ ] Ziggy
  
+Eldritch Dissonance tracking: 

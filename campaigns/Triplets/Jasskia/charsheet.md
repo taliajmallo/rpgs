@@ -4,7 +4,7 @@
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
 |	**STR** 	|	12 (+1)	|	-
-|	**DEX** 	|	16 (+3)	|	-
+|	**DEX** 	|	14 (+2)	|	-
 |	**CON** 	|	12 (+1) 	|	-
 |	**INT** 	|	16 (+3) 	|	-
 |	**WIS** 	|	10 (--) 	|	-
@@ -14,17 +14,18 @@
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
 |	**HP**		|	24 max			|	-8 Burn, -6 Nonlethal
-|	**AC**		|	13					|	-
-|	**Init**		|	+3					|	-
+| 	**SP**		|	8 O / 8 R		|	-
+|	**AC**		|	12					|	-
+|	**Init**		|	+2					|	-
 |	**BAB**		|	+2					|	- 
-|	**CMB**		|	+3					|	- 
-|	**CMD**		|	14					|	- 
+|	**CMB**		|	+2					|	- 
+|	**CMD**		|	13					|	- 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
 |--------------|--------|--------------|	
 |	**Fort**		|	+2 	|	- 
-|	**Ref**		|	+4		|	- 
+|	**Ref**		|	+3		|	- 
 |	**Will**		|	+4		|	- 
 
 ## Skills 
@@ -33,8 +34,9 @@
 |	*Bluff*					|	+15	|	4+3	|	+5		|	+3*	| 	+3 Familiar, +2 Trait within 60' of Pyra, +2 Racial vs those attracted
 |	*Diplomacy*				|	+12	|	4+3	|	+5		|	-		| 	+2 to gather info
 |	*Intimidation*			|	+12	|	4+3	|	+5		|	-		| 	-
-|	*Perform (Sing)*		|	+9 	|	4		|	+5		|	-		|	-
 |	*Sleight of Hand*		|	+11	|	4+3	|	+3		|	+1		|	+1 Trait
+|	*Spellcraft*			|	+9 	|	4+3	|	+3		|	-		|	-
+|	*Perform (Dance)*		|	+9 	|	4		|	+5		|	-		|	-
 |	*Sense Motive*			|	+2 	|	-  	|	-		|	+2		|	+2 Familiar
 |	*Perception*			|	+2 	|	-		|	-		|	+2		|	+2 Familiar
 
@@ -168,7 +170,28 @@ action when used on another target, or a swift action when used on yourself.
 After curing a cumulative total of 1000 points of damage, plus 2 for every point 
 of damage dealt, your healing spells always restores their maximum possible 
 hitpoints when used on a target other than yourself. 
-### Mystic Healer (3rd)
+### Tantric Magic (3rd)
+You can turn the energy of physical intimacy into mystic energy able to fuel 
+your spells. This takes 15 minutes per spell-point restored and requires 
+uninterrupted concentration. You may restore spell-points from any spell-point 
+pool, but may not restore points from your open pool until your reserve pool is 
+full. You cannot restore more spell-points per day that half your caster level 
+or your Charisma bonus, whichever is higher, and cannot increase any spell-point 
+pool to above its normal maximum.
+Successfully restoring spell-points requires you make both a Charisma check (to 
+generate the right level of carnal energy) and Spellcraft check (to convert the 
+generated energy into spell-points). The DCs for these checks is 15 + the number 
+of spell-points to be restored. On a failed check no spell-points are regained. 
+A GM may allow you to replace the Charisma check with an appropriate Perform or 
+Profession check.
+After attempting to use this feat to restore spell-points, whether you succeed 
+or fail, you must wait before you can try again on the same day. After an hour 
+you may make a Constitution check with a DC equal to the DC of your previous 
+Tantric Magic effort (bonuses from the Endurance feat apply to this check.) If 
+you succeed you may use the feat again, if you fail you must wait an hour and 
+make another Constitution check. The DC of this check decreases by 1 for every 
+hour that has passed since you last used the feat.
+<!-- ### Mystic Healer (5th)
 Add additional dice to any form of healing you generate. This starts as +1d4, 
 increasing to 1d6 at 4th level, 2d6 at 7th level, 3d6 at 10th level, and 4d6 at
-13th level. 
+13th level.  -->

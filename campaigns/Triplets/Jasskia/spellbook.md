@@ -2,7 +2,7 @@
 
 ## Patron Spells
 ## Cantrips - 
-- Arcane Mark
+- [ ] Arcane Mark
   - Casting Time 1 standard action
   - Components V, S
   - Range touch
@@ -23,7 +23,7 @@ If an arcane mark is placed on a living being, the effect gradually fades in
 about a month.
 Arcane mark must be cast on an object prior to casting instant summons on the 
 same object (see that spell description for details).
-- Detect Magic
+- [ ] Detect Magic
   - Casting Time 1 standard action
   - Component: V, S
   - Range 60 ft.
@@ -43,7 +43,7 @@ the aura emanates from a magic item, you can attempt to identify its properties
 (see Spellcraft).
 Magical areas, multiple types of magic, or strong local magical emanations may 
 distort or conceal weaker auras.
-- Detect Poison
+- [ ] Detect Poison
   - Casting Time 1 standard action
   - Components V, S
   - Range close (25 ft. + 5 ft./2 levels)
@@ -56,7 +56,7 @@ A character with the Craft (alchemy) skill may try a DC 20 Craft (alchemy) check
 if the Wisdom check fails, or may try the Craft (alchemy) check prior to the 
 Wisdom check. The spell can penetrate barriers, but 1 foot of stone, 1 inch of 
 common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
-- Guidance
+- [ ] Guidance
   - Casting Time 1 standard action
   - Components V, S
   - Range touch
@@ -67,7 +67,7 @@ This spell imbues the subject with a touch of divine guidance. The creature gets
 a +1 competence bonus on a single attack roll, saving throw, or skill check. It 
 must choose to use the bonus before making the roll to which 
 it applies.
-- Mending
+- [ ] Mending
   - Casting Time 10 minutes
   - Components V, S
   - Range 10 ft.
@@ -84,7 +84,7 @@ repaired with this spell, but this spell does not restore their magic abilities.
 This spell does not affect creatures (including constructs). This spell has no 
 effect on objects that have been warped or otherwise transmuted, but it can 
 still repair damage done to such items.
-- Message
+- [ ] Message
   - Casting Time 1 standard action
   - Components V, S, F (a piece of copper wire)
   - Range medium (100 ft. + 10 ft./level)
@@ -102,7 +102,7 @@ subject, and the path’s entire length lies within the spell’s range. The
 creatures that receive the message can whisper a reply that you hear. The spell 
 transmits sound, not meaning; it doesn’t transcend language barriers. To speak a 
 message, you must mouth the words and whisper.
-- Read Magic
+- [ ] Read Magic
   - Casting Time 1 standard action
   - Components V, S, F (a clear crystal or mineral prism)
   - Range personal
@@ -119,7 +119,7 @@ glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with
 a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + 
 spell level).
 Read magic can be made permanent with a permanency spell.
-- Spark
+- [ ] Spark
   - Casting Time 1 standard action
   - Components V or S
   - Range close (25 ft. + 5 ft./2 levels)
@@ -129,7 +129,7 @@ Read magic can be made permanent with a permanency spell.
 You can make an unattended Fine flammable object catch on fire. This works as if 
 you were using flint and steel except that you can use spark in any sort of 
 weather and it takes much less time to actually ignite an object.
-- Stabilize
+- [ ] Stabilize
   - Casting Time 1 standard action
   - Components V,S
   - Range close (25 ft. + 5 ft./2 levels)
@@ -189,6 +189,74 @@ cures 1d8 points of damage +1 point per caster level (maximum +5). Since undead
 are powered by negative energy, this spell deals damage to them instead of 
 curing their wounds. An undead creature can apply Spell Resistance, and can 
 attempt a Will save to take half damage.
+- Hex Vulnerability (Necromancy 1)
+  - Casting Time 1 standard action
+  - Components V, S, M (a drop of your blood)
+  - Range close (25 ft. +5 ft./2 levels)
+  - Target one creature
+  - Duration 1 round/level
+  - Saving Throw Will negates; Spell Resistance yes
+The targeted creature becomes susceptible to a repeat use of your harmful hexes, 
+even if you could not otherwise target that creature with a particular hex for a 
+certain time period. For example, normally after you target a creature with a 
+charm hex, you cannot target it again for 1 day. But after casting this spell on 
+a creature, you could try the charm hex repeatedly as long as the spell persists. 
+The end of this spell has no effect on any active or ongoing hex on a creature. 
+For example, if the creature failed its save against a second use of your charm 
+hex, it remains charmed for the normal duration, even if the spell expires 
+before the hex does. Each subsequent casting of this spell on a target within a 
+24-hour period gives the target a +4 bonus on its save against the spell and 
+imposes a –4 penalty on your caster level check to overcome the target’s spell 
+resistance with this spell.
+- Mage Armor (Conjuration 1)
+  - Casting Time 1 standard action
+  - Components V, S, F (a piece of cured leather)
+  - Range touch
+  - Target creature touched
+  - Duration 1 hour/level (D)
+  - Saving Throw Will negates (harmless); Spell Resistance no
+An invisible but tangible field of force surrounds the subject of a mage armor 
+spell, providing a +4 armor bonus to AC. Unlike mundane armor, mage armor 
+entails no armor check penalty, arcane spell failure chance, or speed reduction. 
+Since mage armor is made of force, incorporeal creatures can’t bypass it the way 
+they do normal armor.
+- Poisoned Egg (Transmutation 1)
+  - Casting Time 1 standard action
+  - Components V, S, DF
+  - Range touch
+  - Target one egg
+  - Duration 1 minute/level
+  - Saving Throw none (object); Spell Resistance no (object)
+You transform the contents of a normal egg into a single dose of small centipede 
+poison (injury; save DC 11; frequency 1/round for 4 rounds; effect 1 Dex; cure 1 s
+ave). The poison reverts to a normal egg at the end of the spell’s duration (the 
+reverted egg substance is harmless unless the poisoned creature is vulnerable to 
+eggs). The egg may be raw or cooked but must be whole and not empty when you 
+cast the spell. When applying the poisoned egg’s contents to a weapon, the 
+wielder has no chance of poisoning herself, as though she had the poison use 
+class feature.
+- Recharge Innate Magic (Transmutation 1)
+  - Casting Time 1 standard action
+  - Components V, S
+  - Range personal
+  - Target you
+  - Duration instantaneous
+  - You channel magic energy into your own aura, recharging your innate magic abilities. You regain one use of all 0-level and 1st-level spell-like abilities you can use as a result of a racial trait.
+- Sow Thought (Enchantment 1)
+  - Casting Time 1 standard action
+  - Components V, S
+  - Range close (25 ft. + 5 ft./2 levels)
+  - Target one creature
+  - Duration permanent
+  - Saving Throw Will negates; Spell Resistance yes
+You plant an idea, concept, or suspicion in the mind of the subject. The target 
+genuinely believes that the idea is his own, but is not required to act upon it. 
+If the idea is contrary to the target’s normal thoughts (such as making a 
+paladin think, “I should murder my friends”) the target may suspect mind-
+altering magic is at play. The idea must be fairly clear, enough so that it can 
+be conveyed in one or two sentences. You do not need to share a common language 
+for the spell to succeed, but without a common language you can only sow the 
+most basic rudimentary ideas.
 - Unnatural Lust (Enchantment 1)
   - Casting Time 1 standard action
   - Components V, S
@@ -243,6 +311,42 @@ fear effects and removes the confused condition from all targets. While the
 spell lasts, a suppressed spell, condition, or effect has no effect. When the 
 calm emotions spell ends, the original spell or effect takes hold of the 
 creature again, provided that its duration has not expired in the meantime.
+- Cure Moderate Wounds (Conjuration 2)
+  - Casting Time 1 standard action
+  - Components V, S
+  - Range touch
+  - Target creature touched
+  - Duration instantaneous
+  - Saving Throw Will half (harmless); see text; Spell Resistance yes (harmless); see text
+When laying your hand upon a living creature, you channel positive energy that 
+cures 2d8 points of damage +1 point per caster level (maximum +10). Since undead 
+are powered by negative energy, this spell deals damage to them instead of 
+curing their wounds. An undead creature can apply Spell Resistance, and can 
+attempt a Will save to take half damage.
+- Steal Voice (Necromancy 2)
+  - Casting Time 1 standard action
+  - Components V
+  - Range medium (100 ft. + 10 ft./level)
+  - Target one creature
+  - Duration permanent (D)
+  - Saving Throw Fortitude negates; Spell Resistance yes
+The target’s throat constricts, leaving them near-unintelligible. A creature 
+under this affect can only make itself heard by others by spending a swift 
+action to focus its will on speech. Screaming and shouting are impossible while 
+under this effect. Casting spells with a verbal component has a 20% chance of 
+spell failure, and the save DCs of any spells she casts with the language-
+dependent descriptor are reduced by 4. Spell-like abilities are not affected by 
+this. A heal spell or similar cures this effect, as does the Shout spell. 
+- Seducer's Eyes (Enchantment 2)
+  - Casting Time 1 standard action
+  - Components V, S, DF
+  - Range personal
+  - Target you
+  - Duration 10 minutes/level (D)
+You gain a bonus on Charisma-based skill checks equal to 1 +1 for every 4 
+caster levels you possess (to a maximum of +5), but only when interacting with 
+those who might conceivably find you sexually attractive. You do not gain this 
+bonus against those you or your allies are attacking or threatening.
 - Raven's Flight (Transmutation 2)
   - Casting Time 1 swift action
   - Components V
