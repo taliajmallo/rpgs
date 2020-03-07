@@ -30,12 +30,12 @@
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Bluff*					|	+12	|	4+3	|	+5		|	-		| 	
+|	*Bluff*					|	+14	|	4+3	|	+5		|	-		| 	+2 Trait within 60' of Pyra
 |	*Disable Device*		|	+14	|	4  	|	+3		|	+7		| 	+2 Circ (Tools), +5 Comp (Ring)
 |	*Kn., Arcana*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Kn., Planes*			|	+10	|	2+3	|	+5		|	-		|	-
 |	*Kn., History*			|	+10	|	2+3	|	+5		|	-		|	-
-|	*Sleight of Hand*		|	+11		|	4+3	|	+3		|	+1		|	+1 Trait
+|	*Sleight of Hand*		|	+11	|	4+3	|	+3		|	+1		|	+1 Trait
 |	*Spellcraft*			|	+12	|	4+3	|	+5		|	-		|	-
 |	*Use Magic Device*	|	+5		|	1+3	|	+2		|	-		|	-
 
