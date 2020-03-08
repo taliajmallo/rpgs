@@ -8,8 +8,6 @@
 |-----------------------------|-----------|-----------|
 |	Peasant's clothes				|	1 lbs 	|
 |	Backpack							|	31.5 (2)	|	
-|	Bracers of Burglary			|	-			|	Transforms to MW Thieves' Tools, 1/day take 10 disable
-|	Ring of Maniacal Devices	| 	-			| 	+5 to Disable Device & Craft (Trap)
 |	**Total**						|	32.5 lbs	|
 
 ## Tools
@@ -41,7 +39,8 @@
 |	Waterskin						|	-			|
 |	**Total**						|	6 lbs		| Contained in backpack
 
-## Wealth
-35 pp 26gp 12sp 18cp
+## Wealth & Influence
+35 pp 25gp 23sp 18cp
+4 Influence with the township of Smoulder Hill 
 2x uncut citrine worth 55gp
 *Total* 1.6 lbs

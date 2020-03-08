@@ -1,6 +1,4 @@
 # Spellbook 
-
-## Patron Spells
 ## Cantrips - 
 - [ ] Arcane Mark
   - Casting Time 1 standard action
@@ -23,7 +21,7 @@ If an arcane mark is placed on a living being, the effect gradually fades in
 about a month.
 Arcane mark must be cast on an object prior to casting instant summons on the 
 same object (see that spell description for details).
-- [ ] Detect Magic
+- [x] Detect Magic
   - Casting Time 1 standard action
   - Component: V, S
   - Range 60 ft.
@@ -43,7 +41,7 @@ the aura emanates from a magic item, you can attempt to identify its properties
 (see Spellcraft).
 Magical areas, multiple types of magic, or strong local magical emanations may 
 distort or conceal weaker auras.
-- [ ] Detect Poison
+- [x] Detect Poison
   - Casting Time 1 standard action
   - Components V, S
   - Range close (25 ft. + 5 ft./2 levels)
@@ -102,7 +100,7 @@ subject, and the path’s entire length lies within the spell’s range. The
 creatures that receive the message can whisper a reply that you hear. The spell 
 transmits sound, not meaning; it doesn’t transcend language barriers. To speak a 
 message, you must mouth the words and whisper.
-- [ ] Read Magic
+- [x] Read Magic
   - Casting Time 1 standard action
   - Components V, S, F (a clear crystal or mineral prism)
   - Range personal
@@ -129,7 +127,7 @@ Read magic can be made permanent with a permanency spell.
 You can make an unattended Fine flammable object catch on fire. This works as if 
 you were using flint and steel except that you can use spark in any sort of 
 weather and it takes much less time to actually ignite an object.
-- [ ] Stabilize
+- [x] Stabilize
   - Casting Time 1 standard action
   - Components V,S
   - Range close (25 ft. + 5 ft./2 levels)
@@ -189,6 +187,18 @@ cures 1d8 points of damage +1 point per caster level (maximum +5). Since undead
 are powered by negative energy, this spell deals damage to them instead of 
 curing their wounds. An undead creature can apply Spell Resistance, and can 
 attempt a Will save to take half damage.
+- Glamour (Illusion 1)
+  - Casting Time 1 standard action
+  - Components V, S, M (a drop of perfume)
+  - Range personal
+  - Target you
+  - Duration 10 min./level (D)
+  - Saving Throw Will disbelief (if interacted with); Spell Resistance no
+You ensorcel yourself to appear beautiful to anyone looking upon you. Not only 
+will they find you attractive, but all your Bluff and Diplomacy checks gain a +5 
+circumstance bonus. This spell does not change any specifics of your appearance, 
+such as gender, race, and so forth, although it proves useful to cast in 
+conjunction with disguise self or alter self.
 - Hex Vulnerability (Necromancy 1)
   - Casting Time 1 standard action
   - Components V, S, M (a drop of your blood)
@@ -228,13 +238,13 @@ they do normal armor.
   - Duration 1 minute/level
   - Saving Throw none (object); Spell Resistance no (object)
 You transform the contents of a normal egg into a single dose of small centipede 
-poison (injury; save DC 11; frequency 1/round for 4 rounds; effect 1 Dex; cure 1 s
-ave). The poison reverts to a normal egg at the end of the spell’s duration (the 
-reverted egg substance is harmless unless the poisoned creature is vulnerable to 
-eggs). The egg may be raw or cooked but must be whole and not empty when you 
-cast the spell. When applying the poisoned egg’s contents to a weapon, the 
-wielder has no chance of poisoning herself, as though she had the poison use 
-class feature.
+poison (injury; save DC 11; frequency 1/round for 4 rounds; effect 1 Dex; cure 1 
+save). The poison reverts to a normal egg at the end of the spell’s duration 
+(the reverted egg substance is harmless unless the poisoned creature is 
+vulnerable to eggs). The egg may be raw or cooked but must be whole and not 
+empty when you cast the spell. When applying the poisoned egg’s contents to a 
+weapon, the wielder has no chance of poisoning herself, as though she had the 
+poison use class feature.
 - Recharge Innate Magic (Transmutation 1)
   - Casting Time 1 standard action
   - Components V, S
@@ -257,20 +267,6 @@ altering magic is at play. The idea must be fairly clear, enough so that it can
 be conveyed in one or two sentences. You do not need to share a common language 
 for the spell to succeed, but without a common language you can only sow the 
 most basic rudimentary ideas.
-- Unnatural Lust (Enchantment 1)
-  - Casting Time 1 standard action
-  - Components V, S
-  - Range close (25 ft. + 5 ft./2 levels)
-  - Target one creature
-  - Duration 1 round
-  - Saving Throw Will negates; Spell Resistance yes
-Your target is filled with lust and desire for a single creature or object as 
-designated by you at the time of casting. That creature or object must be within 
-the spell’s range and perceivable by the target of the spell. The target is 
-filled with the compulsion to rush to the subject of its lust and passionately 
-kiss or caress that subject on its next turn, taking no other actions. If the 
-target would not normally have lustful feelings toward the designated creature 
-or object, it receives a +4 bonus on its saving throw.
 - Urban Grace (Transmutation 1)
   - Casting Time 1 standard action
   - Components V, S

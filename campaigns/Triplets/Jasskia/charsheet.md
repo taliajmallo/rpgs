@@ -13,13 +13,13 @@
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	24 max			|	-8 Burn, -6 Nonlethal
-| 	**SP**		|	8 O / 8 R		|	-
+|	**HP**		|	24 max			|	-10
+| 	**SP**		|	8 O / 8 R		|	-2 O / -2 R
 |	**AC**		|	12					|	-
 |	**Init**		|	+2					|	-
 |	**BAB**		|	+2					|	- 
 |	**CMB**		|	+2					|	- 
-|	**CMD**		|	13					|	- 
+|	**CMD**		|	12					|	- 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
@@ -31,7 +31,7 @@
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Bluff*					|	+15	|	4+3	|	+5		|	+3*	| 	+3 Familiar, +2 Trait within 60' of Pyra, +2 Racial vs those attracted
+|	*Bluff*					|	+15	|	4+3	|	+5		|	+3*	| 	+3 Familiar, +2 Trait within 60' of Pyra, +2 Racial vs attracted
 |	*Diplomacy*				|	+12	|	4+3	|	+5		|	-		| 	+2 to gather info
 |	*Intimidation*			|	+12	|	4+3	|	+5		|	-		| 	-
 |	*Sleight of Hand*		|	+11	|	4+3	|	+3		|	+1		|	+1 Trait
@@ -94,7 +94,7 @@ gifts skillfully, and any time a target of one of your mind-affecting hexes or
 spells succeeds on their saving throw against the spell or hex, take damage 
 equal to their save result minus the spell or hex's DC, to a maximum of your hit
 dice. 
-Replacement spells: Unnatural Lust (2) Nixie's Lure (6), Wave of Ecstasy (14)
+Replacement spells: Glamour (2) Nixie's Lure (6), Wave of Ecstasy (14)
 ### Familiar: Viper
 Gain +3 to Bluff, and the benefits of the Awareness feat (+2 Perception, Sense 
 Motive) while the familiar is within 60 feet of you. 
