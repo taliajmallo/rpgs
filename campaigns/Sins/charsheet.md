@@ -1,5 +1,5 @@
 # ???
-## CE Gestalt Dual-Cursed Mistcaller / Haunted Fractured Mind 1
+## CE Medusa Gestalt Dual-Cursed Mistcaller / Haunted Fractured Mind 1
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	

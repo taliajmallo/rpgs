@@ -13,8 +13,8 @@
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	24 max			|	-10
-| 	**SP**		|	8 O / 8 R		|	-2 O / -2 R
+|	**HP**		|	24 max			|	-
+| 	**SP**		|	8 O / 8 R		|	-
 |	**AC**		|	12					|	-
 |	**Init**		|	+2					|	-
 |	**BAB**		|	+2					|	- 
@@ -34,20 +34,20 @@
 |	*Bluff*					|	+15	|	4+3	|	+5		|	+3*	| 	+3 Familiar, +2 Trait within 60' of Pyra, +2 Racial vs attracted
 |	*Diplomacy*				|	+12	|	4+3	|	+5		|	-		| 	+2 to gather info
 |	*Intimidation*			|	+12	|	4+3	|	+5		|	-		| 	-
+|	*Prof, Courtesan*		|	+12 	|	4+3	|	+5		|	-		|	-
 |	*Sleight of Hand*		|	+11	|	4+3	|	+3		|	+1		|	+1 Trait
 |	*Spellcraft*			|	+9 	|	4+3	|	+3		|	-		|	-
-|	*Perform (Dance)*		|	+9 	|	4		|	+5		|	-		|	-
 |	*Sense Motive*			|	+2 	|	-  	|	-		|	+2		|	+2 Familiar
 |	*Perception*			|	+2 	|	-		|	-		|	+2		|	+2 Familiar
 
 
 ## Languages, Proficiencies
-- **Languages**: Common, Humic, Elven, Goblin, Vishkanya 
+- **Languages**: Common, Humic, Elven, Orcish, Vishkanya 
 - **Weapons**: Simple 
 - **Armor**: None
 
 ## Traits & Drawbacks
-### Family Ties
+### Family Ties (Drawback)
 When a family member makes a request of you, you must fulfill that request or 
 take a –2 penalty on all Wisdom– and Charisma-based ability checks and skill 
 checks until you either do what was requested or succeed at a DC 20 Will saving 
@@ -60,7 +60,7 @@ trait is within 60 feet of you, gain a +2 trait bonus to Bluff checks.
 ### Dealer (Regional)
 You spent your early life robbing and stealing to get by. You gain a +1 trait 
 bonus to **Sleight-of-Hand**, and it is always a class skill for you. 
-### Affable
+### Affable (Social)
 You gain a +2 trait bonus on Diplomacy checks to gather information, and can do 
 so in half the normal time. In addition, Diplomacy and Knowledge (local) are 
 always class skills for you.
@@ -191,7 +191,7 @@ Tantric Magic effort (bonuses from the Endurance feat apply to this check.) If
 you succeed you may use the feat again, if you fail you must wait an hour and 
 make another Constitution check. The DC of this check decreases by 1 for every 
 hour that has passed since you last used the feat.
-<!-- ### Mystic Healer (5th)
+<!-- ### Mystic Healer (7th)
 Add additional dice to any form of healing you generate. This starts as +1d4, 
 increasing to 1d6 at 4th level, 2d6 at 7th level, 3d6 at 10th level, and 4d6 at
 13th level.  -->

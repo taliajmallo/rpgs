@@ -6,7 +6,7 @@
 ## Worn Equipment
 |	Name								|	Weight	|	Notes		|
 |-----------------------------|-----------|-----------|
-|	Peasant's clothes				|	1 lbs 	|
+|	Courtesan's clothes			|	1 lbs 	|
 |	Backpack							|	31.5 (2)	|	
 |	**Total**						|	32.5 lbs	|
 

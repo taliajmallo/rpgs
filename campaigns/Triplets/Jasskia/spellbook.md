@@ -41,7 +41,7 @@ the aura emanates from a magic item, you can attempt to identify its properties
 (see Spellcraft).
 Magical areas, multiple types of magic, or strong local magical emanations may 
 distort or conceal weaker auras.
-- [x] Detect Poison
+- [ ] Detect Poison
   - Casting Time 1 standard action
   - Components V, S
   - Range close (25 ft. + 5 ft./2 levels)
@@ -100,7 +100,7 @@ subject, and the path’s entire length lies within the spell’s range. The
 creatures that receive the message can whisper a reply that you hear. The spell 
 transmits sound, not meaning; it doesn’t transcend language barriers. To speak a 
 message, you must mouth the words and whisper.
-- [x] Read Magic
+- [ ] Read Magic
   - Casting Time 1 standard action
   - Components V, S, F (a clear crystal or mineral prism)
   - Range personal
