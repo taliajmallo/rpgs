@@ -37,7 +37,7 @@
 |	*Kn. Religion*			|	+5 	|	1+3	|	+2		|	-		| 	
 |	*Spellcraft*			|	+5 	|	1+3	|	+2		|	-		| 	
 |	*Use Magic Device*	|	+10	|	1+3	|	+6		|	-		| 	
-|	*Perception*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
+|	*Perception*			|	-2*	|	-		|	-2		|	-2*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
 Armor Check Penalty -7
 
@@ -58,6 +58,25 @@ modifier when making Heal checks instead of your Wisdom modifier.
 ### Battlefield Surgeon (Religion)
 Heal is a class skill for you, and you can use the treat deadly wounds aspect of 
 Heal 1 additional time per creature per day.
+<!-- ### Possessed (Magic)
+Once per day, you can attempt a Knowledge check of your choice even if you are 
+not trained in that skill and it is not usually possible to use that skill 
+untrained. If you can normally use that skill untrained, you gain a +2 trait 
+bonus on the check. -->
+<!-- ### Protective Faith (Religion)
+When you use the aid another action to grant your ally a bonus to AC, you grant 
+a +3 bonus to AC instead of the normal +2. -->
+<!-- ### Steel Skin (Combat)
+You gain the ability to don or remove heavy armor in half the normal time. 
+Additionally, you begin play with a great helm bearing the iconography of your 
+order (this helm grants no special defensive benefits). While wearing this helm 
+with a suit of heavy armor, you gain a +2 trait bonus on Intimidate checks. -->
+<!-- ### Questing Hell Knight (Social)
+You are a quick study when it comes to local laws. Once per day, you can attempt 
+a Knowledge (local) check untrained to recall information about local laws, 
+rulers, and popular locations. Additionally, you gain a +1 trait bonus on 
+Knowledge (local) checks, and Knowledge (local) is a class skill for you. You 
+must be of a lawful alignment to take this trait. -->
 
 ## Racial Features
 ### Base Properties
