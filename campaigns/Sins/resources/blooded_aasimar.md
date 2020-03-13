@@ -35,9 +35,11 @@ alone, but gain a +4 to Fly checks if they become capable of flight through
 another method. Fly is always considered to be a class skill for blooded aasimar. 
 
 ## Variants
-**Soul-Seeking:** You gain the Bonded Mind feat as a bonus feat. However, your 
-movement speed is reduced to 30, and you do not gain Knowledge (Planes) or Fly 
-as automatic class skills.  
+**Soul-Seeking:** Some blooded aasimar are even more attuned to spiritual 
+energies than most. You gain the Bonded Mind teamwork feat as a bonus feat. 
+However, this awareness of others' minds is distracting, and makes it difficult
+for you to focus on other matters. Your movement speed is reduced to 30, and you 
+do not gain Knowledge (Planes) or Fly as automatic class skills.  
 
 ## RP Costs
 - 3 RP - Outsider (native) 
@@ -50,3 +52,5 @@ as automatic class skills.
 - 2 RP - Vestigial Wings 
 - 1 RP - Fast 
 - 1 RP - Skill Training 
+ALT: 
+- 2 RP - Static Bonus Feat instead of Fast and Skill Training

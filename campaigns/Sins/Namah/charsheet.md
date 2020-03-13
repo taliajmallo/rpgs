@@ -1,5 +1,5 @@
 # Namah
-## LG Blooded Aasimar Fiend-Keeper / Sister-Of-The-Wall 1
+## LG Blooded Aasimar Grey Maiden 1
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
@@ -31,52 +31,36 @@
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
 |	*Diplomacy*				|	+10	|	1+3	|	+6		|	-		| 	
-|	*Heal*					|	+7 	|	1+3	|	+2		|	+1		| 	
 |	*Intimidate*			|	+10	|	1+3	|	+6		|	-		| 	
-|	*Kn. Planes*			|	+6 	|	1+3	|	+2		|	-		| 	
-|	*Kn. Religion*			|	+5 	|	1+3	|	+2		|	-		| 	
-|	*Spellcraft*			|	+5 	|	1+3	|	+2		|	-		| 	
-|	*Use Magic Device*	|	+10	|	1+3	|	+6		|	-		| 	
-|	*Perception*			|	-2*	|	-		|	-2		|	-2*	| 	-2 Trait if sight-based
+|	*Kn. Geography*		|	+6 	|	1+3	|	+2		|	-		| 	
+|	*Kn. History*			|	+6 	|	1+3	|	+2		|	-		| 	
+|	*Kn. Local*				|	+6 	|	1+3	|	+2		|	-		| 	
+|	*Perform, Oratory*	|	+10 	|	1+3	|	+6		|	-		| 	
+|	*Perception*			|	-2*	|	-		|	-2		|	-0*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
 Armor Check Penalty -7
 
 ## Languages, Proficiencies
-- **Languages**: Common, Celestial, +2
+- **Languages**: Common, Celestial, Elvish, Humic
 - **Weapons**:  Simple, martial
 - **Armor**: All armors, light and heavy shields
 
-## Traits & Drawbacks
+## Traits, Drawbacks, & Favored Classes
 ### Oblivious (Drawback)
 You take a –2 penalty on Sense Motive and sight-based Perception checks.
 ### Strength of Submission (Faith)
 Whenever you are under the effects of a compulsion effect, you gain a +1 trait 
 bonus on attack and damage rolls.
-### Precise Treatment (Magic)
-You gain a +1 trait bonus on all Heal checks, and you may use your Intelligence 
-modifier when making Heal checks instead of your Wisdom modifier.
-### Battlefield Surgeon (Religion)
-Heal is a class skill for you, and you can use the treat deadly wounds aspect of 
-Heal 1 additional time per creature per day.
-<!-- ### Possessed (Magic)
+### Possessed (Magic)
 Once per day, you can attempt a Knowledge check of your choice even if you are 
 not trained in that skill and it is not usually possible to use that skill 
 untrained. If you can normally use that skill untrained, you gain a +2 trait 
-bonus on the check. -->
-<!-- ### Protective Faith (Religion)
+bonus on the check.
+### Protective Faith (Religion)
 When you use the aid another action to grant your ally a bonus to AC, you grant 
-a +3 bonus to AC instead of the normal +2. -->
-<!-- ### Steel Skin (Combat)
-You gain the ability to don or remove heavy armor in half the normal time. 
-Additionally, you begin play with a great helm bearing the iconography of your 
-order (this helm grants no special defensive benefits). While wearing this helm 
-with a suit of heavy armor, you gain a +2 trait bonus on Intimidate checks. -->
-<!-- ### Questing Hell Knight (Social)
-You are a quick study when it comes to local laws. Once per day, you can attempt 
-a Knowledge (local) check untrained to recall information about local laws, 
-rulers, and popular locations. Additionally, you gain a +1 trait bonus on 
-Knowledge (local) checks, and Knowledge (local) is a class skill for you. You 
-must be of a lawful alignment to take this trait. -->
+a +3 bonus to AC instead of the normal +2.
+### Favored Class: Shield-Sister I
+Every 6 times you select this favored bonus, gain one feat. 
 
 ## Racial Features
 ### Base Properties
@@ -121,31 +105,21 @@ You gain Shield Focus (AC granted by shields increased by 1) as a bonus feat,
 and your cavalier levels count as fighter levels for the purpose of qualifying
 for any feats that list Shield Focus as a prerequisite. 
 
-## Fiend Keeper Features (Fiend Keeper Medium)
-### Evil Spirit
-At the start of each day, select a single Spirit you currently have access to. 
-You invite it into yourself, granting it a single point of influence in exchange
-for its seance boon and lesser spirit power. 
-Rather than channel the spirits of dead heroes, you invoke aspects of a fragment
-of a Devil Lord's soul that you have bound within you. Willingly performing an
-evil act automatically grants any current spirit 1 point of influence over you.
-Protection From Evil suppresses all of the spirit's benefits for the duration
-of the spell. 
-When your current spirit has at least 3 points of influence, you gain a +4 bonus
-to saving throws against possession, a +2 bonus to saving throws against effects
-that are mind-affecting but not possession, a -2 penalty to initiative, and an 
-evil aura as per a cleric of your level. Treat your alignment as evil for the 
-purposes of resisting or being vulnerable to spells and abilities while you have
-this aura. Furthermore, each spirit has a unique extra penalty. 
-If your current spirit ever gains 5 or more points of influence over you, you 
-completely lose control to the spirit. 
-You may forgo any number of spirit powers you would normally gain to gain two
-free uses of Spirit Surge that do not incur influence gain. 
+## Possessed Maiden Features (Possessed Maiden Medium)
+### Indoctrination 
+You may make a Will save, DC 10 (10 + 1/2 class level), as a full-round
+action to channel a spirit. Failure leaves you shaken for a minute. If exposed 
+to mortal danger, you must make a Will save to avoid channeling a spirit. You 
+can end this effect early with another will save. 
+When channeling a spirit, you gain its seance boon, influence penalty, and 
+lesser power. Any abilities that would cost influence instead cost a daily
+use of Superior Training. 
+This is considered to be a compulsion caused by a lawful evil creature.  
 ### Spirit Bonus / Spirit Surge
 You gain a +1 bonus to certain checks, statistics, and rolls, determined by your
 current spirit. At most once per round, after failing a d20 roll modified by 
-this bonus, you may allow your spirit to gain 1 additional point of influence 
-over you to immediately add 1d6 to the check's result without taking an action. 
+this bonus, you may  immediately add 1d6 to the check's result without taking an 
+action. This may be used 9 (3 + CHA Modifier) times per day. 
 
 ## Feats
 ### Grey Maiden Initiate (1st)
@@ -165,14 +139,7 @@ gain a +1 bonus on Reflex and Will saving throws. In addition, when you enter th
 Sisterhood Style stance, you can choose a teamwork feat you have. As a swift 
 action, you can grant that feat to an ally within 10 feet until the beginning of 
 your next turn. -->
-<!-- ### Healer's Hands (5th), Below, OR some other teamwork feat (Combat Medic?)
-You can use the Heal skill to treat deadly wounds as a full-round action. You do
-not take a penalty for not using a healer’s kit when treating deadly wounds this 
-way, and you can do so on a given creature more than once per day. When treating 
-deadly wounds this way, if your result exceeds the DC by 10 or more, add your 
-ranks in Knowledge (planes) to the damage healed. These benefits do not apply to 
-creatures that are not healed by positive energy. You can use this feat’s 
-benefit a number of times per day equal to your ranks in Knowledge (planes). -->
+<!-- ### ??? (5th)-->
 <!-- ### Take the Hit (6th Cavalier Bonus Feat)
 As long as an ally with the Bonded Mind feat is adjacent to you, you can choose 
 to absorb up to half of the hit point damage from any attack that strikes him, 
