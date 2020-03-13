@@ -34,6 +34,10 @@ speed of 60 feet per round. Blooded aasimar may not gain height with these wings
 alone, but gain a +4 to Fly checks if they become capable of flight through 
 another method. Fly is always considered to be a class skill for blooded aasimar. 
 
+## Variants
+**Soul-Seeking:** You gain the Bonded Mind feat as a bonus feat. However, your 
+movement speed is reduced to 30, and you do not gain Knowledge (Planes) or Fly 
+as automatic class skills.  
 
 ## RP Costs
 - 3 RP - Outsider (native) 
