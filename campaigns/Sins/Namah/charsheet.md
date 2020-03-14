@@ -35,7 +35,7 @@
 |	*Kn. Geography*		|	+6 	|	1+3	|	+2		|	-		| 	
 |	*Kn. History*			|	+6 	|	1+3	|	+2		|	-		| 	
 |	*Kn. Local*				|	+6 	|	1+3	|	+2		|	-		| 	
-|	*Perform, Oratory*	|	+10 	|	1+3	|	+6		|	-		| 	
+<!-- |	*Perform, Oratory*	|	+10 	|	1+3	|	+6		|	-		| 	 --> Replace this
 |	*Perception*			|	-2*	|	-		|	-2		|	-0*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
 Armor Check Penalty -7
@@ -120,6 +120,8 @@ You gain a +1 bonus to certain checks, statistics, and rolls, determined by your
 current spirit. At most once per round, after failing a d20 roll modified by 
 this bonus, you may  immediately add 1d6 to the check's result without taking an 
 action. This may be used 9 (3 + CHA Modifier) times per day. 
+### Talents
+#### TODO
 
 ## Feats
 ### Grey Maiden Initiate (1st)
