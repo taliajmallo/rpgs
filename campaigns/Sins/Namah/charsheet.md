@@ -60,7 +60,7 @@ bonus on the check.
 When you use the aid another action to grant your ally a bonus to AC, you grant 
 a +3 bonus to AC instead of the normal +2.
 ### Favored Class: Shield-Sister I
-Every 6 times you select this favored bonus, gain one feat. 
+TODO 
 
 ## Racial Features
 ### Base Properties
