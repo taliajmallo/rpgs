@@ -24,22 +24,20 @@
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
 |--------------|--------|--------------|	
-|	**Fort**		|	+2 	|	- 
-|	**Ref**		|	+3		|	- 
-|	**Will**		|	+4		|	- 
+|	**Fort**		|	+3 	|	- 
+|	**Ref**		|	+4		|	- 
+|	**Will**		|	+5		|	- 
 
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
 |	*Bluff*					|	+15	|	4+3	|	+5		|	+3*	| 	+3 Familiar, +2 Trait within 60' of Pyra, +2 Racial vs attracted
 |	*Diplomacy*				|	+12	|	4+3	|	+5		|	-		| 	+2 to gather info
-|	*Intimidation*			|	+12	|	4+3	|	+5		|	-		| 	-
-|	*Prof, Courtesan*		|	+12 	|	4+3	|	+5		|	-		|	-
+|	*Perf., Dance*			|	+12 	|	4+3	|	+5		|	-		|	-
 |	*Sleight of Hand*		|	+11	|	4+3	|	+3		|	+1		|	+1 Trait
 |	*Spellcraft*			|	+9 	|	4+3	|	+3		|	-		|	-
 |	*Sense Motive*			|	+2 	|	-  	|	-		|	+2		|	+2 Familiar
 |	*Perception*			|	+2 	|	-		|	-		|	+2		|	+2 Familiar
-
 
 ## Languages, Proficiencies
 - **Languages**: Common, Humic, Elven, Orcish, Vishkanya 
@@ -157,7 +155,7 @@ any spell you can cast, you must do so as your next action. Otherwise, if they
 have taken any damage, you must cast a spell or use an ability that heals hit 
 points. Also, you cannot perform a coup de grace. 
 You gain the ability to lay on hands, as the paladin ability, using your curse 
-level (1/2 character level via VMC, +5 at character level 11) as your paladin 
+level (1/2 character level) as your paladin 
 level.
 - At 5th curse level, you gain a mercy, as the paladin ability.
 - At 10th curse level, you gain a second mercy, and can exchange your first mercy for a different one.
@@ -191,6 +189,9 @@ Tantric Magic effort (bonuses from the Endurance feat apply to this check.) If
 you succeed you may use the feat again, if you fail you must wait an hour and 
 make another Constitution check. The DC of this check decreases by 1 for every 
 hour that has passed since you last used the feat.
+<!-- ### Torchbearer (5th)
+Vercingetorix has reunited with you. This functions as per Leadership, but does
+not grant any followers. At 8th level, this becomes Leadership.  -->
 <!-- ### Mystic Healer (7th)
 Add additional dice to any form of healing you generate. This starts as +1d4, 
 increasing to 1d6 at 4th level, 2d6 at 7th level, 3d6 at 10th level, and 4d6 at

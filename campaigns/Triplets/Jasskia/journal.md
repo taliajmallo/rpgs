@@ -96,6 +96,11 @@ On returning to town, we found it aflame and filled with screaming villagers.
 While we were out, the sahuagin apparently attacked town.  
 ## Session 7 
 ### May 1, 957 TODO
+### May 2-9, 957 TODO
+## Session 8
+### May 10, 957 TODO
+
+
 ## Campaign Notes
 ### Companions
 #### Pyraloid of Garumna - Mer-Elf Magus
