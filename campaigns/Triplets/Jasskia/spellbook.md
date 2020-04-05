@@ -21,6 +21,20 @@ If an arcane mark is placed on a living being, the effect gradually fades in
 about a month.
 Arcane mark must be cast on an object prior to casting instant summons on the 
 same object (see that spell description for details).
+- [x] Daze
+  - Casting Time 1 standard action
+  - Components V, S, M (a pinch of wool or similar substance)
+  - Range close (25 ft. + 5 ft./2 levels)
+  - Target one humanoid creature of 4 HD or less
+  - Duration 1 round
+  - Saving Throw Will negates; Spell Resistance yes
+This spell clouds the mind of a humanoid creature with 4 or fewer Hit Dice so 
+that it takes no actions. Humanoids of 5 or more HD are not affected. A dazed 
+subject is not stunned, so attackers get no special advantage against it. After 
+a creature has been dazed by this spell, it is immune to the effects of this 
+spell for 1 minute.
+Dazed Condition: The creature is unable to act normally. A dazed creature can 
+take no actions, but has no penalty to AC.
 - [x] Detect Magic
   - Casting Time 1 standard action
   - Component: V, S
@@ -127,7 +141,7 @@ Read magic can be made permanent with a permanency spell.
 You can make an unattended Fine flammable object catch on fire. This works as if 
 you were using flint and steel except that you can use spark in any sort of 
 weather and it takes much less time to actually ignite an object.
-- [x] Stabilize
+- [ ] Stabilize
   - Casting Time 1 standard action
   - Components V,S
   - Range close (25 ft. + 5 ft./2 levels)

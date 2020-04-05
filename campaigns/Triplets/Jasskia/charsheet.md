@@ -31,13 +31,11 @@
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Bluff*					|	+15	|	4+3	|	+5		|	+3*	| 	+3 Familiar, +2 Trait within 60' of Pyra, +2 Racial vs attracted
+|	*Bluff*					|	+15	|	4+3	|	+5		|	+3*	| 	+3 Familiar, +2 Trait within 60' of Pyra or Sigrissa, +2 Racial vs attracted
 |	*Diplomacy*				|	+12	|	4+3	|	+5		|	-		| 	+2 to gather info
-|	*Perf., Dance*			|	+12 	|	4+3	|	+5		|	-		|	-
+|	*Prof, Courtesan*		|	+12 	|	4+3	|	+5		|	-		|	-  
 |	*Sleight of Hand*		|	+11	|	4+3	|	+3		|	+1		|	+1 Trait
 |	*Spellcraft*			|	+9 	|	4+3	|	+3		|	-		|	-
-|	*Sense Motive*			|	+2 	|	-  	|	-		|	+2		|	+2 Familiar
-|	*Perception*			|	+2 	|	-		|	-		|	+2		|	+2 Familiar
 
 ## Languages, Proficiencies
 - **Languages**: Common, Humic, Elven, Orcish, Vishkanya 
@@ -93,9 +91,8 @@ spells succeeds on their saving throw against the spell or hex, take damage
 equal to their save result minus the spell or hex's DC, to a maximum of your hit
 dice. 
 Replacement spells: Glamour (2) Nixie's Lure (6), Wave of Ecstasy (14)
-### Familiar: Viper
-Gain +3 to Bluff, and the benefits of the Awareness feat (+2 Perception, Sense 
-Motive) while the familiar is within 60 feet of you. 
+### Familiar: Sigrissa
+You have the aid of a viper familiar, sent by the Green Mother. 
 ### Season - Winter
 The save DCs of any of your spells that deal cold damage increase by 1. 
 ### Hexes
@@ -196,3 +193,6 @@ not grant any followers. At 8th level, this becomes Leadership.  -->
 Add additional dice to any form of healing you generate. This starts as +1d4, 
 increasing to 1d6 at 4th level, 2d6 at 7th level, 3d6 at 10th level, and 4d6 at
 13th level.  -->
+
+## Sigrissa (Viper Decoy Familiar)
+

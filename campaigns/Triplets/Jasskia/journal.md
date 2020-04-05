@@ -99,6 +99,9 @@ While we were out, the sahuagin apparently attacked town.
 ### May 2-9, 957 TODO
 ## Session 8
 ### May 10, 957 TODO
+### May 11, 957 TODO
+## Session 9
+### May 11, 957 TODO
 
 
 ## Campaign Notes
@@ -117,9 +120,9 @@ some skill, but absolutely no understanding of civilized society.
 #### Xulri - Human Barbarian
 She seems injury-prone, but otherwise competent. I'm probably going to end up 
 healing her a lot in the coming weeks. 
-#### Seldana - Elf Investigator
+<!-- #### Seldana - Elf Investigator
 All things considered, probably the sanest and most well-adjusted member of the 
-party. 
+party.  -->
 ### Contacts
 #### Cilanthia - Beloved Younger Sister / Wizard-in-Training
 Cil is my sweet baby sister. She was only three when I accidentally killed our 
