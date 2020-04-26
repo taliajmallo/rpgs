@@ -15,7 +15,7 @@
 |	Dailies					|	Uses										|	Effect	| 
 |-----------------------|-----------------------------------|-----------|
 |	**Features & Hexes**				
-|	Lay on Hands			|	[ ] [ ] [ ]								|	Heal 6 (1d6) as a standard action
+|	Lay on Hands			|	[x] [ ] [ ]								|	Heal 6 (1d6) as a standard action
 |	**Racials**
 | 	Dancing Lights			|	[ ]										|	As cantrip
 | 	Detect Magic			|	[ ]										|	As cantrip
@@ -24,23 +24,26 @@
 
 ## Notes
 HP: 24 Max
- - None
+ - 1 lethal damage
 SP: 8 Open, 8 Reserve
  - 1 Open & 1 Reserve for prepared cantrips
+ - 3 CMW + 5 CMW
 Sigrissa's HP: 12
- - No damage taken
+ - 6 lethal damage
 Verci's HP: 26
  - No damage taken
 
 Healing Hex uses: 
- - [ ] Xulri
- - [ ] Pyra
- - [ ] Braveheart  
-   - [ ] Faeble
- - [ ] Cas-mar
-   - [ ] Ziggy
- - [ ] Jass
-   - [ ] Sigrissa 
-   - [ ] Verci 
+ - [x] Xulri
+ - [x] Pyra
+ - [x] Braveheart  
+   - [x] Faeble
+ - [x] Cas-mar
+   - [x] Ziggy
+ - [x] Jass
+   - [x] Sigrissa 
+   - [x] Verci 
 
 Eldritch Dissonance tracking: 
+CLW I
+CMW II

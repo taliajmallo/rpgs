@@ -15,7 +15,7 @@
 |--------------|-----------------|--------------|	
 |	**HP**		|	24 max			|	-
 | 	**SP**		|	8 O / 8 R		|	-
-|	**AC**		|	12					|	-
+|	**AC**		|	12					|	16 For an hour
 |	**Init**		|	+2					|	-
 |	**BAB**		|	+2					|	- 
 |	**CMB**		|	+2					|	- 
@@ -79,9 +79,8 @@ The caster level of these spell-like abilities is equal to the changeling’s
 character level. The DC for these spell-like abilities is equal to 10 + the 
 spell’s level + the changeling’s Charisma modifier. 
 ### Favored Class Bonus - Witch IV
-Each time you take this benefit, gain a witch spell word to your spell words 
-known. This word must be at least one level below the highest word level you can 
-cast. 
+Each time you take this benefit, gain a witch spell to your spells known. This 
+word must be at least one level below the highest word level you can cast. 
 
 ## Witch Class Features
 ### Patron: The Green Mother (Enchantment)

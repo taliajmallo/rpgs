@@ -30,7 +30,7 @@
 |	Rope (50ft Hemp)				|	10 ea.	|	1x			|	
 |	Poison Dart						|	-			|	4x			|	Small Centipede poison
 |	Cask of Oil						|	1 ea.		|	1x			|	Flammable
-|	Wand of CMW						|	1			|	1x			|	11 Charges
+|	Wand of CMW						|	1			|	1x			|	8 Charges
 |	**Total**						|	13.5 lbs	|	-			|	Contained in backpack
 
 ## Misc
