@@ -1,4 +1,4 @@
-  240 to spend
+  240 to spend + 75 Loot
 - 150 Steel Lamellar
 -   7 Heavy Wooden Shield
 -  15 Longsword
@@ -13,6 +13,6 @@
 |	Gambeson							|	4 lbs 	|
 |	Lamellar, Steel				|	35 lbs 	| AC +6, Max Dex +3, ACP -5, ASF 25%, Move -10
 |	Shield, Heavy Wood			|	10 lbs	| AC +2, ACP -2 
-|	Longsword						|	4 lbs		| 1d8 Slashing, 19-20/x2 heavy blade
+|	MW Longsword					|	4 lbs		| 1d8 Slashing, 19-20/x2 heavy blade
 <!-- |	Backpack							|	31.5 (2)	|	 -->
 <!-- |	**Total**						|	32.5 lbs	| -->

@@ -10,10 +10,9 @@ This alters the medium's armor and weapon proficiencies.
 
 ## Class skills
 A possessed maiden gains Climb, Knowledge (Geography), Knowledge (History), 
-Knowledge (Local), Knowledge (Nobility), Ride, Survival, and Swim as class 
-skills, but does not gain Fly, Knowledge (Arcana), Knowledge (Planes), 
-Linguistics, Perform, Spellcraft, or Use Magic Device as class skills. 
-This alters the medium's class skills. 
+Knowledge (Local), Ride, Survival, and Swim as class skills, but does not gain 
+Fly, Knowledge (Arcana), Knowledge (Planes), Linguistics, Spellcraft, or Use 
+Magic Device as class skills. This alters the medium's class skills. 
 
 ## Conditioning (Ex)
 A possessed maiden compulsively resists channeling her prior conditioning, but 

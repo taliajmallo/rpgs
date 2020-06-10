@@ -13,29 +13,29 @@
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	10 max			|	-
+|	**HP**		|	14 max			|	-
 |	**AC**		|	21					|	-
 |	**Init**		|	+2					|	-
-|	**BAB**		|	+1					|	- 
+|	**BAB**		|	+2					|	- 
 |	**CMB**		|	+3					|	- 
 |	**CMD**		|	15					|	- 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
 |--------------|--------|--------------|	
-|	**Fort**		|	+2 	|	- 
+|	**Fort**		|	+3 	|	- 
 |	**Ref**		|	+2		|	- 
-|	**Will**		|	+1		|	-2/LE Compulsion
+|	**Will**		|	+2		|	-3 Penalty/LE Compulsion
 
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Diplomacy*				|	+10	|	1+3	|	+6		|	-		| 	
-|	*Intimidate*			|	+10	|	1+3	|	+6		|	-		| 	
-|	*Kn. Geography*		|	+6 	|	1+3	|	+2		|	-		| 	
-|	*Kn. History*			|	+6 	|	1+3	|	+2		|	-		| 	
-|	*Kn. Local*				|	+6 	|	1+3	|	+2		|	-		| 	
-<!-- |	*Perform, Oratory*	|	+10 	|	1+3	|	+6		|	-		| 	 --> Replace this
+|	*Diplomacy*				|	+11	|	2+3	|	+6		|	-		| 	
+|	*Intimidate*			|	+11	|	2+3	|	+6		|	-		| 	
+|	*Kn. Geography*		|	+7 	|	2+3	|	+2		|	-		| 	
+|	*Kn. History*			|	+7 	|	2+3	|	+2		|	-		| 	
+|	*Kn. Local*				|	+7 	|	2+3	|	+2		|	-		| 	
+|	*Perform, Oratory*	|	+11 	|	2+3	|	+6		|	-		| 	 
 |	*Perception*			|	-2*	|	-		|	-2		|	-0*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
 Armor Check Penalty -7
@@ -51,16 +51,18 @@ You take a –2 penalty on Sense Motive and sight-based Perception checks.
 ### Strength of Submission (Faith)
 Whenever you are under the effects of a compulsion effect, you gain a +1 trait 
 bonus on attack and damage rolls.
-### Possessed (Magic)
-Once per day, you can attempt a Knowledge check of your choice even if you are 
-not trained in that skill and it is not usually possible to use that skill 
-untrained. If you can normally use that skill untrained, you gain a +2 trait 
-bonus on the check.
-### Protective Faith (Religion)
-When you use the aid another action to grant your ally a bonus to AC, you grant 
-a +3 bonus to AC instead of the normal +2.
-### Favored Class: Shield-Sister I
-TODO 
+### Shield Bearer (Race)
+Benefit When performing a shield bash, you deal 1 additional point of damage. 
+Also, once per day on your turn as a free action, you may provide one adjacent 
+ally a +2 trait bonus to his Armor Class. This bonus lasts for 1 round, so long 
+as you and the target remain adjacent to one another. You can only use this 
+ability if you are using a shield. You retain your shield bonus to your armor 
+class when using this ability.
+### Shield-Trained (Religion)
+Heavy and light shields are considered simple weapons rather than martial 
+weapons for you. Heavy shields are considered light weapons for you.
+### Favored Class: Possessed Maiden II
+Add 1/6 to your Spirit Bonus. 
 
 ## Racial Features
 ### Base Properties
@@ -104,10 +106,19 @@ and may attempt Knowledge (Nobility) checks untrained.
 You gain Shield Focus (AC granted by shields increased by 1) as a bonus feat, 
 and your cavalier levels count as fighter levels for the purpose of qualifying
 for any feats that list Shield Focus as a prerequisite. 
+### Aid Allies
+Your Aid Another grants +3 instead of +2. This increases at 8th level and every
+6 thereafter.
+### Lion's Call
+As a standard action, you can give a rallying speech. Allies within 60' gain a
++6 (CHA Mod) competence bonus on saves versus fear and a +1 competence bonus on
+attack rolls. This lasts 2 (Cav level) rounds. If an affected ally is already
+suffering from a spell or effect that causes frightened or panicked, the ally
+can make a new saving throw immediately. 
 
 ## Possessed Maiden Features (Possessed Maiden Medium)
 ### Indoctrination 
-You may make a Will save, DC 10 (10 + 1/2 class level), as a full-round
+You may make a Will save, DC 11 (10 + 1/2 class level), as a full-round
 action to channel a spirit. Failure leaves you shaken for a minute. If exposed 
 to mortal danger, you must make a Will save to avoid channeling a spirit. You 
 can end this effect early with another will save. 
@@ -120,8 +131,16 @@ You gain a +1 bonus to certain checks, statistics, and rolls, determined by your
 current spirit. At most once per round, after failing a d20 roll modified by 
 this bonus, you may  immediately add 1d6 to the check's result without taking an 
 action. This may be used 9 (3 + CHA Modifier) times per day. 
+### Bonds of Sisterhood
+You grant your seance boon to any adjacent allies. At 5th level, this improves
+
 ### Talents
-#### TODO
+#### Shield-Sister
+When using a longsword and a heavy shield, you are treated as if you had the 
+two-weapon fighting feat. This allows you to take feats that require two-weapon
+fighting as a prerequisite without meeting the two-weapon fighting or dexterity
+prerequisites, but you only benefit from such feats while using a longsword and
+a heavy shield. 
 
 ## Feats
 ### Grey Maiden Initiate (1st)
@@ -135,26 +154,28 @@ number of temporary hit points equal to the spell’s level. These temporary hit
 points last for the duration of the spell effect.
 ### Weapon Focus, Longsword (1st Antihero)
 You gain a +1 bonus on all attack rolls with a Longsword. 
-<!-- ### Sisterhood Style (3rd)
+<!-- ### Improved Shield Bash (3rd)
+When you perform a shield bash, you may still apply the shield’s shield bonus to 
+your AC.-->
+<!-- ### Sisterhood Style (5th or talent)
 While using this style and wielding a longsword and a light or heavy shield, you 
 gain a +1 bonus on Reflex and Will saving throws. In addition, when you enter the 
 Sisterhood Style stance, you can choose a teamwork feat you have. As a swift 
 action, you can grant that feat to an ally within 10 feet until the beginning of 
 your next turn. -->
-<!-- ### ??? (5th)-->
 <!-- ### Take the Hit (6th Cavalier Bonus Feat)
 As long as an ally with the Bonded Mind feat is adjacent to you, you can choose 
 to absorb up to half of the hit point damage from any attack that strikes him, 
 as if subject to a shield other spell. Using this ability is an immediate action, 
 and it only applies to one attack, even if the ally is hit by multiple attacks 
 as part of the same action. -->
-<!-- ### Sisterhood Rampart (7th)
+<!-- ### Sisterhood Rampart (7th or talent)
 While using Sisterhood Style, you and adjacent allies gain an additional +1 
 bonus to the shield bonus granted by Shield Wall, and each of you adds your 
 shield bonus to AC (not counting enhancement bonuses) to your CMD against bull 
 rush combat maneuvers. In addition, you and adjacent allies do not provide soft 
 cover against allies’ attacks. -->
-<!-- ### Sisterhood Dedication (9th)
+<!-- ### Sisterhood Dedication (9th or talent)
 While you’re using Sisterhood Style and wielding a longsword and either a light 
 or heavy shield, the bonus on saving throws from Sisterhood Style increases to 
 +2 and you grant half that bonus to all allies within 20 feet. In addition, you 
