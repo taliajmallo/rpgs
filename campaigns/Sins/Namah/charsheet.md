@@ -32,10 +32,10 @@
 |-----------------------|--------|--------|--------|--------|-----------------|	
 |	*Diplomacy*				|	+11	|	2+3	|	+6		|	-		| 	
 |	*Intimidate*			|	+11	|	2+3	|	+6		|	-		| 	
-|	*Kn. Geography*		|	+7 	|	2+3	|	+2		|	-		| 	
-|	*Kn. History*			|	+7 	|	2+3	|	+2		|	-		| 	
-|	*Kn. Local*				|	+7 	|	2+3	|	+2		|	-		| 	
-|	*Perform, Oratory*	|	+11 	|	2+3	|	+6		|	-		| 	 
+|	*Kn [Geography]*		|	+7 	|	2+3	|	+2		|	-		| 	
+|	*Kn [History]*			|	+7 	|	2+3	|	+2		|	-		| 	
+|	*Kn [Local]*			|	+7 	|	2+3	|	+2		|	-		| 	
+|	*Perform [Oratory]*	|	+11 	|	2+3	|	+6		|	-		| 	 
 |	*Perception*			|	-2*	|	-		|	-2		|	-0*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
 Armor Check Penalty -7

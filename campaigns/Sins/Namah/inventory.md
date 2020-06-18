@@ -2,6 +2,7 @@
 - 150 Steel Lamellar
 -   7 Heavy Wooden Shield
 -  15 Longsword
+-  100 Longbow
 # Namah's Inventory 
 ## Carrying Capacity
  - [x] Light: 66 lbs. or less, no effects
@@ -14,5 +15,7 @@
 |	Lamellar, Steel				|	35 lbs 	| AC +6, Max Dex +3, ACP -5, ASF 25%, Move -10
 |	Shield, Heavy Wood			|	10 lbs	| AC +2, ACP -2 
 |	MW Longsword					|	4 lbs		| 1d8 Slashing, 19-20/x2 heavy blade
+|	Longbow							|	3 lbs		| 1d8 Piercing
+|	Arrows							|				| 50x
 <!-- |	Backpack							|	31.5 (2)	|	 -->
 <!-- |	**Total**						|	32.5 lbs	| -->
