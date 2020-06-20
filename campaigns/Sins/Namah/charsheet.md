@@ -1,5 +1,5 @@
 # Namah
-## LG Blooded Aasimar Grey Maiden 1
+## LG Blooded Aasimar Grey Maiden 3
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
@@ -13,29 +13,30 @@
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	14 max			|	-
-|	**AC**		|	21					|	-
+|	**HP**		|	21 max			|	-
+|	**AC**		|	21					|	-2 if bashed with shield
 |	**Init**		|	+2					|	-
-|	**BAB**		|	+2					|	- 
-|	**CMB**		|	+3					|	- 
-|	**CMD**		|	15					|	- 
+|	**BAB**		|	+3					|	- 
+|	**CMB**		|	+5					|	- 
+|	**CMD**		|	17					|	- 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
 |--------------|--------|--------------|	
 |	**Fort**		|	+3 	|	- 
-|	**Ref**		|	+2		|	- 
-|	**Will**		|	+2		|	-3 Penalty/LE Compulsion
+|	**Ref**		|	+3		|	+1 while shield equipped 
+|	**Will**		|	+2		|	-3 Penalty/LE Compulsion, +1 while shield equipped
 
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Diplomacy*				|	+11	|	2+3	|	+6		|	-		| 	
-|	*Intimidate*			|	+11	|	2+3	|	+6		|	-		| 	
+|	*Diplomacy*				|	+12	|	3+3	|	+6		|	-		| 	
+|	*Fly*						|	+5		|	3+3	|	+2		|	-3		| 	+4 Racial, -7 ACP
+|	*Intimidate*			|	+12	|	3+3	|	+6		|	-		| 	
 |	*Kn [Geography]*		|	+7 	|	2+3	|	+2		|	-		| 	
 |	*Kn [History]*			|	+7 	|	2+3	|	+2		|	-		| 	
 |	*Kn [Local]*			|	+7 	|	2+3	|	+2		|	-		| 	
-|	*Perform [Oratory]*	|	+11 	|	2+3	|	+6		|	-		| 	 
+|	*Perform [Oratory]*	|	+12 	|	3+3	|	+6		|	-		| 	 
 |	*Perception*			|	-2*	|	-		|	-2		|	-0*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
 Armor Check Penalty -7
@@ -61,7 +62,7 @@ class when using this ability.
 ### Shield-Trained (Religion)
 Heavy and light shields are considered simple weapons rather than martial 
 weapons for you. Heavy shields are considered light weapons for you.
-### Favored Class: Possessed Maiden II
+### Favored Class: Possessed Maiden III
 Add 1/6 to your Spirit Bonus. 
 
 ## Racial Features
@@ -69,18 +70,15 @@ Add 1/6 to your Spirit Bonus.
 Your size is medium, you have a movement speed of 30 feet, and you can see in
 complete darkness (including magical darkness), but are completely colorblind. 
 You are a native outsider. 
-### Bonded Mind
-As long as you can see each other, you and an ally who also has this feat can 
-trade nonverbal messages. These function as the message spell, except that you 
-don’t need to whisper or point, and you cannot be overheard.
 ### Soul-Sight
 You are permanently under the effect of Deathwatch. You can instantly tell 
 whether any creatures you can see within 30 feet are dead, fragile (<=3 HP), 
-injured (>=4 HP), healthy, undead, or neither alive nor dead. 
+injured (>=4 HP), healthy, undead, or neither alive nor dead, and Knowledge 
+(Planes) is always a class skill for you. 
 ### Wings
 You are permanently under the effect of a nonmagical featherfall, and may glide
 5 feet horizontally per 1 foot vertical (for an overland speed of 60 feet per
-round). You gain +4 to Fly checks. 
+round). You gain +4 to Fly checks, and Fly is always a class skill for you. 
 
 ## Shield-Sister Features (Sister-in-Arms, Knight of the Wall Cavalier)
 ### Edict of the Scarlet Rose
@@ -115,6 +113,10 @@ As a standard action, you can give a rallying speech. Allies within 60' gain a
 attack rolls. This lasts 2 (Cav level) rounds. If an affected ally is already
 suffering from a spell or effect that causes frightened or panicked, the ally
 can make a new saving throw immediately. 
+### Bodyguard
+When an adjacent ally is attacked, you may use an attack of opportunity to 
+attempt the aid another action to improve your ally’s AC. You may not use the 
+aid another action to improve your ally’s attack roll with this attack.
 
 ## Possessed Maiden Features (Possessed Maiden Medium)
 ### Indoctrination 
@@ -132,7 +134,8 @@ current spirit. At most once per round, after failing a d20 roll modified by
 this bonus, you may  immediately add 1d6 to the check's result without taking an 
 action. This may be used 9 (3 + CHA Modifier) times per day. 
 ### Bonds of Sisterhood
-You grant your seance boon to any adjacent allies. At 5th level, this improves
+You grant your seance boon to any adjacent allies. At 5th level, this improves 
+to all allies within 30 feet.
 
 ### Talents
 #### Shield-Sister
@@ -141,6 +144,18 @@ two-weapon fighting feat. This allows you to take feats that require two-weapon
 fighting as a prerequisite without meeting the two-weapon fighting or dexterity
 prerequisites, but you only benefit from such feats while using a longsword and
 a heavy shield. 
+#### Sisterhood Combat I (Sisterhood Style)
+While using this style and wielding a longsword and a light or heavy shield, you 
+gain a +1 bonus on Reflex and Will saving throws. In addition, when you enter 
+the Sisterhood Style stance, you can choose a teamwork feat you have. As a swift 
+action, you can grant that feat to an ally within 10 feet until the beginning of 
+your next turn.
+<!-- ### Sisterhood Combat II (Sisterhood Rampart)
+While using Sisterhood Style, you and adjacent allies gain an additional +1 
+bonus to the shield bonus granted by Shield Wall, and each of you adds your 
+shield bonus to AC (not counting enhancement bonuses) to your CMD against bull 
+rush combat maneuvers. In addition, you and adjacent allies do not provide soft 
+cover against allies’ attacks. -->
 
 ## Feats
 ### Grey Maiden Initiate (1st)
@@ -154,28 +169,23 @@ number of temporary hit points equal to the spell’s level. These temporary hit
 points last for the duration of the spell effect.
 ### Weapon Focus, Longsword (1st Antihero)
 You gain a +1 bonus on all attack rolls with a Longsword. 
-<!-- ### Improved Shield Bash (3rd)
-When you perform a shield bash, you may still apply the shield’s shield bonus to 
-your AC.-->
-<!-- ### Sisterhood Style (5th or talent)
-While using this style and wielding a longsword and a light or heavy shield, you 
-gain a +1 bonus on Reflex and Will saving throws. In addition, when you enter the 
-Sisterhood Style stance, you can choose a teamwork feat you have. As a swift 
-action, you can grant that feat to an ally within 10 feet until the beginning of 
-your next turn. -->
-<!-- ### Take the Hit (6th Cavalier Bonus Feat)
-As long as an ally with the Bonded Mind feat is adjacent to you, you can choose 
-to absorb up to half of the hit point damage from any attack that strikes him, 
-as if subject to a shield other spell. Using this ability is an immediate action, 
-and it only applies to one attack, even if the ally is hit by multiple attacks 
-as part of the same action. -->
-<!-- ### Sisterhood Rampart (7th or talent)
-While using Sisterhood Style, you and adjacent allies gain an additional +1 
-bonus to the shield bonus granted by Shield Wall, and each of you adds your 
-shield bonus to AC (not counting enhancement bonuses) to your CMD against bull 
-rush combat maneuvers. In addition, you and adjacent allies do not provide soft 
-cover against allies’ attacks. -->
-<!-- ### Sisterhood Dedication (9th or talent)
+### Precise Strike (3rd, Teamwork)
+Whenever you and an ally who also has this feat are flanking the same the 
+creature, you deal an additional 1d6 points of precision damage with each 
+successful melee attack. This bonus damage stacks with other sources of 
+precision damage, such as sneak attack. This bonus damage is not multiplied on 
+a critical hit.
+<!-- ### Shield Wall (5th, Teamwork)
+Whenever you are wielding a shield and are adjacent to an ally wielding a shield 
+who also has this feat, the AC bonus from your shield increases, depending on 
+the shield wielded by your ally. If your ally is wielding a buckler or a 
+light shield, your shield bonus increases by +1. If your ally is wielding a 
+heavy shield or a tower shield, your shield bonus increases by +2. You keep 
+these bonuses even if your ally loses his shield bonus due to making a shield 
+bash attack. If an adjacent ally with this feat uses a tower shield to grant 
+total cover, you also benefit if an attack targeting you passes through the edge 
+of the shield.-->
+<!-- ### Sisterhood Dedication (6th)
 While you’re using Sisterhood Style and wielding a longsword and either a light 
 or heavy shield, the bonus on saving throws from Sisterhood Style increases to 
 +2 and you grant half that bonus to all allies within 20 feet. In addition, you 
