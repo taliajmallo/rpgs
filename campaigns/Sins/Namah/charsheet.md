@@ -1,9 +1,9 @@
 # Namah
-## LG Blooded Aasimar Grey Maiden 3
+## LG Blooded Aasimar Grey Maiden 4
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
-|	**STR** 	|	15 (+2)	|	-
+|	**STR** 	|	16 (+3)	|	-
 |	**DEX** 	|	14 (+2)	|	-
 |	**CON** 	|	10 (--) 	|	-
 |	**INT** 	|	14 (+2) 	|	-
@@ -13,30 +13,31 @@
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	21 max			|	-
+|	**HP**		|	27 max			|	-
 |	**AC**		|	21					|	-2 if bashed with shield
 |	**Init**		|	+2					|	-
-|	**BAB**		|	+3					|	- 
-|	**CMB**		|	+5					|	- 
-|	**CMD**		|	17					|	- 
+|	**BAB**		|	+4					|	- 
+|	**CMB**		|						|	- 
+|	**CMD**		|						|	- 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
 |--------------|--------|--------------|	
-|	**Fort**		|	+3 	|	- 
+|	**Fort**		|	+4 	|	- 
 |	**Ref**		|	+3		|	+1 while shield equipped 
-|	**Will**		|	+2		|	-3 Penalty/LE Compulsion, +1 while shield equipped
+|	**Will**		|	+3		|	-3 Penalty/LE Compulsion, +1 while shield equipped, +2 if effect would cause her to damage an ally
 
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Diplomacy*				|	+12	|	3+3	|	+6		|	-		| 	
-|	*Fly*						|	+5		|	3+3	|	+2		|	-3		| 	+4 Racial, -7 ACP
+|	*Diplomacy*				|	+13	|	4+3	|	+6		|	-		| 	
+|	*Fly*						|	+6		|	4+3	|	+2		|	-3		| 	+4 Racial, -7 ACP
 |	*Intimidate*			|	+12	|	3+3	|	+6		|	-		| 	
-|	*Kn [Geography]*		|	+7 	|	2+3	|	+2		|	-		| 	
-|	*Kn [History]*			|	+7 	|	2+3	|	+2		|	-		| 	
-|	*Kn [Local]*			|	+7 	|	2+3	|	+2		|	-		| 	
-|	*Perform [Oratory]*	|	+12 	|	3+3	|	+6		|	-		| 	 
+|	*Kn [Geography]*		|	+8 	|	3+3	|	+2		|	-		| 	
+|	*Kn [History]*			|	+8 	|	3+3	|	+2		|	-		| 	
+|	*Kn [Local]*			|	+8 	|	3+3	|	+2		|	-		| 	
+|	*Kn [Nobility]*		|	+2 	|	-		|	+2		|	-		| 	
+|	*Perform [Oratory]*	|	+13 	|	4+3	|	+6		|	-		| 	 
 |	*Perception*			|	-2*	|	-		|	-2		|	-0*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
 Armor Check Penalty -7
@@ -62,7 +63,7 @@ class when using this ability.
 ### Shield-Trained (Religion)
 Heavy and light shields are considered simple weapons rather than martial 
 weapons for you. Heavy shields are considered light weapons for you.
-### Favored Class: Possessed Maiden III
+### Favored Class: Possessed Maiden IV
 Add 1/6 to your Spirit Bonus. 
 
 ## Racial Features
@@ -87,7 +88,7 @@ group. You must protect your allies from harm, and defend their honor when
 called into doubt. If you fail at these edicts, you may not challenge foes for
 24 hours. 
 ### Challenge
-Once per day, you may challenge a foe as a swift action. You deal extra damage
+Twice per day, you may challenge a foe as a swift action. You deal extra damage
 on melee attacks against the target equal to 1/2 your level (minimum 1), and 
 gain a +1 dodge bonus to your AC against attacks made by the target, but suffer 
 a -2 penalty to AC against all attacks not made by the target of your challenge. 
@@ -117,10 +118,13 @@ can make a new saving throw immediately.
 When an adjacent ally is attacked, you may use an attack of opportunity to 
 attempt the aid another action to improve your ally’s AC. You may not use the 
 aid another action to improve your ally’s attack roll with this attack.
+### Maiden's Loyalty
+Gain a +2 bonus to any will saves against an affect that would cause you to 
+attack your allies. 
 
 ## Possessed Maiden Features (Possessed Maiden Medium)
 ### Indoctrination 
-You may make a Will save, DC 11 (10 + 1/2 class level), as a full-round
+You may make a Will save, DC 12 (10 + 1/2 class level), as a full-round
 action to channel a spirit. Failure leaves you shaken for a minute. If exposed 
 to mortal danger, you must make a Will save to avoid channeling a spirit. You 
 can end this effect early with another will save. 
@@ -129,7 +133,7 @@ lesser power. Any abilities that would cost influence instead cost a daily
 use of Superior Training. 
 This is considered to be a compulsion caused by a lawful evil creature.  
 ### Spirit Bonus / Spirit Surge
-You gain a +1 bonus to certain checks, statistics, and rolls, determined by your
+You gain a +2 bonus to certain checks, statistics, and rolls, determined by your
 current spirit. At most once per round, after failing a d20 roll modified by 
 this bonus, you may  immediately add 1d6 to the check's result without taking an 
 action. This may be used 9 (3 + CHA Modifier) times per day. 
