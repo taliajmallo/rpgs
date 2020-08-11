@@ -1,5 +1,5 @@
 # Namah
-## LG Blooded Aasimar Grey Maiden 4
+## LG Blooded Aasimar Dawn Legionnaire 4
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
@@ -13,8 +13,8 @@
 ## Secondary Stats
 |	Stat			|	Base				|	Temp/Notes	|	
 |--------------|-----------------|--------------|	
-|	**HP**		|	27 max			|	-
-|	**AC**		|	21					|	-2 if bashed with shield
+|	**HP**		|	31 max			|	-
+|	**AC**		|	21					|	10 +2(d) +6(a) +2(s)+1(se)
 |	**Init**		|	+2					|	-
 |	**BAB**		|	+4					|	- 
 |	**CMB**		|						|	- 
@@ -24,20 +24,18 @@
 |	Save			|	Base	|	Temp/Notes	|	
 |--------------|--------|--------------|	
 |	**Fort**		|	+4 	|	- 
-|	**Ref**		|	+3		|	+1 while shield equipped 
-|	**Will**		|	+3		|	-3 Penalty/LE Compulsion, +1 while shield equipped, +2 if effect would cause her to damage an ally
+|	**Ref**		|	+9		|	+6 (CHA)
+|	**Will**		|	+2		|	-
 
 ## Skills 
 |	Skill						|	Total	|	Rank	|	Stat	|	Misc	|	Temp/Notes		|	
 |-----------------------|--------|--------|--------|--------|-----------------|	
-|	*Diplomacy*				|	+13	|	4+3	|	+6		|	-		| 	
+|	*Diplomacy*				|	+13	|	4+3	|	+6		|	-		|	+1 Trait vs Evil
 |	*Fly*						|	+6		|	4+3	|	+2		|	-3		| 	+4 Racial, -7 ACP
-|	*Intimidate*			|	+12	|	3+3	|	+6		|	-		| 	
-|	*Kn [Geography]*		|	+8 	|	3+3	|	+2		|	-		| 	
-|	*Kn [History]*			|	+8 	|	3+3	|	+2		|	-		| 	
-|	*Kn [Local]*			|	+8 	|	3+3	|	+2		|	-		| 	
-|	*Kn [Nobility]*		|	+2 	|	-		|	+2		|	-		| 	
-|	*Perform [Oratory]*	|	+13 	|	4+3	|	+6		|	-		| 	 
+|	*Intimidate*			|	+13	|	4+3	|	+6		|	-		|	+1 Trait vs Evil
+|	*Kn. [History]*		|	+9		|	4+3	|	+2		|	-		|
+|	*Kn. [Local]*			|	+9		|	4+3	|	+2		|	-		|
+|	*Ride*					|	+2		|	4+3	|	+2		|	-7		|	-7 ACP
 |	*Perception*			|	-2*	|	-		|	-2		|	-0*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
 Armor Check Penalty -7
@@ -50,21 +48,19 @@ Armor Check Penalty -7
 ## Traits, Drawbacks, & Favored Classes
 ### Oblivious (Drawback)
 You take a –2 penalty on Sense Motive and sight-based Perception checks.
-### Strength of Submission (Faith)
-Whenever you are under the effects of a compulsion effect, you gain a +1 trait 
-bonus on attack and damage rolls.
-### Shield Bearer (Race)
-Benefit When performing a shield bash, you deal 1 additional point of damage. 
-Also, once per day on your turn as a free action, you may provide one adjacent 
-ally a +2 trait bonus to his Armor Class. This bonus lasts for 1 round, so long 
-as you and the target remain adjacent to one another. You can only use this 
-ability if you are using a shield. You retain your shield bonus to your armor 
-class when using this ability.
-### Shield-Trained (Religion)
-Heavy and light shields are considered simple weapons rather than martial 
-weapons for you. Heavy shields are considered light weapons for you.
-### Favored Class: Possessed Maiden IV
-Add 1/6 to your Spirit Bonus. 
+### Unorthodox Method (Regional)
+Instead of gaining the Scarlet Throne discipline as a Harbinger, gain the Black 
+Seraph discipline. 
+### Wicked Leader (Social)
+You gain a +1 trait bonus on Charisma-based checks against evil creatures. If 
+you select the Leadership feat or the Vile Leadership feat at any point when you 
+meet the prerequisites for that feat, you can recruit a cohort who is up to 1 
+level lower than you (instead of the normal requirement that your cohort must be 
+2 or more levels lower than you are) as long as your cohort is evil.
+### Vengeful (Combat)
+Gain +1 to damage rolls against the last creature to damage you within 24 hours.
+### Favored Class: Warlord IV
+Gain +1/5 of a combat feat per rank.
 
 ## Racial Features
 ### Base Properties
@@ -81,119 +77,143 @@ You are permanently under the effect of a nonmagical featherfall, and may glide
 5 feet horizontally per 1 foot vertical (for an overland speed of 60 feet per
 round). You gain +4 to Fly checks, and Fly is always a class skill for you. 
 
-## Shield-Sister Features (Sister-in-Arms, Knight of the Wall Cavalier)
-### Edict of the Scarlet Rose
-You must remain loyal to your allies and always work to further the aims of the 
-group. You must protect your allies from harm, and defend their honor when 
-called into doubt. If you fail at these edicts, you may not challenge foes for
-24 hours. 
-### Challenge
-Twice per day, you may challenge a foe as a swift action. You deal extra damage
-on melee attacks against the target equal to 1/2 your level (minimum 1), and 
-gain a +1 dodge bonus to your AC against attacks made by the target, but suffer 
-a -2 penalty to AC against all attacks not made by the target of your challenge. 
-Allies also gain a +1 circumstance bonus on melee attack rolls against the 
-target whenever you are threatening the target. 
-The bonuses to AC and allies' attack rolls increase by +1 at 4th level and every
-four levels thereafter, and you gain an additional use per day of this ability 
-every three levels after 1st. 
-### Skills of the Order
-You gain a bonus to Survival checks to provide fresh water and food for allies 
-or to protect allies against harsh weather equal to 1/2 your level (minimum 1)
-and may attempt Knowledge (Nobility) checks untrained. 
-### Shield Expertise
-You gain Shield Focus (AC granted by shields increased by 1) as a bonus feat, 
-and your cavalier levels count as fighter levels for the purpose of qualifying
-for any feats that list Shield Focus as a prerequisite. 
-### Aid Allies
-Your Aid Another grants +3 instead of +2. This increases at 8th level and every
-6 thereafter.
-### Lion's Call
-As a standard action, you can give a rallying speech. Allies within 60' gain a
-+6 (CHA Mod) competence bonus on saves versus fear and a +1 competence bonus on
-attack rolls. This lasts 2 (Cav level) rounds. If an affected ally is already
-suffering from a spell or effect that causes frightened or panicked, the ally
-can make a new saving throw immediately. 
-### Bodyguard
-When an adjacent ally is attacked, you may use an attack of opportunity to 
-attempt the aid another action to improve your ally’s AC. You may not use the 
-aid another action to improve your ally’s attack roll with this attack.
-### Maiden's Loyalty
-Gain a +2 bonus to any will saves against an affect that would cause you to 
-attack your allies. 
+## Class Features: Harbinger
+### Accursed Will (Ex)
+Gain a +1 (1/2 INT modifier) insight bonus to attack rolls. 
+### Dark Claim (Su)
+As a swift action, Claim an opponent you can detect within 35 (25 + 5/2 levels) 
+feet. Claims last for 2 (1/2 level) rounds, and you may Claim at most 2 
+(INT mod) enemies at a time. Claimed creatures provoke attacks of opportunity 
+even when using the Withdraw action, and you always know their location (though
+concealment still applies if you can no longer see them.) You also recover a 
+single maneuver* when Claiming an enemy, and recover two when a Claimed enemy is 
+reduced to 0 HP. (*Increased by feat)
+### Ill Tidings (Ex)
+Gain a +10-foot competence bonus to your movement (before armor penalties).
+### Dark Focus (Ex) - Black Seraph
+Gain a +1 bonus on attack rolls, damage rolls, and save DCs for maneuvers from
+the Black Seraph discipline. 
+### Grim News (Su)
+Once per encounter, you may move your speed as a swift action.
+### Massacre (Ex)
+Once per encounter, you may initiate one of your readied strikes against an 
+adjacent creature as an immediate action when you reduce an opponent to 0 HP.
+### Maneuvers
+Your maneuvers have a DC of 13 (11 + INT mod). You know the following maneuvers, 
+of which you may ready 4:
+- [ ] Voracious Drive (Black Seraph)
+Full (strike). Charge, ignoring attacks of opportunity, and deal +1d6 
+damage. 
+- [x] Ravaging Blow (Black Seraph)
+Standard (strike, evil, fear). Make an attack that deals an extra 1d6 
+profane damage, and makes the target shaken on a failed Will save. 
+- [x] Intimidating Force (Black Seraph)
+Immediate (counter). Make an intimidate check against an attack roll against you; 
+if you succeed, the attack is negated. 
+- [x] Woeful Burden (Cursed Razor)
+Standard (strike, curse). Make an attack. If it hits, the target becomes
+cursed and their speed is reduced by 15 (10 + 5/4 level) for 4 (level) rounds.
+- [x] Torment the Weak (Cursed Razor)
+Standard (strike). Make an attack. If it hits, deal +1d6 damage; if the 
+target is cursed, it takes 1d6 additional damage at the start of every turn for
+2 (INT mod) rounds. 
+- [ ] Minute Hand (Riven Hourglass)
+Swift (boost). Make an attack as a swift action with a -2 penalty to 
+the attack roll.  
+- [ ] Disturbing Blow (Veiled Moon)
+Standard (strike, mind-affecting). Make an attack; if it succeeds, the 
+target takes a -4 penalty to its next d20 roll. 
+### Stances
+You know the following stances:
+- Black Seraph's Glare (Black Seraph)
+After damaging an enemy, you may make an imtimidate check with a +4 profane 
+bonus to demoralize the enemy (DC 10 + HD + WIS, shaken (-2 atk/save/skill) for
+1 round + 1 per 5 over the DC).
+- Touch of the Witch (Cursed Razor)
+Any time you hit an enemy with a melee weapon, they become cursed for 2 (INT 
+mod) rounds. 
 
-## Possessed Maiden Features (Possessed Maiden Medium)
-### Indoctrination 
-You may make a Will save, DC 12 (10 + 1/2 class level), as a full-round
-action to channel a spirit. Failure leaves you shaken for a minute. If exposed 
-to mortal danger, you must make a Will save to avoid channeling a spirit. You 
-can end this effect early with another will save. 
-When channeling a spirit, you gain its seance boon, influence penalty, and 
-lesser power. Any abilities that would cost influence instead cost a daily
-use of Superior Training. 
-This is considered to be a compulsion caused by a lawful evil creature.  
-### Spirit Bonus / Spirit Surge
-You gain a +2 bonus to certain checks, statistics, and rolls, determined by your
-current spirit. At most once per round, after failing a d20 roll modified by 
-this bonus, you may  immediately add 1d6 to the check's result without taking an 
-action. This may be used 9 (3 + CHA Modifier) times per day. 
-### Bonds of Sisterhood
-You grant your seance boon to any adjacent allies. At 5th level, this improves 
-to all allies within 30 feet.
-
-### Talents
-#### Shield-Sister
-When using a longsword and a heavy shield, you are treated as if you had the 
-two-weapon fighting feat. This allows you to take feats that require two-weapon
-fighting as a prerequisite without meeting the two-weapon fighting or dexterity
-prerequisites, but you only benefit from such feats while using a longsword and
-a heavy shield. 
-#### Sisterhood Combat I (Sisterhood Style)
-While using this style and wielding a longsword and a light or heavy shield, you 
-gain a +1 bonus on Reflex and Will saving throws. In addition, when you enter 
-the Sisterhood Style stance, you can choose a teamwork feat you have. As a swift 
-action, you can grant that feat to an ally within 10 feet until the beginning of 
-your next turn.
-<!-- ### Sisterhood Combat II (Sisterhood Rampart)
-While using Sisterhood Style, you and adjacent allies gain an additional +1 
-bonus to the shield bonus granted by Shield Wall, and each of you adds your 
-shield bonus to AC (not counting enhancement bonuses) to your CMD against bull 
-rush combat maneuvers. In addition, you and adjacent allies do not provide soft 
-cover against allies’ attacks. -->
+## Class Features: Vanguard Commander Warlord
+### Warlord's Gambit (Ex)
+A gambit must be started as a swift or immediate action. You may add a +3 
+(Half CHA) luck bonus to any d20 roll made as part of a gambit. If you succeed 
+on the gambit, you restore 6 (CHA) maneuvers except for any used during the 
+gambit, and an additional benefit based on the gambit. If you fail, recover a 
+single maneuver and take a -2 penalty to all d20 rolls for one round.  
+#### Guardian's Gambit
+Risk: Attempt a charging shield bash. 
+Reward: You and all allies within 30 feet may take a free 5-foot step. 
+#### Flanker's Gambit
+Risk: Attack an opponent adjacent to an ally. 
+Reward: You are considered to be flanking that opponent until the end of your 
+next turn. 
+#### Unbreakable Gambit
+Risk: Make a Fortitude or Will save against a non-harmless effect. 
+Reward: Gain 18 (3*CHA) hit points. 
+### Tactical Presence (Ex)
+You may adopt a presence as a move action, which lasts until you adopt a new 
+presence. 
+#### Indomitable Presence
+All allies within 30 feet gain the benefits of Diehard (auto-stabilize, can 
+choose to take 1 damage to be disabled and staggered instead of dying) and gain
+a +6 (CHA) morale bonus to Fort saves against death effects, fatigue, exhaustion,
+or poison. 
+### Warleader (Ex)
+Gain a bonus teamwork feat. Up to 7 (1 + CHA) times per day, as a standard 
+action you may grant all allies within 30 feet a single teamwork feat you have, 
+or borrow a teamwork feat from a single ally, lasting for 9 (3 + CHA) rounds.  
+### Daring Defense (Ex)
+You may add your CHA modifier to your reflex. This doesn't stack with any 
+ability that would allow you to do the same thing. 
+### Tactical Flanker (Ex)
+At the start of each turn, choose an adjacent square. You and your allies can 
+treat that square as if you occupied it for the purposes of flanking. 
+### Maneuvers
+Your maneuvers have a DC of 17 (11 + CHA mod). You know the following maneuvers, 
+of which you may ready 5:
+- [ ] Angering Smash (Iron Tortoise)
+Standard (strike). Make a melee shield bash. If it hits, the target takes a -4
+penalty to attacks against other targets than you for one round. 
+- [ ] Strike of the Infinite Protector (Eternal Guardian)
+Standard (strike). Make an attack. If it hits, an ally within 30 feet gains +2
+to their AC for one round. 
+- [x] Terrifying Blow (Eternal Guardian)
+Standard (strike, fear). Make an attack. If it hits, target must make a Will 
+save or be frightened. If the target is cursed, it takes +1d6 damage. 
+- [x] Fear the Reaper (Eternal Guardian)
+Immediate (counter, fear). Make an intimidate check against an attack roll 
+against an ally; if you succeed, the attack is negated and the enemy is shaken
+for one round. 
+- [ ] Hunting Party (Golden Lion)
+Standard (strike). Make a melee attack. If it hits, an ally may make an attack 
+of opportunity against the target. 
+- [x] Encouraging Roar (Golden Lion)
+Swift (boost). All allies within 30 feet gain +2 morale to attack and damage for
+one round. 
+- [x] Defending the Pride (Golden Lion)
+Swift (boost). All allies within 60 feet gain +4 morale to AC for one round.  
+- [x] Warning Roar (Golden Lion)
+Immediate (counter). Make a diplomacy check against an attack roll against an 
+ally; if you succeed, the attack is negated. 
+### Stances
+You know the following stances:
+- Stance of the Defending Shell
+Gain a +1 bonus to your shield's AC.
+- Valiant Keeper's Stance
+Allies do not provoke attacks of opportunity when moving through squares you 
+threaten. 
 
 ## Feats
-### Grey Maiden Initiate (1st)
-*Deeper Indoctrination:* Mental conditioning has bolstered your mind against 
-most magical control. You gain a +1 bonus on Will saving throws, except when 
-resisting charm or compulsion effects created by lawful evil creatures, in which 
-case you instead take a -2 penalty on Will saving throws.
-*Tamed and Broken:* You reach your full potential only when magically compelled. 
-Whenever you are under the effects of an enemy’s compulsion spell, you gain a 
-number of temporary hit points equal to the spell’s level. These temporary hit 
-points last for the duration of the spell effect.
-### Weapon Focus, Longsword (1st Antihero)
-You gain a +1 bonus on all attack rolls with a Longsword. 
-### Precise Strike (3rd, Teamwork)
-Whenever you and an ally who also has this feat are flanking the same the 
-creature, you deal an additional 1d6 points of precision damage with each 
-successful melee attack. This bonus damage stacks with other sources of 
-precision damage, such as sneak attack. This bonus damage is not multiplied on 
-a critical hit.
-<!-- ### Shield Wall (5th, Teamwork)
-Whenever you are wielding a shield and are adjacent to an ally wielding a shield 
-who also has this feat, the AC bonus from your shield increases, depending on 
-the shield wielded by your ally. If your ally is wielding a buckler or a 
-light shield, your shield bonus increases by +1. If your ally is wielding a 
-heavy shield or a tower shield, your shield bonus increases by +2. You keep 
-these bonuses even if your ally loses his shield bonus due to making a shield 
-bash attack. If an adjacent ally with this feat uses a tower shield to grant 
-total cover, you also benefit if an attack targeting you passes through the edge 
-of the shield.-->
-<!-- ### Sisterhood Dedication (6th)
-While you’re using Sisterhood Style and wielding a longsword and either a light 
-or heavy shield, the bonus on saving throws from Sisterhood Style increases to 
-+2 and you grant half that bonus to all allies within 20 feet. In addition, you 
-can choose up to two teamwork feats you have when entering the Sisterhood Style 
-stance. As a swift action, you can grant one of those feats to two allies within 
-20 feet until the beginning of your next turn, or you can grant both feats to 
-one ally within 20 feet until the beginning of your next turn. -->
+### Dark Allure (1st)
+Claimed creatures take a penalty to attack rolls equal to your number of Claimed 
+creatures when attacking creatures other than you. 
+### Grasp of Darkness (1st Antihero)
+When you Claim enemies, you may Claim an additional two, and recover an 
+additional maneuver when Claiming. 
+### Improved Shield Bash (1st Bonus Specific)
+Bashing with a shield does not remove its AC penalty. 
+### Malevolence (3rd)
+Claimed creatures take a -2 penalty to combat maneuvers and skill checks. 
+### Precise Strike (3rd Bonus Teamwork)	
+Whenever you and an ally with this feat are flanking a creature, you both deal 
++1d6 precision damage with every melee attack. 
