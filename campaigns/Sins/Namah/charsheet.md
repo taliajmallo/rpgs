@@ -17,8 +17,8 @@
 |	**AC**		|	21					|	10 +2(d) +6(a) +2(s)+1(se)
 |	**Init**		|	+2					|	-
 |	**BAB**		|	+4					|	- 
-|	**CMB**		|						|	- 
-|	**CMD**		|						|	- 
+|	**CMB**		|	+7					|	- 
+|	**CMD**		|	19					|	- 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
@@ -101,32 +101,32 @@ adjacent creature as an immediate action when you reduce an opponent to 0 HP.
 ### Maneuvers
 Your maneuvers have a DC of 13 (11 + INT mod). You know the following maneuvers, 
 of which you may ready 4:
-- [ ] Voracious Drive (Black Seraph)
+- Voracious Drive (Black Seraph)
 Full (strike). Charge, ignoring attacks of opportunity, and deal +1d6 
 damage. 
-- [x] Ravaging Blow (Black Seraph)
+- Ravaging Blow (Black Seraph)
 Standard (strike, evil, fear). Make an attack that deals an extra 1d6 
 profane damage, and makes the target shaken on a failed Will save. 
-- [x] Intimidating Force (Black Seraph)
+- Intimidating Force (Black Seraph)
 Immediate (counter). Make an intimidate check against an attack roll against you; 
 if you succeed, the attack is negated. 
-- [x] Woeful Burden (Cursed Razor)
+- Woeful Burden (Cursed Razor)
 Standard (strike, curse). Make an attack. If it hits, the target becomes
 cursed and their speed is reduced by 15 (10 + 5/4 level) for 4 (level) rounds.
-- [x] Torment the Weak (Cursed Razor)
+- Torment the Weak (Cursed Razor)
 Standard (strike). Make an attack. If it hits, deal +1d6 damage; if the 
 target is cursed, it takes 1d6 additional damage at the start of every turn for
 2 (INT mod) rounds. 
-- [ ] Minute Hand (Riven Hourglass)
+- Minute Hand (Riven Hourglass)
 Swift (boost). Make an attack as a swift action with a -2 penalty to 
 the attack roll.  
-- [ ] Disturbing Blow (Veiled Moon)
+- Disturbing Blow (Veiled Moon)
 Standard (strike, mind-affecting). Make an attack; if it succeeds, the 
 target takes a -4 penalty to its next d20 roll. 
 ### Stances
 You know the following stances:
 - Black Seraph's Glare (Black Seraph)
-After damaging an enemy, you may make an imtimidate check with a +4 profane 
+After damaging an enemy, you may make an intimidate check with a +4 profane 
 bonus to demoralize the enemy (DC 10 + HD + WIS, shaken (-2 atk/save/skill) for
 1 round + 1 per 5 over the DC).
 - Touch of the Witch (Cursed Razor)
@@ -171,28 +171,28 @@ treat that square as if you occupied it for the purposes of flanking.
 ### Maneuvers
 Your maneuvers have a DC of 17 (11 + CHA mod). You know the following maneuvers, 
 of which you may ready 5:
-- [ ] Angering Smash (Iron Tortoise)
+- Angering Smash (Iron Tortoise)
 Standard (strike). Make a melee shield bash. If it hits, the target takes a -4
 penalty to attacks against other targets than you for one round. 
-- [ ] Strike of the Infinite Protector (Eternal Guardian)
+- Strike of the Infinite Protector (Eternal Guardian)
 Standard (strike). Make an attack. If it hits, an ally within 30 feet gains +2
 to their AC for one round. 
-- [x] Terrifying Blow (Eternal Guardian)
+- Terrifying Blow (Eternal Guardian)
 Standard (strike, fear). Make an attack. If it hits, target must make a Will 
 save or be frightened. If the target is cursed, it takes +1d6 damage. 
-- [x] Fear the Reaper (Eternal Guardian)
+- Fear the Reaper (Eternal Guardian)
 Immediate (counter, fear). Make an intimidate check against an attack roll 
 against an ally; if you succeed, the attack is negated and the enemy is shaken
 for one round. 
-- [ ] Hunting Party (Golden Lion)
+- Hunting Party (Golden Lion)
 Standard (strike). Make a melee attack. If it hits, an ally may make an attack 
 of opportunity against the target. 
-- [x] Encouraging Roar (Golden Lion)
+- Encouraging Roar (Golden Lion)
 Swift (boost). All allies within 30 feet gain +2 morale to attack and damage for
 one round. 
-- [x] Defending the Pride (Golden Lion)
+- Defending the Pride (Golden Lion)
 Swift (boost). All allies within 60 feet gain +4 morale to AC for one round.  
-- [x] Warning Roar (Golden Lion)
+- Warning Roar (Golden Lion)
 Immediate (counter). Make a diplomacy check against an attack roll against an 
 ally; if you succeed, the attack is negated. 
 ### Stances
