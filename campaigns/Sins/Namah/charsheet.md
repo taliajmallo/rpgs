@@ -3,10 +3,10 @@
 ## Ability Scores
 |	Stat		|	Base		|	Temp	|	
 |-----------|-----------|--------|	
-|	**STR** 	|	16 (+3)	|	-
+|	**STR** 	|	15 (+2)	|	-
 |	**DEX** 	|	14 (+2)	|	-
 |	**CON** 	|	10 (--) 	|	-
-|	**INT** 	|	14 (+2) 	|	-
+|	**INT** 	|	16 (+3) 	|	-
 |	**WIS** 	|	 6 (-2) 	|	-
 |	**CHA** 	|	22 (+6) 	|	-
 
@@ -17,8 +17,9 @@
 |	**AC**		|	21					|	10 +2(d) +6(a) +2(s)+1(se)
 |	**Init**		|	+2					|	-
 |	**BAB**		|	+4					|	- 
-|	**CMB**		|	+7					|	- 
-|	**CMD**		|	19					|	- 
+|	**CMB**		|	+6					|	- 
+|	**CMD**		|	18					|	- 
+|	**Speed**	|	30					|	(40 + 10)*(2/3) 
 
 ## Saves 
 |	Save			|	Base	|	Temp/Notes	|	
@@ -33,8 +34,8 @@
 |	*Diplomacy*				|	+13	|	4+3	|	+6		|	-		|	+1 Trait vs Evil
 |	*Fly*						|	+6		|	4+3	|	+2		|	-3		| 	+4 Racial, -7 ACP
 |	*Intimidate*			|	+13	|	4+3	|	+6		|	-		|	+1 Trait vs Evil
-|	*Kn. [History]*		|	+9		|	4+3	|	+2		|	-		|
-|	*Kn. [Local]*			|	+9		|	4+3	|	+2		|	-		|
+|	*Kn. [History]*		|	+10	|	4+3	|	+3		|	-		|
+|	*Kn. [Local]*			|	+10	|	4+3	|	+3		|	-		|
 |	*Ride*					|	+2		|	4+3	|	+2		|	-7		|	-7 ACP
 |	*Perception*			|	-2*	|	-		|	-2		|	-0*	| 	-2 Trait if sight-based
 |	*Sense Motive*			|	-4		|	-		|	-2		|	-2		| 	-2 Trait
@@ -64,7 +65,7 @@ Gain +1/5 of a combat feat per rank.
 
 ## Racial Features
 ### Base Properties
-Your size is medium, you have a movement speed of 30 feet, and you can see in
+Your size is medium, you have a movement speed of 40 feet, and you can see in
 complete darkness (including magical darkness), but are completely colorblind. 
 You are a native outsider. 
 ### Soul-Sight
@@ -82,12 +83,12 @@ round). You gain +4 to Fly checks, and Fly is always a class skill for you.
 Gain a +1 (1/2 INT modifier) insight bonus to attack rolls. 
 ### Dark Claim (Su)
 As a swift action, Claim an opponent you can detect within 35 (25 + 5/2 levels) 
-feet. Claims last for 2 (1/2 level) rounds, and you may Claim at most 2 
+feet. Claims last for 2 (1/2 level) rounds, and you may Claim at most 3 
 (INT mod) enemies at a time. Claimed creatures provoke attacks of opportunity 
 even when using the Withdraw action, and you always know their location (though
 concealment still applies if you can no longer see them.) You also recover a 
-single maneuver* when Claiming an enemy, and recover two when a Claimed enemy is 
-reduced to 0 HP. (*Increased by feat)
+single maneuver* when Claiming an enemy, and recover three (INT mod) when a 
+Claimed enemy is reduced to 0 HP. (*Increased to two by feat)
 ### Ill Tidings (Ex)
 Gain a +10-foot competence bonus to your movement (before armor penalties).
 ### Dark Focus (Ex) - Black Seraph
@@ -99,28 +100,27 @@ Once per encounter, you may move your speed as a swift action.
 Once per encounter, you may initiate one of your readied strikes against an 
 adjacent creature as an immediate action when you reduce an opponent to 0 HP.
 ### Maneuvers
-Your maneuvers have a DC of 13 (11 + INT mod). You know the following maneuvers, 
-of which you may ready 4:
-- Voracious Drive (Black Seraph)
-Full (strike). Charge, ignoring attacks of opportunity, and deal +1d6 
-damage. 
-- Ravaging Blow (Black Seraph)
+Your maneuvers have a base DC of 14 (10 + Tier + INT mod). You know the 
+following maneuvers, of which you may ready 4:
+- Ravaging Blow (Black Seraph I)
 Standard (strike, evil, fear). Make an attack that deals an extra 1d6 
 profane damage, and makes the target shaken on a failed Will save. 
-- Intimidating Force (Black Seraph)
+- Intimidating Force (Black Seraph II)
 Immediate (counter). Make an intimidate check against an attack roll against you; 
 if you succeed, the attack is negated. 
-- Woeful Burden (Cursed Razor)
+- Seraph's Wrath (Black Seraph II)
+Standard (strike). Make an attack. If it hits, deal +2d6 damage, and makes the 
+target prone on a failed reflex save.
+- Shadow Feather Strike (Black Seraph II)
+Standard (strike, evil). Make ranged touch attack against target in 30' for 
+4d6 + 3 (INT mod) profane damage. 
+- Woeful Burden (Cursed Razor I)
 Standard (strike, curse). Make an attack. If it hits, the target becomes
 cursed and their speed is reduced by 15 (10 + 5/4 level) for 4 (level) rounds.
-- Torment the Weak (Cursed Razor)
-Standard (strike). Make an attack. If it hits, deal +1d6 damage; if the 
-target is cursed, it takes 1d6 additional damage at the start of every turn for
-2 (INT mod) rounds. 
-- Minute Hand (Riven Hourglass)
+- Minute Hand (Riven Hourglass I)
 Swift (boost). Make an attack as a swift action with a -2 penalty to 
 the attack roll.  
-- Disturbing Blow (Veiled Moon)
+- Disturbing Blow (Veiled Moon I)
 Standard (strike, mind-affecting). Make an attack; if it succeeds, the 
 target takes a -4 penalty to its next d20 roll. 
 ### Stances
@@ -129,9 +129,8 @@ You know the following stances:
 After damaging an enemy, you may make an intimidate check with a +4 profane 
 bonus to demoralize the enemy (DC 10 + HD + WIS, shaken (-2 atk/save/skill) for
 1 round + 1 per 5 over the DC).
-- Touch of the Witch (Cursed Razor)
-Any time you hit an enemy with a melee weapon, they become cursed for 2 (INT 
-mod) rounds. 
+- Aura of Misfortune (Cursed Razor)
+All enemies within close range (25 + 5/2 levels) take -2 to saves.
 
 ## Class Features: Vanguard Commander Warlord
 ### Warlord's Gambit (Ex)
@@ -169,32 +168,33 @@ ability that would allow you to do the same thing.
 At the start of each turn, choose an adjacent square. You and your allies can 
 treat that square as if you occupied it for the purposes of flanking. 
 ### Maneuvers
-Your maneuvers have a DC of 17 (11 + CHA mod). You know the following maneuvers, 
-of which you may ready 5:
-- Angering Smash (Iron Tortoise)
-Standard (strike). Make a melee shield bash. If it hits, the target takes a -4
-penalty to attacks against other targets than you for one round. 
-- Strike of the Infinite Protector (Eternal Guardian)
+Your maneuvers have a base DC of 17 (10 + Tier + CHA mod). You know the 
+following maneuvers, of which you may ready 5:
+- Strike of the Infinite Protector (Eternal Guardian I)
 Standard (strike). Make an attack. If it hits, an ally within 30 feet gains +2
 to their AC for one round. 
-- Terrifying Blow (Eternal Guardian)
+- Terrifying Blow (Eternal Guardian I)
 Standard (strike, fear). Make an attack. If it hits, target must make a Will 
 save or be frightened. If the target is cursed, it takes +1d6 damage. 
-- Fear the Reaper (Eternal Guardian)
+- Fear the Reaper (Eternal Guardian II)
 Immediate (counter, fear). Make an intimidate check against an attack roll 
 against an ally; if you succeed, the attack is negated and the enemy is shaken
 for one round. 
-- Hunting Party (Golden Lion)
+- Strike of the Royal Guardian (Eternal Guardian II)
+Standard (strike, curse). Make an attack. If it hits, the target is cursed and
+takes a -2 to damage rolls so long as the curse lasts. If it does not attack on
+its turn, it can make a Will save to end; alternately, it can grovel prone for 
+a round to end automatically. 
+- Hunting Party (Golden Lion I)
 Standard (strike). Make a melee attack. If it hits, an ally may make an attack 
 of opportunity against the target. 
-- Encouraging Roar (Golden Lion)
-Swift (boost). All allies within 30 feet gain +2 morale to attack and damage for
-one round. 
-- Defending the Pride (Golden Lion)
-Swift (boost). All allies within 60 feet gain +4 morale to AC for one round.  
-- Warning Roar (Golden Lion)
+- Encouraging Roar (Golden Lion I)
+- Warning Roar (Golden Lion II)
 Immediate (counter). Make a diplomacy check against an attack roll against an 
 ally; if you succeed, the attack is negated. 
+- Angering Smash (Iron Tortoise I)
+Standard (strike). Make a melee shield bash. If it hits, the target takes a -4
+penalty to attacks against other targets than you for one round. 
 ### Stances
 You know the following stances:
 - Stance of the Defending Shell
