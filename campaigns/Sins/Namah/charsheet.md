@@ -58,8 +58,11 @@ you select the Leadership feat or the Vile Leadership feat at any point when you
 meet the prerequisites for that feat, you can recruit a cohort who is up to 1 
 level lower than you (instead of the normal requirement that your cohort must be 
 2 or more levels lower than you are) as long as your cohort is evil.
-### Vengeful (Combat)
-Gain +1 to damage rolls against the last creature to damage you within 24 hours.
+### Innocent (Racial)
+When a non-evil humanoid attempts to read your mind via a magical effect, the 
+reader must attempt a Will save opposed by your Charisma check. If the reader 
+fails this save, she is shaken for 1 round. If she fails by 10 or more, she is 
+instead frightened for 1 round, then shaken for 1 round.
 ### Favored Class: Warlord IV
 Gain +1/5 of a combat feat per rank.
 

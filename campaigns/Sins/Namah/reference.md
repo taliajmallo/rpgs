@@ -9,18 +9,18 @@
 |	Guardian Gambit	|	Charge shield bash / 5-foot-step for all allies in 30'.
 |	Flanker Gambit		|	Attack enemy with adjacent ally / auto-flank enemy for one round.
 |	Unbroken Gambit	|	Make Fort or Will save / gain 18 HP.
-|	Claim	[ ] [ ] [ ]	|	Claim 3 in 35' for 2r (-2 skills, CMB; -X/-0 vs allies, curse)
+|	Claim	[ ] [ ] [ ]	|	Claim 3 in 35' for 2r (-2 skills, CMB; -X/- vs allies, curse)
 
 ## Harbinger Maneuvers (4 Readied, Restore 2 on Claim & 3 on Claim Death)
 |	Ability				|	R?	|	E?	|	Effect
 |	*Strikes*
 |	Ravaging Blow		| [x] | [ ] |	Attack +1/+1 +1d6 profane, Will 15 / Shaken
-|	Torment the Weak	| [x] | [ ] |	Attack +1/+1 +2d6, Reflex 16 / Prone
-|	Feather Strike 	| [x] | [ ] |	Ranged touch dealing 4d6+4 profane.
+|	Seraph's Wrath		| [x] | [ ] |	Attack +1/+1 +2d6, Reflex 16 / Prone
+|	Feather Strike 	| [x] | [ ] |	Ranged touch +1/- dealing 4d6+4 profane.
 |	Woeful Burden		| [ ] | [ ] |	Attack, curse, reduce speeds by 15 for 4r
 |	Disturbing Blow	| [ ] | [ ] |	Attack, -4 to next d20
 |	*Boosts*
-|	Minute Hand			| [ ] | [ ] |	Make attack as swift action but -2/+0
+|	Minute Hand			| [ ] | [ ] |	Make attack as swift action but -2/-
 |	*Counters*
 |	Intimidating Gl.	| [x] | [ ] |	Intimidate attack roll vs you to cancel
 
@@ -28,8 +28,8 @@
 |	Ability				|	R?	|	E?	|	Effect
 |	*Strikes*
 |	Protector Strike	| [ ] | [ ] |	Attack, grant ally in 30 +2 AC for 1r
-|	Terrifying Blow	| [x] | [ ] |	Attack, +0/+1d6 if cursed, Will 17 / Frighten
-|	Guardian Strike	| [x]	| [ ] |	Attack, curse, give +0/-2 until curse ends
+|	Terrifying Blow	| [x] | [ ] |	Attack, -/+1d6 if cursed, Will 17 / Frighten
+|	Guardian Strike	| [x]	| [ ] |	Attack, curse, give -/-2 until curse ends
 |	Hunting Party		| [ ] | [ ] |	Attack, ally may make free AoO against  
 |	Angering Smash		| [ ] | [ ] |	Shield bash, -4 to attacking allies for 1r
 |	*Boosts*
