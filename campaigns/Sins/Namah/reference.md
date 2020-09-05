@@ -14,7 +14,7 @@
 |  Unbroken Gambit   |  Make Fort or Will save / gain 18 HP.
 |  Claim             |  Claim 3 in 35' for 2r (-2 skills, CMB; -X/- vs allies, curse)
 
-## Harbinger Maneuvers (4 Readied, Restore 2 on Claim & 3 on Claim 0HP)
+## Harbinger Maneuvers (5 Readied, Restore 2 on Claim & 3 on Claim 0HP)
 |  Ability           |  R? |  E? |  Effect   |
 |--------------------|-----|-----|-----------|
 |  *Strikes*
@@ -29,7 +29,7 @@
 |  *Counters*
 |  Intimidating Gl.  | [x] | [ ] |  Intimidate attack roll vs you to cancel
 
-## Warlord Maneuvers (5 Readied, Restore 6 on Gambit Success or 1 on Failure)
+## Warlord Maneuvers (6 Readied, Restore 6 on Gambit Success or 1 on Failure)
 |  Ability           |  R? |  E? |  Effect   |
 |--------------------|-----|-----|-----------|
 |  *Strikes*
