@@ -8,7 +8,7 @@
 |  Demoralize        |  DC 10 + HD + WIS, shaken (-2 atk/save/skill) for 1 + (1/5 > DC)r
 |  *Move Actions*
 |  Combat Advice     |  Tell ally to attack specific target to grant +2/-
-|  *Swift & Immediate Actions*
+|  *Swift & Immediate Actions* (Gambits get +3 to rolls, on fail -2 all)
 |  Guardian Gambit   |  Charge shield bash / 5-foot-step for all allies in 30'.
 |  Flanker Gambit    |  Attack enemy with adjacent ally / auto-flank enemy for 1r.
 |  Unbroken Gambit   |  Make Fort or Will save / gain 18 HP.
