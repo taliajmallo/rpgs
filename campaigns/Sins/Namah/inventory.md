@@ -23,4 +23,4 @@
 |                          |           |           |
 
 ## Wealth
-578 gp 5 sp
+2078 gp 5 sp

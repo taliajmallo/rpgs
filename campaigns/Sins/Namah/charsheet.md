@@ -106,7 +106,7 @@ adjacent creature as an immediate action when you reduce an opponent to 0 HP.
 Gain a +2 dodge bonus to AC and reflex any round you move at least 10 feet.
 ### Maneuvers
 Your maneuvers have a base DC of 14 (10 + Tier + INT mod). You know the
-following maneuvers, of which you may ready 4:
+following maneuvers, of which you may ready 5:
 - Ravaging Blow (Black Seraph I)
 Standard (strike, evil, fear). Make an attack that deals an extra 1d6
 profane damage, and makes the target shaken on a failed Will save.
@@ -189,7 +189,7 @@ While in a Golden Lion or Iron Tortoise stance, gain a +1 competence bonus to
 your shield bonus to armor class and CMD, and reduce your ACP by 1.
 ## Maneuvers
 Your maneuvers have a base DC of 17 (10 + Tier + CHA mod). You know the
-following maneuvers, of which you may ready 5:
+following maneuvers, of which you may ready 6:
 - Strike of the Infinite Protector (Eternal Guardian I)
 Standard (strike). Make an attack. If it hits, an ally within 30 feet gains +2
 to their AC for one round.
