@@ -7,12 +7,13 @@
 |  Name                    |  Weight   |  Notes    |
 |--------------------------|-----------|-----------|
 |  Gambeson                |  4 lbs    |
-|  Lamellar, Steel         |  35 lbs   | AC +6, Max Dex +3, ACP -5, ASF 25%, Move -10 -->
 |  Chainmail +1            |  35 lbs   | AC +6+1, Max Dex +3, ACP -5, ASF 25%, Move -10
 |  Shield, Heavy Steel +1  |  10 lbs   | AC +2+1, ACP -2
-|  MW Longsword            |  4 lbs    | 1d8 Slashing, 19-20/x2 heavy blade
+|  Flickmace               |  10 lbs   | 1d8 Bludgeoning, 20/x2 flail (reach, trip)
 |  Longbow                 |  3 lbs    | 1d8 Piercing
 |  Arrows                  |           | 50x
+<!-- |  MW Longsword            |  4 lbs    | 1d8 Slashing, 19-20/x2 heavy blade -->
+<!-- |  Lamellar, Steel         |  35 lbs   | AC +6, Max Dex +3, ACP -5, ASF 25%, Move -10 -->
 <!-- |  Backpack              |  31.5 (2)  |   -->
 <!-- |  **Total**            |  32.5 lbs  | -->
 
@@ -22,4 +23,4 @@
 |                          |           |           |
 
 ## Wealth
-147 gp 5 sp
+578 gp 5 sp

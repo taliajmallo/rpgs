@@ -3,8 +3,8 @@
 |  Ability           |  Effect                              |
 |--------------------|--------------------------------------|
 |  *Standard Actions*
-|  Longsword         |  +8 / 1d8+2 Slashing
-|  Longbow           |  +8 / 1d8 Piercing
+|  Flickmace         |  +8 / 1d8+2 Bludgeoning (Reach)
+|  Longbow           |  +8 / 1d8 Piercing (Ranged)
 |  Demoralize        |  DC 10 + HD + WIS, shaken (-2 atk/save/skill) for 1 + (1/5 > DC)r
 |  *Move Actions*
 |  Combat Advice     |  Tell ally to attack specific target to grant +2/-
