@@ -5,7 +5,7 @@
 |  *Standard Actions*
 |  Flickmace         |  +8 / 1d8+2 Bludgeoning (Reach)
 |  Longbow           |  +8 / 1d8 Piercing (Ranged)
-|  Demoralize        |  DC 10 + HD + WIS, shaken (-2 atk/save/skill) for 1 + (1/5 > DC)r
+|  Demoralize        |  DC 10+HD+WIS, shaken (-2 atk/save/skill) for 1+(1/5 > DC)r
 |  *Move Actions*
 |  Combat Advice     |  Tell ally to attack specific target to grant +2/-
 |  *Swift & Immediate Actions* (Gambits get +3 to rolls, on fail -2 all)
