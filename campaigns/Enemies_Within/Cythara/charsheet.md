@@ -17,9 +17,9 @@ including the use of magic and the worship of Tzeentch, may be practiced openly.
 |  Primary Attributes      |  Adv.  |  Base  |  Total |
 |--------------------------|--------|--------|--------|
 |  **WS  (Weap. Skill)**   |  -     |  36    |  36
-|  **BS  (Bal. Skill)**    |  -     |  40    |  40
+|  **BS  (Bal. Skill)**    |  -     |  39    |  39
 |  **S   (Strength)**      |  -     |  28    |  28
-|  **T   (Toughness)**     |  -     |  29    |  29
+|  **T   (Toughness)**     |  -     |  30    |  30
 |  **I   (Initiative)**    |  -     |  53    |  53
 |  **Ag  (Agility)**       |  -     |  40    |  40
 |  **Dex (Dexterity)**     |  -     |  41    |  41
@@ -27,14 +27,15 @@ including the use of magic and the worship of Tzeentch, may be practiced openly.
 |  **WP  (Willpower)**     |  3     |  47    |  50
 |  **Fel (Fellowship)**    |  -     |  36    |  36
 
-|  Secondary Attributes    |  Base  |  Notes |
-|--------------------------|--------|--------|
-|  **W (Wounds)**          |  10    |
-|  **M (Movement)**        |   5    |
-|  **Fate**                |   1    |
-|  **Fortune**             |   1    |
-|  **Resilience**          |   1    |
-|  **Resolve**             |   2    |  +1 from Strong-Minded
+|  Secondary Attributes    |  Max   |  Current  |
+|--------------------------|--------|-----------|
+|  **W (Wounds)**          |  13    |  -
+|  **Corruption**          |   8    |  -
+|  **M (Movement)**        |   5    |  -
+|  **Fate**                |   1    |  -
+|  **Fortune**             |   1    |  -
+|  **Resilience**          |   1    |  -
+|  **Resolve**             |   2    |  -
 
 ## Skills
 ### Trained
@@ -43,16 +44,16 @@ including the use of magic and the worship of Tzeentch, may be practiced openly.
 |  *Channelling*           |   3    |  50 (WP)  |  53    |
 |  *Channelling [Dhar]*    |   7    |  50 (WP)  |  57    |
 |  *Charm*                 |   5    |  36 (Fel) |  41    |
-|  *Cool*                  |   5    |  50 (WP)  |  55    |
 |  *Entertain [Acting]*    |   2    |  36 (Fel) |  38    |
 |  *Intuition*             |   5    |  53 (I)   |  58    |
 |  *Language [Magick]*     |  10    |  50 (Int) |  60    |
 |  *Lore [Magick]*         |   5    |  50 (Int) |  55    |
 |  *Lore [Heraldry]*       |   3    |  50 (Int) |  53    |
 |  *Lore [History]*        |   3    |  50 (Int) |  53    |
+|  *Lore [Law]*            |   3    |  50 (Int) |  53    |
 |  *Lore [Tzeentch]*       |   5    |  50 (Int) |  55    |
 |  *Perception*            |   3    |  53 (I)   |  56    |
-|  *Research*              |   3    |  50 (Int) |  53    |
+|  *Research*              |   5    |  50 (Int) |  55    |
 |  *Secret Signs [Cult]*   |   3    |  50 (Int) |  53    |
 |  *Stealth [Urban]*       |   2    |  40 (Ag)  |  42    |
 
@@ -64,10 +65,11 @@ including the use of magic and the worship of Tzeentch, may be practiced openly.
 |  *Bribery*            |  36 (Fel) |
 |  *Charm Animal*       |  50 (WP)  |
 |  *Climb*              |  28 (S)   |
-|  *Consume Alcohol*    |  29 (T)   |
+|  *Cool*               |  50 (WP)  |
+|  *Consume Alcohol*    |  30 (T)   |
 |  *Dodge*              |  40 (Ag)  |
 |  *Drive*              |  40 (Ag)  |
-|  *Endurance*          |  29 (T)   |
+|  *Endurance*          |  30 (T)   |
 |  *Entertain*          |  36 (Fel) |
 |  *Gamble*             |  50 (Int) |
 |  *Gossip*             |  36 (Fel) |
