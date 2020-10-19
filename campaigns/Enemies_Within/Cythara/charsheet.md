@@ -5,9 +5,8 @@ Cult Magus of Tzeentch I
 50XP Total, 0 Spent
 
 ## Biographical Info
-Age 101
-Height 6'0"
-Jet eyes, pale blonde hair.
+Age 101, born under the Witchling star on the 9th of Vorhexen
+Height 6'0"; jet black eyes; pale blonde hair.
 Motivation: Tradition
 Short-term ambition: Find someone she can safely trust with the knowledge of her
 magic.
@@ -85,13 +84,14 @@ including the use of magic and the worship of Tzeentch, may be practiced openly.
 ## Talents
 ### Thaumaturge of Saphery
 Gain *Psychology [Obsessive Magick Disorder]*. If you can carry out a task using
-magic, you must succeed on a Difficult (-10) Cool test first. Many of the common
-folk of the old World can subconsciously feel your magical nature and are even
-more suspicious of you than of other elves. Anyone who has a prejudice against
-magic, wizards, elves and similar categories acts as if under Animosity towards
-you. You only miscast non-damaging Petty Spells on a roll of 88 and 100, but
-then must roll on the major miscast table for the outcome. Additionally, you
-know two more Petty Spells at character creation.
+magic, you must succeed on a Difficult (-10) Cool test first to accomplish it
+without magic. Many of the common folk of the old World can subconsciously feel
+your magical nature and are even more suspicious of you than of other elves.
+Anyone who has a prejudice against magic, wizards, elves and similar categories
+acts as if under Animosity towards you. You only miscast non-damaging Petty
+Spells on a roll of 88 and 100, but then must roll on the major miscast table
+for the outcome. Additionally, you know two more Petty Spells at character
+creation.
 ### Petty Magic
 You are capable of casting spells, and have mastered techniques to cast them.
 You permanently memorize a number of spells equal to your Willpower bonus (5).
