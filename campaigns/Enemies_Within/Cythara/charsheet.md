@@ -5,12 +5,13 @@ Cult Magus of Tzeentch I
 50XP Total, 0 Spent
 
 ## Biographical Info
-Age 101, born under the Witchling star on the 9th of Vorhexen
+Age 101, born under the Witchling star on the 9th of Vorhexen.
 Height 6'0"; jet black eyes; pale blonde hair.
-Motivation: Tradition
-Short-term ambition: Find someone she can safely trust with the knowledge of her
+Fluent in Eltharin and Reikspiel.
+*Motivation*: Tradition
+*Short-term ambition*: Find someone she can safely trust with the knowledge of her
 magic.
-Long-term ambition: Find or found a community in which her family traditions,
+*Long-term ambition*: Find or found a community in which her family traditions,
 including the use of magic and the worship of Tzeentch, may be practiced openly.
 
 ## Attributes
