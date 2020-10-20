@@ -1,4 +1,4 @@
-# Anduniel
+# Cythara Brightheart
 ## Summary
 High Elf of Saphery descent
 Cult Magus of Tzeentch I
