@@ -7,7 +7,7 @@
 |	Name									|	Weight	|	Notes		|
 |--------------------------------|-----------|-----------|
 |	Explorer's outfit					|	1 lbs 	|
-|	Headband of Int +2				|	1 lbs		|	+2 Int, +HD UMD
+|	Headband of Wis +2				|	1 lbs		|	+2 Wis
 |	+1 Mithril Plate of Slumber	|	30 lbs	|	+10 AC, +3 max dex, -4 ACP, Can sleep in
 |	+1 Darkwood Heavy Shield		|	5 lbs		|	+3 AC
 |	Boots of the Cat					|	1 lbs		|	Take Min Damage on Falls

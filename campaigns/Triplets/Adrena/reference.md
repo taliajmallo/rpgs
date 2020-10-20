@@ -7,7 +7,7 @@
 |  *Modifiers*
 |  Long-Range        |  May burn 1 or gather power to increase range to 120'
 |  Point-Blank       |  +1/+1 if within 30'
-|  Illumination      |  -/+5 if threatening an ally; apply faerie fire
+|  Illumination      |  Apply faerie fire, -/+5 on strikes vs threat to ally
 |  Water Stance      |  -/+2d6 cold in aggressive stance
 
 ## Mystic Maneuvers (6 Readied, 2 Guaranteed, +1 Granted)
