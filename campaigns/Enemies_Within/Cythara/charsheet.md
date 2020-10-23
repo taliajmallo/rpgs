@@ -203,15 +203,18 @@ corresponding skill.
 You channel magic into an object, noticing immediately if it has been poisoned
 or trapped.
 
-## Trappings
-Status: Brass I
-### Sapheryan Elf
+## Belongings
+Status: Brass I (2d10 d)
+11d (1 GC = 20/-; 1/- = 12d)
+### Sapheryan Elf Trappings
 Magical broomstick, floating book, volumes I to XVI of Calmarkyr's "Critique of
 Aemarellion's Philosophy of Light", ornate glass phial containing a sliver of
 Hysh, crystallized piece of a rainbow, small magical riddle box no one
 understands, moonstone of Lileath
-### Academic
+### Academic Trappings
 Clothing, Dagger, Pouch, Sling Bag containing Writing Kit and 1d10 sheets of
 Parchment
-### Cult Acolyte
+### Cult Acolyte Trappings
 Cult Insignia, Ritual Vestments, Secret Tattoo
+### Other Belongings
+N/A
