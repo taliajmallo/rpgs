@@ -1,13 +1,15 @@
-# Cythara Brightheart
+# Cythara of Mackenstein
 ## Summary
 High Elf of Saphery descent
 Cult Magus of Tzeentch I
-50XP Total, 0 Spent
+225XP Total, 225 Spent
 
 ## Biographical Info
-Age 101, born under the Witchling star on the 9th of Vorhexen.
+Age 51, born under the Witchling star on the 9th of Vorhexen.
 Height 6'0"; jet black eyes; pale blonde hair.
 Fluent in Eltharin and Reikspiel.
+Daughter of Anduniel and Morendril of Mackenstein
+
 *Motivation*: Tradition
 *Short-term ambition*: Find someone she can safely trust with the knowledge of her
 magic.
@@ -24,7 +26,7 @@ including the use of magic and the worship of Tzeentch, may be practiced openly.
 |  **I   (Initiative)**    |  -     |  53    |  53
 |  **Ag  (Agility)**       |  -     |  40    |  40
 |  **Dex (Dexterity)**     |  -     |  41    |  41
-|  **Int (Intelligence)**  |  2     |  48    |  50
+|  **Int (Intelligence)**  |  3     |  48    |  51
 |  **WP  (Willpower)**     |  3     |  47    |  50
 |  **Fel (Fellowship)**    |  -     |  36    |  36
 
@@ -42,21 +44,21 @@ including the use of magic and the worship of Tzeentch, may be practiced openly.
 ### Trained
 |  Trained Skills          |  Adv.  |  Attr.    |  Total |
 |--------------------------|--------|-----------|--------|
-|  *Channelling*           |   3    |  50 (WP)  |  53    |
+|  *Channelling*           |   5    |  50 (WP)  |  53    |
 |  *Channelling [Dhar]*    |   7    |  50 (WP)  |  57    |
 |  *Charm*                 |   5    |  36 (Fel) |  41    |
-|  *Entertain [Acting]*    |   2    |  36 (Fel) |  38    |
+|  *Entertain [Acting]*    |   5    |  36 (Fel) |  38    |
 |  *Intuition*             |   5    |  53 (I)   |  58    |
-|  *Language [Magick]*     |  10    |  50 (Int) |  60    |
-|  *Lore [Magick]*         |   5    |  50 (Int) |  55    |
-|  *Lore [Heraldry]*       |   3    |  50 (Int) |  53    |
-|  *Lore [History]*        |   3    |  50 (Int) |  53    |
-|  *Lore [Law]*            |   3    |  50 (Int) |  53    |
-|  *Lore [Tzeentch]*       |   5    |  50 (Int) |  55    |
-|  *Perception*            |   3    |  53 (I)   |  56    |
-|  *Research*              |   5    |  50 (Int) |  55    |
-|  *Secret Signs [Cult]*   |   3    |  50 (Int) |  53    |
-|  *Stealth [Urban]*       |   2    |  40 (Ag)  |  42    |
+|  *Language [Magick]*     |  10    |  51 (Int) |  61    |
+|  *Lore [Magick]*         |   5    |  51 (Int) |  56    |
+|  *Lore [Heraldry]*       |   3    |  51 (Int) |  54    |
+|  *Lore [History]*        |   3    |  51 (Int) |  54    |
+|  *Lore [Law]*            |   3    |  51 (Int) |  54    |
+|  *Lore [Tzeentch]*       |   5    |  51 (Int) |  56    |
+|  *Perception*            |   5    |  53 (I)   |  56    |
+|  *Research*              |   5    |  51 (Int) |  56    |
+|  *Secret Signs [Cult]*   |   3    |  51 (Int) |  54    |
+|  *Stealth [Urban]*       |   5    |  40 (Ag)  |  42    |
 
 ### Untrained Basic
 |  Trained Skills       |  Attr.    |
@@ -72,14 +74,14 @@ including the use of magic and the worship of Tzeentch, may be practiced openly.
 |  *Drive*              |  40 (Ag)  |
 |  *Endurance*          |  30 (T)   |
 |  *Entertain*          |  36 (Fel) |
-|  *Gamble*             |  50 (Int) |
+|  *Gamble*             |  51 (Int) |
 |  *Gossip*             |  36 (Fel) |
 |  *Haggle*             |  36 (Fel) |
 |  *Intimidate*         |  28 (S)   |
 |  *Leadership*         |  36 (Fel) |
 |  *Melee*              |  36 (WS)  |
 |  *Navigation*         |  53 (I)   |
-|  *Outdoor Survival*   |  50 (Int) |
+|  *Outdoor Survival*   |  51 (Int) |
 |  *Ride*               |  40 (Ag)  |
 |  *Row*                |  28 (S)   |
 |  *Stealth*            |  40 (Ag)  |
