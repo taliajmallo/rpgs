@@ -34,9 +34,12 @@
 |--------------|--------|-----------|
 |  *Dailies*
 |  Legalistic  |  [ ]   |  +4 morale to single d20 roll as part of deal
-|  Water-Bound |  [ ]   |  Full-round to bond freshwater; +1 AC/Saves within 300 yards
+|  Water-Bound |  [ ]   |  Full-round to bond freshwater; +1 AC/Saves in 300 yards
+|  Corset      |  [ ]   |  Move action -> swift action
 |  *Per Encounter*
 |  Animus Heal |  [ ]   |  Spend up to 2 animus; heal 2d6/spent
+|  Armor Spell |  [ ]   |  Currently storing Cursed Fate
+
 ## Notes
 Wounds/Vigor: 18/25 Max, 9 Wounded Threshold
  - No damage taken

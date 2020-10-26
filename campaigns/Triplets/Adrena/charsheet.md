@@ -16,13 +16,13 @@ Follower of Shyka, The Many, Eldest of Reincarnation.
 ## Secondary Stats
 | Stat         |                  | Temp |
 |--------------|------------------|------|
-|  **Wounds**  |  18              |
-|  **Vigor**   |  25              |
-<!-- | **AC**   | 25 (12 T / 23 F) | - -->
+|  **Wounds**  |  18              | -
+|  **Vigor**   |  25              | -
+|  **AC**      |  16 (12T / 14F)  | 10 +2(D) + 3(a)+1(ae)
 |  **BAB**     |  +3              | -
 |  **CMB**     |  +2              | -
 |  **CMD**     |  14 (12 F)       | -
-|  **Init**    |  +4*             | Including +2 Sacred from obedience
+|  **Init**    |  +2              | -
 
 ## Saves
 | Save     |                | Temp |
@@ -57,7 +57,6 @@ Follower of Shyka, The Many, Eldest of Reincarnation.
 |  *Spellcraft*         |  +12   |  5+3   |  +4    |        |
 |  *Survival*           |  +9    |  1+3   |  +5    |        |
 |  *Use Magic Device*   |  +13   |  5+3   |  +5    |        |
-<!-- ACP of -4 -->
 If unlisted, just use ability score modifier.
 ## Languages, Proficiencies
 - **Languages**: Common, Sylvan, Dwarvish, Elven, Halfling, Aquan

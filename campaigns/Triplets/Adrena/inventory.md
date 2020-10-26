@@ -8,16 +8,15 @@
 |--------------------------------|-----------|-----------|
 |	Explorer's outfit					|	1 lbs 	|
 |	Headband of Wis +2				|	1 lbs		|	+2 Wis
-|	+1 Mithril Plate of Slumber	|	30 lbs	|	+10 AC, +3 max dex, -4 ACP, Can sleep in
-|	+1 Darkwood Heavy Shield		|	5 lbs		|	+3 AC
-|	Boots of the Cat					|	1 lbs		|	Take Min Damage on Falls
-|	Masterwork Backpack				|	31.5 (2)	|	
-|	**Total**							|	32.5 lbs	|
+|	+1 Spell-Storing Leaf Armor	|	20 lbs	|	+3+1 AC, release spell on hit
+|	Corset of Delicate Moves		|	- lbs		|  1/day move -> swift action
+|	Masterwork Backpack				|	- (2)	   |
+|	**Total**							|	24 lbs	|
 
 ## Tools
 |	Name								|	Weight	|	Notes		|
 |-----------------------------|-----------|-----------|
-|										|	- lbs 	|	
+|										|	- lbs 	|
 |	**Total**						|	- lbs		| Contained in backpack
 
 ## Supplies
@@ -33,4 +32,4 @@
 |	**Total**						|	- lbs		| Contained in backpack
 
 ## Wealth & Influence
-320 pp 87 gp cash
+32 pp 5 gp cash
