@@ -33,12 +33,13 @@
 |  Ability     |  Uses  |  Effect   |
 |--------------|--------|-----------|
 |  *Dailies*
-|  Legalistic  |  [ ]   | +4 morale to single d20 roll as part of deal
-|  Water-Bound |  [ ]   | Full-round to bond freshwater; +1 AC/Saves within 300 yards
-
+|  Legalistic  |  [ ]   |  +4 morale to single d20 roll as part of deal
+|  Water-Bound |  [ ]   |  Full-round to bond freshwater; +1 AC/Saves within 300 yards
+|  *Per Encounter*
+|  Animus Heal |  [ ]   |  Spend up to 2 animus; heal 2d6/spent
 ## Notes
-HP: 20 Max
- - 20 Current
+Wounds/Vigor: 18/25 Max, 9 Wounded Threshold
+ - No damage taken
 Illumination: 1
 Animus: 0
 

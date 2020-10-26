@@ -187,7 +187,7 @@ treat that square as if you occupied it for the purposes of flanking.
 ### Defensive Prowess (Ex)
 While in a Golden Lion or Iron Tortoise stance, gain a +1 competence bonus to
 your shield bonus to armor class and CMD, and reduce your ACP by 1.
-## Maneuvers
+### Maneuvers
 Your maneuvers have a base DC of 17 (10 + Tier + CHA mod). You know the
 following maneuvers, of which you may ready 6:
 - Strike of the Infinite Protector (Eternal Guardian I)

@@ -14,14 +14,15 @@ Follower of Shyka, The Many, Eldest of Reincarnation.
 | **CHA** | 20 (+5) | -
 
 ## Secondary Stats
-| Stat     |                  | Temp |
-|----------|------------------|------|
-| **HP**   | 20 Max           | -
+| Stat         |                  | Temp |
+|--------------|------------------|------|
+|  **Wounds**  |  18              |
+|  **Vigor**   |  25              |
 <!-- | **AC**   | 25 (12 T / 23 F) | - -->
-| **BAB**  | +3               | -
-| **CMB**  | +2               | -
-| **CMD**  | 14 (12 F)        | -
-| **Init** | +4*              | +2 Sacred if obedience performed
+|  **BAB**     |  +3              | -
+|  **CMB**     |  +2              | -
+|  **CMD**     |  14 (12 F)       | -
+|  **Init**    |  +4*             | Including +2 Sacred from obedience
 
 ## Saves
 | Save     |                | Temp |
@@ -33,6 +34,7 @@ Follower of Shyka, The Many, Eldest of Reincarnation.
 ## Skills
 |   Skill               |  Total |  Rank  |  Stat  |  Misc  |  Temp/Notes     |
 |-----------------------|--------|--------|--------|--------|-----------------|
+|  *Art [Sculpture]*    |  +8    |  1+3   |  +4    |        |
 |  *Bluff*              |  +9    |  1+3   |  +5    |        |
 |  *Craft [Alchemy]*    |  +8    |  1+3   |  +4    |        |
 |  *Craft [Armor]*      |  +8    |  1+3   |  +4    |        |
@@ -40,19 +42,23 @@ Follower of Shyka, The Many, Eldest of Reincarnation.
 |  *Craft [Weapons]*    |  +8    |  1+3   |  +4    |        |
 |  *Diplomacy*          |  +13   |  5+3   |  +5    |        |
 |  *Handle Animal*      |  +11   |  1+3   |  +5    |  +2    |  +2 Racial
+|  *Heal*               |  +12   |  4+3   |  +5    |        |
 |  *Intimidate*         |  +9    |  1+3   |  +5    |        |
 |  *Kn. [Arcana]*       |  +8    |  1+3   |  +4    |        |
 |  *Kn. [Geography]*    |  +8    |  1+3   |  +4    |        |
+|  *Kn. [Martial]*      |  +12   |  5+3   |  +4    |        |
+|  *Kn. [Nature]*       |  +11   |  1+3   |  +4    |  +3    |  +2 Racial, +1 Trait
 |  *Kn. [Planes]*       |  +12   |  5+3   |  +4    |        |
-|  *Kn. [Nature]*       |  +15   |  5+3   |  +4    |  +3    |  +2 Racial, +1 Trait
 |  *Kn. [Religion]*     |  +8    |  1+3   |  +4    |        |
+|  *Lore [Fae_Culture]* |  +8    |  1+3   |  +4    |        |
 |  *Perception*         |  +13   |  5+3   |  +5    |        |
+|  *Perform [Sing]*     |  +9    |  1+3   |  +5    |        |
+|  *Profession [Smith]* |  +9    |  1+3   |  +5    |        |
 |  *Spellcraft*         |  +12   |  5+3   |  +4    |        |
 |  *Survival*           |  +9    |  1+3   |  +5    |        |
-|  *Use Magic Device*   |  +12   |  4+3   |  +5    |        |
+|  *Use Magic Device*   |  +13   |  5+3   |  +5    |        |
 <!-- ACP of -4 -->
 If unlisted, just use ability score modifier.
-3 to spend
 ## Languages, Proficiencies
 - **Languages**: Common, Sylvan, Dwarvish, Elven, Halfling, Aquan
 - **Weapons**: Simple
@@ -284,7 +290,7 @@ first. However, once per day, you can make a vow to yourself that grants a +4
 morale bonus on any one roll you make while trying to fulfill a promise made to
 another individual.
 - At 10th character level, you gain a +3 competence bonus on Diplomacy, Intimidate, and Sense Motive checks while talking to an individual one-on-one.
-- At 20th level, you can make a new saving throw each minute to resist mind-affecting effects as your subconscious searches for loopholes.
+- At 20th character level, you can make a new saving throw each minute to resist mind-affecting effects as your subconscious searches for loopholes.
 ### Psychic Sensitivity (1st Bonus Specific)
 You have access to occult skill unlocks.
 ### Point Blank Shot (1st)
@@ -293,7 +299,18 @@ up to 30 feet.
 ### Precise Shot (3rd Bonus Combat)
 You can shoot or throw ranged weapons at an opponent engaged in melee without
 taking the standard –4 penalty on your attack roll.
-### Fey Obedience - Shyka (3rd)
+### Animus Healing (3rd)
+Once per encounter, you can spend one point of animus as a move action to heal
+2d6 hit points. At 4th level and every four levels thereafter, you can spend one
+additional point of animus when you use this ability, healing 2d6 hit points for
+each point spent.
+### Advanced Study (5th)
+You may gain a single stance that you meet all prerequisites for.
+<!-- ### Elemental Focus, Water (7th)
+Your maneuvers that deal cold damage ignore energy resistance equal to your
+level. Additionally, at 10th level, creatures immune to cold take half damage
+instead of none from your maneuvers. -->
+<!-- ### Fey Obedience - Shyka (9th)
 At the start of a day, if you spend an hour creating something small and fragile
 like a sand castle or ice sculpture, you gain a +2 sacred bonus to initiative
 checks for the rest of the day.
@@ -306,15 +323,4 @@ regardless of its actual position). Your recollection of the legend takes the
 form of a memory borrowed from someone familiar with the subject matter.
 At 20th level, you gain the ability to pause time for yourself or one creature
 you designate within 30 feet once per day. This functions as per time stop but
-with a duration of 1 round.
-### Advanced Study (5th)
-You may gain a single stance that you meet all prerequisites for.
-<!-- ### Animus Healing (7th)
-Once per encounter, you can spend one point of animus as a move action to heal
-2d6 hit points. At 4th level and every four levels thereafter, you can spend one
-additional point of animus when you use this ability, healing 2d6 hit points for
-each point spent. -->
-<!-- ### Elemental Focus, Water (9th)
-Your maneuvers that deal cold damage ignore energy resistance equal to your
-level. Additionally, at 10th level, creatures immune to cold take half damage
-instead of none from your maneuvers. -->
+with a duration of 1 round. -->
