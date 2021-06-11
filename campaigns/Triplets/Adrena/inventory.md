@@ -10,6 +10,7 @@
 |	Headband of Wis +2				|	1 lbs		|	+2 Wis
 |	+1 Spell-Storing Leaf Armor	|	20 lbs	|	+3+1 AC, release spell on hit
 |	Corset of Delicate Moves		|	- lbs		|  1/day move -> swift action
+|
 |	Masterwork Backpack				|	- (2)	   |
 |	**Total**							|	24 lbs	|
 

@@ -1,5 +1,5 @@
 # Adrena
-## LG Naiad Psychohydrokineticist 1 / Knight-Chandler 4
+## LE Death-Touched Naiad Dark Chaokineticist
 ## Appearance & Vital Stats
 Short summary, weight, height, ect
 Follower of Shyka, The Many, Eldest of Reincarnation.
@@ -17,7 +17,7 @@ Follower of Shyka, The Many, Eldest of Reincarnation.
 | Stat         |                  | Temp |
 |--------------|------------------|------|
 |  **Wounds**  |  18              | -
-|  **Vigor**   |  25              | -
+|  **Vigor**   |  32              | -
 |  **AC**      |  16 (12T / 14F)  | 10 +2(D) + 3(a)+1(ae)
 |  **BAB**     |  +3              | -
 |  **CMB**     |  +2              | -
@@ -27,299 +27,212 @@ Follower of Shyka, The Many, Eldest of Reincarnation.
 ## Saves
 | Save     |                | Temp |
 |----------|----------------|------|
-| **Fort** | +2             | +2 in water stance, +1 vs Spell/psi-like
-| **Ref**  | +5             | +2 in water stance, +1 vs Spell/psi-like
-| **Will** | +9             | +2 in water stance, +1 vs Spell/psi-like
+| **Fort** | +2             | +2/Disease
+| **Ref**  | +3             | -
+| **Will** | +9             | +2/Mind-Affecting, +1/Emotion
 
 ## Skills
+### Personal
 |   Skill               |  Total |  Rank  |  Stat  |  Misc  |  Temp/Notes     |
 |-----------------------|--------|--------|--------|--------|-----------------|
-|  *Art [Sculpture]*    |  +8    |  1+3   |  +4    |        |
-|  *Bluff*              |  +9    |  1+3   |  +5    |        |
+|  Background
+|  *Art [Sculpture]*    |  +8    |  5+3   |  +4    |        |
 |  *Craft [Alchemy]*    |  +8    |  1+3   |  +4    |        |
 |  *Craft [Armor]*      |  +8    |  1+3   |  +4    |        |
 |  *Craft [Jewelry]*    |  +8    |  1+3   |  +4    |        |
 |  *Craft [Weapons]*    |  +8    |  1+3   |  +4    |        |
-|  *Diplomacy*          |  +13   |  5+3   |  +5    |        |
-|  *Handle Animal*      |  +11   |  1+3   |  +5    |  +2    |  +2 Racial
-|  *Heal*               |  +12   |  4+3   |  +5    |        |
-|  *Intimidate*         |  +9    |  1+3   |  +5    |        |
-|  *Kn. [Arcana]*       |  +8    |  1+3   |  +4    |        |
-|  *Kn. [Geography]*    |  +8    |  1+3   |  +4    |        |
-|  *Kn. [Martial]*      |  +12   |  5+3   |  +4    |        |
-|  *Kn. [Nature]*       |  +11   |  1+3   |  +4    |  +3    |  +2 Racial, +1 Trait
-|  *Kn. [Planes]*       |  +12   |  5+3   |  +4    |        |
-|  *Kn. [Religion]*     |  +8    |  1+3   |  +4    |        |
-|  *Lore [Fae_Culture]* |  +8    |  1+3   |  +4    |        |
-|  *Perception*         |  +13   |  5+3   |  +5    |        |
-|  *Perform [Sing]*     |  +9    |  1+3   |  +5    |        |
 |  *Profession [Smith]* |  +9    |  1+3   |  +5    |        |
-|  *Spellcraft*         |  +12   |  5+3   |  +4    |        |
-|  *Survival*           |  +9    |  1+3   |  +5    |        |
+|  Adventuring
+|  *Bluff*              |  +12   |  5     |  +5    |  +2    |  +2 Racial
+|  *Diplomacy*          |  +10   |  5     |  +5    |        |
+|  *Heal*               |  +10   |  2+3   |  +5    |        |
+|  *Intimidate*         |  +13   |  5+3   |  +5    |        |
+|  *Kn. [Arcana]*       |  +8    |  1+3   |  +4    |        |
+|  *Kn. [Nature]*       |  +8    |  1+3   |  +4    |        |
+|  *Kn. [Planes]*       |  +12   |  5+3   |  +4    |        |
+|  *Kn. [Segovia]*      |  +8    |  1+3   |  +4    |        |
+|  *Perception*         |  +15   |  5+3   |  +5    |  +2    |  +2 Racial
+|  *Spellcraft*         |  +9    |  5     |  +4    |        |
+|  *Stealth*            |  +10   |  5+3   |  +2    |        |
 |  *Use Magic Device*   |  +13   |  5+3   |  +5    |        |
-If unlisted, just use ability score modifier.
+
+### Familiar
+|   Skill               |  Total |  Rank  |  Stat  |  Misc  |  Temp/Notes     |
+|-----------------------|--------|--------|--------|--------|-----------------|
+|  *Kn. [Dungeon]*      |  +6    |  1+3   |  +0    |  +2    |
+|  *Kn. [Geography]*    |  +6    |  1+3   |  +0    |  +2    |
+|  *Kn. [History]*      |  +6    |  1+3   |  +0    |  +2    |
+|  *Kn. [Religion]*     |  +6    |  1+3   |  +0    |  +2    |
+|  *Kn. [Nobility]*     |  +6    |  1+3   |  +0    |  +2    |
+|  *Lore [Past_Life]*   |  +10   |  5+3   |  +0    |  +2    |
+
+
+
 ## Languages, Proficiencies
 - **Languages**: Common, Sylvan, Dwarvish, Elven, Halfling, Aquan
 - **Weapons**: Simple
 - **Armor**: Shields, Light Armor
 
 ## Traits & Drawbacks
-### Forgetful (Drawback)
-Whenever you leave a location you have been at for longer than 1 hour, you must
-attempt a DC 10 Wisdom check. If you fail, you leave behind one random mundane
-item (a purse of money counts as an item).
-### Unorthodox Method (Regional)
-Gain the Radiant Dawn discipline instead of the Shattered Mirror discipline.
-### Practiced Initiator (Combat)
-Gain +2 to your Knight-Chandler initiator level, up to your hit dice.
-### Child of Nature (Religion)
-Gain a +2 trait bonus on Survival checks to find food and water, and a +1 trait
-bonus on Knowledge (Nature) checks. Survival is always a class skill for you.
+### Umbral Unmasking (Drawback)
+You cast no shadow whatsoever, or the shadow you do have is monstrous. Under
+normal lighted conditions, this is not hard to observe—but uncommon to notice.
+Creatures that succeed at a DC 15 Wisdom check notice it plainly (an additional
+Perception check may be required based on environmental conditions). This
+telltale sign of wickedness cannot be concealed by misdirection, nondetection,
+or illusions, except those that also affect shadows (such as invisibility).
+### Chillblight Emissary (Region)
+You gain DR 1/cold iron but become sickened for 1 round if damaged by a cold
+iron weapon.
+### Unnatural Presence (Faith)
+Your prolonged association with dark forces leaks from your pores. You can use
+your Intimidate skill to demoralize animals and vermin; Intimidate is a class
+skill for you.
+### Finding Your Past (Campaign)
+You can't remember most of your past, but you feel a connection to the art of
+the kineticist, channeling powerful elemental energies to shape the world as you
+see fit, and you suspect that your past self was a master kineticist of some
+nature. As such, you are devoted to that class above all others - it must be
+your favored class, and your favored class benefits grant an additional hitpoint
+and skill point over their other benefit(s).
 
-## Naiad Features
+## Death-Touched Naiad Features
 ### Base Properties
 Your size is medium, and you have land and swim speeds of 30 feet. You can
-breathe underwater, and have low-light vision. Your type is fae.
-### Inspiration (Su)
-You can choose another intelligent creature to inspire by giving that creature a
-token (typically a lock of your hair). As long as the creature carries your
-token and retains your favor, that creature gains a +1 insight bonus on Will
-saving throws, Craft checks, and Perform checks. You retain a link to the token
-and its carrier as if you had cast a status spell on the carrier, informing you
-of the direction and distance to the creature and any conditions affecting them.
-You can revoke this favor at any time as a free action, and may only inspire a
-single creature at any time with this ability.
-### Water Bond (Su)
-You gain strength from a pond, lake, river, or other body of fresh water by
-bonding with it. While within 300 yards of your bonded body of water, you gain a
-+1 bonus to armor class and a +1 racial bonus to saving throws. Once per day as
-a full-round action that provokes attacks of opportunity, you may forge a bond
-with a different body of fresh water. You may only be bonded to a single body of
-water at a time with this ability.
-### Fae Nature (Ex)
-You have a +2 racial bonus on Handle Animal and Knowledge (Nature) checks.
-### Favored Class: Mystic IV
-Gain +1/4 of an Elemental Flux or Mithril Current maneuver.
+breathe underwater, and have 60' darkvision. Your type is Fae with the
+Dhampir and Water subtypes.
+### Light Sensitivity
+You are dazzled in areas of bright sunlight or within the radius of a Daylight
+spell, unless using your Basic Chaokinesis to create a shadow around yourself.
+### Negative Energy Affinity
+Despite being a living creature, you react to positive and negative energy as if
+undead - positive energy harms you while negative energy heals you.
+### Undead Resistance
+You have a +2 on saving throws against disease and mind-affecting effects.
+###  Resist Energy Drain
+You take no penalties from energy drain effects, though you are still killed if
+you accrue more negative levels than your hit dice. After 24 hours, any negative
+levels you accrue are removed without the need for an additional saving throw.
+### Manipulative
+You gain a +2 racial bonus on Bluff and Perception checks.
+### Undead Affinity
+You may use Detect Undead as a spell-like ability up to three times a day, using
+your character level as your caster level.
+### Favored Class: Kineticist
+Add 1/4 to the save DC of the kineticist’s void infusions and wild talents.
 
-## Psychokineticist Features
-### Emotional Intensity (Ex)
-Use WIS instead of CON for all kineticist abilities. If you would ever be unable
-to use a spell with an emotion component, you cannot use your wild talents, and
-if you ever have immunity to charm, compulsion, or emotion effects, you
-temporarily lose access to all kineticist abilities.
-### Elemental Focus, Water (Su)
-Knowledge (Nature) and Swim are class skills for you. You gain a basic energy
-blast that deals cold damage, and you gain the Basic Hydrokinesis utility talent.
-#### Basic Hydrokinesis
-You can create water as the cantrip create water, purify water as if using
-purify food and drink, and dry wet creatures and objects as if using
-prestidigitation. While you cannot lift water into the air using this ability,
-you can create mild currents in a body of water by concentrating. These currents
-are strong enough to run a water mill as if the mill were being turned manually
-by a creature with a Strength score equal to your Wisdom score.
-### Kinetic Blast (Sp)
-You may make kinetic blasts with a range of 30 feet. Your energy blasts deal
-1d6 + 2 (1/2 WIS) damage.
-### Mind Burn (Ex)
-You suffer a -2 penalty on Will saves, Wisdom checks, and Wisdom-based skill
-checks per point of burn you have accepted. You may accept at most 5 (WIS) burn.
+
+
+## Dark Chaokineticist Features
+### Kinetic Blast (Su)
+PLACEHOLDER B/C THIS IS ALL GOING IN FOUNDRY ANYWAYS
+### Dark Studies (Ex)
+All Knowledge as class skills
+### Soul Power (Su)
+Throw burn at dead souls
 ### Gather Power (Su)
-You may spend a move action to reduce the burn of your next kinetic blast by one.
-You may instead spend a full-round action to reduce it by two, and may spend a
-move action on the subsequent round to reduce it by another one.
-### Infusion (Su)
-You know the following infusions:
-- Extended Range
-Form infusion. Increased burn by 1, and increases range to 120'.
-
-## Mystic Knight-Chandler Features
-### Lesser Animus (Su)
-You gain an animus pool. At the start of each turn, and at the end of each turn
-in which you initiate a manuever, add a point of animus to your pool.
-### Elemental Attunement (Su)
-You may attune to a single active element: air (electricity), earth (acid), fire
-(fire), or water (cold). You may change this element as a standard action, or as
-a free action when changing your stance by spending a point of animus.
-Whenever you deal damage with a maneuver, you may spend a point of animus to
-change the type of any damage done to that of your current active element.
-### Blade Meditation (Su)
-As a full-round action, you may spend one point of animus to grant yourself all
-remaining withheld maneuvers, then immediately expend them. Creatures that
-target you with a melee attack take 1d6 points of elemental damage, +1d6 per two
-points of animus you have.
-### Arcane Defense (Ex)
-Gain a +1 insight bonus to AC and saves against spells, psionic powers,
-spell-like abilities, and psi-like powers. This increases by +1 at 6th, 11th,
-16th, and 20th level.
-### Mystic Artifice (Su)
-You can treat your Mystic level as your caster level for item creation, and may
-attempt a spellcraft check to replicate spells for the purpose of crafting.
-### Soul Candle (Su)
-You have a soul candle. It produces bright light with a radius of twice your
-Illumination, and normal light for double that. The candle remains within one
-mile of you at all times; you can move it within that area up to your speed once
-per round as a free action. If you move in any way such that it would be further
-than a mile from you, it is moved immediately to be within a mile of you. Any
-time you teleport, you may include the candle in the teleportation. As a swift
-action, you may recall the candle to you.
-You have an Illumination pool. When not in combat, your Illumination may be at
-most 1. At the start of every turn in combat, and at the end of every turn
-during which you use a boost, you gain an additional Illumination. You may focus
-as a swift action to gain 2 Illumination immediately. Illumination persists for
-one minute after the encounter ends, at which point it resets back to 1.
-Allies within 15 feet of the candle gain energy resistance against your active
-element equal to your Illumination, up to a maximum of 9 (WIS + class level).
-### Illumination (Su)
-Whenever you hit with an attack, you can illuminate the target as with Faerie
-Fire, applying a -20 penalty to all Stealth checks and negating concealment,
-blur, displacement, invisibility, and such, with a duration of 5 (initiator
-level) minutes.
-Additionally, you deal +5 (initiator level) damage on attacks made as part of a
-strike against enemies that threaten an ally other than yourself.
-### Candle Magic (Su)
-You may sustain a single Votive effect about your candle, which affects all
-allies within 15 feet of your candle. You may change the current effects as a
-swift action.
-#### Votive Effects:
-- Allies gain a morale bonus against mind-affecting abilities equal to your Illumination, up to +5 (WIS).
-- Allies gain an elemental damage bonus on attacks equal to your Illumination, up to +4 (class level).
-- Allies can move 5 feet as a swift action without provoking AoOs.
-- Allies can use a swift action to gain non-stacking temporary HP equal to your Illumination, up to 4 (class level).
-### Maneuvers
-You know 10+1 maneuvers and 3 stances. You must ready 6 maneuvers, which you
-have access to in combat. Of those, choose two to be immediately granted. At the
-start of your first turn in combat, you gain access to those two, as well as an
-additional one randomly-determined maneuver.
-At the end of each turn in combat, one randomly-determined maneuver that you
-have readied but not yet granted is granted. If there are no remaining such
-maneuvers, you instead restore all expended maneuvers, choose two to grant
-immediately, and randomly grant another (as with the start of combat.)
-Any Radiant Dawn strikes may instead use a ranged touch attack that deals force
-damage equal to 1d6 + 5 (WIS) on-hit to a single target within 35' (25 + 5/2
-level).
-- Staunching Strike (Radiant Dawn I)
-Standard (strike). Make an attack. If it hits, divide 8 (WIS mod + 3/essence) HP
-of healing between yourself and any allies within 35' (25 + 5/2 levels).
-- Dismiss (Radiant Dawn I)
-Standard (strike). Make an attack. If it hits, make a trip attempt with a +2
-(+2/essence) bonus, using your level instead of your BAB, and using your WIS
-modifier instead of your Strength modifier. If it succeeds, the target is pushed
-away as if you bull rushed them with the same die roll as your trip.
-- Variable Flux (Elemental Flux I)
-Standard (strike). Make an attack with effects based on your active element.
-Saving throws are DC 16 (11 + WIS).
-  - Air: If the target is wearing metal armor, wielding a metal shield, or wielding a weapon mostly composed of metal, you gain a +4 bonus on your attack roll.
-  - Earth: If your attack hits, the target must succeed at a Will save or become sickened for one round.
-  - Fire: If your attack hits, the target must succeed at a Reflex save or catch on fire for 1d4 rounds.
-  - Water: If your attack hits, the target must succeed at a Fortitude save or become fatigued for one round.
-- Spark Strike (Elemental Flux I)
-Standard (strike, animus). Make an attack that deals +2d4 elemental damage. You
-may spend one point of animus to increase the bonus damage to +3d4.
-- Solar Sting (Solar Wind I)
-Standard (strike). Choose a target 10' by 10' area within range, and make an
-attack roll to hit that location (Base AC 5). The area is covered with softly
-glowing caltrops, and counts as difficult terrain. Any creature that enters the
-area or starts its turn in the area is attacked by the caltrops, which have a
-+5 (WIS) attack bonus against AC, and deny the target's armor, shield, and
-deflection bonuses. However, boots and heavy foot gear confer a +2 to AC against
-the caltrops. On a hit, caltrops deal 1d2 damage and halve the target's speed
-until it receives healing.
-- Strike the Hourglass (Riven Hourglass I)
-Standard (strike). Make an attack. If it hits, it deals normal damage and the
-target must make a DC 16 (11 + WIS) Will save or may only take a single move or
-standard action on its next turn.
-- Curate's Strike (Radiant Dawn II)
-Standard (strike). Make an attack. If it hits, divide 14 (2*WIS mod + 4/essence)
-HP of healing between yourself and any allies within 35' (25 + 5/2 levels). You
-may instead offer a single ally a saving throw against an ongoing effect that
-offers multiple saves or has a duration measured in rounds.
-- Cursed Fate (Veiled Moon II)
-Standard (strike, mind-affecting). Make an attack. On a hit, deal +2d6 damage,
-and the target must make a DC 17 (12 + WIS) Will save or suffer a -4 to all d20
-rolls until the start of your next turn.
-- Arcane Shield (Elemental Flux II)
-Immediate (counter, force). In response to being attacked by a melee or ranged
-attack, including touch or ranged touch attacks, make a Spellcraft check with a
-DC of the attack roll. If you succeed, the attack is negated. This is a force
-effect, and may be used to block incorporeal attacks. You may spend one point of
-animus to leave a lingering echo of the shield, granting a +2 shield bonus to AC
-until the start of your next turn.
-- Elemental Strike (Elemental Flux II)
-Standard (strike). Make an attack with effects based on your active element.
-Saving throws are DC 17 (12 + WIS).
-  - Air: If your attack hits, the target must succeed at a Reflex save or be knocked prone from the force of the blow.
-  - Earth: If your attack hits, the target must succeed at a Reflex save or take an additional 2d6 points of acid damage at the start of your next turn.
-  - Fire: If your attack hits, the target must succeed at a Reflex save or be blinded by the smoke and flames for one round.
-  - Water: If your attack hits, the target must succeed at a Fortitude save or become nauseated for one round from the chilling cold.
-- Lance of Power (Elemental Flux III)
-Standard (strike, animus). In a 30' line of energy, deal 5d6 elemental damage
-and apply a secondary effect. A Reflex save DC 18 (13 + WIS) halves damage and
-negates secondary effects.
-You may spend up to five points of animus to increase the damage of this strike
-by 2d6 per point of animus spent and increase the save DC of this strike by +1
-per point of animus spent. Damage dice cannot exceed your level.
-  - Air: The crack of thunder accompanying the lightning deafens creatures for 5 (WIS) rounds.
-  - Earth: The acid spray also creates a greasy, oily slick, causing creatures who fail their Reflex saves to drop items they are holding as if affected by the grease spell.
-  - Fire: The intensity of the flaming blast adds an additional +1 point of damage per die and dazzles each target for 5 (WIS) rounds.
-  - Water: The icy blast makes surfaces very slippery, and creatures who fail their Reflex saves slip on the ice and fall prone.
-### Stances
-You know the following stances:
-- Spoils of War (Radiant Dawn I)
-Allies within 35' (25 + 5/2 levels) heal 9 HP (3 base + 2/essence + WIS mod) on
-successful attacks they make, once per round per ally.
-- Stance of Piercing Rays (Solar Wind I)
-Your ranged attacks deal +1d6 fire damage, increasing by 1d6 every 8 levels.
-- Elemental Flux Stance (Elemental Flux III)
-Your attacks deal +2d6 elemental damage, you gain 15 energy resistance against
-your active element, and you gain one of the following effects:
-  - Air: Your speed and perception are heightened, granting you a +4 bonus on initiative checks and a +4 dodge bonus to your AC.
-  - Earth: The strength and durability of the earth suffuses your bones, granting you DR 5/adamantine.
-  - Fire: Your body is filled with warmth and healing light, granting you fast healing 1. In addition, you glow like a torch as if under the effect of a light spell.
-  - Water: Your body is inured against debilitating effects, granting you a +2 bonus on all saving throws.
+Placeholder
+### Metakinesis (Su)
+Empower for 1 burn
+### Infusion Specialization (Ex)
+Reduce burn cost of all blasts you make by 1, down to 0
+### Infusions
+#### Damping (1st Level Infusion)
+- Substance Infusion
+- Associated Blasts: Negative, Void
+- Burn: 1
+Your blast is infused with darkness, making it harder for your foes to see. If
+your blast hits a foe (and penetrates SR if applicable), that foe must succeed
+at a Will save or be dazzled for 1 minute, whether or not it takes damage from
+the blast. You can reduce the blast’s damage by half to increase the DC of this
+save by 2.
+#### Spindle (3rd Level Infusion)
+- Form Infusion
+- Associated Blasts: All
+- Burn: 2
+You throw a long, roughly 5-foot-by-10-foot spindle of elemental matter or
+energy up to 30 feet away, damaging all creatures and objects within any two
+adjacent 5-foot squares unless they succeed at a Reflex save. An energy blast
+infused with spindle deals its normal damage to each target, while a physical
+blast infused with spindle deals half its normal damage to each target. The
+saving throw DC is Dexterity-based.
+#### Elemental Trap (5th Level Infusion)
+- Form Infusion
+- Associated Blasts: All
+- Burn: 2
+You touch an area of natural ground, drawing up elemental energy that roils just
+below the surface, ready to explode when stepped on. This 5-foot square
+detonates when triggered by a weight of 10 pounds or more, affecting all
+creatures within 10 feet of the trap with your simple blast (or composite blast,
+if you have it). Any creature other than the one that triggered the elemental
+trap can attempt a Reflex save for half damage. The elemental trap lasts until
+the next time you use this wild talent or until it triggers. This counts as a
+magical trap with a Perception and Disable Device DC equal to 10 + your
+kineticist level + your Dexterity modifier. You can accept 2 points of burn,
+which cannot be reduced with gather power, to make a new trap without dismissing
+any previous traps. If you do, the trap lasts until the next time you recover
+burn.
+### Wild Utility Talents
+#### Basic Chaokinesis (Basic Utility)
+You can create a shadow that protects a target from bright light. You can also
+change gravity to increase a creature’s carrying capacity by half or grant a
+creature a +4 bonus on Acrobatics checks to jump. Each benefit lasts 1 hour or
+until you use basic chaokinesis again.
+#### Emptiness (Defense)
+Your body becomes an empty husk, fueled by an internal void. You gain negative
+energy resistance 2, a 5% chance to ignore critical hits and sneak attacks, and
+a +1 bonus on Will saves against emotion effects. By accepting 1 point of burn,
+you can increase the resistance to negative energy by 2, the chance to ignore
+critical hits and sneak attacks by 5%, and the bonus on Will saves against
+emotion effects by 1 until the next time your burn is removed. The chance of
+ignoring critical hits and sneak attacks granted by this wild talent stacks with
+the chance granted by elemental overflow to a maximum of 100%. When you accept
+burn while using a void wild talent, your bonus on Will saves applies against
+all mind-affecting effects for 1 round. You can dismiss and restore this effect
+as an immediate action.
+#### Void Healer (2nd Level Utility Talent)
+- Burn: 1
+With a touch, you can heal a willing undead creature of an amount of damage
+equal to your kinetic blast’s damage. Instead of paying the burn cost yourself,
+you can cause the recipient to take 1 point of burn. If you do so, the recipient
+takes 1 point of nonlethal damage per Hit Die he possesses, as usual for burn;
+this damage can’t be healed by any means until the recipient takes a full
+night’s rest.
+#### Elemental Whispers (4th Level Utility Talent)
+A piece of your soul has splintered off due to the dark techniques you've relied
+upon for resurrection. This acts as a Sea Krait familiar with the Sage archetype,
+but only manifests a corporeal form while you concentrate on it. It has an
+intelligence of 5 + your level, may attempt all knowledge checks untrained, and
+gains a bonus to knowledge checks equal to half your level. It gains two skill
+points per level. While it is not corporeally manifested, you gain a +2 to
+Fortitude saves, and may use its knowledge skills in place of your own.
 
 ## Feats
-### Cursed Promises (1st Antihero)
-Gain the oracle Legalistic Curse. You may never take levels in a class that
-grants divine spellcasting, and suffer a -2 penalty on all saving throws against
-divine spells cast by worshippers of Shyka.
-#### Legalistic Curse
-Whenever you break your word (either purposefully or unintentionally), you
-become sickened for 24 hours or until you meet your obligation, whichever comes
-first. However, once per day, you can make a vow to yourself that grants a +4
-morale bonus on any one roll you make while trying to fulfill a promise made to
-another individual.
-- At 10th character level, you gain a +3 competence bonus on Diplomacy, Intimidate, and Sense Motive checks while talking to an individual one-on-one.
-- At 20th character level, you can make a new saving throw each minute to resist mind-affecting effects as your subconscious searches for loopholes.
-### Psychic Sensitivity (1st Bonus Specific)
-You have access to occult skill unlocks.
-### Point Blank Shot (1st)
-You get a +1 bonus on attack and damage rolls with ranged weapons at ranges of
-up to 30 feet.
-### Precise Shot (3rd Bonus Combat)
-You can shoot or throw ranged weapons at an opponent engaged in melee without
-taking the standard –4 penalty on your attack roll.
-### Animus Healing (3rd)
-Once per encounter, you can spend one point of animus as a move action to heal
-2d6 hit points. At 4th level and every four levels thereafter, you can spend one
-additional point of animus when you use this ability, healing 2d6 hit points for
-each point spent.
-### Advanced Study (5th)
-You may gain a single stance that you meet all prerequisites for.
-<!-- ### Elemental Focus, Water (7th)
-Your maneuvers that deal cold damage ignore energy resistance equal to your
-level. Additionally, at 10th level, creatures immune to cold take half damage
-instead of none from your maneuvers. -->
-<!-- ### Fey Obedience - Shyka (9th)
-At the start of a day, if you spend an hour creating something small and fragile
-like a sand castle or ice sculpture, you gain a +2 sacred bonus to initiative
-checks for the rest of the day.
-At 12th level, you can cast entropic shield 3 times a day, augury 2 times a day,
-or haste 1 time a day.
-At 16th level, once per day as a standard action, you can gain the effects of
-legend lore, save that the legends are recalled immediately and you gain the most
-complete level of knowledge (as if the person, place, or thing were at hand,
-regardless of its actual position). Your recollection of the legend takes the
-form of a memory borrowed from someone familiar with the subject matter.
-At 20th level, you gain the ability to pause time for yourself or one creature
-you designate within 30 feet once per day. This functions as per time stop but
-with a duration of 1 round. -->
+### Heir to Power Unstable (1st Antihero)
+Any creature that is a member of your family, including Mezshmek, is immune to
+all damage from your energy blasts and have DR 2/- per hit die against your
+physical blasts.
+Gathering power effects things near you, at the following radii:
+- Within 10', cloud-based effects drift into your square, and a harmless layer of frost covers you and all surfaces.
+- Within 20', all non-magical flames are extinguished unless protected with an immediate action by someone within reach of them, and the ambient temperature drops by 10 degrees.
+- Within 30', all tiny or smaller unattended objects roll or slide up to 10' towards you.
+- Within 40', all creatures may move 5' towards you as a free action that does not provoke AoOs.
+Whenever you use a blast after gathering power or suffer burn, you release a
+shockwave that affects nearby creatures within 20':
+- First, make a bull rush as a free action, using INT instead of STR and adding your Burn as a circumstance bonus.
+- Against all creatures pushed 10' or more, also make a trip attempt as a free action, similar to the bull rush.
+- All creatures knocked prone must succeed at at Reflex save against your Kinetic Blast DC or take 1/4 your Kinetic Blast's damage.
+### Brutal Blast (1st)
+Your form infusions use your Intelligence modifier instead of your Dexterity to
+calculate saving throws.
+### Kinetic Prodigy (3rd)
+You can consider yourself 1 kineticist level higher for the purposes of
+selecting infusion wild talents. In addition, any kinetic blast you use that is
+altered by an infusion gains a +1 bonus to damage. At 8th level, and again at
+16th level, increase this bonus by 1. In any round in which you accept burn due
+to using an infusion, increase this bonus by 1.
+### Precision Blast (5th)
+Whenever you use a kinetic blast that affects more than a single target or
+square, you may select a square within its area to not be affected by your blast.
+For each 2 points of burn you have, you may select an additional square to be
+unaffected by your blast.

@@ -1,21 +1,26 @@
 # Namah
-## LN Blooded Aasimar Dawn Legionnaire 5
+TODO:
+- Additional Skill
+- Swap out maneuvers, if desired
+- 
+## LN Blooded Aasimar Dawn Legionnaire 6
+## Mythic Marshal II
 ## Ability Scores
 |  Stat     |  Base     |  Temp  |
 |-----------|-----------|--------|
 |  **STR**  |  15 (+2)  |  -
 |  **DEX**  |  14 (+2)  |  -
 |  **CON**  |  10 (--)  |  -
-|  **INT**  |  16 (+3)  |  -
+|  **INT**  |  18 (+4)  |  -
 |  **WIS**  |   6 (-2)  |  -
 |  **CHA**  |  22 (+6)  |  -
 
 ## Secondary Stats
 |  Stat        |  Base     |  Temp/Notes  |
 |--------------|-----------|--------------|
-|  **HP**      |  31 max   |  -
+|  **HP**      |  36 max   |  -
 |  **AC**      |  22       |  10 +2(D) +6(a)+1(e) +2(s)+1(e) +2(d) if moved 10'+
-|  **Init**    |  +2       |  -
+|  **Init**    |  +4       |  -
 |  **BAB**     |  +5       |  -
 |  **CMB**     |  +7       |  -
 |  **CMD**     |  19       |  -
@@ -24,23 +29,23 @@
 ## Saves
 |  Save     |  Base  |  Temp/Notes  |
 |-----------|--------|--------------|
-|  **Fort** |  +4    |  -
-|  **Ref**  |  +9    |  +6 (CHA), +2 if you've moved at least 10'
-|  **Will** |  +2    |  -
+|  **Fort** |  +5    |  -
+|  **Ref**  |  +10   |  +6 (CHA), +2 if you've moved at least 10'
+|  **Will** |  +3    |  -
 
 ## Skills
 |  Skill             |  Total |  Rank  |  Stat  |  Misc  |  Temp/Notes    |
 |--------------------|--------|--------|--------|--------|-----------------|
-|  *Diplomacy*       |  +14   |  5+3   |  +6    |  -     |  +1 Trait vs Evil
-|  *Fly*             |  +7    |  5+3   |  +2    |  -3    |  +4 Racial, -7 ACP
-|  *Intimidate*      |  +14   |  5+3   |  +6    |  -     |  +1 Trait vs Evil
-|  *Kn. [History]*   |  +11   |  5+3   |  +3    |  -     |
-|  *Kn. [Local]*     |  +11   |  5+3   |  +3    |  -     |
-|  *Ride*            |  +3    |  5+3   |  +2    |  -7    |  -7 ACP
+|  *Diplomacy*       |  +15   |  6+3   |  +6    |  -     |  +1 Trait vs Evil
+|  *Fly*             |  +8    |  6+3   |  +2    |  -3    |  +4 Racial, -7 ACP
+|  *Intimidate*      |  +15   |  6+3   |  +6    |  -     |  +1 Trait vs Evil
+|  *Kn. [History]*   |  +13   |  6+3   |  +4    |  -     |
+|  *Kn. [Local]*     |  +13   |  6+3   |  +4    |  -     |
+|  *Ride*            |  +4    |  6+3   |  +2    |  -7    |  -7 ACP
 |  *Perception*      |  -2*   |  -     |  -2    |  -0*   |  -2 Trait if sight-based
 |  *Sense Motive*    |  -4    |  -     |  -2    |  -2    |  -2 Trait
 Armor Check Penalty -7
-
+Add 1 more maxed skill!
 ## Languages, Proficiencies
 - **Languages**: Common, Celestial, Elvish, Humic
 - **Weapons**:  Simple, martial
@@ -63,7 +68,7 @@ When a non-evil humanoid attempts to read your mind via a magical effect, the
 reader must attempt a Will save opposed by your Charisma check. If the reader
 fails this save, she is shaken for 1 round. If she fails by 10 or more, she is
 instead frightened for 1 round, then shaken for 1 round.
-### Favored Class: Warlord V
+### Favored Class: Warlord VI
 Gain +1/5 of a combat feat per rank.
 
 ## Racial Features
@@ -81,16 +86,66 @@ You are permanently under the effect of a nonmagical featherfall, and may glide
 5 feet horizontally per 1 foot vertical (for an overland speed of 60 feet per
 round). You gain +4 to Fly checks, and Fly is always a class skill for you.
 
+## Mythic Marshal Features
+### Hard to Kill
+Whenever you’re below 0 hit points, you automatically stabilize without needing
+to attempt a Constitution check. If you have an ability that allows you to act
+while below 0 hit points, you still lose hit points for taking actions, as
+specified by that ability. Bleed damage still causes you to lose hit points when
+below 0 hit points. In addition, you don’t die until your total number of
+negative hit points is equal to or greater than double your Constitution score.
+### Mythic Power
+Each day, you can expend an amount of mythic power equal to 3 plus double your
+mythic tier (5/day at 1st tier, 7/day at 2nd, etc.). This amount is your maximum
+amount of mythic power. If an ability allows you to regain uses of your mythic
+power, you can never have more than this amount.
+### Surge
+You can call upon your mythic power to overcome difficult challenges. You can
+expend one use of mythic power to increase any d20 roll you just made by rolling
+1d6 and adding it to the result. Using this ability is an immediate action taken
+after the result of the original roll is revealed. This can change the outcome
+of the roll. The bonus die gained by using this ability increases to 1d8 at 4th
+tier, 1d10 at 7th tier, and 1d12 at 10th tier.
+### Amazing Initiative
+At 2nd tier, you gain a bonus on initiative checks equal to your mythic tier. In
+addition, as a free action on your turn, you can expend one use of mythic power
+to take an additional standard action during that turn. This additional standard
+action can’t be used to cast a spell. You can’t gain an extra action in this way
+more than once per round.
+### Path Abilities
+#### Marshal's Order - Advance (Ex)
+As a swift action, you can expend one use of mythic power to inspire a tactical
+advance on the field of battle. This allows you and each of your allies within
+30 feet to take either a single move action of the character’s choice or a
+5-foot step, as long as you or your ally has the ability to take such an action
+(for example, an unconscious character still can’t take an action). The action
+granted by this ability doesn’t count toward the number or type of actions a
+creature is allowed to take on its turn.
+#### Lend Power (Su)
+As an immediate action, you can expend one use of mythic power or your
+confidence ability to grant the benefit of your surge ability to a mythic ally
+within 30 feet. The ally uses your surge die.
+#### Focus (Su)
+Whenever a mythic ally that is within 30 feet uses the surge ability, it rolls
+its bonus die twice and takes the higher result.
+### Mythic Feats
+#### Mythic Combat Reflexes
+You can make any number of additional attacks of opportunity per round. As a
+swift action, you can expend one use of mythic power to, until the start of your
+next turn, make attacks of opportunity against foes you’ve already made attacks
+of opportunity against this round if they provoke attacks of opportunity from
+you by moving.
+
 ## Class Features: Harbinger
 ### Accursed Will (Ex)
-Gain a +1 (1/2 INT modifier) insight bonus to attack rolls.
+Gain a +2 (1/2 INT modifier) insight bonus to attack rolls.
 ### Dark Claim (Su)
-As a swift action, Claim an opponent you can detect within 35 (25 + 5/2 levels)
-feet. Claims last for 2 (1/2 level) rounds, and you may Claim at most 3
+As a swift action, Claim an opponent you can detect within 40 (25 + 5/2 levels)
+feet. Claims last for 3 (1/2 level) rounds, and you may Claim at most 4
 (INT mod) enemies at a time. Claimed creatures provoke attacks of opportunity
 even when using the Withdraw action, and you always know their location (though
 concealment still applies if you can no longer see them.) You also recover a
-single maneuver* when Claiming an enemy, and recover three (INT mod) when a
+single maneuver* when Claiming an enemy, and recover four (INT mod) when a
 Claimed enemy is reduced to 0 HP. (*Increased to two by feat)
 ### Ill Tidings (Ex)
 Gain a +10-foot competence bonus to your movement (before armor penalties).
@@ -105,7 +160,7 @@ adjacent creature as an immediate action when you reduce an opponent to 0 HP.
 ### Elusive Shadow (Ex)
 Gain a +2 dodge bonus to AC and reflex any round you move at least 10 feet.
 ### Maneuvers
-Your maneuvers have a base DC of 14 (10 + Tier + INT mod). You know the
+Your maneuvers have a base DC of 15 (10 + Tier + INT mod). You know the
 following maneuvers, of which you may ready 5:
 - Ravaging Blow (Black Seraph I)
 Standard (strike, evil, fear). Make an attack that deals an extra 1d6
@@ -118,14 +173,14 @@ Standard (strike). Make an attack. If it hits, deal +2d6 damage, and makes the
 target prone on a failed reflex save.
 - Shadow Feather Strike (Black Seraph II)
 Standard (strike, evil). Make ranged touch attack against target in 30' for
-4d6 + 3 (INT mod) profane damage.
+4d6 + 4 (INT mod) profane damage.
 - Taunting Laugh (Black Seraph III)
 Swift (boost). Make a demoralization attempt against a single target. On a
 success, in addition to the demoralize effect, the target is flat-footed until
 the end of your next turn.
 - Woeful Burden (Cursed Razor I)
 Standard (strike, curse). Make an attack. If it hits, the target becomes
-cursed and their speed is reduced by 15 (10 + 5/4 level) for 5 (level) rounds.
+cursed and their speed is reduced by 15 (10 + 5/4 level) for 6 (level) rounds.
 - Minute Hand (Riven Hourglass I)
 Swift (boost). Make an attack as a swift action with a -2 penalty to
 the attack roll.
@@ -187,6 +242,9 @@ treat that square as if you occupied it for the purposes of flanking.
 ### Defensive Prowess (Ex)
 While in a Golden Lion or Iron Tortoise stance, gain a +1 competence bonus to
 your shield bonus to armor class and CMD, and reduce your ACP by 1.
+### Heightened Defenses (Ex)
+At most once per round, 7 (1 + CHA mod) times per day, you may initiate a
+counter without using an immediate action.
 ### Maneuvers
 Your maneuvers have a base DC of 17 (10 + Tier + CHA mod). You know the
 following maneuvers, of which you may ready 6:
@@ -254,11 +312,11 @@ ally's next attack against that enemy gains a +2 competence bonus to the attack
 roll.
 ### Exotic Weapon Proficiency: Flickmace (5th Bonus Combat)
 You have proficiency with the flickmace.
-<!-- ### Combat Reflexes (6th Bonus Combat)
-Gain +2 AoOs, and you can make AoOs while flat-footed. -->
-<!-- ### Discipline Focus - Black Seraph (6th Bonus Specific)
+### Combat Reflexes (6th Bonus Combat)
+Gain +2 AoOs, and you can make AoOs while flat-footed.
+### Discipline Focus - Black Seraph (6th Bonus Specific)
 Gain +2 to the DC of all Black Seraph maneuvers, and deal +2 damage with axes,
-flails, and polearms. -->
+flails, and polearms.
 <!-- ### Stand Still (7th)
 When making an AoO, you may instead attempt a combat maneuver to halt the target. -->
 <!-- ### Discipline Mastery (9th)

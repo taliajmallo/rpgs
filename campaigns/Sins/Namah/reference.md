@@ -1,4 +1,9 @@
 # Namah's Abilities Cheat-sheet
+TODO:
+- +1 BAB, +2 flail damage
+- +2 Seraph DC
+- Mythic dailies
+- Maneuvers???
 ## At-Wills
 |  Ability           |  Effect                              |
 |--------------------|--------------------------------------|
@@ -12,7 +17,7 @@
 |  Guardian Gambit   |  Charge shield bash / 5-foot-step for all allies in 30'.
 |  Flanker Gambit    |  Attack enemy with adjacent ally / auto-flank enemy for 1r.
 |  Unbroken Gambit   |  Make Fort or Will save / gain 18 HP.
-|  Claim             |  Claim 3 in 35' for 2r (-2 skills, CMB; -X/- vs allies, curse)
+|  Claim             |  Claim 3 in 35' for 3r (-2 skills, CMB; -X/- vs allies, curse)
 
 ## Harbinger Maneuvers (5 Readied, Restore 2 on Claim & 3 on Claim 0HP)
 |  Ability           |  R? |  E? |  Effect   |
@@ -39,7 +44,7 @@
 |  Hunting Party     | [ ] | [ ] |  Attack, ally may make free AoO against
 |  Angering Smash    | [ ] | [ ] |  Shield bash, -4 to attacking allies for 1r
 |  *Boosts*
-|  Encouraging Roar  | [x] | [ ] |  All allies in 30' gain morale +2/+2 for 1r
+|  Encouraging Roar  | [x] | [x] |  All allies in 30' gain morale +2/+2 for 1r
 |  *Counters*
 |  Fear the Reaper   | [x] | [ ] |  Intimidate attack roll vs ally to cancel
 |  Warning Roar      | [x] | [ ] |  Diplomacy attack roll vs ally to cancel
@@ -56,7 +61,7 @@
 
 ## Notes
 HP: 31 Max
- - 31 Current
+ - 24 Current
 
 Current Stance:
  - [ ] Black Seraph's Glare (Demoralize +4 for free on damaging creature)
