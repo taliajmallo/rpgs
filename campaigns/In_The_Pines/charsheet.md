@@ -9,8 +9,8 @@
 - Concept: Forgotten Girl in a Horror Story
 - Paradigm: All the World's a Stage
 - Practice: Faith in Genre
-- Instruments: [Thought_Forms] primary instrument
-  - Prayers and Invocations
+- Instruments: [Prayers/Invocations] primary instrument
+  - Thought Forms
   - Offerings and Sacrifice
   - Ordeals and Exertions
   - Blessings and Curses
