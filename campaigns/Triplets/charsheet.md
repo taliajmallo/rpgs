@@ -2,30 +2,30 @@
 ## Biographical Info
 
 ## Attributes
-|| Physical    | Level  || Social      | Level  || Mental         | Level
-||-------------|--------||-------------|--------||----------------|--------
-|| Strength    | o....  || Charisma    | oo...  || Perception     | oo...
-|| Dexterity   | ooooo  || Manipulate  | oooo.  || Intelligence   | ooooo
-|| Stamina     | o....  || Appearance  | ooooo  || Wits           | oo...
+| Physical    | Level  | Social      | Level  | Mental         | Level
+|-------------|--------|-------------|--------|----------------|--------
+| Strength    | o....  | Charisma    | oo...  | Perception     | oo...
+| Dexterity   | ooooo  | Manipulate  | oooo.  | Intelligence   | ooooo
+| Stamina     | o....  | Appearance  | ooooo  | Wits           | oo...
 
 ## Abilities
-|| Ability        | Level  || Specialties
-||----------------|--------||-----------
-|| [Chthonic]              ||
-|| Presence       | ooooo  || Unnerve, Terrify
-|| [Caste]                 ||
-|| Bureaucracy    | oooo.  || Parley
-|| Linguistics    | o....  ||
-|| Occult         | ooo..  || Rituals
-|| Socialize      | ooo..  ||
-|| [Favored]               ||
-|| Awareness      | ooo..  ||
-|| Integrity      | ooo..  ||
-|| Investigation  | ooo..  ||
-|| Lore           | ooo..  ||
-|| War            | o....  ||
-|| [Other]                 ||
-|| Athletics      | oo...  ||
+| Ability        | Level  | Specialties
+|----------------|--------|-----------
+| [Chthonic]              |
+| Presence       | ooooo  | Unnerve, Terrify
+| [Caste]                 |
+| Bureaucracy    | oooo.  | Parley
+| Linguistics    | o....  |
+| Occult         | ooo..  | Rituals
+| Socialize      | ooo..  |
+| [Favored]               |
+| Awareness      | ooo..  |
+| Integrity      | ooo..  |
+| Investigation  | ooo..  |
+| Lore           | ooo..  |
+| War            | o....  |
+| [Other]                 |
+| Athletics      | oo...  |
 
 ## Stats
 
@@ -71,19 +71,19 @@ with the goals of his Circle; dismantling a social institution or transforming
 one in a way that aids the character's or Circle's agendas.
 
 ## Merits
-|| Merit             | Level  || Notes
-||-------------------|--------||-----------
-|| Exalted Healing   | xxxxx  ||
-|| Mentor            | xxx    ||
-|| Artifact          | ooo    || Light Artifact Armor, Trappings of Death
-|| Language          | .      || Sylvan (Native), Imperial Elvish (Native)
-|| Language          | o      || Aquan
-|| Language          | o      || Dwarvish
-|| Language          | o      || Elvish, Traditional
-|| Language          | o      || Halfling
-|| Language          | o      || Sylvan, Archaic
-|| Resources         | oo     ||
-|| Water Breathing   | ooo    ||
+| Merit             | Level  | Notes
+|-------------------|--------|-----------
+| Exalted Healing   | xxxxx  |
+| Mentor            | xxx    |
+| Artifact          | ooo    | Light Artifact Armor, Trappings of Death
+| Language          | .      | Sylvan (Native), Imperial Elvish (Native)
+| Language          | o      | Aquan
+| Language          | o      | Dwarvish
+| Language          | o      | Elvish, Traditional
+| Language          | o      | Halfling
+| Language          | o      | Sylvan, Archaic
+| Resources         | oo     |
+| Water Breathing   | ooo    |
 
 ## Intimacies
 ### Ties
