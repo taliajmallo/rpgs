@@ -87,7 +87,7 @@ one in a way that aids the character's or Circle's agendas.
 
 ## Intimacies
 ### Ties
-- Defining: Mezshmek (Admiration)
+- Defining: Mezshmek (Devotion)
 - Minor: The Circle (Fond Vexation)
 - Minor: Braveheart (Irritation)
 ### Principles
