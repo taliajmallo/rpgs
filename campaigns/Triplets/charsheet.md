@@ -71,19 +71,29 @@ with the goals of his Circle; dismantling a social institution or transforming
 one in a way that aids the character's or Circle's agendas.
 
 ## Merits
-| Merit             | Level  | Notes
-|-------------------|--------|-----------
-| Exalted Healing   | xxxxx  |
-| Mentor            | xxx    |
-| Artifact          | ooo    | Light Artifact Armor, Trappings of Death
-| Language          | .      | Sylvan (Native), Imperial Elvish (Native)
-| Language          | o      | Aquan
-| Language          | o      | Dwarvish
-| Language          | o      | Elvish, Traditional
-| Language          | o      | Halfling
-| Language          | o      | Sylvan, Archaic
-| Resources         | oo     |
-| Water Breathing   | ooo    |
+| Merit              | Level  | Notes
+|--------------------|--------|-----------
+| [Belongings]
+| Resources          | xx     |
+| Artifact           | xxxx   | Light Artifact Armor, Trappings of Death
+| Artifact           | xooo   | Mistwing Shroud
+| [Connections]
+| Mentor             | xxx    |
+| Cult               | o      |
+| [Languages]
+| Language           | x      | Imperial Common (Common)
+| Language           | x      | Sylvan (Native Trade/Spirit)
+| Language           | x      | Sylvan, Archaic (Local)
+| Language           | x      | Draconic (Academic/Dead)
+| Language           | x      | Elvish, Traditional (Academic)
+| Language           | x      | Necrol (Academic/Spirit)
+| Language           | x      | Dwavic (Trade)
+| Language           | x      | Macuine (Trade)
+| [Physiology]
+| Exalted Healing    | xxxxx  |
+| Poisoned Body      | o      |
+| Unusual Hide       | o      |
+| Water Breathing    | ooo    |
 
 ## Intimacies
 ### Ties
@@ -104,6 +114,14 @@ one in a way that aids the character's or Circle's agendas.
 - Duration: Instant
 - Prerequisite Charms: None
 - The smooth tongue of the Abyssal can make any deal sound appealing. She makes a bargain action using (Charisma or Manipulation + Bureaucracy), which gains (Essence or 3, whichever is higher) bonus dice.
+#### Sheathed Blade Negotiation Technique
+- Cost: 3m; Mins: Bureaucracy 1, Essence 1
+- Type: Supplemental
+- Keywords: None
+- Duration: Instant
+- Prerequisite Charms: Alluring Eloquence Method
+- The threat of death is but a tool in the arsenal of any well-equipped diplomat. This Charm enhances a threaten action made with any Ability, preventing any characters from developing negative Intimacies towards the Abyssal due to her threats. At worst, she will be perceived as demonstrating a tendency towards cold and rational realpolitik.
+- Using this Charm during formal negotiations or similar situations to make threats on behalf of an organization also allows the Abyssal to roll her threaten action using (Charisma or Manipulation + Bureaucracy).
 #### The Villain You Know
 - Cost: 2m; Mins: Bureaucracy 3, Essence 1
 - Type: Supplemental
@@ -217,7 +235,7 @@ one in a way that aids the character's or Circle's agendas.
 - Type: Reflexive
 - Keywords: Clash
 - Duration: Instant
-- Prerequisite Charms: World-Scarring Loveliness, Dread Lord's Demeanour
+- Prerequisite Charms: World-Scarring Loveliness, Dread Lord's Demeanor
 - Try as they might to slay the deathknight who stands before them, her foes cannot force themselves to raise a hand against such a fair creature. She can reflexively clash attacks with (Appearance + Presence), gaining all the dice from high Appearance she would claim on appropriate social influence. If the Abyssal wins the clash, her attacker falters at the last second, or his arrows refuse to strike the Abyssal and instead drop out of the air to land at her feet. The attacker suffers the Defence penalty from a failed clash but takes no damage.
 - Hands and Blades Tied can also be used to resist environmental hazards of any kind by rolling (Appearance + Presence) in place of the usual dice pool, gaining the Abyssal's full Appearance in non-Charm bonus dice. She can block uncountable damage in this way without any roll required. A single doleful glance parts a sea of lava as it rushes towards her, even the primal forces of the world refusing to bring any harm to such a lovely figure.
 #### Heart-Stopping Glance
