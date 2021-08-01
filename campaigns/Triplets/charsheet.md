@@ -40,18 +40,6 @@ For seven motes, the Midnight may command any ghost except one of the Deathlords
 to acknowledge her authority as one of Death's Lawgivers. She can make a
 persuade or threaten action that is considered to exploit a Major Intimacy of
 terrified obedience.
-### Sanctify Oath
-For 10 motes, one Willpower, the Moonshadow sanctifies an oath she has
-witnessed. The Exalt touches the oathgivers (or their words, as they pass
-through the air), her caste mark flashing imperceptibly. If she wishes, her
-anima briefly flares, swirling with the dark runes that glow with an
-unmistakable fell power.
-Oath-givers who break pacts sanctified by the Moonshadow (including the Exalt
-herself) are subject to a terrible curse. The details of the curse are devised
-by the Storyteller, ideally reflecting the oath broken and always involving some
-kind of sadistic torment. A character who dies with his end of a bargain
-unfulfilled will always linger as a ghost, still bound to his word, and cannot
-pass through lethe until he is released from the oath.
 ### Patron of the Lost
 The Midnight Caste are dark prophets and speakers for the dead, and they hear
 the pleas of their subjects. Whenever a ghost or mortal cries out for help,
