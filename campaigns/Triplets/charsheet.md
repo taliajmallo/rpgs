@@ -1,42 +1,45 @@
-# Adrena
+# Adrena of Mercy Undying
 ## Biographical Info
 
 ## Attributes
 | Physical    | Level  | Social      | Level  | Mental         | Level
 |-------------|--------|-------------|--------|----------------|--------
-| Strength    | o....  | Charisma    | oo...  | Perception     | oo...
+| Strength    | o....  | Charisma    | ooo..  | Perception     | oo...
 | Dexterity   | ooooo  | Manipulate  | oooo.  | Intelligence   | ooooo
-| Stamina     | o....  | Appearance  | ooooo  | Wits           | oo...
+| Stamina     | o....  | Appearance  | oooo.  | Wits           | oo...
 
 ## Abilities
-| Ability        | Level  | Specialties
-|----------------|--------|-----------
-| [Chthonic]              |
-| Presence       | ooooo  | Unnerve, Terrify
-| [Caste]                 |
-| Bureaucracy    | oooo.  | Parley
-| Linguistics    | o....  |
-| Occult         | ooo..  | Rituals
-| Socialize      | ooo..  |
-| [Favored]               |
-| Awareness      | ooo..  |
-| Integrity      | ooo..  |
-| Investigation  | ooo..  |
-| Lore           | ooo..  |
-| War            | o....  |
-| [Other]                 |
-| Athletics      | oo...  |
+| Ability         | Level   | Specialties
+|-----------------|---------|-----------
+| [Chthonic]               |
+| Integrity       | ooooo  |
+| [Caste]                  |
+| Lore            | ooo..  |
+| Performance     | o....  |
+| Presence        | ooo..  | Unnerve
+| War             | o....  |
+| [Favored]                |
+| Investigation   | oo...  |
+| Bureaucracy     | oooo.  | Parley
+| Occult          | ooo..  | Rituals
+| Socialize       | ooo..  |
+| Thrown          | oo...  | Energy
+| [Other]                  |
+| Awareness       | oo...  |
+| Linguistics     | o....  |
+| Medicine        | o....  |
 
 ## Stats
 
-## Moonshadow Caste Properties
-### Abyssal Envoy
-The Moonshadow has diplomatic immunity when treating with spirits, the Fair Folk
-and the denizens of Hell. So long as the Moonshadow approaches them on
-legitimate business of some kind, such creatures may not attack her or her
-companions without just cause, and such creatures must observe the local rules
-of hospitality. Such beings may still attempt to provoke members of the
-Abyssal's embassy into breaking the peace, thus voiding this effect's protection.
+## Midnight Caste Properties
+### Commander of the Risen
+For one mote, the Midnight's anima leaps from her hand to a corpse she's
+touching, reanimating it as a zombie under her command.
+### Death's Own Take Heed
+For seven motes, the Midnight may command any ghost except one of the Deathlords
+to acknowledge her authority as one of Death's Lawgivers. She can make a
+persuade or threaten action that is considered to exploit a Major Intimacy of
+terrified obedience.
 ### Sanctify Oath
 For 10 motes, one Willpower, the Moonshadow sanctifies an oath she has
 witnessed. The Exalt touches the oathgivers (or their words, as they pass
@@ -49,61 +52,69 @@ by the Storyteller, ideally reflecting the oath broken and always involving some
 kind of sadistic torment. A character who dies with his end of a bargain
 unfulfilled will always linger as a ghost, still bound to his word, and cannot
 pass through lethe until he is released from the oath.
-### Stairwell of Darkness
-For 10 motes, one Willpower, the Moonshadow can open a dark staircase in the
-ground before her leading down into the Underworld, which vanishes at the end of
-her next turn. After walking down it she will appear in the heart of the
-nearest shadowland at midnight that night, though no time has passed from her
-perspective. Other characters may follow her down the staircase before it
-closes, but until the Moonshadow herself has walked through into the Underworld
-no others are able to.
-If this power is used in the Underworld, the Moonshadow instead creates a
-staircase leading up and arrives in the nearest shadowland at midday. It cannot
-be used while already inside a shadowland.
+### Patron of the Lost
+The Midnight Caste are dark prophets and speakers for the dead, and they hear
+the pleas of their subjects. Whenever a ghost or mortal cries out for help,
+knowing nobody will answer, and the Midnight would be able to give him aid, she
+is instinctively aware of his predicament and location. She can also hear and
+reply to the prayers of her worshippers. She never needs to literally listen to
+their words and risk distraction; rather, she simply knows what is being asked
+of her.
 ### Abyssal Experience
-Turning two or more parties against each other; gaining a noteworthy advantage
-for the character or the Circle through diplomatic means; successfully
-navigating and thwarting social or geographical obstacles preventing the
-character or Circle from achieving a significant goal; exploiting a cultural
-tradition or legal system in furtherance of a Major or Defining Intimacy;
-bringing someone's Intimacies closer to aligning with those of the Moonshadow or
-with the goals of his Circle; dismantling a social institution or transforming
-one in a way that aids the character's or Circle's agendas.
+Inspiring others to uphold one of your Major or Defining Principles in a
+significant way; enduring great hardship in the name of a Major or Defining
+Intimacy; accomplishing a great deed that furthers a Major or Defining Principle;
+spreading reverence for death or the dead; aiding, protecting or advancing the
+agendas of other deathknights or ghosts unrelated to the character or Circle.
 
 ## Merits
-| Merit              | Level  | Notes
-|--------------------|--------|-----------
+| Merit                 | Level  | Notes
+|-----------------------|--------|-----------
 | [Belongings]
-| Resources          | xx     |
-| Artifact           | xxxx   | Light Artifact Armor, Trappings of Death
-| Artifact           | xooo   | Mistwing Shroud
+| Resources             | x      |
+| Artifact              | xxxx   | Light Artifact Armor, Trappings of Death
 | [Connections]
-| Mentor             | xxx    |
-| Cult               | o      |
+| Cult                  | xx     | Keepers of Mercy
+| Followers [Healers]   | o      | Subsection of the Keepers of Mercy
+| Mentor                | xxx    |
 | [Languages]
-| Language           | x      | Imperial Common (Common)
-| Language           | x      | Sylvan (Native Trade/Spirit)
-| Language           | x      | Sylvan, Archaic (Local)
-| Language           | x      | Draconic (Academic/Dead)
-| Language           | x      | Elvish, Traditional (Academic)
-| Language           | x      | Necrol (Academic/Spirit)
-| Language           | x      | Dwavic (Trade)
-| Language           | x      | Macuine (Trade)
+| Language              | x      | Imperial Common (Common)
+| Language              | x      | Sylvan (Native Trade/Spirit)
+| Language              | x      | Sylvan, Archaic (Local)
+| Language              | x      | Draconic (Academic/Dead)
+| Language              | x      | Elvish, Traditional (Academic)
+| Language              | x      | Necrol (Academic/Spirit)
+| Language              | x      | Dwavic (Trade)
+| Language              | x      | Macuine (Trade)
 | [Physiology]
-| Exalted Healing    | xxxxx  |
-| Poisoned Body      | o      |
-| Unusual Hide       | o      |
-| Water Breathing    | ooo    |
+| Exalted Healing       | xxxxx  |
+| Poisoned Body         | o      |
+| Water Breathing       | ooo    |
+| [Sorcery]
+| Sage of Three Circles | oooo   |
 
 ## Intimacies
 ### Ties
-- Defining: Mezshmek (Devotion)
-- Minor: The Circle (Fond Vexation)
+- Defining: Mezshmek (Oathsworn Devotion)
+- Minor: The Party (Fond Vexation)
 - Minor: Braveheart (Irritation)
 ### Principles
+- Chthonic: "Oaths are sacrosanct - I shall never break my own, and I shall render judgement upon any who do."
 - Major: "I seek to rediscover the memories and knowledge I lost."
 - Major: "Only by keeping our baser instincts in check can we rise above ourselves."
 - Minor: "Those who fail to demonstrate proper restraint must be reined in by their betters."
+- Minor: "I shall grant aid when called to by the desperate."
+
+## Intimacies of the Keepers of Mercy
+### Ties
+- Defining: Adrena of Mercy Undying (Worship)
+### Principles:
+- Defining: "Oaths are sacrosanct - I shall never break my own, and I shall render judgement upon any who do."
+- Defining: "In joining the Keepers of Mercy, I have sworn to follow the path of our Lady of Mercy Undying - just as she hears the desperate pleas of those suffering alone, I will seek out those in need and grant what aid I may."
+- Major: "I shall not cause suffering, even in violent conflict. If I must take up arms, they shall be blades of mercy - never shall I wield brutal hammers or vicious axes, and never may my blade be shaped for cruelty with serrations or their like."
+- Major: "Any who swear the oath of the Keepers of Mercy is welcome amongst us - our Lady of Mercy Undying grants divine aid to even the least of us, so it is not our place to refuse any who would join in her mission."
+- Minor: "Death is not to be feared. The dying are to be cared for, and to be given the choice of a painless passing."
+- Minor: "Our Lady of Mercy Undying is the patron of the forsaken, of the lost - I shall not seek personal glory or recognition, as none of us stand above the least of us."
 
 ## Charms
 ### Bureaucracy
@@ -122,14 +133,89 @@ one in a way that aids the character's or Circle's agendas.
 - Prerequisite Charms: Alluring Eloquence Method
 - The threat of death is but a tool in the arsenal of any well-equipped diplomat. This Charm enhances a threaten action made with any Ability, preventing any characters from developing negative Intimacies towards the Abyssal due to her threats. At worst, she will be perceived as demonstrating a tendency towards cold and rational realpolitik.
 - Using this Charm during formal negotiations or similar situations to make threats on behalf of an organization also allows the Abyssal to roll her threaten action using (Charisma or Manipulation + Bureaucracy).
-#### The Villain You Know
-- Cost: 2m; Mins: Bureaucracy 3, Essence 1
-- Type: Supplemental
+
+### Integrity
+#### Death's Unhesitating Champion
+- Cost: 4m; Mins: Integrity 3, Essence 1
+- Type: Reflexive
 - Keywords: None
 - Duration: Instant
-- Prerequisite Charms: Alluring Eloquence Method
-- The Abyssal's offer doesn't have to be good for others to accept it. It only needs to be better than the alternatives. This Charm enhances a persuade or bargain action made with any Ability, allowing the Abyssal to leverage negative Intimacies towards her contextual rivals as though they were positive Intimacies towards herself. For example, when a desperate man is presented with the option of selling a prized heirloom to a merchant he despises so he can afford food, the Abyssal could use that hatred to convince him to make a deal with her.
-- This Charm does not require that the Abyssal and the subject of the negative Intimacy be the only two options. In the above example, even if there were a dozen other perfectly trustworthy merchants all making offers, the Abyssal would still be able to use the one hated one to her own advantage. This effect may also allow the Abyssal to effectively use a single Intimacy twice. If she were the only other option, she could persuade the man to sell her the heirloom using the positive Intimacy towards herself, then if he still refused she could use the negative intimacy towards the merchant in a second influence attempt.
+- Prerequisite Charms: None
+- It can be challenging at times to walk the deathknight's path, abandoning one's former existence and facing the hatred of those who cling to life. By remaining true to her ideals over any fleeting relations with others, the Abyssal ensures she remains on the right path. When she is targeted by social influence opposing one of her Principles, she can activate this Charm to double the Resolve bonus granted by that Principle, as a non-Charm bonus.
+#### Heart of Darkness
+- Cost: -; Mins: Integrity 3, Essence 1
+- Type: Permanent
+- Keywords: None
+- Duration: Permanent
+- Prerequisite Charms: Death's Unhesitating Champion
+- This Charm hardens the Abyssal's heart to the desperate appeals of the living. When someone attempts to instill her with a positive Tie towards the living, or make any social influence predicated on a connection to, understanding of, or sympathy towards the living, that attempt is penalized by 1 success for every 1 in the roll.
+#### Lesser Horrors Scorned
+- Cost: 4m; Mins: Integrity 2, Essence 1
+- Type: Reflexive
+- Keywords: None
+- Duration: One scene
+- Prerequisite Charms: None
+- The living must always fear their inevitable end. Death's Lawgivers have no such concerns. This Charm renders the Abyssal immune to mundane fear and pain for a scene. Magical effects that inflict fear or pain still function against her, but she gains a +2 non-Charm bonus to Resolve against any influence that attempts to inflict or leverage them.
+#### Unflinching Devotion Discipline
+- Cost: 4m, 1wp; Mins: Integrity 4, Essence 2
+- Type: Reflexive
+- Keywords: None
+- Duration: Instant
+- Prerequisite Charms: Death's Unhesitating Champion
+- No force can tempt the Abyssal from her noble cause. When she would be persuaded to undertake a major or defining task, she can activate this Charm to refuse that influence automatically. The Abyssal can only use Unflinching Devotion Discipline once per story, unless reset by enduring extreme hardship in the name of her Major or Defining Principles.
+#### Deathknight's Unswerving Allegiance
+- Cost: -; Mins: Integrity 5, Essence 2
+- Type: Permanent
+- Keywords: None
+- Duration: Permanent
+- Prerequisite Charms: Unflinching Devotion Discipline
+- When she purchases this Charm, the Abyssal chooses one Defining Intimacy that represents some adherence to her role as Death's Lawgiver. It may involve devotion to the dead or her Deathlord in particular, hatred of a living person or institution, bringing death to some or all, preserving or honouring the past or something similar. She may treat any social influence that would convince her to act against this Intimacy as unacceptable.
+- Any attempt to weaken the chosen Intimacy must be rolled twice, taking the lower result, and even on a success it still does not actually weaken the Intimacy. Instead, it removes this Charm's ability to render any influence opposed to the Intimacy as unacceptable. This lasts until the Abyssal reminds herself of her devotion by undergoing a major or defining task in order to defend or pursue it.
+- If the chosen Intimacy is lowered by some means, this Charm ceases functioning until either it is returned to Defining or the Abyssal chooses a new appropriate Intimacy to dedicate herself towards.
+#### Blood Before Surrender
+- Cost: 1ahl per 1wp; Mins: Integrity 3, Essence 2
+- Type: Reflexive
+- Keywords: None
+- Duration: Instant
+- Prerequisite Charms: Lesser Horrors Scorned
+- Living flesh is weak and easily cast aside. When she would pay Willpower to resist social influence, the Abyssal may instead pay an equal number of aggravated health levels. This may manifest visibly, as wounds open across her body, or as the strength of her body subtly failing.
+#### Dark Messiah Style
+- Cost: 7+m, 1wp; Mins: Integrity 5, Essence 3
+- Type: Reflexive
+- Keywords: None
+- Duration: Indefinite
+- Prerequisite Charms: Deathknight's Unswerving Allegiance
+- As long as she remains a faithful servant of death, the comforting stasis of the grave protects the Abyssal from harm. This Charm only functions while she remains dedicated to an appropriate Intimacy via its prerequisite, and its mote cost is equal to seven plus her current Resonance. Gaining Resonance forces her to immediately commit extra motes to it or allow the Charm to end.
+- While it remains active, Dark Messiah Style protects the Abyssal completely from transformative magic, sorcerous curses, psychic assaults or fiat-level alterations to her destiny. Changing which kind of effects she is immune to requires ending this Charm and reactivating it. She is also protected against any effect that would have an increased effect against creatures of darkness, though in a way that clearly marks her as one. As she catches a glowing sun-blade in her hand, it weeps blood and its light flickers and dies, its holy magic is choked out by the deathknight's dark majesty.
+#### Mortality Cast Aside
+- Mortality Cast Aside
+- Cost: 1 Resonance; Mins: Integrity 5, Essence 4
+- Type: Reflexive
+- Keywords: None
+- Duration: Instant
+- Prerequisite Charms: Blood Before Surrender, Heart of Darkness
+- Though they may serve death, every Abyssal Exalt is marked by a moment where she refused to fall into its embrace. With this Charm, the deathknight does so again. At the moment that her body finally fails and her soul departs to find its next incarnation, she rejects oblivion with all her will, repairing her broken shell and forcing her soul to return to it.
+- Any time she dies, the Abyssal can activate Mortality Cast Aside. At the end of the current scene, she heals (Stamina) health levels, that she may walk among the living once more. If she dies from something other than damage, she heals it entirely, such as purging a deadly disease from her body. She can bring herself back even from recurring or uncountable damage, holding her body together through the most catastrophic injuries. Only a deliberate effort to entirely destroy her body, or being killed using magic such as Ghost-Eating Technique, can stop her from restoring herself to life.
+- Using this Charm does not come without its costs. Denying death's hold on her gives the Abyssal an automatic point of Resonance, and each death leaves a scar on her body that no magic can heal. More worryingly, if she has already used it (Essence) times or more, the strain of repeatedly standing on the brink of oblivion leaves her with a Minor Derangement appropriate to the way she was killed. Further uses may create new Derangements or increase the strength of existing ones, as appropriate.
+#### Void Avatar Prana
+- Cost: - (15m, 1wp); Mins: Integrity 5, Essence 4
+- Type: Permanent
+- Keywords: None
+- Duration: Permanent
+- Prerequisite Charms: Dark Messiah Style
+- Death courses through the Abyssal and everything around her, acting as she directs. She can deliberately invoke Resonance Bleed effects of up to the 4-6 level whenever she wishes (though the Storyteller may veto clearly excessive uses of this ability). Any social influence she makes that is supported by such effects doubles the dice or successes awarded from stunts. Once per story, she can spend fifteen motes, one Willpower to trigger a Resonance Eruption of her choice, directed as she wishes.
+- Additionally, the Abyssal can kill a mortal with a single touch. This effect has no cost, but requires a difficulty 5 gambit during combat. She simply reaches out to lay a hand on her target, and all life leaves his body.
+#### Immortal Malevolence Enslavement
+- Cost: -; Mins: Integrity 5, Essence 5
+- Type: Permanent
+- Keywords: None
+- Duration: Permanent
+- Prerequisite Charms: Mortality Cast Aside, Void Avatar Prana
+- The Abyssal consecrates herself to the eternal service of death, and nothing shall break that vow. The Intimacy she swore herself to with Deathknight's Unswerving Allegiance becomes entirely immutable. No matter what may happen to her, or how much she may regret it, no force can reduce that Intimacy below Defining.
+- The chosen Intimacy is now an inherent part of the Abyssal's connection to death, so acting against it counts as a defining sin against death. If the chosen Intimacy is a Tie and its subject dies, she may choose to continue remembering him forever, demonstrating an eternal morbid devotion to somebody long dead, or immediately transfer the same emotion to another appropriate target. She can likewise either continue to dwell on or transfer a Principle based on a particular goal that is fulfilled or otherwise becomes inapplicable.
+- In exchange for her devotion, the Abyssal is given the privilege of standing beyond the reach of death itself. She no longer needs to rely on cheating it with Mortality Cast Aside; instead, any time she dies, her body and possessions dissolve into wisps of darkness that quickly dissipate. She reforms at midnight, completely uninjured, in a safe location in the Underworld - either a private sanctum of hers if she has one, or somewhere in the depths of the Labyrinth.
+- The only way the Abyssal can be permanently slain is with Ghost-Eating Technique or similar magic. She may choose to use Mortality Cast Aside when she dies, before this Charm activates, if being transported to the Underworld would inconvenience her, and no longer risks developing Derangements for doing so.
+
 
 ### Occult
 #### Spirit Sensing Technique
@@ -168,87 +254,24 @@ one in a way that aids the character's or Circle's agendas.
 - Prerequisite Charms: Any four Occult Charms
 - Demonstrating a more unorthodox mystical talent, the Abyssal initiates into the Terrestrial Circle of sorcery. She gains a free spell which functions as her control spell, gains access to sorcerous workings and learns one shaping ritual.
 
-### Presence
-#### Soul-Flaying Gaze II
-- Cost: -; Mins: Presence 2, Essence 1
-- Type: Permanent
-- Keywords: None
-- Duration: Permanent
-- Prerequisite Charms: None
-- With this Charm, the Abyssal gains the ability to make attacks using (any social Attribute + Presence). Such attacks use the thrown (short) and lethal tags and use the traits of light mortal weapons. Her withering attacks deal (7 + threshold successes) damage, gaining no bonus damage from her Strength, and subtract the target's Resolve from damage instead of his soak.
-- A Presence 5, Essence 2+ repurchase gives the Abyssal's gaze the traits of a light artifact weapon, increasing its damage to (10 + threshold successes).
-#### Elegant Tyrant's Majesty
-- Cost: 5m or 7m; Mins: Presence 2, Essence 1
+
+### Thrown
+#### Crypt Bolt Attack
+- Cost: 5m; Mins: Thrown 2, Essence 1
 - Type: Reflexive
 - Keywords: None
 - Duration: One scene
 - Prerequisite Charms: None
-- The Abyssal is effortlessly eloquent, allowing her to easily sway the minds of the living. She gains three dice on social influence rolls made with any Ability, and all other Charms she use to enhance or create social influence actions benefit from a one mote discount, to a minimum of one mote.
-- Elegant Tyrant's Majesty can be activated for seven motes rather than five. Doing so increases its duration to indefinite.
-#### Death's Alluring Face
-- Cost: 2m; Mins: Presence 3, Essence 1
-- Type: Supplemental
-- Keywords: None
-- Duration: Instant
-- Prerequisite Charms: None
-- The Abyssal's eerie beauty gives her double 9s on seduction-based influence using any Attribute, or any other social influence using Appearance. If she gains any bonus dice due to high Appearance, she gains an additional such die as a non-Charm bonus.
-- If the Abyssal has the Hideous Merit, this Charm affects threatening rather than seductive influence.
-#### Impossible Chilling Beauty
-- Cost: 5m; Mins: Presence 3, Essence 1
-- Type: Reflexive
-- Keywords: None
-- Duration: Indefinite
-- Prerequisite Charms: Death's Alluring Face
-- Drinking of the seductive allure of the grave, the Abyssal gains a +1 bonus to her Appearance. If this brings her Appearance above 5, her beauty is clearly unnatural to all who see it, though no less appealing for that fact. Her seductive persuade actions are always considered to exploit at least a Minor Intimacy, and the offer of physical intimacy from her, even as little as a kiss, always qualifies for at least a serious task when used in a bargain action towards a character of compatible orientation.
-- With the Hideous Merit, rather than gaining seductive bonuses the Abyssal treats all characters as though they had a Minor Tie of fear towards her.
-#### Dread Lord's Demeanor
-- Cost: 6m; Mins: Presence 4, Essence 2
-- Type: Simple
-- Keywords: None
-- Duration: One scene
-- Prerequisite Charms: Elegant Tyrant's Majesty
-- Cloaked in dark power, the Abyssal stands unquestioned. Those who would oppose her feel a sense of dread warning against that course of action, and should they ignore it deep wounds appear across their body as punishment for their impudence. Any character must pay one lethal health level the first time in the scene he wishes to speak against or attack the Abyssal. Furthermore, any threaten actions against the Abyssal suffer a dice penalty equal to her Essence.
-#### Loving and Fearing Death
-- Cost: 2m; Mins: Presence 5, Essence 2
-- Type: Supplemental
-- Keywords: None
-- Duration: Instant
-- Prerequisite Charms: Death's Alluring Face
-- Beauty and horror are but two sides of the same coin. When the Abyssal makes any social influence action, she can either gain the Hideous Merit or remove it for the purposes of that action. Her appearance does not change, rather, the targets of that influence look upon her grotesque visage and feel profound attraction, or are terrified by her comely appearance. Characters not subject to the influence are unaffected by this Charm, leaving them baffled by their associates' bizarre reactions.
-- This Charm's effects on the perceptions of its targets lasts for the remainder of the scene. If the Abyssal uses it on the same targets again, their perceptions flip each time.
-#### Uncanny Radiance Meditation
-- Cost: - (+2m); Mins: Presence 4, Essence 2
-- Type: Permanent
-- Keywords: None
-- Duration: Permanent
-- Prerequisite Charms: Impossible Chilling Beauty
-- When The Abyssal activates Impossible Chilling Beauty, she can spend two extra motes to enhance it with this Charm. She ignores all penalties to her Appearance-based actions. Even caked in mud and blood, her unnatural beauty shines through, and when she lies at death's door her injuries somehow only accentuate her looks. She also ignores Minor Intimacies that oppose her Appearance-based social influence, as any small misgivings other characters might have melt away at the sight of her.
-#### World-Scarring Loveliness
-- Cost: - (1 Resonance); Mins: Presence 5, Essence 2
-- Type: Reflexive
-- Keywords: None
-- Duration: One scene
-- Prerequisite Charms: Uncanny Radiance Meditation
-- Creation cannot stand to look upon the true beauty of death, but with this Charm, the Abyssal forces it to anyway. While Impossible Chilling Beauty is active, she can use World-Scarring Loveliness to increase the Appearance bonus that Charm grants to +3. Using this Charm is free in the Underworld, but in other realms it instantly causes a point of Resonance gain.
-#### Hands and Blades Tied
-- Cost: 1m, 1wp; Mins: Presence 5, Essence 3
-- Type: Reflexive
-- Keywords: Clash
-- Duration: Instant
-- Prerequisite Charms: World-Scarring Loveliness, Dread Lord's Demeanor
-- Try as they might to slay the deathknight who stands before them, her foes cannot force themselves to raise a hand against such a fair creature. She can reflexively clash attacks with (Appearance + Presence), gaining all the dice from high Appearance she would claim on appropriate social influence. If the Abyssal wins the clash, her attacker falters at the last second, or his arrows refuse to strike the Abyssal and instead drop out of the air to land at her feet. The attacker suffers the Defence penalty from a failed clash but takes no damage.
-- Hands and Blades Tied can also be used to resist environmental hazards of any kind by rolling (Appearance + Presence) in place of the usual dice pool, gaining the Abyssal's full Appearance in non-Charm bonus dice. She can block uncountable damage in this way without any roll required. A single doleful glance parts a sea of lava as it rushes towards her, even the primal forces of the world refusing to bring any harm to such a lovely figure.
-#### Heart-Stopping Glance
-- Cost: 5m, 1wp; Mins: Presence 5, Essence 5
-- Type: Simple
-- Keywords: Decisive-only
-- Duration: Instant
-- Prerequisite Charms: Soul-Flaying Gaze x2, Hands and Blades Tied
-- As a victim meets the Abyssal's eyes, he sees her full, unimaginable beauty for just an instant. The shock of that glorious moment is enough to make most immediately pass on, completely contented, to their next incarnation.
-- While at 15+ Initiative, the Abyssal makes a decisive attack through Soul-Flaying Gaze. Unlike most such attacks, this does count as seductive influence (or threatening if she is Hideous), and can therefore benefit from Death's Alluring Face. Her base damage is increased by her Appearance, and for every two bonus dice she would have gained from high Appearance over her target's Resolve, she doubles one number on damage. For instance, if she would have gained four or five dice she doubles 9s.
-- Outside of combat, the Abyssal can use this Charm against a trivial combatant to kill him instantly. Doing so is not immediately apparent as an attack, though the fact that he spent his last moments staring at the Abyssal might draw suspicion.
+- Gathering necrotic energy in her palm to launch at her foes, or firing it from her eyes, the Abyssal is never unarmed. She can produce crypt bolts for the duration of the scene, which use the traits of medium artifact weapons with the thrown (short) and lethal tags.
 
 ## Sorcery
+### Merits
+#### Sage of Three Circles
+The sorcerer has studied the Book of Three Circles, and its eerie knowledge has
+taken root in her. Once per story, she may cast a sorcery spell she doesn't know,
+although she must still meet its prerequisites. Thereafter, she may learn that
+spell without a mentor or source. The Storyteller may deem some spells aren't
+contained in the book, primarily those newly invented by Second Age sorcerers.
 ### Control Spells
 #### Death of Obsidian Butterflies
 Cost: 15sm, 1wp
