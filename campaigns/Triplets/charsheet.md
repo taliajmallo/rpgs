@@ -204,7 +204,6 @@ agendas of other deathknights or ghosts unrelated to the character or Circle.
 - In exchange for her devotion, the Abyssal is given the privilege of standing beyond the reach of death itself. She no longer needs to rely on cheating it with Mortality Cast Aside; instead, any time she dies, her body and possessions dissolve into wisps of darkness that quickly dissipate. She reforms at midnight, completely uninjured, in a safe location in the Underworld - either a private sanctum of hers if she has one, or somewhere in the depths of the Labyrinth.
 - The only way the Abyssal can be permanently slain is with Ghost-Eating Technique or similar magic. She may choose to use Mortality Cast Aside when she dies, before this Charm activates, if being transported to the Underworld would inconvenience her, and no longer risks developing Derangements for doing so.
 
-
 ### Occult
 #### Spirit Sensing Technique
 - Cost: 3m; Mins: Occult 1, Essence 1
@@ -241,7 +240,6 @@ agendas of other deathknights or ghosts unrelated to the character or Circle.
 - Duration: Permanent
 - Prerequisite Charms: Any four Occult Charms
 - Demonstrating a more unorthodox mystical talent, the Abyssal initiates into the Terrestrial Circle of sorcery. She gains a free spell which functions as her control spell, gains access to sorcerous workings and learns one shaping ritual.
-
 
 ### Thrown
 #### Crypt Bolt Attack
