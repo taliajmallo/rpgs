@@ -5,35 +5,35 @@
   - Cousin of the Divine Family
 - Durance: *Pet*
 
-
 ## Skills & Domains
-| * |  Name          |  Knack(s) |
+| + |  Name          |  Knack(s) |
 |---|----------------|-----------|
 | o |  Compel        |
-| * |  Deceive       |
+| + |  Deceive       |
 |   |  Fight         |
 |   |  Fix           |
 |   |  Investigate   |
 | o |  Pursue        |
-| * |  Resist        |
-| * |  Sneak         |
-| * |  Steal         |
+| + |  Resist        |
+| + |  Sneak         |
+| + |  Steal         |
 |---|----------------|-----------|
 |   |  Academia      |
 |   |  Crime         |
 |   |  Commerce      |
-| * |  High Society  |
+| + |  High Society  |
 |   |  Low Society   |
-| * |  Occult        |
+| + |  Occult        |
 |   |  Order         |
-| * |  Religion      |
+| + |  Religion      |
 |   |  Technology    |
 |---|----------------|-----------|
 (o = In True Form only)
 
 ## Stress
-| R | Name        |  Notes, Fallout |
+| ? | Name        |  Notes, Fallout |
 |---|-------------|-----------------|
+| Resistances     |
 | 3 | Blood       |
 | 2 | Mind        |
 | 2 | Silver      |
@@ -41,12 +41,12 @@
 |   | Reputation  |
 |   | Armour      |
 |---|-------------|-----------------|
-|***| Refresh                       |
-| * | Share a moment of intimacy with another person.
-| * | Spend at least three hours in sunlight.
-| * | Participate in a Solar service or festival.
+| Refresh         |
+| + | Share a moment of intimacy with another person.
+| + | Spend at least three hours in sunlight.
+| + | Participate in a Solar service or festival.
 |---|-------------|-----------------|
-|***| Bonds                         |
+| Bonds           |
 | I | Snowball (Blood-bound familiar; six-legged cat made of marble)
 
 ## Quick Reference
