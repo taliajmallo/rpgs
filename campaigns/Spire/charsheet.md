@@ -48,6 +48,9 @@
 |---|-------------|-----------------|
 | Bonds           |
 | I | Snowball (Blood-bound familiar; six-legged cat made of marble)
+| I | Marie-Geneviève (Noa's character - I told her she'd be a Sister of St. Perdita)
+| I | Byurn (Siddy's character - he killed all the other actors in a play I was in, but didn't kill me)
+| I | Knox (Dee's character - I'm squired to him)
 
 ## Quick Reference
 | ? | Ability     |
@@ -117,5 +120,5 @@ convince someone to take the side of said underdog.
 
 ## Equipment
 - Athame (D3, Bloodbound)
-- Several sets of tattered, weird-looking clothing
+- Several sets of clothes
 - A collection of occult ephemera
