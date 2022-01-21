@@ -128,7 +128,7 @@ Main Launcher. Range 10 Blast 1, Heat 2 (Self). 1d3 Explosive, 2 Burn.
 ## LL3
 ### Mephistopheles-Class NHP
 4 System points. AI, Unique, Limited 1. Gain the following quick tech action:
-Quick tech. Take 3 burn and 6 heat. Your next weapon attack deals adds burn
+Quick tech. Take 3 burn and 6 heat. Your next weapon attack adds burn
 equal to your current heat, halved if the weapon affects multiple targets, to
 any damage the weapon deals.
 ### Hellfire Cluster Missiles
@@ -136,7 +136,7 @@ Heavy Launcher. Range 15 Blast 2, Arcing, Heat 3 (Self). 1 Explosive, 2 Heat,
 3 Burn.
 
 ## Faust
-Size 1
+Size 2
 ### Attributes
 Structure 4 / Stress 4 / Armor 1
 HP 8 / Evasion 8 / E-Defense 8
