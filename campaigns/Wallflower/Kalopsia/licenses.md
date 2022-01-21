@@ -64,12 +64,12 @@ ending position is lower than their starting position.
 ### Battlehammer
 Main Melee. Threat 1, Armor-Piercing, Knockback 1. 2d3 Kinetic.
 ## LL2
-### Rending Mod
-2 System Points. Choose one melee weapon. The weapon gains the following
-property:
-On a critical hit, the target is shredded until the end of their next turn.
-### Light Maul
-Heavy Melee. Threat 1. Knockback 3. 2d6 Kinetic. On critical hit, the target
+### Aftershock Mod
+2 System Points. Choose one melee weapon. After hitting with that weapon and
+applying knockback, all enemies within burst 1 of the target must make a hull
+save or take 3 damage.
+### Hydraulic Leg Slam
+Heavy Melee. Burst 1. Knockback 2. 1d6 Kinetic. On critical hit, the target
 must make a hull save or be knocked prone.
 ## LL3
 ### Kinetic Redistributor
@@ -85,7 +85,7 @@ agility save or be knocked prone.
 Size 3
 ### Attributes
 Structure 4 / Stress 4 / Armor 0
-HP 10 / Evasion 6 / E-Defense 6
+HP 12 / Evasion 6 / E-Defense 6
 Heat 5 / Sensors 5 / Tech Attack 0
 Repair 5 / Save 11 / Speed 4
 System Points 6
