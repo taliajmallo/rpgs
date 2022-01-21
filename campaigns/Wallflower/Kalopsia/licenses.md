@@ -86,7 +86,7 @@ Size 3
 ### Attributes
 Structure 4 / Stress 4 / Armor 0
 HP 12 / Evasion 6 / E-Defense 6
-Heat 5 / Sensors 5 / Tech Attack 0
+Heat 6 / Sensors 5 / Tech Attack 0
 Repair 5 / Save 11 / Speed 4
 System Points 6
 ### Mounts:
