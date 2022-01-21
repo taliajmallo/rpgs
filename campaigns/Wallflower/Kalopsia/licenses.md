@@ -191,7 +191,7 @@ Quick tech. Choose one ally within sensors, and choose one of the following:
 ## LL3
 ### Technotheurgic Prophecies
 2 System points. Gain the following options for Invade:
-- Invade. The target has resistance to heat until the end of their next turn. At the end of their next turn, they take burn equal to their heat.
+- Invade. The target has resistance to heat until the end of their next turn. Immediately after the end of their next turn, they take burn equal to their heat.
 - Invade. The target is jammed until the end of their next turn. When they are no longer jammed, they may immediately stabilize as a reaction.
 ### Algorithmic Reflection
 4 System points. If you use a full tech action to invade twice, and choose a
