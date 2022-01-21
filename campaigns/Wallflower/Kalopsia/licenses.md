@@ -83,8 +83,9 @@ next turn.
 Heavy Melee. Threat 1. Knockback 3. 2d6 Kinetic. On critical hit, the target
 must make a hull save or be knocked prone.
 ### Heavy Maul
-Superheavy Melee. Cone 2. Knockback 4. 3d6 Kinetic. On critical hit, the target
-must make an agility save or be knocked prone.
+Superheavy Melee. Cone 2. Knockback 4. 3d6 Kinetic. Attacks with this weapon are
+always considered to be melee attacks. On critical hit, the target must make an
+agility save or be knocked prone.
 
 ## Grendel
 Size 3
