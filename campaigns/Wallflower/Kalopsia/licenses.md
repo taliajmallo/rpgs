@@ -10,14 +10,12 @@ Protocol. Gain 2 heat, and as a free action boost in a straight line towards an
 enemy.
 ## LL2
 ### Affliction Nexus
-Auxiliary Nexus. Threat 3, Accurate, 0 Kinetic. +1 damage for each of the
-following on the target: impaired, exposed, shredded, slowed, immobilized, and
-jammed.
+Auxiliary Nexus. Threat 3, Accurate, 0 Kinetic. +1 damage for each condition on
+the target.
 ### Entropic Endurance
 4 System points. The maximum damage you can take from an attack is equal to the
-greater of your maximum HP and current overshield, minus the number of the
-following conditions and status effects currently afflicting you: impaired,
-exposed, shredded, slowed, immobilized, and jammed.
+greater of your maximum HP and current overshield, minus the number of
+conditions currently affecting you.
 ## LL3
 ### Doom Upon The World
 2 System Points. Limited 1. As a full action, once per scene, cause all enemies
@@ -28,9 +26,7 @@ fail both, they are also exposed until the end of their next turn.
 ### Hope in Absolution
 3 System Points. Gain the following reaction:
 Reaction. Trigger: An enemy adjacent to you is destroyed. Effect: Gain 3
-overshield for each of the following conditions or status effects on them when
-they were destroyed: impaired, exposed, shredded, slowed, immobilized, and
-jammed.
+overshield for each condition on them when they were destroyed.
 
 ## Pandora
 Size 1/2
@@ -43,21 +39,19 @@ System Points 8
 ### Mounts:
 Flex, Flex
 ### Frame Trait: Hazard Mitigation Routines
-The following conditions and status effects are considered hazards: impaired,
-exposed, shredded, slowed, immobilized, and jammed.
-Your armor is equal to the number of hazards currently affecting you.
+Your armor is equal to the number of conditions currently affecting you.
 ### Frame Trait: Pithos Nexus
-When you gain a hazard or move while affected by a hazard, each enemy adjacent
-to you to must make an Engineering save. If they fail their save, you may apply
-one of the hazards currently affecting you to them, lasting until the end of
-their next turn.
+When you gain a condition or move while affected by a condition, each enemy
+adjacent to you to must make an Engineering save. If they fail their save, you
+may apply one of the conditions currently affecting you to them, lasting until
+the end of their next turn.
 ### Frame Trait: Open The Jar
-Whenever you deal damage to an adjacent enemy that has a hazard, you may remove
-all hazards from the target and apply them to yourself until the start of your
-next turn.
+Whenever you deal damage to an adjacent enemy that has a condition, you may
+remove all conditions from the target and apply them to yourself until the start
+of your next turn.
 ### Core Active: Hope Remains
-Protocol: You become immune to the negative effects of all hazards until the end
-of the current scene.
+Protocol: You become immune to the negative effects of all conditions until the
+end of the current scene.
 
 
 # Grendel: Kalopsian/Dynamics Defender/Controller
@@ -68,20 +62,20 @@ treat any part of the movement as flight, allowing you to move the target over
 obstacles. They do not take any fall damage from this movement unless their
 ending position is lower than their starting position.
 ### Battlehammer
-Main Melee. Threat 1, Reliable 2, Knockback 1. 2d3 Kinetic.
+Main Melee. Threat 1, Armor-Piercing, Knockback 1. 2d3 Kinetic.
 ## LL2
 ### Rending Mod
 2 System Points. Choose one melee weapon. The weapon gains the following
 property:
 On a critical hit, the target is shredded until the end of their next turn.
+### Light Maul
+Heavy Melee. Threat 1. Knockback 3. 2d6 Kinetic. On critical hit, the target
+must make a hull save or be knocked prone.
+## LL3
 ### Kinetic Redistributor
 2 System Points. If you cause a character to move as the result of knockback
 with any action, they must make a hull save or be slowed until the end of their
 next turn.
-## LL3
-### Light Maul
-Heavy Melee. Threat 1. Knockback 3. 2d6 Kinetic. On critical hit, the target
-must make a hull save or be knocked prone.
 ### Heavy Maul
 Superheavy Melee. Cone 2. Knockback 4. 3d6 Kinetic. Attacks with this weapon are
 always considered to be melee attacks. On critical hit, the target must make an
@@ -98,16 +92,14 @@ System Points 6
 ### Mounts:
 Main, Main, Heavy
 ### Frame Trait: Hazard Exploitation Routines
-The following conditions and status effects are considered hazards: impaired,
-exposed, shredded, slowed, immobilized, and jammed.
-You have resistance to damage from characters that have at least one hazard.
+You have resistance to damage from characters that have at least one condition.
 ### Frame Trait: Sideswipe
 Knockback you apply with a melee attack may be in any direction, not just
 directly away from you.
 ### Frame Trait: Dire Impact
-Whenever you inflict knockback, you may remove all hazards from the target to
-increase the knockback by the number of hazards removed, and deal 2 Kinetic
-damage per hazard removed.
+Whenever you inflict knockback, you may remove all conditions from the target to
+increase the knockback by the number of conditions removed, and deal 2 Kinetic
+damage per condition removed.
 ### Core Active: Thundering Roar
 For the rest of the scene, gain the following protocol:
 Protocol. All enemies within burst 1 must make a systems save or become impaired
@@ -170,7 +162,7 @@ within sensors to make a hull save or take the same amount of burn.
 ### Mechanical Omens
 2 System points. Gain the following options for Invade:
 - Invade. The target's next attack gains Accurate. Once the target makes that attack, they are impaired until the end of their next turn.
-- Invade. Until the end of the target's next turn, they cannot benefit from cover. At the end of the target's next turn, they become invisible until the end of their following turn.
+- Invade. Until the end of the target's next turn, they gain lock on. When they are no longer locked on, they become invisible until the end of their next turn.
 ### Foresight Contingencies
 1 System point. Gain the following protocol:
 Protocol. Gain 1 heat. The first time you succeed on a tech attack this turn,
@@ -207,12 +199,10 @@ Heat 6 / Sensors 15 / Tech Attack 1
 Repair 3 / Save 11 / Speed 5
 System Points 8
 ### Frame Trait: Hazard Compounding Routines
-The following conditions and status effects are considered hazards: impaired,
-exposed, shredded, slowed, immobilized, and jammed.
-Gain +1 Accuracy on tech attacks if the target has at least one hazard.
+Gain +1 Accuracy on tech attacks if the target has at least one condition.
 ### Core Passive: Precognition Engine
-Whenever you invade a target that has a hazard, you may remove one hazard from
-the target and mark them until the end of the scene. Gain the following two
+Whenever you invade a target that has a condition, you may remove one condition
+from the target and mark them until the end of the scene. Gain the following two
 protocols:
 Protocol. A single marked enemy immediately takes Burn equal to the number of
 marks within Sensors, up to a maximum of 8 Burn. Remove all marks within Sensors.
@@ -244,10 +234,8 @@ range.
 ### Mounts
 ???
 ### Frame Trait: Hazard Seeking Routines
-The following conditions and status effects are considered hazards: impaired,
-exposed, shredded, slowed, immobilized, and jammed.
-Whenever you attack a target with at least one hazard, your attack gains the
-Smart tag against that target (but not other targets lacking hazards, if the
+Whenever you attack a target with at least one condition, your attack gains the
+Smart tag against that target (but not other targets lacking conditions, if the
 attack affects multiple targets).
 ### Frame Trait: IFF Protocol
 Whenever you make an attack that has the Smart tag, you may choose to miss your
@@ -256,9 +244,9 @@ you may choose to automatically miss all targets for which the attack lacks the
 Smart tag.
 ### Frame Trait: ???
 When you make an attack that deals damage to at least one target that has at
-least one hazard, choose a single hazard from a single target hit. All other
-targets hit must make an Agility save or gain that hazard until the end of their
-next turn.
+least one condition, choose a single condition from a single target hit. All
+other targets hit must make an Agility save or gain that condition until the end
+of their next turn.
 ### Core Active: ???
 ???
 
