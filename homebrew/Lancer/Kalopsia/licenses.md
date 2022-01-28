@@ -250,4 +250,29 @@ of their next turn.
 ### Core Active: ???
 ???
 
-
+# ??? (Sunzi Alt-Frame): HA Controller/Defender
+Size 1
+## Attributes
+Structure 4 / Stress 4 / Armor 2
+HP 8 / Evasion 6 / E-Defense 8
+Heat 6 / Sensors 15 / Tech 0
+Repair 4 / Save 11 / Speed 4
+System Points 6
+### Mounts
+Flex, Flex
+### Frame Trait: Warp Scramblers
+After you teleport, you may teleport any characters within Burst 1 to any other
+location within Burst 1. Unwilling targets may make an engineering save to
+resist this effect.
+### Frame Trait: Blink-Vigilant
+Gain the following reaction.
+Reaction. Trigger: You are damaged by a character within Sensors. Effect:
+Teleport to an unoccupied location adjacent to the attacker.
+### Core Passive: Rapid Insertion Protocol
+You do not start scenes deployed to the map. Gain the following protocol:
+Protocol. If you are not on the map and have at least one Structure, teleport
+yourself to an unoccupied space on the map.
+### Core Active: Orbital Blink Anchor
+For the rest of the scene, gain the following full tech action.
+Full tech. Remove yourself from the map, allowing you to use Rapid Insertion
+Protocol again.
