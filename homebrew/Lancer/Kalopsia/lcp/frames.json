@@ -32,25 +32,24 @@
    },
    "traits": [
      {
-       "name": "Hazard Mitigation Routines",
-       "description": "The Pandora's armor is equal to the number of conditions currently affecting it.",
+       "name": "HAZARD MITIGATION ROUTINES",
+       "description": "The Pandora reduces all incoming damage by the number of conditions currently affecting it, to a minimum of 1.",
        "synergies": [{
-          "locations": ["armor"],
-          "detail": "The Pandora's armor is equal to the number of conditions currently affecting it."
+          "locations": ["hp"],
+          "detail": "The Pandora reduces all incoming damage by the number of conditions currently affecting it, to a minimum of 1."
        }]
      },
      {
-       "name": "Maledictive Mercy",
+       "name": "MALEDICTIVE MERCY",
        "description": "Whenever the Pandora hits an adjacent target with a weapon attack, it may remove all conditions from the target and apply them to itself until the start of its next turn."
      }
    ],
    "core_system": {
-     "name": "Pithos Mimicry Virus",
+     "name": "PITHOS MIMICRY VIRUS",
      "description": "TODO Fluff",
-     "passive_name": "Open The Jar",
-     "passive_effect": "When the Pandora gains a condition, or moves while affected by a condition, each enemy adjacent to the Pandora must make a Systems save. If they fail their save, the Pandora may apply one of the conditions currently affecting it to them, lasting until the end of their next turn.",
+     "integrated": ["kd_pandora_integrated"],
      "active_name": "Hope Remains",
-     "active_effect": "The Pandora becomes immune to the negative effects of all conditions until the end of the current scene.",
+     "active_effect": "Until the end of the current scene, the Pandora becomes immune to the negative effects of all conditions applied to it.",
      "activation": "Protocol",
      "tags": [
      ]

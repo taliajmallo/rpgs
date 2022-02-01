@@ -19,7 +19,7 @@
         {
            "activation": "Reaction",
            "frequency": "1/round",
-           "trigger": "You move adjacent to a character while boosting.",
+           "trigger": "You move adjacent to a character while Boosting.",
            "detail": "That target must make an ENGINEERING save or become Impaired until the end of their next turn."
         }
      ]
@@ -66,7 +66,7 @@
      "source": "KD",
      "license": "PANDORA",
      "license_level": 2,
-     "effect": "The maximum damage you can take from any attack is equal to the greater of your maximum HP and current overshield, minus the number of conditions currently affecting you. Any damage over this amount is reduced to this amount.",
+     "effect": "The maximum damage you can be forced to take, after applying Armor but before applying Resistance or any other reductions, is equal to the greater of your maximum HP and current Overshield.",
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {}

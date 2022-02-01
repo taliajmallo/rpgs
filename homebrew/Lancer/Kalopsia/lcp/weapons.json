@@ -29,5 +29,45 @@
      "description": "TODO Fluff",
      "data_type": "weapon",
      "aptitude": {}
-   }
+   },
+   {
+      "id": "kd_pandora_integrated",
+      "name": "PITHOS NEXUS",
+      "mount": "Main",
+      "type": "Nexus",
+      "damage": [
+        {
+          "type": "Kinetic",
+          "val": "1d3"
+        }
+      ],
+      "range": [
+        {
+          "type": "Burst",
+          "val": 2
+        }
+      ],
+      "tags": [
+        {
+          "id": "tg_smart"
+        },
+        {
+          "id": "tg_seeking"
+        }
+      ],
+      "sp": 0,
+      "source": "",
+      "license": "",
+      "effect": "When making an attack with this weapon, choose one condition affecting you. On a hit, targets must make a SYSTEMS save or gain that condition until the end of their next turn.",
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {},
+      "actions": [{
+         "name": "Open the Jar",
+         "activation": "Reaction",
+         "frequency": "1/round",
+         "trigger": "You gain a condition.",
+         "detail": "You may make an attack with the Pithos Nexus."
+      }]
+    }
  ]
