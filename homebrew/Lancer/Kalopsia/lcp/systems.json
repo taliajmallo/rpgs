@@ -1,7 +1,7 @@
 [
    {
      "id": "kd_pestilence_drive",
-     "name": "Pestilence Drive",
+     "name": "PESTILENCE DRIVE",
      "type": "System",
      "sp": 2,
      "tags": [
@@ -12,23 +12,27 @@
      "source": "KD",
      "license": "PANDORA",
      "license_level": 1,
-     "effect": "After boosting, choose one enemy you were adjacent to at any point during your boost. That target must make an Engineering save or become impaired until the end of their next turn.",
      "description": "TODO Fluff",
      "data_type": "system",
-     "aptitude": {}
+     "aptitude": {},
+     "actions": [
+        {
+           "activation": "Reaction",
+           "frequency": "1/round",
+           "trigger": "You move adjacent to a character while boosting.",
+           "detail": "That target must make an ENGINEERING save or become Impaired until the end of their next turn."
+        }
+     ]
    },
    {
      "id": "kd_threat_interdiction_engine",
-     "name": "Threat Interdiction Engine",
+     "name": "THREAT INTERDICTION ENGINE",
      "type": "System",
      "sp": 2,
      "tags": [
       {
         "id": "tg_unique"
       },
-       {
-         "id": "tg_protocol"
-       },
        {
          "id": "tg_heat_self",
          "val": 2
@@ -37,7 +41,6 @@
      "source": "KD",
      "license": "PANDORA",
      "license_level": 1,
-     "effect": "As a protocol, you may take 2 Heat to boost in a straight line towards an enemy.",
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {},
@@ -49,7 +52,7 @@
    },
    {
      "id": "kd_entropic_endurance",
-     "name": "Entropic Endurance",
+     "name": "ENTROPIC ENDURANCE",
      "type": "Shield",
      "sp": 4,
      "tags": [
@@ -63,14 +66,14 @@
      "source": "KD",
      "license": "PANDORA",
      "license_level": 2,
-     "effect": "The maximum damage you can take from any attack is equal to the greater of your maximum HP and current overshield, minus the number of conditions currently affecting you.",
+     "effect": "The maximum damage you can take from any attack is equal to the greater of your maximum HP and current overshield, minus the number of conditions currently affecting you. Any damage over this amount is reduced to this amount.",
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {}
    },
    {
      "id": "kd_doom_upon_the_world",
-     "name": "Doom Upon the World",
+     "name": "DOOM UPON THE WORLD",
      "type": "System",
      "sp": 2,
      "tags": [
@@ -85,18 +88,18 @@
      "source": "KD",
      "license": "PANDORA",
      "license_level": 3,
-     "effect": "Once per scene, as a full action cause all enemies to make both a Hull save and an Engineering save. If they fail the Hull save, they are immobilized until the end of their next turn. If they fail the Engineering save, they are shredded until the end of their next turn. If they fail both, they also become exposed.",
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {},
      "actions": [{
       "activation": "Full Tech",
-      "detail": "Once per scene, cause all enemies to make both a Hull save and an Engineering save. If they fail the Hull save, they are immobilized until the end of their next turn. If they fail the Engineering save, they are shredded until the end of their next turn. If they fail both, they also become exposed."
+      "frequency": "1/scene",
+      "detail": "Once per scene, cause all enemies to make both a HULL save and an ENGINEERING save. If they fail the HULL save, they become Immobilized until the end of their next turn. If they fail the ENGINEERING save, they become Shredded until the end of their next turn. If they fail both, they also become Exposed."
      }]
    },
    {
      "id": "kd_hope_in_absolution",
-     "name": "Hope in Absolution",
+     "name": "HOPE IN ABSOLUTION",
      "type": "Shield",
      "sp": 3,
      "tags": [
@@ -117,7 +120,6 @@
      "source": "KD",
      "license": "PANDORA",
      "license_level": 3,
-     "effect": "Once per round, when an enemy adjacent to you is destroyed, you may gain 3 Overshield for each condition on them when they were destroyed.",
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {},
@@ -125,8 +127,8 @@
         {
            "activation": "Reaction",
            "frequency": "1/round",
-           "trigger": "An adjacent enemy is destroyed.",
-           "detail": "Gain 3 Overshield for each condition on the enemy when they were destroyed."
+           "trigger": "An adjacent character is destroyed.",
+           "detail": "Gain 3 Overshield for each condition on the target when they were destroyed."
         }
      ]
    }

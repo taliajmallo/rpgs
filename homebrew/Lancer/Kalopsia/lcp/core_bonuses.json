@@ -1,27 +1,27 @@
 [
    {
        "id": "kd_Tales_of_Dead_Worlds",
-       "name": "Tales of Dead Worlds",
+       "name": "TALES OF DEAD WORLDS",
        "source": "KD",
        "description": "TODO Fluff",
        "effect": "Any Impaired you apply to an enemy incurs 2 Difficulty, rather than 1. Any Shredded you apply to an enemy adds a flat 1 extra damage all instances of damage the target takes."
    },
    {
       "id": "kd_Imposition_of_Authority",
-      "name": "Imposition of Authority",
+      "name": "IMPOSITION OF AUTHORITY",
       "source": "KD",
       "description": "TODO Fluff",
       "effect": "Any Slowed you apply to an enemy also prevents them from taking Full Actions. Any Immobilized you apply to an enemy also prevents them from taking Reactions."
   },
   {
    "id": "kd_Sore_Loser",
-   "name": "Sore Loser",
+   "name": "SORE LOSER",
    "source": "KD",
    "description": "TODO Fluff",
    "effect": "Once per round, when an enemy within Sensors succeeds at a save, you may cause them to take 3 AP energy damage as a reaction.",
    "actions": [
       {
-         "name": "Sore Loser",
+         "name": "SORE LOSER",
          "activation": "Reaction",
          "frequency": "1/round",
          "trigger": "An enemy within Sensors succeeds at a save.",
@@ -31,21 +31,21 @@
 },
 {
    "id": "kd_Phlogiston_Munitions",
-   "name": "Phlogiston Munitions",
+   "name": "PHLOGISTON MUNITIONS",
    "source": "KD",
    "description": "For when you need to cook them from the inside out.",
    "effect": "When you apply Burn, you may also apply an equal amount of Heat."
 },
 {
    "id": "kd_Thermokinetic_Converters",
-   "name": "Thermokinetic Converters",
+   "name": "THERMOKINETIC CONVERTERS",
    "source": "KD",
    "description": "TODO Fluff",
    "effect": "When you brace, you make take the final resulting damage as Heat instead of damage."
 },
 {
    "id": "kd_Specific-Application_Weapon_Development",
-   "name": "Specific-Application Weapon Development",
+   "name": "SPECIFIC-APPLICATION WEAPON DEVELOPMENT",
    "source": "KD",
    "description": "TODO Fluff",
    "effect": "Gain a pool of 2 SP that may only be used for weapon mods. Weapons with an attached mod deal bonus damage equal to the SP cost of the mod."
