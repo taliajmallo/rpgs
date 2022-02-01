@@ -46,9 +46,9 @@ adjacent to you to must make an Engineering save. If they fail their save, you
 may apply one of the conditions currently affecting you to them, lasting until
 the end of their next turn.
 ### Frame Trait: Open The Jar
-Whenever you deal damage to an adjacent enemy that has a condition, you may
-remove all conditions from the target and apply them to yourself until the start
-of your next turn.
+Whenever you hit to an adjacent target with a weapon attack, you may remove all
+conditions from the target and apply them to yourself until the start of your
+next turn.
 ### Core Active: Hope Remains
 Protocol: You become immune to the negative effects of all conditions until the
 end of the current scene.
