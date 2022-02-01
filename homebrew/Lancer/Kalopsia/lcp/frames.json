@@ -1,0 +1,62 @@
+[
+   {
+   "id": "kd_pandora",
+   "source": "KD",
+   "name": "PANDORA",
+   "mechtype": [
+     "Controller", "Defender"
+   ],
+   "image_url": "https://example.com/image.png",
+   "y_pos": 0,
+   "license_level": 2,
+   "description": "TODO Fluff",
+   "mounts": [
+     "Flex",
+     "Flex"
+   ],
+   "stats": {
+     "size": 0.5,
+     "armor": 0,
+     "hp": 8,
+     "evasion": 8,
+     "edef": 8,
+     "heatcap": 6,
+     "repcap": 3,
+     "sensor_range": 3,
+     "tech_attack": 0,
+     "save": 12,
+     "speed": 5,
+     "sp": 8,
+     "stress": 4,
+     "structure": 4
+   },
+   "traits": [
+     {
+       "name": "Hazard Mitigation Routines",
+       "description": "The Pandora's armor is equal to the number of conditions currently affecting it.",
+       "synergies": [{
+          "locations": ["armor"],
+          "detail": "The Pandora's armor is equal to the number of conditions currently affecting it."
+       }]
+     },
+     {
+       "name": "Maledictive Mercy",
+       "description": "Whenever the Pandora hits an adjacent target with a weapon attack, it may remove all conditions from the target and apply them to itself until the start of its next turn."
+     }
+   ],
+   "core_system": {
+     "name": "Pithos Mimicry Virus",
+     "description": "TODO Fluff",
+     "passive_name": "Open The Jar",
+     "passive_effect": "When the Pandora gains a condition, or moves while affected by a condition, each enemy adjacent to the Pandora must make a Systems save. If they fail their save, the Pandora may apply one of the conditions currently affecting it to them, lasting until the end of their next turn.",
+     "active_name": "Hope Remains",
+     "active_effect": "The Pandora becomes immune to the negative effects of all conditions until the end of the current scene.",
+     "activation": "Protocol",
+     "tags": [
+     ]
+   },
+   "data_type": "frame",
+   "aptitude": {},
+   "counters": [ ]
+   }
+ ]

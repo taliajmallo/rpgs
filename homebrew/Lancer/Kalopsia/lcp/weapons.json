@@ -1,0 +1,33 @@
+[
+   {
+     "id": "kd_affliction_nexus",
+     "name": "AFFLICTION NEXUS",
+     "mount": "Auxiliary",
+     "type": "Nexus",
+     "damage": [
+       {
+         "type": "Kinetic",
+         "val": "0"
+       }
+     ],
+     "range": [
+       {
+         "type": "Threat",
+         "val": 3
+       }
+     ],
+     "tags": [
+       {
+         "id": "tg_accurate"
+       }
+     ],
+     "sp": 0,
+     "source": "KD",
+     "license": "PANDORA",
+     "license_level": 2,
+     "effect": "+1 Damage for each condition afflicting the target.",
+     "description": "TODO Fluff",
+     "data_type": "weapon",
+     "aptitude": {}
+   }
+ ]

@@ -1,0 +1,133 @@
+[
+   {
+     "id": "kd_pestilence_drive",
+     "name": "Pestilence Drive",
+     "type": "System",
+     "sp": 2,
+     "tags": [
+      {
+        "id": "tg_unique"
+      }
+     ],
+     "source": "KD",
+     "license": "PANDORA",
+     "license_level": 1,
+     "effect": "After boosting, choose one enemy you were adjacent to at any point during your boost. That target must make an Engineering save or become impaired until the end of their next turn.",
+     "description": "TODO Fluff",
+     "data_type": "system",
+     "aptitude": {}
+   },
+   {
+     "id": "kd_threat_interdiction_engine",
+     "name": "Threat Interdiction Engine",
+     "type": "System",
+     "sp": 2,
+     "tags": [
+      {
+        "id": "tg_unique"
+      },
+       {
+         "id": "tg_protocol"
+       },
+       {
+         "id": "tg_heat_self",
+         "val": 2
+       }
+     ],
+     "source": "KD",
+     "license": "PANDORA",
+     "license_level": 1,
+     "effect": "As a protocol, you may take 2 Heat to boost in a straight line towards an enemy.",
+     "description": "TODO Fluff",
+     "data_type": "system",
+     "aptitude": {},
+     "actions": [{
+      "activation": "Protocol",
+      "detail": "Boost in a straight line towards an enemy.",
+      "heat_cost": 2
+     }]
+   },
+   {
+     "id": "kd_entropic_endurance",
+     "name": "Entropic Endurance",
+     "type": "Shield",
+     "sp": 4,
+     "tags": [
+      {
+        "id": "tg_unique"
+      },
+      {
+        "id": "tg_shield"
+      }
+     ],
+     "source": "KD",
+     "license": "PANDORA",
+     "license_level": 2,
+     "effect": "The maximum damage you can take from any attack is equal to the greater of your maximum HP and current overshield, minus the number of conditions currently affecting you.",
+     "description": "TODO Fluff",
+     "data_type": "system",
+     "aptitude": {}
+   },
+   {
+     "id": "kd_doom_upon_the_world",
+     "name": "Doom Upon the World",
+     "type": "System",
+     "sp": 2,
+     "tags": [
+      {
+        "id": "tg_unique"
+      },
+       {
+         "id": "tg_limited",
+         "val": 1
+       }
+     ],
+     "source": "KD",
+     "license": "PANDORA",
+     "license_level": 3,
+     "effect": "Once per scene, as a full action cause all enemies to make both a Hull save and an Engineering save. If they fail the Hull save, they are immobilized until the end of their next turn. If they fail the Engineering save, they are shredded until the end of their next turn. If they fail both, they also become exposed.",
+     "description": "TODO Fluff",
+     "data_type": "system",
+     "aptitude": {},
+     "actions": [{
+      "activation": "Full Tech",
+      "detail": "Once per scene, cause all enemies to make both a Hull save and an Engineering save. If they fail the Hull save, they are immobilized until the end of their next turn. If they fail the Engineering save, they are shredded until the end of their next turn. If they fail both, they also become exposed."
+     }]
+   },
+   {
+     "id": "kd_hope_in_absolution",
+     "name": "Hope in Absolution",
+     "type": "Shield",
+     "sp": 3,
+     "tags": [
+      {
+        "id": "tg_unique"
+      },
+      {
+        "id": "tg_shield"
+      },
+      {
+        "id": "tg_overshield"
+      },
+      {
+        "id": "tg_round",
+        "val": 1
+      }
+     ],
+     "source": "KD",
+     "license": "PANDORA",
+     "license_level": 3,
+     "effect": "Once per round, when an enemy adjacent to you is destroyed, you may gain 3 Overshield for each condition on them when they were destroyed.",
+     "description": "TODO Fluff",
+     "data_type": "system",
+     "aptitude": {},
+     "actions": [
+        {
+           "activation": "Reaction",
+           "frequency": "1/round",
+           "trigger": "An adjacent enemy is destroyed.",
+           "detail": "Gain 3 Overshield for each condition on the enemy when they were destroyed."
+        }
+     ]
+   }
+ ]
