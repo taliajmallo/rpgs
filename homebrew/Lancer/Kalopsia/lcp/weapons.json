@@ -7,7 +7,7 @@
      "damage": [
        {
          "type": "Kinetic",
-         "val": "0"
+         "val": "1"
        }
      ],
      "range": [
@@ -24,7 +24,7 @@
      "sp": 0,
      "source": "KD",
      "license": "PANDORA",
-     "license_level": 2,
+     "license_level": 1,
      "effect": "+1 Damage for each condition afflicting the target.",
      "description": "TODO Fluff",
      "data_type": "weapon",

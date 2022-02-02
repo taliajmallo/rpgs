@@ -19,13 +19,13 @@
      "armor": 0,
      "hp": 8,
      "evasion": 8,
-     "edef": 8,
+     "edef": 10,
      "heatcap": 6,
      "repcap": 3,
      "sensor_range": 3,
      "tech_attack": 0,
      "save": 12,
-     "speed": 5,
+     "speed": 4,
      "sp": 8,
      "stress": 4,
      "structure": 4
@@ -41,7 +41,7 @@
      },
      {
        "name": "MALEDICTIVE MERCY",
-       "description": "Whenever the Pandora hits an adjacent target with a weapon attack, it may remove all conditions from the target and apply them to itself until the start of its next turn."
+       "description": "Whenever the Pandora hits an adjacent target with a weapon attack, it may remove all conditions from the target and apply them to itself until the end of its next turn."
      }
    ],
    "core_system": {

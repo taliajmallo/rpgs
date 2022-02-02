@@ -14,15 +14,8 @@
      "license_level": 1,
      "description": "TODO Fluff",
      "data_type": "system",
-     "aptitude": {},
-     "actions": [
-        {
-           "activation": "Reaction",
-           "frequency": "1/round",
-           "trigger": "You move adjacent to a character while Boosting.",
-           "detail": "That target must make an Engineering save or become Impaired until the end of their next turn."
-        }
-     ]
+     "effect": "When you become adjacent to a character as the result of voluntary movement, they must make an Engineering save or become Impaired until the end of their next turn.",
+     "aptitude": {}
    },
    {
      "id": "kd_threat_interdiction_engine",
@@ -40,33 +33,31 @@
      ],
      "source": "KD",
      "license": "PANDORA",
-     "license_level": 1,
+     "license_level": 2,
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {},
      "actions": [{
       "activation": "Protocol",
-      "detail": "Boost in a straight line towards an enemy.",
+      "name": "Eurus Protocol",
+      "detail": "Boost in a straight line towards the nearest enemy.",
       "heat_cost": 2
      }]
    },
    {
      "id": "kd_entropic_endurance",
      "name": "ENTROPIC ENDURANCE",
-     "type": "Shield",
-     "sp": 4,
+     "type": "System",
+     "sp": 3,
      "tags": [
       {
         "id": "tg_unique"
-      },
-      {
-        "id": "tg_shield"
       }
      ],
      "source": "KD",
      "license": "PANDORA",
      "license_level": 2,
-     "effect": "The maximum damage you can be forced to take, after applying Armor but before applying Resistance or any other reductions, is equal to the greater of your maximum HP and your current Overshield.",
+     "effect": "When you Brace, all enemies within Burst 2 must make an Agility save or take damage equal to the damage you take.",
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {}
@@ -128,7 +119,7 @@
            "activation": "Reaction",
            "frequency": "1/round",
            "trigger": "An adjacent character is destroyed.",
-           "detail": "Gain 3 Overshield for each condition on the target when they were destroyed."
+           "detail": "Gain 4 Overshield for each condition on the target when they were destroyed."
         }
      ]
    },
