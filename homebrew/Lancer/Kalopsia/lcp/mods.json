@@ -1,0 +1,16 @@
+[
+   {
+      "id": "kd_aftershock_mod",
+      "name": "AFTERSHOCK MOD",
+      "source": "KD",
+      "license": "GRENDEL",
+      "license_level": 2,
+      "sp": 2,
+      "description": "Fluff TODO",
+      "effect": "After applying knockback with this weapon, all enemies within Burst 1 of the target must make a Hull save or take 3 AP Kinetic Damage.",
+      "tags": [],
+      "allowed_types": ["Melee"]
+  }
+
+
+]

@@ -48,6 +48,10 @@
    "name": "SPECIFIC-APPLICATION WEAPON DEVELOPMENT",
    "source": "KD",
    "description": "TODO Fluff",
-   "effect": "Gain a pool of 2 SP that may only be used for weapon mods. Weapons with an attached mod deal bonus damage equal to the SP cost of the mod."
+   "effect": "Gain a pool of 2 SP that may only be used for weapon mods. Weapons with an attached mod deal bonus damage equal to the SP cost of the mod.",
+   "bonuses": [{
+      "id": "sp",
+      "val": 2
+   }]
 }
 ]

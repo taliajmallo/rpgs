@@ -38,7 +38,7 @@
       "damage": [
         {
           "type": "Kinetic",
-          "val": "1d3"
+          "val": "1"
         }
       ],
       "range": [
@@ -58,7 +58,7 @@
       "sp": 0,
       "source": "",
       "license": "",
-      "effect": "When making an attack with this weapon, choose one condition affecting you. On a hit, targets must make a SYSTEMS save or gain that condition until the end of their next turn.",
+      "effect": "When making an attack with this weapon, choose one condition affecting you. On a hit, targets must make a Systems save or gain that condition until the end of their next turn.",
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {},
@@ -69,5 +69,228 @@
          "trigger": "You gain a condition.",
          "detail": "You may make an attack with the Pithos Nexus."
       }]
+    },
+    {
+      "id": "kd_battlehammer",
+      "name": "BATTLEHAMMER",
+      "mount": "Main",
+      "type": "Melee",
+      "damage": [
+        {
+          "type": "Kinetic",
+          "val": "2d3"
+        }
+      ],
+      "range": [
+        {
+          "type": "Threat",
+          "val": 1
+        }
+      ],
+      "tags": [
+        {
+          "id": "tg_ap"
+        },
+        {
+          "id": "tg_knockback",
+          "val": 1
+        }
+      ],
+      "sp": 0,
+      "source": "KD",
+      "license": "GRENDEL",
+      "license_level": 1,
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {}
+    },
+    {
+      "id": "kd_legslam",
+      "name": "HYDRAULIC LEG SLAM",
+      "mount": "Heavy",
+      "type": "Melee",
+      "damage": [
+        {
+          "type": "Kinetic",
+          "val": "1d6"
+        }
+      ],
+      "range": [
+        {
+          "type": "Burst",
+          "val": 1
+        }
+      ],
+      "tags": [
+        {
+          "id": "tg_knockback",
+          "val": 2
+        }
+      ],
+      "sp": 0,
+      "source": "KD",
+      "license": "GRENDEL",
+      "license_level": 2,
+      "description": "TODO Fluff",
+      "effect": "Attacks with this weapon are always considered to be melee attacks. On a critical hit, the target must make a Hull save or be knocked prone.",
+      "data_type": "weapon",
+      "aptitude": {}
+    },
+    {
+      "id": "kd_heavymaul",
+      "name": "HEAVY MAUL",
+      "mount": "Superheavy",
+      "type": "Melee",
+      "damage": [
+        {
+          "type": "Kinetic",
+          "val": "3d6"
+        }
+      ],
+      "range": [
+        {
+          "type": "Cone",
+          "val": 2
+        }
+      ],
+      "tags": [
+        {
+          "id": "tg_knockback",
+          "val": 4
+        }
+      ],
+      "sp": 0,
+      "source": "KD",
+      "license": "GRENDEL",
+      "license_level": 3,
+      "description": "TODO Fluff",
+      "effect": "Attacks with this weapon are always considered to be melee attacks. On a critical hit, the target must make an Agility save or be knocked prone.",
+      "data_type": "weapon",
+      "aptitude": {}
+    },
+    {
+      "id": "kd_brimstone_launcher",
+      "name": "BRIMSTONE-CLASS SMOKE GRENADE",
+      "mount": "Auxiliary",
+      "type": "Launcher",
+      "damage": [
+        {
+          "type": "Explosive",
+          "val": "1"
+        },
+        {
+          "type": "Heat",
+          "val": "1"
+        }
+      ],
+      "range": [
+        {
+          "type": "Range",
+          "val": 8
+        },
+        {
+          "type": "Blast",
+          "val": 1
+        }
+      ],
+      "tags": [
+         {
+           "id": "tg_heat_self",
+           "val": 1
+         },
+        {
+          "id": "tg_arcing"
+        }
+      ],
+      "sp": 0,
+      "source": "KD",
+      "license": "FAUST",
+      "license_level": 1,
+      "effect": "On a hit, targets must make a Hull save or become Impaired until the end of their next turn.",
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {}
+    },
+    {
+      "id": "kd_incendiary_launcher",
+      "name": "INCENDIARY ROCKET",
+      "mount": "Main",
+      "type": "Launcher",
+      "damage": [
+        {
+          "type": "Explosive",
+          "val": "1d3"
+        },
+        {
+          "type": "Burn",
+          "val": "2"
+        }
+      ],
+      "range": [
+        {
+          "type": "Range",
+          "val": 10
+        },
+        {
+          "type": "Blast",
+          "val": 1
+        }
+      ],
+      "tags": [
+         {
+           "id": "tg_heat_self",
+           "val": 2
+         }
+      ],
+      "sp": 0,
+      "source": "KD",
+      "license": "FAUST",
+      "license_level": 2,
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {}
+    },
+    {
+      "id": "kd_hellfire_launcher",
+      "name": "HELLFIRE CLUSTER MISSILES",
+      "mount": "Heavy",
+      "type": "Launcher",
+      "damage": [
+        {
+          "type": "Explosive",
+          "val": "1"
+        },
+        {
+          "type": "Heat",
+          "val": "2"
+        },
+        {
+          "type": "Burn",
+          "val": "3"
+        }
+      ],
+      "range": [
+        {
+          "type": "Range",
+          "val": 15
+        },
+        {
+          "type": "Blast",
+          "val": 2
+        }
+      ],
+      "tags": [
+         {
+           "id": "tg_heat_self",
+           "val": 3
+         }
+      ],
+      "sp": 0,
+      "source": "KD",
+      "license": "FAUST",
+      "license_level": 3,
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {}
     }
  ]
