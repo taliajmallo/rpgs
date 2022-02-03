@@ -166,15 +166,19 @@
            },
            {
              "name": "BORROWED POWER",
-             "description": "Once per turn, when the Faust takes heat, it may choose a character within Sensors to make a Hull save or take the same amount of heat.",
+             "description": "Once per round, when the Faust takes heat, it may choose a character within Sensors to make a Hull save or take the same amount of heat.",
              "actions": [
                 {
                    "name": "BORROWED POWER",
                    "activation": "Reaction",
-                   "frequency": "1/turn",
+                   "frequency": "1/round",
                    "trigger": "The Faust takes Heat.",
                    "detail": "A character within Sensors must make a Hull save or take an equal amount of Heat."
                 }]
+           },
+           {
+             "name": "DRAGGED TO HELL",
+             "description": "When the Faust suffers reactor meltdown, it does not deal any Explosive Damage. Instead, characters within Burst 2 must make an Agility save or take 6d6 Burn. On a success, they take half damage."
            }
          ],
          "core_system": {
@@ -188,7 +192,7 @@
            "active_actions": [{
               "name": "Fell Pact",
               "activation": "Reaction",
-              "frequency": "1/turn",
+              "frequency": "1/round",
               "trigger": "The Faust takes Burn.",
               "detail": "A character within Sensors must make a Hull save or take an equal amount of Burn."
            }]
