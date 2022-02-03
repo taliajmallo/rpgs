@@ -102,11 +102,11 @@
         },
         {
           "name": "SIDESWIPES",
-          "description": "Knockback you apply with a melee attack may be in any direction, not just directly away from you."
+          "description": "Knockback you apply with a melee attack may be in any non-vertical direction, not just directly away from you."
         },
         {
           "name": "DIRE IMPACT",
-          "description": "When you inflict Knockback, you may remove all conditions from the target to increase the Knockback by the number of conditions removed and deal 2 Kinetic Damage per condition removed."
+          "description": "When you inflict Knockback, you may remove all conditions from the target to increase the Knockback by the number of conditions removed."
         }
       ],
       "core_system": {

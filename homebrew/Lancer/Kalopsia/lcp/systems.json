@@ -130,7 +130,7 @@
      "id": "kd_punting_actuators",
      "name": "PUNTING ACTUATORS",
      "type": "System",
-     "sp": 1,
+     "sp": 3,
      "tags": [
       {
         "id": "tg_unique"
@@ -138,8 +138,8 @@
      ],
      "source": "KD",
      "license": "GRENDEL",
-     "license_level": 1,
-     "effect": "When you inflict knockback as the result of any action, you may treat any part of the movement as flight, allowing you to move the target over obstacles. They do not take any fall damage from this movement unless their ending position is lower than their starting position.",
+     "license_level": 3,
+     "effect": "When you inflict Knockback as the result of any action, you may treat any part of the movement as flight, allowing you to move the target over obstacles or even straight up vertically. They begin falling immediately, and take fall damage as normal.",
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {}
@@ -156,7 +156,7 @@
      ],
      "source": "KD",
      "license": "GRENDEL",
-     "license_level": 3,
+     "license_level": 1,
      "effect": "If you cause a character to move as the result of knockback with any action, they must make a Hull save or be Slowed until the end of their next turn.",
      "description": "TODO Fluff",
      "data_type": "system",
@@ -415,7 +415,7 @@
       "source": "KD",
       "license": "CASSANDRA",
       "license_level": 3,
-      "effect": "If you use a Full Tech Action to Invade twice, and choose a different target for each invade, as a Free Action you may make a third Tech Attack to Invade a third different target.",
+      "effect": "If you use a Full Tech Action to Invade twice, and choose a different target for each Invade, as a Free Action you may make a third Tech Attack to Invade a third different target.",
       "description": "TODO Fluff",
       "data_type": "system",
       "aptitude": {}
