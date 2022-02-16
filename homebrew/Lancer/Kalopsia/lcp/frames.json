@@ -41,7 +41,7 @@
      },
      {
        "name": "MALEDICTIVE MERCY",
-       "description": "Whenever the Pandora hits an adjacent target with a weapon attack, it may remove all conditions from the target and apply them to itself until the end of its next turn."
+       "description": "Whenever the Pandora hits a target with a weapon attack, it may remove all conditions from the target and apply them to itself until the end of its next turn."
      }
    ],
    "core_system": {

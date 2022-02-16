@@ -41,7 +41,7 @@
    "name": "THERMOKINETIC CONVERTERS",
    "source": "KD",
    "description": "TODO Fluff",
-   "effect": "When you brace, you make take the final resulting damage as Heat instead of damage."
+   "effect": "When you brace, you may take the final resulting damage as Heat instead of damage."
 },
 {
    "id": "kd_Specific-Application_Weapon_Development",

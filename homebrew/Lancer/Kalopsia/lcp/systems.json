@@ -139,7 +139,7 @@
      "source": "KD",
      "license": "GRENDEL",
      "license_level": 3,
-     "effect": "When you inflict Knockback as the result of any action, you may treat any part of the movement as flight, allowing you to move the target over obstacles or even straight up vertically. They begin falling immediately, and take fall damage as normal.",
+     "effect": "When you inflict Knockback as the result of any action, you may treat any part of the movement as flight, allowing you to move the target over obstacles or even straight up vertically. They begin falling at the end of their next turn, instead of the end of the current turn.",
      "description": "TODO Fluff",
      "data_type": "system",
      "aptitude": {}
