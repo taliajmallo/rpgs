@@ -1,12 +1,16 @@
 [
    {
-     "id": "kd_pestilence_drive",
-     "name": "PESTILENCE DRIVE",
+     "id": "kd_pestilence_charges",
+     "name": "PESTILENCE CHARGES",
      "type": "System",
      "sp": 2,
      "tags": [
       {
         "id": "tg_unique"
+      },
+      {
+        "id": "tg_limited",
+        "val": 3
       }
      ],
      "source": "KD",
@@ -14,8 +18,11 @@
      "license_level": 1,
      "description": "TODO Fluff",
      "data_type": "system",
-     "effect": "When you become adjacent to a character as the result of voluntary movement, they must make an Engineering save or become Impaired until the end of their next turn.",
-     "aptitude": {}
+     "aptitude": {},
+     "actions": [{
+      "activation": "Quick Tech",
+      "detail": "Cause all enemies within Burst 2 to make both an Agility save and a Systems save. If they fail the Agility save, they become Impaired until the end of their next turn. If they fail the Systems save, they become Locked On. If they fail both, they also become Jammed until the end of their next turn."
+     }]
    },
    {
      "id": "kd_threat_interdiction_engine",
@@ -28,7 +35,7 @@
       },
        {
          "id": "tg_heat_self",
-         "val": 2
+         "val": 3
        }
      ],
      "source": "KD",
@@ -40,13 +47,13 @@
      "actions": [{
       "activation": "Protocol",
       "name": "Eurus Protocol",
-      "detail": "Boost in a straight line towards the nearest enemy.",
-      "heat_cost": 2
+      "detail": "Boost in a straight line towards an enemy. If you end your Boost adjacent to an enemy, all enemies that you became adjacent to during your Boost must make an Engineering save or become impaired until the end of their next turn.",
+      "heat_cost": 3
      }]
    },
    {
-     "id": "kd_entropic_endurance",
-     "name": "ENTROPIC ENDURANCE",
+     "id": "kd_entropic_dispersion_field",
+     "name": "ENTROPIC DISPERSION FIELD",
      "type": "System",
      "sp": 3,
      "tags": [
