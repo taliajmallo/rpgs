@@ -22,7 +22,7 @@
        }
      ],
      "sp": 0,
-     "source": "KD",
+     "source": "K/D",
      "license": "PANDORA",
      "license_level": 1,
      "effect": "+1 Damage for each condition afflicting the target.",
@@ -58,7 +58,7 @@
       "sp": 0,
       "source": "",
       "license": "",
-      "effect": "When making an attack with this weapon, choose one condition affecting you. On a hit, targets must make a Systems save or gain that condition until the end of their next turn.",
+      "effect": "When making an attack with this weapon, choose one condition affecting you. On a hit, targets gain that condition until the end of their next turn.",
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {},
@@ -97,7 +97,7 @@
         }
       ],
       "sp": 0,
-      "source": "KD",
+      "source": "K/D",
       "license": "GRENDEL",
       "license_level": 1,
       "description": "TODO Fluff",
@@ -128,7 +128,7 @@
         }
       ],
       "sp": 0,
-      "source": "KD",
+      "source": "K/D",
       "license": "GRENDEL",
       "license_level": 2,
       "description": "TODO Fluff",
@@ -160,7 +160,7 @@
         }
       ],
       "sp": 0,
-      "source": "KD",
+      "source": "K/D",
       "license": "GRENDEL",
       "license_level": 3,
       "description": "TODO Fluff",
@@ -203,7 +203,7 @@
         }
       ],
       "sp": 0,
-      "source": "KD",
+      "source": "K/D",
       "license": "FAUST",
       "license_level": 1,
       "effect": "On a hit, targets must make a Hull save or become Impaired until the end of their next turn.",
@@ -243,7 +243,7 @@
          }
       ],
       "sp": 0,
-      "source": "KD",
+      "source": "K/D",
       "license": "FAUST",
       "license_level": 2,
       "description": "TODO Fluff",
@@ -286,7 +286,7 @@
          }
       ],
       "sp": 0,
-      "source": "KD",
+      "source": "K/D",
       "license": "FAUST",
       "license_level": 3,
       "description": "TODO Fluff",

@@ -13,7 +13,7 @@
         "val": 3
       }
      ],
-     "source": "KD",
+     "source": "K/D",
      "license": "PANDORA",
      "license_level": 1,
      "description": "TODO Fluff",
@@ -38,7 +38,7 @@
          "val": 3
        }
      ],
-     "source": "KD",
+     "source": "K/D",
      "license": "PANDORA",
      "license_level": 2,
      "description": "TODO Fluff",
@@ -61,7 +61,7 @@
         "id": "tg_unique"
       }
      ],
-     "source": "KD",
+     "source": "K/D",
      "license": "PANDORA",
      "license_level": 2,
      "effect": "When you Brace, all enemies within Burst 2 must make an Agility save or take damage equal to the damage you take.",
@@ -83,7 +83,7 @@
          "val": 1
        }
      ],
-     "source": "KD",
+     "source": "K/D",
      "license": "PANDORA",
      "license_level": 3,
      "description": "TODO Fluff",
@@ -115,7 +115,7 @@
         "val": 1
       }
      ],
-     "source": "KD",
+     "source": "K/D",
      "license": "PANDORA",
      "license_level": 3,
      "description": "TODO Fluff",
@@ -126,7 +126,7 @@
            "activation": "Reaction",
            "frequency": "1/round",
            "trigger": "An adjacent character is destroyed.",
-           "detail": "Gain 4 Overshield for each condition on the target when they were destroyed."
+           "detail": "Gain 3 Overshield for each condition on the target when they were destroyed."
         }
      ]
    },
@@ -143,7 +143,7 @@
         "id": "tg_unique"
       }
      ],
-     "source": "KD",
+     "source": "K/D",
      "license": "GRENDEL",
      "license_level": 3,
      "effect": "When you inflict Knockback as the result of any action, you may treat any part of the movement as flight, allowing you to move the target over obstacles or even straight up vertically. They begin falling at the end of their next turn, instead of the end of the current turn.",
@@ -161,7 +161,7 @@
         "id": "tg_unique"
       }
      ],
-     "source": "KD",
+     "source": "K/D",
      "license": "GRENDEL",
      "license_level": 1,
      "effect": "If you cause a character to move as the result of knockback with any action, they must make a Hull save or be Slowed until the end of their next turn.",
@@ -186,7 +186,7 @@
          "val": 2
        }
       ],
-      "source": "KD",
+      "source": "K/D",
       "license": "FAUST",
       "license_level": 1,
       "description": "TODO Fluff",
@@ -213,7 +213,7 @@
           "val": 2
         }
        ],
-       "source": "KD",
+       "source": "K/D",
        "license": "FAUST",
        "license_level": 2,
        "description": "TODO Fluff",
@@ -247,7 +247,7 @@
          "val": 1
        }
       ],
-      "source": "KD",
+      "source": "K/D",
       "license": "FAUST",
       "license_level": 3,
       "description": "TODO Fluff",
@@ -272,7 +272,7 @@
          "id": "tg_unique"
        }
       ],
-      "source": "KD",
+      "source": "K/D",
       "license": "CASSANDRA",
       "license_level": 1,
       "description": "TODO Fluff",
@@ -305,7 +305,7 @@
          "id": "tg_unique"
        }
       ],
-      "source": "KD",
+      "source": "K/D",
       "license": "CASSANDRA",
       "license_level": 1,
       "description": "TODO Fluff",
@@ -331,7 +331,7 @@
          "id": "tg_overshield"
        }
       ],
-      "source": "KD",
+      "source": "K/D",
       "license": "CASSANDRA",
       "license_level": 2,
       "description": "TODO Fluff",
@@ -363,7 +363,7 @@
          "id": "tg_overshield"
        }
       ],
-      "source": "KD",
+      "source": "K/D",
       "license": "CASSANDRA",
       "license_level": 2,
       "description": "TODO Fluff",
@@ -387,7 +387,7 @@
          "id": "tg_unique"
        }
       ],
-      "source": "KD",
+      "source": "K/D",
       "license": "CASSANDRA",
       "license_level": 3,
       "description": "TODO Fluff",
@@ -419,7 +419,7 @@
          "id": "tg_unique"
        }
       ],
-      "source": "KD",
+      "source": "K/D",
       "license": "CASSANDRA",
       "license_level": 3,
       "effect": "If you use a Full Tech Action to Invade twice, and choose a different target for each Invade, as a Free Action you may make a third Tech Attack to Invade a third different target.",

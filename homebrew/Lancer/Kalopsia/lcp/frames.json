@@ -1,7 +1,7 @@
 [
    {
       "id": "kd_pandora",
-      "source": "KD",
+      "source": "K/D",
       "name": "PANDORA",
       "mechtype": [
          "Controller",
@@ -66,7 +66,7 @@
    },
    {
       "id": "kd_grendel",
-      "source": "KD",
+      "source": "K/D",
       "name": "GRENDEL",
       "mechtype": [
          "Defender",
@@ -140,7 +140,7 @@
    },
    {
       "id": "kd_faust",
-      "source": "KD",
+      "source": "K/D",
       "name": "FAUST",
       "mechtype": [
          "Artillery",
@@ -216,7 +216,7 @@
    },
    {
       "id": "kd_cassandra",
-      "source": "KD",
+      "source": "K/D",
       "name": "CASSANDRA",
       "mechtype": [
          "Controller",

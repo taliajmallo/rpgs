@@ -1,0 +1,166 @@
+[
+   {
+      "id": "kd_exo_daemon_armor_light",
+      "name": "DAEMON LIGHT CHASSIS",
+      "type": "Armor",
+      "tags": [
+         { "id": "tg_exotic" },
+         { "id": "tg_limited", "val": 1 }
+      ],
+      "description": "<code class=\"horus\">BAPTIZED IN THE BLOOD OF RAH, THE MOTHER OF MONSTERS GIFTS US HER TAINTED BODY.</code><br>This pilot gear cannot be removed. While it has a charge, you may change it into either other Daemon Chassis as a Full Action. You may consume a mech's Core Battery as a Quick Action to empower all Daemon pilot gear for the rest of the scene.",
+      "actions": [
+         {
+            "name": "ENDURE - DAEMON CHASSIS",
+            "activation": "Protocol",
+            "detail": "Spend a charge to restore 1d6 HP and remove the Down and Out condition from yourself. If empowered, this restores an additional 1d6 HP.",
+            "pilot": true
+         }
+      ],
+      "bonuses":[
+          {"id": "pilot_hp", "val": 3},
+          {"id": "pilot_evasion", "val": 10, "replace": true},
+          {"id": "pilot_edef", "val": 10, "replace": true},
+          {"id": "pilot_speed", "val": 4, "replace": true}
+      ]
+   },
+   {
+      "id": "kd_exo_daemon_armor_med",
+      "name": "DAEMON ASSAULT CHASSIS",
+      "type": "Armor",
+      "tags": [
+         { "id": "tg_exotic" },
+         { "id": "tg_limited", "val": 1 }
+      ],
+      "description": "<code class=\"horus\">BAPTIZED IN THE BLOOD OF RAH, THE MOTHER OF MONSTERS GIFTS US HER TAINTED BODY.</code><br>This pilot gear cannot be removed. While it has a charge, you may change it into either other Daemon Chassis as a Full Action. You may consume a mech's Core Battery as a Quick Action to empower all Daemon pilot gear for the rest of the scene.",
+      "actions": [
+         {
+            "name": "ENDURE - DAEMON CHASSIS",
+            "activation": "Protocol",
+            "detail": "Spend a charge to restore 1d6 HP and remove the Down and Out condition from yourself. If empowered, this restores an additional 1d6 HP.",
+            "pilot": true
+         }
+      ],
+      "bonuses":[
+          {"id": "pilot_armor", "val": 1},
+          {"id": "pilot_hp", "val": 3},
+          {"id": "pilot_evasion", "val": 8, "replace": true},
+          {"id": "pilot_edef", "val": 8, "replace": true},
+          {"id": "pilot_speed", "val": 4, "replace": true}
+      ]
+   },
+   {
+      "id": "kd_exo_daemon_armor_heavy",
+      "name": "DAEMON HEAVY CHASSIS",
+      "type": "Armor",
+      "tags": [
+         { "id": "tg_exotic" },
+         { "id": "tg_limited", "val": 1 }
+      ],
+      "description": "<code class=\"horus\">BAPTIZED IN THE BLOOD OF RAH, THE MOTHER OF MONSTERS GIFTS US HER TAINTED BODY.</code><br>This pilot gear cannot be removed. While it has a charge, you may change it into either other Daemon Chassis as a Full Action. You may consume a mech's Core Battery as a Quick Action to empower all Daemon pilot gear for the rest of the scene.",
+      "actions": [
+         {
+            "name": "ENDURE - DAEMON CHASSIS",
+            "activation": "Protocol",
+            "detail": "Spend a charge to restore 1d6 HP and remove the Down and Out condition from yourself. If empowered, this restores an additional 1d6 HP.",
+            "pilot": true
+         }
+      ],
+      "bonuses":[
+          {"id": "pilot_armor", "val": 2},
+          {"id": "pilot_hp", "val": 3},
+          {"id": "pilot_evasion", "val": 6, "replace": true},
+          {"id": "pilot_edef", "val": 8, "replace": true},
+          {"id": "pilot_speed", "val": 3, "replace": true}
+      ]
+   },
+
+   {
+      "id": "kd_exo_daemon_weapon",
+      "name": "DAEMON NEXUS",
+      "type": "Weapon",
+      "tags": [
+         { "id": "tg_exotic" },
+         { "id": "tg_limited", "val": 1 }
+      ],
+      "range": [
+        {
+          "type": "range",
+          "val": 3
+        }
+      ],
+      "damage": [
+        {
+          "type": "energy",
+          "val": "1d3"
+        }
+      ],
+      "effect": "This pilot gear cannot be removed, and may only be used to attack while it has a remaining charge. It deals +1 damage per prior hit against the target, or +3 damage per prior hit instead if empowered.",
+      "description": "<code class=\"horus\">BAPTIZED IN THE BLOOD OF RAH, THE MOTHER OF MONSTERS GIFTS US HER TAINTED BODY.</code><br>",
+      "actions": [
+         {
+            "name": "ENDURE - DAEMON NEXUS",
+            "activation": "Protocol",
+            "detail": "Spend a charge to restore 1d6 HP and remove the Down and Out condition from yourself. If empowered, this restores an additional 1d6 HP.",
+            "pilot": true
+         }
+      ]
+   },
+
+   {
+      "id": "kd_exo_daemon_hive",
+      "name": "DAEMON NANOSWARM HIVE",
+      "type": "Gear",
+      "tags": [
+         { "id": "tg_exotic" },
+         { "id": "tg_limited", "val": 1 }
+      ],
+      "description": "<code class=\"horus\">BAPTIZED IN THE BLOOD OF RAH, THE MOTHER OF MONSTERS GIFTS US HER TAINTED BODY.</code><br>This pilot gear cannot be removed. While it has a charge, you restore 1/4 of your HP at the beginning of your turn. If empowered, it restores 1/2 of your HP instead.",
+      "actions": [
+         {
+            "name": "ENDURE - DAEMON HIVE",
+            "activation": "Protocol",
+            "detail": "Spend a charge to restore 1d6 HP and remove the Down and Out condition from yourself. If empowered, this restores an additional 1d6 HP.",
+            "pilot": true
+         }
+      ]
+   },
+
+   {
+      "id": "kd_exo_daemon_reinforcement",
+      "name": "DAEMON HARDSUIT REINFORCEMENT",
+      "type": "Gear",
+      "tags": [
+         { "id": "tg_exotic" },
+         { "id": "tg_limited", "val": 1 }
+      ],
+      "description": "<code class=\"horus\">BAPTIZED IN THE BLOOD OF RAH, THE MOTHER OF MONSTERS GIFTS US HER TAINTED BODY.</code><br>This pilot gear cannot be removed. While it has a charge, may make Ram and Grapple actions as if you were a mech, and count as Size 1 for those actions. If empowered, you count as Size 2 instead.",
+      "actions": [
+         {
+            "name": "ENDURE - DAEMON REINFORCEMENT",
+            "activation": "Protocol",
+            "detail": "Spend a charge to restore 1d6 HP and remove the Down and Out condition from yourself. If empowered, this restores an additional 1d6 HP.",
+            "pilot": true
+         }
+      ]
+   },
+
+   {
+      "id": "kd_exo_daemon_core",
+      "name": "DAEMON REACTOR CORE",
+      "type": "Gear",
+      "tags": [
+         { "id": "tg_exotic" },
+         { "id": "tg_limited", "val": 1 }
+      ],
+      "description": "<code class=\"horus\">BAPTIZED IN THE BLOOD OF RAH, THE MOTHER OF MONSTERS GIFTS US HER TAINTED BODY.</code><br>This pilot gear cannot be removed. While it has a charge, may Overcharge as if you were a mech, taking Energy Damage instead of Heat.",
+      "actions": [
+         {
+            "name": "ENDURE - DAEMON CORE",
+            "activation": "Protocol",
+            "detail": "Spend a charge to restore 1d6 HP and remove the Down and Out condition from yourself. If empowered, this restores an additional 1d6 HP.",
+            "pilot": true
+         }
+      ]
+   }
+
+]
