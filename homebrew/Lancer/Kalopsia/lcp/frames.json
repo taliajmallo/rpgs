@@ -56,7 +56,7 @@
             "kd_pandora_integrated"
          ],
          "active_name": "Hope Remains",
-         "active_effect": "Until the end of the current scene, the Pandora becomes immune to the negative effects of all conditions applied to it.",
+         "active_effect": "Until the end of the current scene, you become immune to all negative effects of all conditions, but may still gain conditions as normal.",
          "activation": "Protocol",
          "tags": []
       },
@@ -123,7 +123,7 @@
          "name": "INFRASONIC EMITTERS",
          "description": "TODO Fluff",
          "active_name": "Thundering Roar",
-         "active_effect": "All enemies within Burst 2 must make a Systems save or become Impaired until the end of their next turn. For the rest of the scene, the Grendel gains the Echoing Roar protocol.",
+         "active_effect": "All enemies within Burst 2 must make a Systems save or become Impaired until the end of their next turn. For the rest of the scene, you gain the Echoing Roar protocol.",
          "activation": "Quick",
          "tags": [],
          "active_actions": [
@@ -183,8 +183,8 @@
                   "name": "CRUEL GIFT",
                   "activation": "Reaction",
                   "frequency": "1/round",
-                  "trigger": "The Faust takes Burn.",
-                  "detail": "A character within Sensors must make a Hull save or take the Burn instead of the Faust."
+                  "trigger": "You take Burn.",
+                  "detail": "A character within Sensors must make a Hull save or take the Burn instead of you."
                }
             ]
          },
@@ -197,7 +197,7 @@
          "name": "RADIATION DIFFUSAL SHUNT",
          "description": "TODO Fluff",
          "active_name": "Infernal Crown",
-         "active_effect": "For the rest of the scene, the Faust gains the Fell Pact reaction.",
+         "active_effect": "For the rest of the scene, gain the Fell Pact reaction.",
          "activation": "Quick",
          "tags": [],
          "active_actions": [
@@ -205,8 +205,8 @@
                "name": "Fell Pact",
                "activation": "Reaction",
                "frequency": "1/round",
-               "trigger": "The Faust takes Heat.",
-               "detail": "A character within Sensors must make a Hull save or take the Heat instead of the Faust."
+               "trigger": "You take Heat.",
+               "detail": "A character within Sensors must make a Hull save or take the Heat instead of you."
             }
          ]
       },
@@ -258,7 +258,7 @@
                   "activation": "Reaction",
                   "frequency": "1/round",
                   "trigger": "A character within Sensors has been hit by an attack and damage has been rolled.",
-                  "detail": "The target is treated as having Resistance to all Damage, Burn, and Heat from the triggering attack. Until the start of the target's next turn, all attacks against them are made at +1 difficulty. If the target has any traits or systems that modify the Brace reaction, the target is considered to have Braced. The Cassandra cannot take reactions until the end of its next turn, and on that turn can only take one quick action, as if it had Braced."
+                  "detail": "The target is treated as having Resistance to all Damage, Burn, and Heat from the triggering attack. Until the start of the target's next turn, all attacks against them are made at +1 difficulty. If the target has any traits or systems that modify the Brace reaction, the target is considered to have Braced. You cannot take reactions until the end of your next turn, and on that turn can only take one quick action, as if you had Braced."
                }
             ]
          }
@@ -271,7 +271,7 @@
          "activation": "Quick",
          "tags": [],
          "passive_name": "Visions of Weal and Woe",
-         "passive_effect": "Whenever the Cassandra invades a character that has a condition, it may remove one condition from the target and mark them until the end of the scene.",
+         "passive_effect": "Whenever you invade a character that has a condition, you may remove one condition from the target and mark them until the end of the scene.",
          "passive_actions": [
             {
                "name": "Visions of Weal",
@@ -288,5 +288,218 @@
       "data_type": "frame",
       "aptitude": {},
       "counters": []
+   },
+
+   {
+      "id": "ha_timur",
+      "variant": "SUNZI",
+      "source": "HA",
+      "name": "TIMUR",
+      "mechtype": [
+         "Controller",
+         "Defender"
+      ],
+      "image_url": "https://example.com/image.png",
+      "y_pos": 0,
+      "license_level": 2,
+      "description": "TODO Fluff",
+      "mounts": [
+         "Flex",
+         "Flex"
+      ],
+      "stats": {
+         "size": 1,
+         "armor": 2,
+         "hp": 8,
+         "evasion": 4,
+         "edef": 10,
+         "heatcap": 6,
+         "repcap": 4,
+         "sensor_range": 15,
+         "tech_attack": 0,
+         "save": 11,
+         "speed": 4,
+         "sp": 6,
+         "stress": 4,
+         "structure": 4
+      },
+      "traits": [
+         {
+            "name": "WARP SCRAMBLERS",
+            "description": "After the Timur teleports, it may teleport any character within Burst 1 to any other location within Burst 1. Unwilling targets may make an Engineering save to resist this effect."
+         },
+         {
+            "name": "BLINK-VIGILANT",
+            "actions": [
+               {
+                  "name": "UNHEEDED PROPHECY",
+                  "activation": "Reaction",
+                  "frequency": "1/round",
+                  "trigger": "You are hit by a weapon attack.",
+                  "detail": "You may teleport to an unoccupied location adjacent to the attacker before resolving the attack. If the attack was a Line, Cone, Burst, or Blast attack and the location you teleport to is not within the area of the attack, you have Resistance to all damage, Heat, and Burn from the attack."
+               }
+            ]
+         }
+      ],
+      "core_system": {
+         "name": "ORBITAL BLINK ANCHOR",
+         "description": "TODO Fluff",
+         "activation": "Free",
+         "tags": [],
+         "active_name": "TACTICAL",
+         "active_effect": "For the rest of the scene, gain the Orbital Blink action.",
+         "active_actions": [
+            {
+               "name": "Tactical Insertion",
+               "activation": "Full",
+               "detail": "Remove yourself from the map, allowing you to use Tactical Insertion again."
+            }
+         ],
+         "passive_name": "RAPID INSERTION PROTOCOL",
+         "passive_effect": "You do not start scenes deployed to the map, and instead have the Tactical Insertion protocol.",
+         "passive_actions": [
+            {
+               "name": "Tactical Insertion",
+               "activation": "Protocol",
+               "detail": "If you are not on the map and have at least one structure, teleport yourself to an unoccupied space on the map."
+            }
+         ]
+      },
+      "data_type": "frame",
+      "aptitude": {},
+      "counters": []
+   },
+   {
+      "id": "ssc_herald",
+      "variant": "EMPEROR",
+      "source": "SSC",
+      "name": "HERALD",
+      "mechtype": [
+         "Support",
+         "Defender"
+      ],
+      "image_url": "https://example.com/image.png",
+      "y_pos": 0,
+      "license_level": 2,
+      "description": "TODO Fluff",
+      "mounts": [
+         "Main/Aux"
+      ],
+      "stats": {
+         "size": 1,
+         "armor": 0,
+         "hp": 6,
+         "evasion": 10,
+         "edef": 8,
+         "heatcap": 6,
+         "repcap": 2,
+         "sensor_range": 12,
+         "tech_attack": 1,
+         "save": 10,
+         "speed": 5,
+         "sp": 6,
+         "stress": 4,
+         "structure": 4
+      },
+      "traits": [
+         {
+            "name": "ANNOUNCE THE DECREE",
+            "description": "Whenever the Herald grants Overshield to another character, it increases its current Overshield by 1 up to a maximum of 12, or gains Overshield 1 if it does not have any."
+         },
+         {
+            "name": "WRIT OF AUTHORITY",
+            "description": "While the Herald has Overshield, it has Resistance to all damage, and line of sight may not be drawn through it."
+         }
+      ],
+      "core_system": {
+         "name": "IMPERIAL VOICE",
+         "description": "TODO Fluff",
+         "integrated": [
+            "ssc_herald_integrated"
+         ],
+         "active_name": "Thy Word Is Law",
+         "active_effect": "The Banner Nexus gains the Banner Raised profile for the rest of the scene.",
+         "activation": "Protocol",
+         "tags": []
+      },
+      "data_type": "frame",
+      "aptitude": {},
+      "counters": []
+   },
+   {
+      "id": "ssc_regent",
+      "variant": "EMPEROR",
+      "source": "SSC",
+      "name": "REGENT",
+      "mechtype": [
+         "Support",
+         "Defender"
+      ],
+      "image_url": "https://example.com/image.png",
+      "y_pos": 0,
+      "license_level": 2,
+      "description": "TODO Fluff",
+      "mounts": [
+         "Aux/Aux",
+         "Heavy"
+      ],
+      "stats": {
+         "size": 2,
+         "armor": 1,
+         "hp": 8,
+         "evasion": 8,
+         "edef": 8,
+         "heatcap": 6,
+         "repcap": 3,
+         "sensor_range": 15,
+         "tech_attack": -1,
+         "save": 10,
+         "speed": 5,
+         "sp": 6,
+         "stress": 4,
+         "structure": 4
+      },
+      "traits": [
+         {
+            "name": "FOR THE LIEGE",
+            "actions": [
+               {
+                  "name": "FOR THE LIEGE",
+                  "activation": "Protocol",
+                  "detail": "Choose one ally within Sensors. That ally gains Overshield equal to the Regent's current Overshield."
+               }
+            ]
+         },
+         {
+            "name": "NEITHER BLADE NOR POINT NOR STONE",
+            "description": "If the Regent takes the Brace action, and still has Overshield remaining after taking damage, its next turn is unaffected by the Brace action."
+         }
+      ],
+      "core_system": {
+         "name": "IMPERIAL VOICE",
+         "description": "TODO Fluff",
+         "integrated": [
+            "ssc_regent_integrated"
+         ],
+         "active_name": "Thy Word Is Law",
+         "active_effect": "For the rest of the scene, you gain the Challenge reaction.",
+         "active_actions": [
+            {
+               "name": "Challenge",
+               "activation": "Reaction",
+               "frequency": "1/round",
+               "trigger": "An ally within Sensors is hit by an attack.",
+               "detail": "The attacker is marked until the end of the scene. Marked characters take +2 Difficulty on all attacks that do not include you as a target."
+            }
+         ],
+         "activation": "Free",
+         "tags": []
+      },
+      "data_type": "frame",
+      "aptitude": {},
+      "counters": []
    }
+
+
+
 ]

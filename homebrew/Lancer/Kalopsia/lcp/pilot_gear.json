@@ -83,6 +83,7 @@
       "type": "Weapon",
       "tags": [
          { "id": "tg_exotic" },
+         { "id": "tg_unique" },
          { "id": "tg_limited", "val": 1 }
       ],
       "range": [

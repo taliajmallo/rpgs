@@ -292,5 +292,98 @@
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}
+    },
+    {
+      "id": "ssc_herald_integrated",
+      "name": "BANNER NEXUS",
+      "mount": "Auxiliary",
+      "type": "Nexus",
+      "profiles": [
+         {
+         "name": "Standard",
+         "damage": [{
+           "type": "Energy",
+           "val": "1"
+         }],
+         "range": [{
+           "type": "Burst",
+           "val": 2
+         }],
+         "tags": [
+           {
+             "id": "tg_smart"
+           },
+           {
+             "id": "tg_seeking"
+           },
+           {
+             "id": "tg_overshield"
+           }
+         ],
+         "effect": "Allies attacked have Immunity to the Energy Damage from this weapon, and instead gain Overshield +1 per target hit by this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12."
+       },
+       {
+       "name": "Banner Raised",
+       "damage": [{
+         "type": "Energy",
+         "val": "1"
+       }],
+       "range": [{
+         "type": "Burst",
+         "val": 3
+       }],
+       "tags": [
+         {
+           "id": "tg_smart"
+         },
+         {
+           "id": "tg_seeking"
+         },
+         {
+           "id": "tg_overshield"
+         },
+         {
+           "id": "tg_ap"
+         }
+       ],
+       "effect": "Allies attacked have Immunity to the Energy Damage from this weapon, and instead gain Overshield +1 per target hit by this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12."
+     }
+      ],
+      "sp": 0,
+      "source": "",
+      "license": "",
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {}
+    },
+    {
+      "id": "ssc_regent_integrated",
+      "name": "ZENITH SCEPTER",
+      "mount": "Heavy",
+      "type": "Melee",
+      "damage": [
+        {
+          "type": "Kinetic",
+          "val": "1d6+3"
+        }
+      ],
+      "range": [
+        {
+          "type": "Cone",
+          "val": 2
+        }
+      ],
+      "tags": [
+        {
+          "id": "tg_overshield"
+        }
+      ],
+      "sp": 0,
+      "source": "",
+      "license": "",
+      "effect": "Gain Overshield +2 per target hit with this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12.",
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {}
     }
  ]
