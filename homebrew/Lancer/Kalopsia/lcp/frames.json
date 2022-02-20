@@ -346,11 +346,11 @@
          "description": "TODO Fluff",
          "activation": "Free",
          "tags": [],
-         "active_name": "TACTICAL",
+         "active_name": "ORBITAL REINSERTION SYSTEMS",
          "active_effect": "For the rest of the scene, gain the Orbital Blink action.",
          "active_actions": [
             {
-               "name": "Tactical Insertion",
+               "name": "ORBITAL BLINK",
                "activation": "Full",
                "detail": "Remove yourself from the map, allowing you to use Tactical Insertion again."
             }
