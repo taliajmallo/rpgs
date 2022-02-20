@@ -382,7 +382,6 @@
       "source": "",
       "license": "",
       "effect": "Gain Overshield +2 per target hit with this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12.",
-      "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}
     },
@@ -402,7 +401,7 @@
           "id": "tg_ap"
         },
         {
-          "id": "tg_arcing"
+          "id": "tg_seeking"
         },
         {
           "id": "tg_ordnance"
@@ -411,7 +410,7 @@
       "sp": 0,
       "source": "",
       "license": "",
-      "effect": "The Agincourt Rail must be charged before it can be fired, using the Thousand New Dawns CORE Power.<br>When you attack with this weapon, select a number of spaces within range of this weapon equal to (your Volley Die - 1) times 5. Make a ranged attack roll against every character, deployable, or piece of terrain in a targeted space. This attack deals 4 AP Explosive Damage, plus 2 AP Explosive Damage for every targeted space they occupy after the first. Objects and terrain instead take 10 AP Explosive Damage for every targeted space they occupy.",
+      "effect": "The Agincourt Rail must be charged before it can be fired, using the Thousand New Dawns CORE Power.<br>When you attack with this weapon, select a number of spaces within range of this weapon equal to (your Volley Die - 1) times 5. Make a ranged attack roll against every character, deployable, or piece of terrain in a targeted space. This attack deals 4 AP Explosive Damage, plus 2 AP Explosive Damage for every targeted space a character occupies after the first. Objects and terrain instead take 10 AP Explosive Damage for every targeted space they occupy.",
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}

@@ -510,7 +510,7 @@
       "image_url": "https://example.com/image.png",
       "y_pos": 0,
       "license_level": 2,
-      "description": "TODO Fluff",
+      "description": "Designed in the field by a team of [Redacted] operators stranded on the planet of [Redacted] during a crisis response mission, the Boudica is a thorough refit of an outdated Harrison Armory Barbarossa precursor using technology ripped from a modern Monarch chassis. This frame is designed to serve as a mobile base of operations when operating behind enemy lines or far away from any of the creature comforts personnel might expect from a base or camp. In order to expand the Barbarossa’s already considerable frame, the massive Apocalypse rail had to be removed and the proto-Barbarossa’s impressive armor had to be reduced to allow it to cover the greater mass. [Redacted] compensated for the Apocalypse Rail’s removal by developing the RWDR system and paired it with an NHP designed from [Redacted] to allow it to still serve as a potent artillery piece when battle is joined. A colonist by the name of [Redacted] almost fully replaced the Boudica’s outdated computer and sensor system with those of the Monarch making it a force to be reckoned with on the modern battlefield. It must be noted that the Boudica is a violation of Harrison Armory and Smith-Shimano intellectual property. Printing the Boudica is a crime under international law, and the print shop, operators, and any license holders may be held legally responsible.",
       "mounts": [
          "Main",
          "Main",
@@ -535,7 +535,7 @@
       "traits": [
          {
             "name": "FORWARD OPERATING SUITE",
-            "description": "The Boudica has a command bridge large enough for a pilot and non-mech passenger, a head, and a number of additional rooms equal to its size staffed by a crew equal to its size. The crew onboard the Boudica may perform a Scan, Lock On, or Bolster Quick Tech Action as a Protocol."
+            "description": "The Boudica has a command bridge large enough for a pilot and non-mech passenger, a head, and a number of additional rooms equal to its size staffed by a crew equal to its size. As a protocol, the crew onboard the Boudica may perform either a Scan, Lock On, or Bolster Quick Tech Action."
          },
          {
             "name": "BEHEMOTH",
@@ -552,11 +552,11 @@
       ],
       "core_system": {
          "name": "AGINCOURT Rapid Warhead Deployment Rail",
-         "description": "TODO Fluff",
+         "description": "An experimental pairing of a modified Apocalypse Rail and the Monarchs HPMS, the AGINCOURT uses a magnetic rail system to deploy dozens of missiles paired with copies of the EROS class NHP. The Missiles remain unfired in the air until the NHP activates them all simultaneously, guiding them all individually to cause maximum damage. The EROS copies enjoy this and are incapable of remorse, fear, or dread.",
          "integrated": [
             "ha_boudica_integrated"
          ],
-         "active_name": "A Thousand New Dawns",
+         "active_name": "Thousand New Dawns",
          "active_effect": "When activated, you begin charging the Boudica's Agincourt Rail. Gain a Volley Die, a 1d6 starting at 1. At the start of each of your turns, raise the value of the Volley Die by 1, to a maximum of 6. If you move (even involuntarily) or become Stunned or Jammed, the Volley Die resets to 1 and then continues to count up as usual. After an attack with the Agincourt Rail, the Volley Die resets to 1. At the end of the scene, lose the Volley Die.",
          "activation": "Protocol",
          "tags": []
