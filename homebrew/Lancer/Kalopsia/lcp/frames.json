@@ -332,7 +332,7 @@
             "name": "BLINK-VIGILANT",
             "actions": [
                {
-                  "name": "UNHEEDED PROPHECY",
+                  "name": "BLINK-VIGILANT",
                   "activation": "Reaction",
                   "frequency": "1/round",
                   "trigger": "You are hit by a weapon attack.",
