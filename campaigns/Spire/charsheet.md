@@ -117,6 +117,10 @@ into your ear while you sleep.
 This need not be the obvious or logical choice: Sister Spring is more beguiled
 by a compelling story than a dull fact. Roll with Mastery when you attempt to
 convince someone to take the side of said underdog.
+### Mother Steel Me
+You ask Mother Winter to gift you patience and restraint.
++1 Mind. Once per session, when you pray to the Winter goddess, reduce Mind
+stress by D6.
 
 ## Equipment
 - Athame (D3, Bloodbound)
