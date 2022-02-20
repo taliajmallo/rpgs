@@ -385,5 +385,35 @@
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}
+    },
+    {
+      "id": "ha_boudica_integrated",
+      "name": "AGINCOURT RAIL",
+      "mount": "Superheavy",
+      "type": "Launcher",
+      "range": [
+        {
+          "type": "Range",
+          "val": 30
+        }
+      ],
+      "tags": [
+        {
+          "id": "tg_ap"
+        },
+        {
+          "id": "tg_arcing"
+        },
+        {
+          "id": "tg_ordnance"
+        }
+      ],
+      "sp": 0,
+      "source": "",
+      "license": "",
+      "effect": "The Agincourt Rail must be charged before it can be fired, using the Thousand New Dawns CORE Power.<br>When you attack with this weapon, select a number of spaces within range of this weapon equal to (your Volley Die - 1) times 5. Make a ranged attack roll against every character, deployable, or piece of terrain in a targeted space. This attack deals 4 AP Explosive Damage, plus 2 AP Explosive Damage for every targeted space they occupy after the first. Objects and terrain instead take 10 AP Explosive Damage for every targeted space they occupy.",
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {}
     }
  ]

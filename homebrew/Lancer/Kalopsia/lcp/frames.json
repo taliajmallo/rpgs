@@ -498,6 +498,72 @@
       "data_type": "frame",
       "aptitude": {},
       "counters": []
+   },
+   {
+      "id": "ha_boudica",
+      "variant": "BARBAROSSA",
+      "source": "HA",
+      "name": "BOUDICA",
+      "mechtype": [
+         "Artillery"
+      ],
+      "image_url": "https://example.com/image.png",
+      "y_pos": 0,
+      "license_level": 2,
+      "description": "TODO Fluff",
+      "mounts": [
+         "Main",
+         "Main",
+         "Heavy"
+      ],
+      "stats": {
+         "size": 3,
+         "armor": 2,
+         "hp": 12,
+         "evasion": 6,
+         "edef": 8,
+         "heatcap": 6,
+         "repcap": 2,
+         "sensor_range": 12,
+         "tech_attack": -2,
+         "save": 9,
+         "speed": 5,
+         "sp": 6,
+         "stress": 4,
+         "structure": 4
+      },
+      "traits": [
+         {
+            "name": "FORWARD OPERATING SUITE",
+            "description": "The Boudica has a command bridge large enough for a pilot and non-mech passenger, a head, and a number of additional rooms equal to its size staffed by a crew equal to its size. The crew onboard the Boudica may perform a Scan, Lock On, or Bolster Quick Tech Action as a Protocol."
+         },
+         {
+            "name": "BEHEMOTH",
+            "description": "Allies may end their movement within the Boudica's spaces and adjacent allies may use it as Hard Cover. The Boudica cannot take the Hide action, nor benefit from Invisibility."
+         },
+         {
+            "name": "HEAVY FRAME",
+            "description": "The Boudica can't be pushed, pulled, knocked prone, or knocked back by smaller characters."
+         },
+         {
+            "name": "SLOW",
+            "description": "The Boudica receives +1 difficulty on Agility checks and saves."
+         }
+      ],
+      "core_system": {
+         "name": "AGINCOURT Rapid Warhead Deployment Rail",
+         "description": "TODO Fluff",
+         "integrated": [
+            "ha_boudica_integrated"
+         ],
+         "active_name": "A Thousand New Dawns",
+         "active_effect": "When activated, you begin charging the Boudica's Agincourt Rail. Gain a Volley Die, a 1d6 starting at 1. At the start of each of your turns, raise the value of the Volley Die by 1, to a maximum of 6. If you move (even involuntarily) or become Stunned or Jammed, the Volley Die resets to 1 and then continues to count up as usual. After an attack with the Agincourt Rail, the Volley Die resets to 1. At the end of the scene, lose the Volley Die.",
+         "activation": "Protocol",
+         "tags": []
+      },
+      "data_type": "frame",
+      "aptitude": {},
+      "counters": []
    }
 
 
