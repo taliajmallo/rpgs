@@ -1,34 +1,34 @@
 [
    {
-     "id": "kd_affliction_nexus",
-     "name": "AFFLICTION NEXUS",
-     "mount": "Auxiliary",
-     "type": "Nexus",
-     "damage": [
-       {
-         "type": "Kinetic",
-         "val": "1"
-       }
-     ],
-     "range": [
-       {
-         "type": "Threat",
-         "val": 3
-       }
-     ],
-     "tags": [
-       {
-         "id": "tg_accurate"
-       }
-     ],
-     "sp": 0,
-     "source": "K/D",
-     "license": "PANDORA",
-     "license_level": 1,
-     "effect": "+1 Damage for each condition afflicting the target.",
-     "description": "TODO Fluff",
-     "data_type": "weapon",
-     "aptitude": {}
+      "id": "kd_affliction_nexus",
+      "name": "AFFLICTION NEXUS",
+      "mount": "Auxiliary",
+      "type": "Nexus",
+      "damage": [
+         {
+            "type": "Kinetic",
+            "val": "1"
+         }
+      ],
+      "range": [
+         {
+            "type": "Threat",
+            "val": 3
+         }
+      ],
+      "tags": [
+         {
+            "id": "tg_accurate"
+         }
+      ],
+      "sp": 0,
+      "source": "K/D",
+      "license": "PANDORA",
+      "license_level": 1,
+      "effect": "+1 Damage for each condition afflicting the target.",
+      "description": "TODO Fluff",
+      "data_type": "weapon",
+      "aptitude": {}
    },
    {
       "id": "kd_pandora_integrated",
@@ -36,24 +36,24 @@
       "mount": "Main",
       "type": "Nexus",
       "damage": [
-        {
-          "type": "Kinetic",
-          "val": "1"
-        }
+         {
+            "type": "Kinetic",
+            "val": "1"
+         }
       ],
       "range": [
-        {
-          "type": "Burst",
-          "val": 2
-        }
+         {
+            "type": "Burst",
+            "val": 2
+         }
       ],
       "tags": [
-        {
-          "id": "tg_smart"
-        },
-        {
-          "id": "tg_seeking"
-        }
+         {
+            "id": "tg_smart"
+         },
+         {
+            "id": "tg_seeking"
+         }
       ],
       "sp": 0,
       "source": "",
@@ -62,39 +62,41 @@
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {},
-      "actions": [{
-         "name": "Open the Jar",
-         "activation": "Reaction",
-         "frequency": "1/round",
-         "trigger": "You gain a condition.",
-         "detail": "You may make an attack with the Pithos Nexus."
-      }]
-    },
-    {
+      "actions": [
+         {
+            "name": "Open the Jar",
+            "activation": "Reaction",
+            "frequency": "1/round",
+            "trigger": "You gain a condition.",
+            "detail": "You may make an attack with the Pithos Nexus."
+         }
+      ]
+   },
+   {
       "id": "kd_battlehammer",
       "name": "BATTLEHAMMER",
       "mount": "Main",
       "type": "Melee",
       "damage": [
-        {
-          "type": "Kinetic",
-          "val": "2d3"
-        }
+         {
+            "type": "Kinetic",
+            "val": "2d3"
+         }
       ],
       "range": [
-        {
-          "type": "Threat",
-          "val": 1
-        }
+         {
+            "type": "Threat",
+            "val": 1
+         }
       ],
       "tags": [
-        {
-          "id": "tg_ap"
-        },
-        {
-          "id": "tg_knockback",
-          "val": 1
-        }
+         {
+            "id": "tg_ap"
+         },
+         {
+            "id": "tg_knockback",
+            "val": 1
+         }
       ],
       "sp": 0,
       "source": "K/D",
@@ -103,29 +105,29 @@
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}
-    },
-    {
+   },
+   {
       "id": "kd_legslam",
       "name": "HYDRAULIC LEG SLAM",
       "mount": "Heavy",
       "type": "Melee",
       "damage": [
-        {
-          "type": "Kinetic",
-          "val": "1d6"
-        }
+         {
+            "type": "Kinetic",
+            "val": "1d6"
+         }
       ],
       "range": [
-        {
-          "type": "Burst",
-          "val": 1
-        }
+         {
+            "type": "Burst",
+            "val": 1
+         }
       ],
       "tags": [
-        {
-          "id": "tg_knockback",
-          "val": 2
-        }
+         {
+            "id": "tg_knockback",
+            "val": 2
+         }
       ],
       "sp": 0,
       "source": "K/D",
@@ -135,29 +137,29 @@
       "effect": "Attacks with this weapon are always considered to be melee attacks. On a critical hit, the target must make a Hull save or be knocked prone.",
       "data_type": "weapon",
       "aptitude": {}
-    },
-    {
+   },
+   {
       "id": "kd_heavymaul",
       "name": "HEAVY MAUL",
       "mount": "Superheavy",
       "type": "Melee",
       "damage": [
-        {
-          "type": "Kinetic",
-          "val": "3d6"
-        }
+         {
+            "type": "Kinetic",
+            "val": "3d6"
+         }
       ],
       "range": [
-        {
-          "type": "Cone",
-          "val": 2
-        }
+         {
+            "type": "Cone",
+            "val": 2
+         }
       ],
       "tags": [
-        {
-          "id": "tg_knockback",
-          "val": 4
-        }
+         {
+            "id": "tg_knockback",
+            "val": 4
+         }
       ],
       "sp": 0,
       "source": "K/D",
@@ -167,40 +169,40 @@
       "effect": "Attacks with this weapon are always considered to be melee attacks. On a critical hit, the target must make an Agility save or be knocked prone.",
       "data_type": "weapon",
       "aptitude": {}
-    },
-    {
+   },
+   {
       "id": "kd_brimstone_launcher",
       "name": "BRIMSTONE-CLASS SMOKE GRENADE",
       "mount": "Auxiliary",
       "type": "Launcher",
       "damage": [
-        {
-          "type": "Explosive",
-          "val": "1"
-        },
-        {
-          "type": "Heat",
-          "val": "1"
-        }
+         {
+            "type": "Explosive",
+            "val": "1"
+         },
+         {
+            "type": "Heat",
+            "val": "1"
+         }
       ],
       "range": [
-        {
-          "type": "Range",
-          "val": 8
-        },
-        {
-          "type": "Blast",
-          "val": 1
-        }
+         {
+            "type": "Range",
+            "val": 8
+         },
+         {
+            "type": "Blast",
+            "val": 1
+         }
       ],
       "tags": [
          {
-           "id": "tg_heat_self",
-           "val": 1
+            "id": "tg_heat_self",
+            "val": 1
          },
-        {
-          "id": "tg_arcing"
-        }
+         {
+            "id": "tg_arcing"
+         }
       ],
       "sp": 0,
       "source": "K/D",
@@ -210,36 +212,36 @@
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}
-    },
-    {
+   },
+   {
       "id": "kd_incendiary_launcher",
       "name": "INCENDIARY ROCKET",
       "mount": "Main",
       "type": "Launcher",
       "damage": [
-        {
-          "type": "Explosive",
-          "val": "1d3"
-        },
-        {
-          "type": "Burn",
-          "val": "2"
-        }
+         {
+            "type": "Explosive",
+            "val": "1d3"
+         },
+         {
+            "type": "Burn",
+            "val": "2"
+         }
       ],
       "range": [
-        {
-          "type": "Range",
-          "val": 10
-        },
-        {
-          "type": "Blast",
-          "val": 1
-        }
+         {
+            "type": "Range",
+            "val": 10
+         },
+         {
+            "type": "Blast",
+            "val": 1
+         }
       ],
       "tags": [
          {
-           "id": "tg_heat_self",
-           "val": 2
+            "id": "tg_heat_self",
+            "val": 2
          }
       ],
       "sp": 0,
@@ -249,40 +251,40 @@
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}
-    },
-    {
+   },
+   {
       "id": "kd_hellfire_launcher",
       "name": "HELLFIRE CLUSTER MISSILES",
       "mount": "Heavy",
       "type": "Launcher",
       "damage": [
-        {
-          "type": "Explosive",
-          "val": "1"
-        },
-        {
-          "type": "Heat",
-          "val": "2"
-        },
-        {
-          "type": "Burn",
-          "val": "3"
-        }
+         {
+            "type": "Explosive",
+            "val": "1"
+         },
+         {
+            "type": "Heat",
+            "val": "2"
+         },
+         {
+            "type": "Burn",
+            "val": "3"
+         }
       ],
       "range": [
-        {
-          "type": "Range",
-          "val": 15
-        },
-        {
-          "type": "Blast",
-          "val": 2
-        }
+         {
+            "type": "Range",
+            "val": 15
+         },
+         {
+            "type": "Blast",
+            "val": 2
+         }
       ],
       "tags": [
          {
-           "id": "tg_heat_self",
-           "val": 3
+            "id": "tg_heat_self",
+            "val": 3
          }
       ],
       "sp": 0,
@@ -292,62 +294,70 @@
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}
-    },
-    {
+   },
+   {
       "id": "ssc_herald_integrated",
       "name": "BANNER NEXUS",
       "mount": "Auxiliary",
       "type": "Nexus",
       "profiles": [
          {
-         "name": "Standard",
-         "damage": [{
-           "type": "Energy",
-           "val": "1"
-         }],
-         "range": [{
-           "type": "Burst",
-           "val": 2
-         }],
-         "tags": [
-           {
-             "id": "tg_smart"
-           },
-           {
-             "id": "tg_seeking"
-           },
-           {
-             "id": "tg_overshield"
-           }
-         ],
-         "effect": "Allies attacked have Immunity to the Energy Damage from this weapon, and instead gain Overshield +1 per target hit by this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12."
-       },
-       {
-       "name": "Banner Raised",
-       "damage": [{
-         "type": "Energy",
-         "val": "1"
-       }],
-       "range": [{
-         "type": "Burst",
-         "val": 3
-       }],
-       "tags": [
-         {
-           "id": "tg_smart"
+            "name": "Standard",
+            "damage": [
+               {
+                  "type": "Energy",
+                  "val": "1"
+               }
+            ],
+            "range": [
+               {
+                  "type": "Burst",
+                  "val": 2
+               }
+            ],
+            "tags": [
+               {
+                  "id": "tg_smart"
+               },
+               {
+                  "id": "tg_seeking"
+               },
+               {
+                  "id": "tg_overshield"
+               }
+            ],
+            "effect": "Allies attacked have Immunity to the Energy Damage from this weapon, and instead gain Overshield +1 per target hit by this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12."
          },
          {
-           "id": "tg_seeking"
-         },
-         {
-           "id": "tg_overshield"
-         },
-         {
-           "id": "tg_ap"
+            "name": "Banner Raised",
+            "damage": [
+               {
+                  "type": "Energy",
+                  "val": "1"
+               }
+            ],
+            "range": [
+               {
+                  "type": "Burst",
+                  "val": 3
+               }
+            ],
+            "tags": [
+               {
+                  "id": "tg_smart"
+               },
+               {
+                  "id": "tg_seeking"
+               },
+               {
+                  "id": "tg_overshield"
+               },
+               {
+                  "id": "tg_ap"
+               }
+            ],
+            "effect": "Allies attacked have Immunity to the Energy Damage from this weapon, and instead gain Overshield +1 per target hit by this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12."
          }
-       ],
-       "effect": "Allies attacked have Immunity to the Energy Damage from this weapon, and instead gain Overshield +1 per target hit by this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12."
-     }
       ],
       "sp": 0,
       "source": "",
@@ -355,28 +365,28 @@
       "description": "TODO Fluff",
       "data_type": "weapon",
       "aptitude": {}
-    },
-    {
+   },
+   {
       "id": "ssc_regent_integrated",
       "name": "ZENITH SCEPTER",
       "mount": "Heavy",
       "type": "Melee",
       "damage": [
-        {
-          "type": "Kinetic",
-          "val": "1d6+3"
-        }
+         {
+            "type": "Kinetic",
+            "val": "1d6+3"
+         }
       ],
       "range": [
-        {
-          "type": "Cone",
-          "val": 2
-        }
+         {
+            "type": "Cone",
+            "val": 2
+         }
       ],
       "tags": [
-        {
-          "id": "tg_overshield"
-        }
+         {
+            "id": "tg_overshield"
+         }
       ],
       "sp": 0,
       "source": "",
@@ -384,28 +394,28 @@
       "effect": "Gain Overshield +2 per target hit with this weapon. This special Overshield does not replace the last one created, but rather increases it, up to a maximum of Overshield 12.",
       "data_type": "weapon",
       "aptitude": {}
-    },
-    {
+   },
+   {
       "id": "ha_boudica_integrated",
       "name": "AGINCOURT RAIL",
       "mount": "Superheavy",
       "type": "Launcher",
       "range": [
-        {
-          "type": "Range",
-          "val": 30
-        }
+         {
+            "type": "Range",
+            "val": 30
+         }
       ],
       "tags": [
-        {
-          "id": "tg_ap"
-        },
-        {
-          "id": "tg_seeking"
-        },
-        {
-          "id": "tg_ordnance"
-        }
+         {
+            "id": "tg_ap"
+         },
+         {
+            "id": "tg_seeking"
+         },
+         {
+            "id": "tg_ordnance"
+         }
       ],
       "sp": 0,
       "source": "",
@@ -413,5 +423,5 @@
       "effect": "The Agincourt Rail must be charged before it can be fired, using the Thousand New Dawns CORE Power.<br>When you attack with this weapon, select a number of spaces within range of this weapon equal to (your Volley Die - 1) times 5. Make a ranged attack roll against every character, deployable, or piece of terrain in a targeted space. This attack deals 4 AP Explosive Damage, plus 2 AP Explosive Damage for every targeted space a character occupies after the first. Objects and terrain instead take 10 AP Explosive Damage for every targeted space they occupy.",
       "data_type": "weapon",
       "aptitude": {}
-    }
- ]
+   }
+]

@@ -1,190 +1,190 @@
 [
    {
-     "id": "kd_pestilence_charges",
-     "name": "PESTILENCE CHARGES",
-     "type": "System",
-     "sp": 2,
-     "tags": [
-      {
-        "id": "tg_unique"
-      },
-      {
-        "id": "tg_limited",
-        "val": 3
-      }
-     ],
-     "source": "K/D",
-     "license": "PANDORA",
-     "license_level": 1,
-     "description": "TODO Fluff",
-     "data_type": "system",
-     "aptitude": {},
-     "actions": [{
-      "activation": "Quick Tech",
-      "detail": "Cause all enemies within Burst 2 to make both an Agility save and a Systems save. If they fail the Agility save, they become Impaired until the end of their next turn. If they fail the Systems save, they become Locked On. If they fail both, they also become Jammed until the end of their next turn."
-     }]
+      "id": "kd_pestilence_charges",
+      "name": "PESTILENCE CHARGES",
+      "type": "System",
+      "sp": 2,
+      "tags": [
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_limited",
+            "val": 3
+         }
+      ],
+      "source": "K/D",
+      "license": "PANDORA",
+      "license_level": 1,
+      "description": "TODO Fluff",
+      "data_type": "system",
+      "aptitude": {},
+      "actions": [
+         {
+            "activation": "Quick Tech",
+            "detail": "Cause all enemies within Burst 2 to make both an Agility save and a Systems save. If they fail the Agility save, they become Impaired until the end of their next turn. If they fail the Systems save, they become Locked On. If they fail both, they also become Jammed until the end of their next turn."
+         }
+      ]
    },
    {
-     "id": "kd_threat_interdiction_engine",
-     "name": "THREAT INTERDICTION ENGINE",
-     "type": "System",
-     "sp": 2,
-     "tags": [
-      {
-        "id": "tg_unique"
-      },
-       {
-         "id": "tg_heat_self",
-         "val": 3
-       }
-     ],
-     "source": "K/D",
-     "license": "PANDORA",
-     "license_level": 2,
-     "description": "TODO Fluff",
-     "data_type": "system",
-     "aptitude": {},
-     "actions": [{
-      "activation": "Protocol",
-      "name": "Eurus Protocol",
-      "detail": "Boost in a straight line towards an enemy. If you end your Boost adjacent to an enemy, all enemies that you became adjacent to during your Boost must make an Engineering save or become impaired until the end of their next turn.",
-      "heat_cost": 3
-     }]
+      "id": "kd_threat_interdiction_engine",
+      "name": "THREAT INTERDICTION ENGINE",
+      "type": "System",
+      "sp": 2,
+      "tags": [
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_heat_self",
+            "val": 3
+         }
+      ],
+      "source": "K/D",
+      "license": "PANDORA",
+      "license_level": 2,
+      "description": "TODO Fluff",
+      "data_type": "system",
+      "aptitude": {},
+      "actions": [
+         {
+            "activation": "Protocol",
+            "name": "Eurus Protocol",
+            "detail": "Boost in a straight line towards an enemy. If you end your Boost adjacent to an enemy, all enemies that you became adjacent to during your Boost must make an Engineering save or become impaired until the end of their next turn.",
+            "heat_cost": 3
+         }
+      ]
    },
    {
-     "id": "kd_entropic_dispersion_field",
-     "name": "ENTROPIC DISPERSION FIELD",
-     "type": "System",
-     "sp": 3,
-     "tags": [
-      {
-        "id": "tg_unique"
-      }
-     ],
-     "source": "K/D",
-     "license": "PANDORA",
-     "license_level": 2,
-     "effect": "When you Brace, all enemies within Burst 2 must make an Agility save or take damage equal to the damage you take.",
-     "description": "TODO Fluff",
-     "data_type": "system",
-     "aptitude": {}
+      "id": "kd_entropic_dispersion_field",
+      "name": "ENTROPIC DISPERSION FIELD",
+      "type": "System",
+      "sp": 3,
+      "tags": [
+         {
+            "id": "tg_unique"
+         }
+      ],
+      "source": "K/D",
+      "license": "PANDORA",
+      "license_level": 2,
+      "effect": "When you Brace, all enemies within Burst 2 must make an Agility save or take damage equal to the damage you take.",
+      "description": "TODO Fluff",
+      "data_type": "system",
+      "aptitude": {}
    },
    {
-     "id": "kd_doom_upon_the_world",
-     "name": "DOOM UPON THE WORLD",
-     "type": "System",
-     "sp": 2,
-     "tags": [
-      {
-        "id": "tg_unique"
-      },
-       {
-         "id": "tg_limited",
-         "val": 1
-       }
-     ],
-     "source": "K/D",
-     "license": "PANDORA",
-     "license_level": 3,
-     "description": "TODO Fluff",
-     "data_type": "system",
-     "aptitude": {},
-     "actions": [{
-      "activation": "Full Tech",
-      "frequency": "1/scene",
-      "detail": "Cause all enemies to make both a Hull save and an Engineering save. If they fail the Hull save, they become Immobilized until the end of their next turn. If they fail the Engineering save, they become Shredded until the end of their next turn. If they fail both, they also become Exposed."
-     }]
+      "id": "kd_doom_upon_the_world",
+      "name": "DOOM UPON THE WORLD",
+      "type": "System",
+      "sp": 2,
+      "tags": [
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_limited",
+            "val": 1
+         }
+      ],
+      "source": "K/D",
+      "license": "PANDORA",
+      "license_level": 3,
+      "description": "TODO Fluff",
+      "data_type": "system",
+      "aptitude": {},
+      "actions": [
+         {
+            "activation": "Full Tech",
+            "frequency": "1/scene",
+            "detail": "Cause all enemies to make both a Hull save and an Engineering save. If they fail the Hull save, they become Immobilized until the end of their next turn. If they fail the Engineering save, they become Shredded until the end of their next turn. If they fail both, they also become Exposed."
+         }
+      ]
    },
    {
-     "id": "kd_hope_in_absolution",
-     "name": "HOPE IN ABSOLUTION",
-     "type": "Shield",
-     "sp": 3,
-     "tags": [
-      {
-        "id": "tg_unique"
-      },
-      {
-        "id": "tg_shield"
-      },
-      {
-        "id": "tg_overshield"
-      },
-      {
-        "id": "tg_round",
-        "val": 1
-      }
-     ],
-     "source": "K/D",
-     "license": "PANDORA",
-     "license_level": 3,
-     "description": "TODO Fluff",
-     "data_type": "system",
-     "aptitude": {},
-     "actions": [
-        {
-           "activation": "Reaction",
-           "frequency": "1/round",
-           "trigger": "An adjacent character is destroyed.",
-           "detail": "Gain 3 Overshield for each condition on the target when they were destroyed."
-        }
-     ]
-   },
-
-
-
-   {
-     "id": "kd_punting_actuators",
-     "name": "PUNTING ACTUATORS",
-     "type": "System",
-     "sp": 3,
-     "tags": [
-      {
-        "id": "tg_unique"
-      }
-     ],
-     "source": "K/D",
-     "license": "GRENDEL",
-     "license_level": 3,
-     "effect": "When you inflict Knockback as the result of any action, you may treat any part of the movement as flight, allowing you to move the target over obstacles or even straight up vertically. They begin falling at the end of their next turn, instead of the end of the current turn.",
-     "description": "TODO Fluff",
-     "data_type": "system",
-     "aptitude": {}
+      "id": "kd_hope_in_absolution",
+      "name": "HOPE IN ABSOLUTION",
+      "type": "Shield",
+      "sp": 3,
+      "tags": [
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_shield"
+         },
+         {
+            "id": "tg_overshield"
+         },
+         {
+            "id": "tg_round",
+            "val": 1
+         }
+      ],
+      "source": "K/D",
+      "license": "PANDORA",
+      "license_level": 3,
+      "description": "TODO Fluff",
+      "data_type": "system",
+      "aptitude": {},
+      "actions": [
+         {
+            "activation": "Reaction",
+            "frequency": "1/round",
+            "trigger": "An adjacent character is destroyed.",
+            "detail": "Gain 3 Overshield for each condition on the target when they were destroyed."
+         }
+      ]
    },
    {
-     "id": "kd_kinetic_redistributor",
-     "name": "KINETIC REDISTRIBUTOR",
-     "type": "System",
-     "sp": 2,
-     "tags": [
-      {
-        "id": "tg_unique"
-      }
-     ],
-     "source": "K/D",
-     "license": "GRENDEL",
-     "license_level": 1,
-     "effect": "If you cause a character to move as the result of knockback with any action, they must make a Hull save or be Slowed until the end of their next turn.",
-     "description": "TODO Fluff",
-     "data_type": "system",
-     "aptitude": {}
+      "id": "kd_punting_actuators",
+      "name": "PUNTING ACTUATORS",
+      "type": "System",
+      "sp": 3,
+      "tags": [
+         {
+            "id": "tg_unique"
+         }
+      ],
+      "source": "K/D",
+      "license": "GRENDEL",
+      "license_level": 3,
+      "effect": "When you inflict Knockback as the result of any action, you may treat any part of the movement as flight, allowing you to move the target over obstacles or even straight up vertically. They begin falling at the end of their next turn, instead of the end of the current turn.",
+      "description": "TODO Fluff",
+      "data_type": "system",
+      "aptitude": {}
    },
-
-
-
+   {
+      "id": "kd_kinetic_redistributor",
+      "name": "KINETIC REDISTRIBUTOR",
+      "type": "System",
+      "sp": 2,
+      "tags": [
+         {
+            "id": "tg_unique"
+         }
+      ],
+      "source": "K/D",
+      "license": "GRENDEL",
+      "license_level": 1,
+      "effect": "If you cause a character to move as the result of knockback with any action, they must make a Hull save or be Slowed until the end of their next turn.",
+      "description": "TODO Fluff",
+      "data_type": "system",
+      "aptitude": {}
+   },
    {
       "id": "kd_pact_destruction",
       "name": "PACT OF DESTRUCTION",
       "type": "System",
       "sp": 3,
       "tags": [
-       {
-         "id": "tg_unique"
-       },
-       {
-         "id": "tg_heat_self",
-         "val": 2
-       }
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_heat_self",
+            "val": 2
+         }
       ],
       "source": "K/D",
       "license": "FAUST",
@@ -198,54 +198,54 @@
             "detail": "Take 1 Burn and 2 Heat. Until the end of your turn, your next weapon attack adds 1 Burn to any damage the weapon deals."
          }
       ]
-    },
-    {
-       "id": "kd_pact_malice",
-       "name": "PACT OF MALICE",
-       "type": "System",
-       "sp": 2,
-       "tags": [
-        {
-          "id": "tg_unique"
-        },
-        {
-          "id": "tg_heat_self",
-          "val": 2
-        }
-       ],
-       "source": "K/D",
-       "license": "FAUST",
-       "license_level": 2,
-       "description": "TODO Fluff",
-       "data_type": "system",
-       "aptitude": {},
-       "actions": [
-          {
-             "activation": "Protocol",
-             "detail": "Take 1 Burn and 2 Heat. Until the end of your turn, your next weapon attack that hits an ally causes each ally hit to release a shockwave in a Burst 1 area around them. All hostile characters within a shockwave must make an Agility save or take 1d3 Explosive damage and 2 Burn, and must make multiple saves if within multiple shockwaves."
-          }
-       ]
-     },
-     {
+   },
+   {
+      "id": "kd_pact_malice",
+      "name": "PACT OF MALICE",
+      "type": "System",
+      "sp": 2,
+      "tags": [
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_heat_self",
+            "val": 2
+         }
+      ],
+      "source": "K/D",
+      "license": "FAUST",
+      "license_level": 2,
+      "description": "TODO Fluff",
+      "data_type": "system",
+      "aptitude": {},
+      "actions": [
+         {
+            "activation": "Protocol",
+            "detail": "Take 1 Burn and 2 Heat. Until the end of your turn, your next weapon attack that hits an ally causes each ally hit to release a shockwave in a Burst 1 area around them. All hostile characters within a shockwave must make an Agility save or take 1d3 Explosive damage and 2 Burn, and must make multiple saves if within multiple shockwaves."
+         }
+      ]
+   },
+   {
       "id": "kd_pact_nhp",
       "name": "MEPHISTOPHELES-CLASS NHP",
       "type": "AI",
       "sp": 3,
       "tags": [
-       {
-         "id": "tg_unique"
-       },
-       {
-         "id": "tg_ai"
-       },
-       {
-         "id": "tg_heat_self",
-         "val": 6
-       },
-       {
-         "id": "tg_limited",
-         "val": 1
-       }
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_ai"
+         },
+         {
+            "id": "tg_heat_self",
+            "val": 6
+         },
+         {
+            "id": "tg_limited",
+            "val": 1
+         }
       ],
       "source": "K/D",
       "license": "FAUST",
@@ -259,18 +259,16 @@
             "detail": "Take 3 Burn and 6 Heat. Until the end of your turn, your next weapon attack adds Burn equal to your current Heat, halved if the weapon affects multiple targets, to any damage the weapon deals."
          }
       ]
-    },
-
-
-    {
+   },
+   {
       "id": "kd_mechanical_omens",
       "name": "MECHANICAL OMENS",
       "type": "Tech",
       "sp": 2,
       "tags": [
-       {
-         "id": "tg_unique"
-       }
+         {
+            "id": "tg_unique"
+         }
       ],
       "source": "K/D",
       "license": "CASSANDRA",
@@ -290,20 +288,20 @@
             "detail": "Until the end of the target's next turn, they become Locked On. When they are no longer Locked On, they become invisible until the end of their next turn."
          }
       ]
-    },
-    {
+   },
+   {
       "id": "kd_foresight_contingencies",
       "name": "FORESIGHT CONTINGENCIES",
       "type": "Tech",
       "sp": 1,
       "tags": [
          {
-           "id": "tg_heat_self",
-           "val": 1
+            "id": "tg_heat_self",
+            "val": 1
          },
-       {
-         "id": "tg_unique"
-       }
+         {
+            "id": "tg_unique"
+         }
       ],
       "source": "K/D",
       "license": "CASSANDRA",
@@ -317,19 +315,19 @@
             "detail": "The first time you succeed on a Tech Attack this turn, Scan the target as a Free Action."
          }
       ]
-    },
-    {
+   },
+   {
       "id": "kd_digital_portents",
       "name": "DIGITAL PORTENTS",
       "type": "Tech",
       "sp": 2,
       "tags": [
-       {
-         "id": "tg_unique"
-       },
-       {
-         "id": "tg_overshield"
-       }
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_overshield"
+         }
       ],
       "source": "K/D",
       "license": "CASSANDRA",
@@ -349,19 +347,19 @@
             "detail": "The target becomes Shredded until the end of their next turn. When they are no longer Shredded, they gain 4 Overshield, or 8 Overshield if they took structure damage while Shredded."
          }
       ]
-    },
-    {
+   },
+   {
       "id": "kd_prediction_subroutines",
       "name": "PREDICTION SUBROUTINES",
       "type": "Tech",
       "sp": 2,
       "tags": [
-       {
-         "id": "tg_unique"
-       },
-       {
-         "id": "tg_overshield"
-       }
+         {
+            "id": "tg_unique"
+         },
+         {
+            "id": "tg_overshield"
+         }
       ],
       "source": "K/D",
       "license": "CASSANDRA",
@@ -376,16 +374,16 @@
             "detail": "Choose an ally within sensors, and one of the four following effects:<ul><li>The first time the target is hit by a Tech Attack before the start of your next turn, they gain 4 Overshield after any damage or effects are applied.</li><li>The first time the target is hit by a Melee Attack before the start of your next turn, they gain 4 Overshield after any damage or effects are applied.</li><li>The first time the target is hit by a Ranged Attack before the start of your next turn, they gain 4 Overshield after any damage or effects are applied.</li><li>If the target has not been hit by the start of your next turn, they gain 4 Overshield.</li></ul>"
          }
       ]
-    },
-    {
+   },
+   {
       "id": "kd_technotheurgic_prophecies",
       "name": "TECHNOTHEURGIC PROPHECIES",
       "type": "Tech",
       "sp": 2,
       "tags": [
-       {
-         "id": "tg_unique"
-       }
+         {
+            "id": "tg_unique"
+         }
       ],
       "source": "K/D",
       "license": "CASSANDRA",
@@ -405,19 +403,19 @@
             "detail": "The target becomes Jammed until the end of their next turn. When they are no longer Jammed, they may immediately Stabilize as a Reaction."
          }
       ]
-    },
-    {
+   },
+   {
       "id": "kd_apollo_nhp",
       "name": "APOLLO-CLASS NHP",
       "type": "AI",
       "sp": 2,
       "tags": [
          {
-           "id": "tg_ai"
+            "id": "tg_ai"
          },
-       {
-         "id": "tg_unique"
-       }
+         {
+            "id": "tg_unique"
+         }
       ],
       "source": "K/D",
       "license": "CASSANDRA",
@@ -426,5 +424,5 @@
       "description": "TODO Fluff",
       "data_type": "system",
       "aptitude": {}
-    }
- ]
+   }
+]
