@@ -535,7 +535,7 @@
       "traits": [
          {
             "name": "FORWARD OPERATING SUITE",
-            "description": "The Boudica has a command bridge large enough for a pilot and non-mech passenger, a head, and a number of additional rooms equal to its size staffed by a crew equal to its size. As a protocol, the crew onboard the Boudica may perform either a Scan, Lock On, or Bolster Quick Tech Action."
+            "description": "The Boudica has a command bridge large enough for a pilot and non-mech passenger, a head, and a number of additional rooms equal to its size staffed by a crew equal to its size. As a Protocol, the crew onboard the Boudica may perform either a Scan, Lock On, or Bolster Quick Tech Action."
          },
          {
             "name": "BEHEMOTH",
