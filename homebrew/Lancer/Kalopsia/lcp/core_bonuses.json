@@ -48,7 +48,7 @@
       "name": "SPECIFIC-APPLICATION WEAPON DEVELOPMENT",
       "source": "K/D",
       "description": "TODO Fluff",
-      "effect": "Gain a pool of 2 SP that may only be used for weapon mods. Weapons with an attached mod deal bonus damage equal to the SP cost of the mod.",
+      "effect": "Gain a pool of 4 SP that may only be used for weapon mods. You may attach.<br><br>NOTE: This feature is unsupported by Comp/Con, instead you can write the systems in the notes section of this weapon, creating custom counters for their limited uses, and accounting for SP accordingly.",
       "bonuses": [
          {
             "id": "sp",
