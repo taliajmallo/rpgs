@@ -1,4 +1,4 @@
-# (Solaria OR Narcia, pick one) (insert surname here)
+# Narcia
 ## Dossier
 Home World  :  Explorator Vessel (Forge World)
 Career/Rank :  Technographer (Tech-Priest)
@@ -9,7 +9,7 @@ Gender      :  Female
 Age         :  22
 Build       :  Petite (1.55m/40kg)
 Appearance  :  Tan, Black Hair, Green Eyes
-Quirk       :  Nervous Tic (Drumming fingers on a metal surface)
+Quirk       :  Nervous Tic (Drumming fingers on metal)
 Divination  :  "Truth is subjective."
 
 ## Attributes
@@ -21,9 +21,9 @@ Divination  :  "Truth is subjective."
 |  T   (Toughness)         |  38    |  --    |  --    |  38
 |  Ag  (Agility)           |  39    |  --    |  --    |  39
 |  Int (Intelligence)      |  43    |  +3    |  --    |  46
-|  Per (Perception)        |  33    |  -5    |  --    |  28
+|  Per (Perception)        |  33    |  --    |  --    |  33
 |  WP  (Willpower)         |  37    |  +3    |  --    |  40
-|  Fel (Fellowship)        |  24    |  --    |  --    |  24
+|  Fel (Fellowship)        |  24    |  -5    |  --    |  19
 
 |  **Other Attributes**    |  Val.  |  Notes |
 |--------------------------|--------|--------|
@@ -42,36 +42,36 @@ Divination  :  "Truth is subjective."
 |  **Skills, Trained**              |  Att.  |  Total |
 |-----------------------------------|--------|--------|
 |  Common Lore (Tech) I             |  Int   |  46
-|  Common Lore (Machine Cult) I     |  Int   |  46
-|  Evaluate I                       |  Int   |  46
-|  Forbidden Lore (Archaeotech) I   |  Int   |  46
 |  Literacy II                      |  Int   |  56
 |  Logic I                          |  Int   |  46
-|  Scholastic Lore (Cryptology) I   |  Int   |  46
+|  Psyniscience I                   |  Per   |  33
+|  Scholastic Lore (Archaic) I      |  Int   |  46
+|  Scholastic Lore (Bureaucracy) I  |  Int   |  46
 |  Secret Tongue (Tech) I           |  Int   |  46
 |  Speak Language (Low Gothic) I    |  Int   |  46
 |  Tech Use I                       |  Int   |  46
-|  Trade (Copyist)                  |  Int   |  46
+|  Trade (Copyist) I                |  Int   |  46
+
 |-----------------------------------|--------|--------|
 |  **Skills, Basic**                |        |        |
 |-----------------------------------|--------|--------|
-|  Awareness                        |  Per   |  14
-|  Barter                           |  Fel   |  12
+|  Awareness                        |  Per   |  16
+|  Barter                           |  Fel   |  9
 |  Carouse                          |  T     |  19
-|  Charm                            |  Fel   |  12
+|  Charm                            |  Fel   |  9
 |  Concealment                      |  Ag    |  19
 |  Contortionist                    |  Ag    |  19
-|  Deceive                          |  Fel   |  12
-|  Disguise                         |  Fel   |  12
+|  Deceive                          |  Fel   |  9
+|  Disguise                         |  Fel   |  9
 |  Dodge                            |  Ag    |  19
 |  Evaluate                         |  Int   |  23
 |  Gamble                           |  Int   |  23
-|  Inquiry                          |  Fel   |  12
+|  Inquiry                          |  Fel   |  9
 |  Intimidate                       |  S     |  14
 |  Logic                            |  Int   |  23
 |  Climb                            |  S     |  14
-|  Scrutiny                         |  Per   |  14
-|  Search                           |  Per   |  14
+|  Scrutiny                         |  Per   |  16
+|  Search                           |  Per   |  16
 |  Silent Move                      |  Ag    |  19
 |  Swim                             |  S     |  14
 
@@ -84,6 +84,8 @@ You may use Las weapons without penalty.
 You may use Las pistols without penalty.
 ### Binary Chatter
 You are adept at controlling servitors. Gain a +10 bonus to any attempt to instruct, program or question servitors.
+### Total Recall
+Through long years of mental conditioning and practice, your mind is like an archive, able to record and recall great amounts of information. You can automatically remember any trivial fact or piece of information that you might feasibly have picked up in the past. When trying to recall more detailed or obscure facts, such as the precise layout of a crime scene or a page you read in an ancient grimoire five years ago, the GM may require you to make an Intelligence Test.
 ### Electro Graft Use
 You have the ability to use an electro graft to access data points and commune with machine spirits. This grants you a +10 bonus to Common Lore, Inquiry or Tech-Use Tests whilst connected to a data point.
 ### Technical Knock
@@ -110,8 +112,8 @@ Effect: Forge world characters take a -10 penalty on Tests involving knowledge o
 ### Credo Omnissiah
 Rather than being fully indoctrinated into the Imperial Cult, even the lowliest member of a forge world's society is brought up to venerate the spirits of the machine and to know and trust the basic rites of tech-propitiation.
 Effect: You gain the Technical Knock talent.
-### Disciple of Thule Background Package
-Reduce starting Weapon Skill and Perception each by -5. You gain Common Lore (Machine Cult) (Int), Evaluate (Int), Forbidden Lore (Archaeotech) (Int), Logic (Int), and Scholastic Lore (Cryptology) (Int) as bonus Skills.
+### Cog in the Grand Machine Background Package
+Reduce starting Weapon Skill and Fellowship each by -5. You gain Literacy, Logic, Psyniscience, Scholastic Lore (Archaic), and Scholastic Lore (Bureaucracy) as bonus Skills. You gain Total Recall and Binary Chatter as bonus Talents.
 
 ## Belongings
 ### Wealth
@@ -122,7 +124,5 @@ Metal staff, las pistol and 1 charge pack, las carbine and 1 charge pack, knife,
 
 ## XP
 400 Spent / 400 Total
-- 100 Disciple of Thule
-- 100 Binary Chatter
-- 100 Literacy + 10
+- 300 Cog in the Grand Machine
 - 100 Common Lore (Tech)
