@@ -2,7 +2,7 @@
 ## Dossier
 Home World  :  Explorator Vessel (Forge World)
 Career/Rank :  Technographer (Tech-Priest)
-Background  :  Avid Disciple of Thule
+Background  :  Dutiful Cog in the Grand Machine
 
 ## Biographical Info
 Gender      :  Female
@@ -79,9 +79,9 @@ Divination  :  "Truth is subjective."
 ### Melee Weapon Training (Primitive)
 You may use primitive melee weapons without penalty.
 ### Basic Weapon Training (Las)
-You may use Las weapons without penalty.
+You may use las weapons without penalty.
 ### Pistol Training (Las)
-You may use Las pistols without penalty.
+You may use las pistols without penalty.
 ### Binary Chatter
 You are adept at controlling servitors. Gain a +10 bonus to any attempt to instruct, program or question servitors.
 ### Total Recall
