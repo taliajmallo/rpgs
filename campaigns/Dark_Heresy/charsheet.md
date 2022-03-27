@@ -55,6 +55,7 @@ Divination  :  "Truth is subjective."
 |-----------------------------------|--------|--------|
 |  **Skills, Basic**                |        |        |
 |-----------------------------------|--------|--------|
+|  Common Lore (Machine Cult)       |  Int   |  23
 |  Awareness                        |  Per   |  16
 |  Barter                           |  Fel   |  9
 |  Carouse                          |  T     |  19
