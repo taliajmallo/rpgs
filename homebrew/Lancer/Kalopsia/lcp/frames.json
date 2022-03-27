@@ -69,8 +69,8 @@
       "source": "K/D",
       "name": "GRENDEL",
       "mechtype": [
-         "Defender",
-         "Controller"
+         "Controller",
+         "Striker"
       ],
       "image_url": "https://example.com/image.png",
       "y_pos": 0,
