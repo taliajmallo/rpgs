@@ -104,11 +104,10 @@ occult innate cantrip.
 ~~Reflavored Tech-Reliant~~
 Some event, be it an accident, attack, or disaster, has left you horribly
 scarred by magic. Your body no longer tolerates magical healing in any capacity.
-Choose two ability boosts. One must be to Constitution or Intelligence, and one
-is a free ability boost. You're trained in the Crafting skill and the Medicine
-skill. You gain the Battle Medicine skill feat, and a +1 circumstance bonus to
-saving throws against spells. Healing spells, healing magic items, and magical
-effects with the healing trait have no effect on you.
+You're trained in the Crafting skill and the Medicine skill. You gain the 
+Battle Medicine skill feat, and a +1 circumstance bonus to saving throws 
+against spells. Healing spells, healing magic items, and magical effects with 
+the healing trait have no effect on you.
 
 ## Class - Psychic
 - Subconscious Mind: Gathered Lore
@@ -150,7 +149,7 @@ level, and can take actions that have the [Psyche] trait. You are then stupefied
 again during those two rounds.
 
 ### Recall the Teachings
-[Divination] [Occult] [Psyche] [Psychic]
+[Divination] [Occult] [Psyche] [Psychic] [>]
 The heightened power of your psyche lets you recall every lesson you've ever
 learned. You search your mind for the right teaching, which at first seems
 cryptic but comes into clarity when it's most relevant. Until the start of your
@@ -161,7 +160,6 @@ the form of short axioms, parables, or sayings, meaning that conveying them to
 your ally usually grants your Aid reaction the auditory and linguistic traits.
 
 ### Spells
-
 #### Dancing Lights (Cantrip I*)
 [Cantrip] [Evocation] [Light] [Verbal] [Somatic] [>>]
 *Range* 120 feet
