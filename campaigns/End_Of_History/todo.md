@@ -1,2 +1,0 @@
-- Rename folder once campaign has a name
-- Finish chargen
