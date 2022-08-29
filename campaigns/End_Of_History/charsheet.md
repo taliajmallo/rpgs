@@ -4,7 +4,7 @@
 - Background: Soul-Scarred
 - Class: Psychic 1
 
-[Selfless] [Lawful] [Tolerant]
+[Selfless] [Tolerant] [Traditional]
 [Medium] [Kitsune] [Changeling] [Humanoid]
 
 ## Stats
