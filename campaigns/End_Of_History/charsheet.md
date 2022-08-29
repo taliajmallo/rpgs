@@ -1,4 +1,4 @@
-# ???
+# Sakari / Sinta
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Soul-Scarred
@@ -53,11 +53,11 @@
 | *Arcana*        |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
 | *Crafting*      |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
 | *L: Academia*   |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
-| *L: Astronomy*  |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
 | *L: Haglore*    |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
 | *Medicine*      |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
 | *Nature*        |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
 | *Occultism*     |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
+| *Performance*   |  +2    |  +     |  +1+2  |  -1 Cha   |  -     |  -
 | *Religion*      |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
 | *Society*       |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
@@ -66,7 +66,6 @@
 | *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Diplomacy*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
-| *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Stealth*       |  +1    |        |  +0    |  +1 Dex   |  -     |  -
 | *Survival*      |  +3    |        |  +0    |  +3 Wis   |  -     |  -
 | *Thievery*      |  +1    |        |  +0    |  +1 Dex   |  -     |  -
