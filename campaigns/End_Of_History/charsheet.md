@@ -14,8 +14,8 @@
 | **STR** | 10 (--) |
 | **DEX** | 12 (+1) |
 | **CON** | 12 (+1) |
-| **INT** | 18 (+4) |
-| **WIS** | 16 (+3) |
+| **INT** | 16 (+3) |
+| **WIS** | 18 (+4) |
 | **CHA** |  8 (-1) |
 
 ### Resources
@@ -34,32 +34,31 @@
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Fortitude*     |  +4    |  +     |  +1+2  |  +1 Con   |  -     |  +1/Spell
 | *Reflex*        |  +4    |  +     |  +1+2  |  +1 Dex   |  -     |  +1/Spell
-| *Will*          |  +8    |  ++    |  +1+4  |  +3 Wis   |  -     |  +1/Spell
+| *Will*          |  +9    |  ++    |  +1+4  |  +4 Wis   |  -     |  +1/Spell
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  17    |  +     |  +1+2  |  +4 Int   |  -     |  -
-| *Occult DC*     |  17    |  +     |  +1+2  |  +4 Int   |  -     |  -
+| *Class DC*      |  17    |  +     |  +1+2  |  +4 Wis   |  -     |  -
+| *Occult DC*     |  17    |  +     |  +1+2  |  +4 Wis   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
-| *Occult Attack* |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
+| *Perception*    |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
+| *Occult Attack* |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
 | *Dex Attack*    |  +4    |  +     |  +1+2  |  +1 Dex   |  -     |  -
 | *Str Attack*    |  +3    |  +     |  +1+2  |  +0 Str   |  -     |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
-| *Crafting*      |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
-| *L: Academia*   |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
-| *L: Haglore*    |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
-| *Medicine*      |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
-| *Nature*        |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
-| *Occultism*     |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
+| *Arcana*        |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
+| *Crafting*      |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
+| *L: Academia*   |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
+| *Medicine*      |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
+| *Nature*        |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
+| *Occultism*     |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
 | *Performance*   |  +2    |  +     |  +1+2  |  -1 Cha   |  -     |  -
-| *Religion*      |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
-| *Society*       |  +7    |  +     |  +1+2  |  +4 Int   |  -     |  -
+| *Religion*      |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
+| *Society*       |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Acrobatics*    |  +1    |        |  +0    |  +1 Dex   |  -     |  -
 | *Athletics*     |  +0    |        |  +0    |  +0 Str   |  -     |  -
@@ -67,7 +66,7 @@
 | *Diplomacy*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Stealth*       |  +1    |        |  +0    |  +1 Dex   |  -     |  -
-| *Survival*      |  +3    |        |  +0    |  +3 Wis   |  -     |  -
+| *Survival*      |  +4    |        |  +0    |  +4 Wis   |  -     |  -
 | *Thievery*      |  +1    |        |  +0    |  +1 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 
@@ -110,7 +109,7 @@ against spells. Healing spells, healing magic items, and magical effects with
 the healing trait have no effect on you.
 
 ## Class - Psychic
-- Subconscious Mind: Gathered Lore
+- Subconscious Mind: Moonlit Serenity (WIS Emotional Acceptance) 
 - Conscious Mind: Tangible Dream
 
 ### Psychic Spellcasting
@@ -148,16 +147,15 @@ level, and can take actions that have the [Psyche] trait. You are then stupefied
 1 for two rounds, and even if that is removed early cannot unleash your psyche
 again during those two rounds.
 
-### Recall the Teachings
-[Divination] [Occult] [Psyche] [Psychic] [>]
-The heightened power of your psyche lets you recall every lesson you've ever
-learned. You search your mind for the right teaching, which at first seems
-cryptic but comes into clarity when it's most relevant. Until the start of your
-next turn, you count as having prepared to Aid all allies within 30 feet of you.
-If you use the Aid reaction to help one of them during that time, you roll an
-Occultism check for Aid as you recall a lesson to help them. Most lessons take
-the form of short axioms, parables, or sayings, meaning that conveying them to
-your ally usually grants your Aid reaction the auditory and linguistic traits.
+### Restore the Mind
+[Emotion] [Enchantment] [Healing] [Mental] [Psyche] [Psychic] [>]
+Your unleashed psyche gives you closer connections to the emotions of your 
+allies, letting you project reassurance and calm that replenishes their 
+mind and body. 
+Choose one of the two benefits to grant one ally within 30 feet that you can 
+see. That ally is then temporarily immune for 10 minutes.
+- The ally gains a +1 status bonus to saving throws against mental effects until your psyche ends.
+- The ally regains Hit Points equal to 2 + double your level.
 
 ### Spells
 #### Dancing Lights (Cantrip I*)
@@ -272,11 +270,15 @@ Swirling colors affect viewers based on their Will saves.
 - *Failure* The creature is stunned 1, blinded for 1 round, and dazzled for 1 minute.
 - *Critical Failure* The creature is stunned for 1 round and blinded for 1 minute.
 
-#### Soothe (Spell I*)
-[Emotion] [Enchantment] [Healing] [Mental] [Verbal] [Somatic] [>>]
-*Range* 30 feet; Targets 1 willing living creature
+#### Sanctuary (Spell I)
+[Abjuration] [Verbal] [Somatic] [>>]
+*Range* touch; Targets 1 creature
 *Duration* 1 minute
-You grace the target's mind, boosting its mental defenses and healing its wounds.
-The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2
-status bonus to saves against mental effects for the duration.
-*Heightened (+1)* The amount of healing increases by 1d10+4.
+You ward a creature with protective energy that deters enemy attacks. Creatures
+attempting to attack the target must attempt a Will save each time. If the 
+target uses a hostile action, the spell ends.
+
+- *Critical Success* Sanctuary ends.
+- *Success* The creature can attempt its attack and any other attacks against the target this turn.
+- *Failure* The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.
+- *Critical Failure* The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.
