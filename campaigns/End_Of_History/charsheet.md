@@ -107,6 +107,8 @@ You're trained in the Crafting skill and the Medicine skill. You gain the
 Battle Medicine skill feat, and a +1 circumstance bonus to saving throws 
 against spells. Healing spells, healing magic items, and magical effects with 
 the healing trait have no effect on you.
+### Languages
+Omnarki Sign, Low Song, High Song, Vaaltid
 
 ## Class - Psychic
 - Subconscious Mind: Moonlit Serenity (WIS Emotional Acceptance) 
@@ -282,3 +284,30 @@ target uses a hostile action, the spell ends.
 - *Success* The creature can attempt its attack and any other attacks against the target this turn.
 - *Failure* The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.
 - *Critical Failure* The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.
+
+## Belongings
+Coinage: 00.95
+Bulk 2.3
+### Armor
+- [x] Winter Clothing (.4, L) 
+### Weapons
+- [ ] Dagger (.2, L) 
+### Gear
+- Healer's Tools (5, 1)
+- Silver Religious Symbol of the Sunlord (2, L) 
+- Wooden Religious Symbol of the Moon (.1, L) 
+- Backpack (.1, L, stores 4 at 2 discount) 
+  - Basic Crafter's Book (.1, L)
+  - Bedroll (.02, L)
+  - Cookware (1, 2)
+  - Flint & Steel (.05, -) 
+  - Hand Mirror (1, -) 
+  - Religious Text (1, L) 
+  - Rope (.5, L) 
+  - Soap (.02, -) 
+  - Tent (.8, L) 
+  - Waterskin (.05, L)
+  - Writing Kit (1, L)
+  - 2x Week's Rations (.4/, L/)
+  - 5x Candles (.01/, -)
+  - 5x Chalk (.01/, -)
