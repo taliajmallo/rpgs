@@ -241,7 +241,7 @@ Wounds. If you have the Battle Medicine feat, you may use that feat as part of
 the action of casting this cantrip.
 
 #### Forbidding Ward (Cantrip I*)
-[Abjuration] [Cantrip] [Somatic] [Verbal] [>]
+[Abjuration] [Cantrip] [Somatic] [Verbal] [>>]
 *Range* 30 feet; Targets 1 ally and 1 enemy
 Duration sustained up to 1 minute
 You ward an ally against the attacks and hostile spells from the target enemy.
