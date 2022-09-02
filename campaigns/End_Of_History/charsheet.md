@@ -286,14 +286,13 @@ target uses a hostile action, the spell ends.
 - *Critical Failure* The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.
 
 ## Belongings
-Coinage: 00.95
-Bulk 2.3
+Coinage: 05.95
+Bulk 1.3
 ### Armor
 - [x] Winter Clothing (.4, L) 
 ### Weapons
 - [ ] Dagger (.2, L) 
 ### Gear
-- Healer's Tools (5, 1)
 - Silver Religious Symbol of the Sunlord (2, L) 
 - Wooden Religious Symbol of the Moon (.1, L) 
 - Backpack (.1, L, stores 4 at 2 discount) 
