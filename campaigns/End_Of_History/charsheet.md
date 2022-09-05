@@ -104,15 +104,15 @@ occult innate cantrip.
 ~~Reflavored Tech-Reliant~~
 Some event, be it an accident, attack, or disaster, has left you horribly
 scarred by magic. Your body no longer tolerates magical healing in any capacity.
-You're trained in the Crafting skill and the Medicine skill. You gain the 
-Battle Medicine skill feat, and a +1 circumstance bonus to saving throws 
-against spells. Healing spells, healing magic items, and magical effects with 
+You're trained in the Crafting skill and the Medicine skill. You gain the
+Battle Medicine skill feat, and a +1 circumstance bonus to saving throws
+against spells. Healing spells, healing magic items, and magical effects with
 the healing trait have no effect on you.
 ### Languages
 Omnarki Sign, Low Song, High Song, Vaaltid
 
 ## Class - Psychic
-- Subconscious Mind: Moonlit Serenity (WIS Emotional Acceptance) 
+- Subconscious Mind: Moonlit Serenity (WIS Emotional Acceptance)
 - Conscious Mind: Tangible Dream
 
 ### Psychic Spellcasting
@@ -152,10 +152,10 @@ again during those two rounds.
 
 ### Restore the Mind
 [Emotion] [Enchantment] [Healing] [Mental] [Psyche] [Psychic] [>]
-Your unleashed psyche gives you closer connections to the emotions of your 
-allies, letting you project reassurance and calm that replenishes their 
-mind and body. 
-Choose one of the two benefits to grant one ally within 30 feet that you can 
+Your unleashed psyche gives you closer connections to the emotions of your
+allies, letting you project reassurance and calm that replenishes their
+mind and body.
+Choose one of the two benefits to grant one ally within 30 feet that you can
 see. That ally is then temporarily immune for 10 minutes.
 - The ally gains a +1 status bonus to saving throws against mental effects until your psyche ends.
 - The ally regains Hit Points equal to 2 + double your level.
@@ -278,7 +278,7 @@ Swirling colors affect viewers based on their Will saves.
 *Range* touch; Targets 1 creature
 *Duration* 1 minute
 You ward a creature with protective energy that deters enemy attacks. Creatures
-attempting to attack the target must attempt a Will save each time. If the 
+attempting to attack the target must attempt a Will save each time. If the
 target uses a hostile action, the spell ends.
 
 - *Critical Success* Sanctuary ends.
@@ -290,22 +290,22 @@ target uses a hostile action, the spell ends.
 Coinage: 05.95
 Bulk 1.3
 ### Armor
-- [x] Winter Clothing (.4, L) 
+- [x] Winter Clothing (.4, L)
 ### Weapons
-- [ ] Dagger (.2, L) 
+- [ ] Dagger (.2, L)
 ### Gear
-- Silver Religious Symbol of the Sunlord (2, L) 
-- Wooden Religious Symbol of the Moon (.1, L) 
-- Backpack (.1, L, stores 4 at 2 discount) 
+- Silver Religious Symbol of the Sunlord (2, L)
+- Wooden Religious Symbol of the Moon (.1, L)
+- Backpack (.1, L, stores 4 at 2 discount)
   - Basic Crafter's Book (.1, L)
   - Bedroll (.02, L)
   - Cookware (1, 2)
-  - Flint & Steel (.05, -) 
-  - Hand Mirror (1, -) 
-  - Religious Text (1, L) 
-  - Rope (.5, L) 
-  - Soap (.02, -) 
-  - Tent (.8, L) 
+  - Flint & Steel (.05, -)
+  - Hand Mirror (1, -)
+  - Religious Text (1, L)
+  - Rope (.5, L)
+  - Soap (.02, -)
+  - Tent (.8, L)
   - Waterskin (.05, L)
   - Writing Kit (1, L)
   - 2x Week's Rations (.4/, L/)
