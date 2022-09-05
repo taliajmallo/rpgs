@@ -53,10 +53,10 @@
 | *Arcana*        |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
 | *Crafting*      |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
 | *L: Academia*   |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
+| *L: Library*    |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
 | *Medicine*      |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
 | *Nature*        |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
 | *Occultism*     |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
-| *Performance*   |  +2    |  +     |  +1+2  |  -1 Cha   |  -     |  -
 | *Religion*      |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
 | *Society*       |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
@@ -65,6 +65,7 @@
 | *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Diplomacy*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
+| *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Stealth*       |  +1    |        |  +0    |  +1 Dex   |  -     |  -
 | *Survival*      |  +4    |        |  +0    |  +4 Wis   |  -     |  -
 | *Thievery*      |  +1    |        |  +0    |  +1 Dex   |  -     |  -
