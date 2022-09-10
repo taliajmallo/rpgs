@@ -1,4 +1,4 @@
-# Sakari / Sinta
+# Sakari Kiriama / Sinta Mariwa
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Soul-Scarred
