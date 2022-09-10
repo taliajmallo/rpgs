@@ -45,14 +45,14 @@ Situational & Temporary Effects:
   - Treat Wounds 1h: DC 15 Medicine / 2d8 HP / 4d8 HP crit.
   - Battle Medicine >: Treat Wounds 1/day/target as >.
     - [ ] Self
-    - [ ] Shira's char
-    - [ ] Violet's char
+    - [ ] Suyra (Shira)
+    - [ ] Iona (Violet) 
     - [ ] Jay's char 
   - First Aid >>: Either of:
     - DC 15+Dying # to remove dying
     - DC (Causing Effect) to grant extra DC 10-15 flat check to remove bleeding
 - *Prestidigitation* >>: Minor conveniences. 
-- *Shield* >: Ally gains +1 AC, can use own reaction to raise shield and block 5 damage. On raising, cannot cast again for 10min. 
+- *Shield* >: Ally or self gains +1 AC, can use own reaction to raise shield and block 5 damage. On raising, cannot cast again for 10min. 
 
 ## Other
 - *Fox Form* >: Turn into a fox. 
