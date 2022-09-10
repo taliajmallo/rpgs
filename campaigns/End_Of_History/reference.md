@@ -60,9 +60,9 @@ Situational & Temporary Effects:
 - *Command Animal* >: Nature vs Will, auto-fail if unfriendly or hostile, +1 SL if helpful. 
 
 ## Focus Spells
-- Amp Dancing Lights: Lights must stick together. On cast in 5' emanation around lights, DC 17 Fortitude, As Success / Dazzled 1r immune 1m / Dazzled 1r, re-save on starting turn adj to light / Dazzled 1r, Fascinated 1r, re-save as Failure
-- Amp Imaginary Weapons: Attack 2x different targets; MAP only increases after spell. 
-- Amp Shield: Gain 3 layers, can sustain. Only gets +1 AC while all 3 layers hold; when shield blocking can spent 1/2/3 layers for 5/7/10 DR. 
+- *Amp Dancing Lights* >>: Lights must stick together. On cast in 5' emanation around lights, DC 17 Fortitude, As Success / Dazzled 1r immune 1m / Dazzled 1r, re-save on starting turn adj to light / Dazzled 1r, Fascinated 1r, re-save as Failure
+- *Amp Imaginary Weapons* >>: Attack 2x different targets; MAP only increases after spell. 
+- *Amp Shield* >: Gain 3 layers, can sustain. Only gets +1 AC while all 3 layers hold; when shield blocking can spent 1/2/3 layers for 5/7/10 DR. 
 
 ## Spell Slots
 - L1
