@@ -7,6 +7,30 @@
 | *Spells*     |--------------|
 |  1st         |  [x]         |
 
+## Skills
+| **Skill**       |  Base  |
+|-----------------|--------|
+| *Arcana*        |  +6    |
+| *Crafting*      |  +6    |
+| *L: Academia*   |  +6    |
+| *L: Library*    |  +6    |
+| *Medicine*      |  +7    |
+| *Nature*        |  +7    |
+| *Occultism*     |  +6    |
+| *Religion*      |  +7    |
+| *Society*       |  +6    |
+|-----------------|--------|
+| *Acrobatics*    |  +1    |
+| *Athletics*     |  +0    |
+| *Deception*     |  -1    |
+| *Diplomacy*     |  -1    |
+| *Intimidation*  |  -1    |
+| *Performance*   |  -1    |
+| *Stealth*       |  +1    |
+| *Survival*      |  +4    |
+| *Thievery*      |  +1    |
+|-----------------|--------| 
+
 ## Defenses
 | **Defense**     |  Base  |
 |-----------------|--------|
