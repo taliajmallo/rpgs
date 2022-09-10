@@ -42,19 +42,22 @@ Situational & Temporary Effects:
 - *Guidance* >: 1/Target/Hour +1 to single d20 roll
 - *Imaginary Weapon* >>: Melee spell attack, 1d8+4 damage. Crits may knockback 10'.
 - *Moonlit Bandages*: Medicine. 
-  - Treat Wounds / Battle Medicine: 1/Target/Day >, otherwise 1h, DC 15 Medicine / 2d8 HP / 4d8 HP crit). 
+  - Treat Wounds 1h: DC 15 Medicine / 2d8 HP / 4d8 HP crit.
+  - Battle Medicine >: Treat Wounds 1/day/target as >.
     - [ ] Self
     - [ ] Shira's char
     - [ ] Violet's char
     - [ ] Jay's char 
-  - First Aid >:
+  - First Aid >>: Either of:
     - DC 15+Dying # to remove dying
     - DC (Causing Effect) to grant extra DC 10-15 flat check to remove bleeding
 - *Prestidigitation* >>: Minor conveniences. 
 - *Shield* >: Ally gains +1 AC, can use own reaction to raise shield and block 5 damage. On raising, cannot cast again for 10min. 
 
 ## Other
-- Fox Form >: Turn into a fox. 
+- *Fox Form* >: Turn into a fox. 
+- *Recall Knowledge* >: Remember a thing. 
+- *Command Animal* >: Nature vs Will, auto-fail if unfriendly or hostile, +1 SL if helpful. 
 
 ## Focus Spells
 - Amp Dancing Lights: Lights must stick together. On cast in 5' emanation around lights, DC 17 Fortitude, As Success / Dazzled 1r immune 1m / Dazzled 1r, re-save on starting turn adj to light / Dazzled 1r, Fascinated 1r, re-save as Failure
@@ -64,4 +67,4 @@ Situational & Temporary Effects:
 ## Spell Slots
 - L1
   - *Color Spray* >>: DC 17 Will, Nothing / Dazzled 1r / Stunned 1, Blinded 1r, Dazzled 1m / Stunned 1r, Blinded 1m
-  - *Sanctuary* >>: Until target takes hostile action, attackers must make DC 17 Will or be unable to attack target that turn. Crit success ends spell, crit fail means they can't attempt again for duration. 
+  - *Sanctuary* >>: Until target takes hostile action, attackers must make DC 17 Will or be unable to attack target that turn. Crit success ends spell, crit fail means they can't attempt again for duration.
