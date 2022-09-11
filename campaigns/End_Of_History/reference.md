@@ -2,11 +2,11 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  15/15       |
+| *HP*         |  12/15       |
 | *Focus*      |  [x] [x]     |
-| *Fortune*    |  [x] [ ] [ ] |
+| *Fortune*    |  [ ] [ ] [ ] |
 | *Spells*     |--------------|
-|  1st         |  [x]         |
+|  1st         |  [ ]         |
 
 ## Skills
 | **Skill**       |  Base  |
@@ -42,7 +42,8 @@
 Situational & Temporary Effects:
 - +1 Circumstance Save/Spell
 - [ ] +1 Circumstance AC with Shield
-- [ ] +1 Status AC with Forbidding Ward
+- [ ] +1 Status AC, saves with Forbidding Ward
+- [ ] +2 Status AC with Suyra's Lay on Hands
 
 ## Offenses
 | **Offense**     |  Base  |
@@ -60,18 +61,22 @@ Situational & Temporary Effects:
 ## Psyche
 - *Unleash Psyche* <>: Requires having cast a spell last round. For 2 rounds, +(2x spell level) instantaneous spell damage. Stupefied 1 for 2 rounds after.
   - *Restore the Mind* >: 1/Ally/10min, either heal 3hp or +1 saves/mental until psyche ends.
+    - [ ] Self
+    - [ ] Suyra (Shira)
+    - [ ] Iona (Violet)
+    - [ ] Zephyr (Jay)  
 
 ## Cantrips
 - *Dancing Lights* >>: Make lights.
-- *Forbidding Ward* >>: Target ally gains +1 AC vs target enemy
+- *Forbidding Ward* >>: Target ally gains +1 AC and saves vs target enemy
 - *Guidance* >: 1/Target/Hour +1 to single d20 roll
 - *Imaginary Weapon* >>: Melee spell attack, 1d8+4 damage. Crits may knockback 10'.
 - *Moonlit Bandages*: Medicine.
   - Treat Wounds 1h: DC 15 Medicine / 2d8 HP / 4d8 HP crit.
   - Battle Medicine >: Treat Wounds 1/day/target as >.
-    - [ ] Self
-    - [ ] Suyra (Shira)
-    - [ ] Iona (Violet)
+    - [x] Self
+    - [x] Suyra (Shira)
+    - [x] Iona (Violet)
     - [ ] Zephyr (Jay) 
   - First Aid >>: Either of:
     - DC 15+Dying # to remove dying
