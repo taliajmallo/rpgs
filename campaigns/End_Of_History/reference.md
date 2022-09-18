@@ -2,11 +2,11 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  12/15       |
+| *HP*         |  15/15       |
 | *Focus*      |  [x] [x]     |
 | *Fortune*    |  [ ] [ ] [ ] |
 | *Spells*     |--------------|
-|  1st         |  [ ]         |
+|  1st         |  [x]         |
 
 ## Skills
 | **Skill**       |  Base  |
@@ -74,9 +74,9 @@ Situational & Temporary Effects:
 - *Moonlit Bandages*: Medicine.
   - Treat Wounds 1h: DC 15 Medicine / 2d8 HP / 4d8 HP crit.
   - Battle Medicine >: Treat Wounds 1/day/target as >.
-    - [x] Self
-    - [x] Suyra (Shira)
-    - [x] Iona (Violet)
+    - [ ] Self
+    - [ ] Suyra (Shira)
+    - [ ] Iona (Violet)
     - [ ] Zephyr (Jay) 
   - First Aid >>: Either of:
     - DC 15+Dying # to remove dying
