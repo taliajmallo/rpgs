@@ -4,6 +4,7 @@
 - 3x Lesser Antiplague (Sinta)
 - 1x Minor Health Potion (Surya)
 - 1x Scroll of Summon Lesser Servitor (Sinta)
+- 1x Minor Elixir of Life (Iona)
 ## Quest Items
 - Ephemera Malefica (Sinta)
 - Sakari's Diary (Surya)

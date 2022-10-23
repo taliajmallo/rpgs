@@ -4,7 +4,7 @@
 |--------------|--------------|
 | *HP*         |  15/15       |
 | *Focus*      |  [x] [x]     |
-| *Fortune*    |  [ ] [ ] [ ] |
+| *Fortune*    |  [x] [ ] [ ] |
 | *Spells*     |--------------|
 |  1st         |  [x]         |
 
@@ -64,7 +64,7 @@ Situational & Temporary Effects:
     - [ ] Self
     - [ ] Suyra (Shira)
     - [ ] Iona (Violet)
-    - [ ] Zephyr (Jay)  
+    - [ ] Granz (Jay)  
 
 ## Cantrips
 - *Dancing Lights* >>: Make lights.
@@ -77,7 +77,7 @@ Situational & Temporary Effects:
     - [ ] Self
     - [ ] Suyra (Shira)
     - [ ] Iona (Violet)
-    - [ ] Zephyr (Jay) 
+    - [ ] Granz (Jay) 
   - First Aid >>: Either of:
     - DC 15+Dying # to remove dying
     - DC (Causing Effect) to grant extra DC 10-15 flat check to remove bleeding
