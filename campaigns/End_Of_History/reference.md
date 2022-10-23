@@ -6,7 +6,7 @@
 | *Focus*      |  [x] [x]     |
 | *Fortune*    |  [x] [ ] [ ] |
 | *Spells*     |--------------|
-|  1st         |  [x]         |
+|  1st         |  [x] [x]     |
 
 ## Skills
 | **Skill**       |  Base  |
