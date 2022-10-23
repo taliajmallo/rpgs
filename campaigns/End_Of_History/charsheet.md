@@ -2,7 +2,7 @@
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Soul-Scarred
-- Class: Psychic 1
+- Class: Psychic 2
 
 [Selfless] [Tolerant] [Traditional]
 [Medium] [Kitsune] [Changeling] [Humanoid]
@@ -21,44 +21,44 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  15/15       |  +1/Rest
+| *HP*         |  22/22       |  +2/Rest
 | *Focus*      |  [x] [x]     |  +2/Refocus
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 | *Spells*     |--------------|  +All/Rest
-|  1st         |  [x]         |
+|  1st         |  [x] [x]     |
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Unarmored AC*  |  14    |  +     |  +1+2  |  +1 Dex   |  -     |  +1 w/ Shield
+| *Unarmored AC*  |  15    |  +     |  +2+2  |  +1 Dex   |  -     |  +1 w/ Shield
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Fortitude*     |  +4    |  +     |  +1+2  |  +1 Con   |  -     |  +1/Spell
-| *Reflex*        |  +4    |  +     |  +1+2  |  +1 Dex   |  -     |  +1/Spell
-| *Will*          |  +9    |  ++    |  +1+4  |  +4 Wis   |  -     |  +1/Spell
+| *Fortitude*     |  +5    |  +     |  +2+2  |  +1 Con   |  -     |  +1/Spell
+| *Reflex*        |  +5    |  +     |  +2+2  |  +1 Dex   |  -     |  +1/Spell
+| *Will*          |  +10   |  ++    |  +2+4  |  +4 Wis   |  -     |  +1/Spell
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  17    |  +     |  +1+2  |  +4 Wis   |  -     |  -
-| *Occult DC*     |  17    |  +     |  +1+2  |  +4 Wis   |  -     |  -
+| *Class DC*      |  18    |  +     |  +2+2  |  +4 Wis   |  -     |  -
+| *Occult DC*     |  18    |  +     |  +2+2  |  +4 Wis   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
-| *Occult Attack* |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
-| *Dex Attack*    |  +4    |  +     |  +1+2  |  +1 Dex   |  -     |  -
-| *Str Attack*    |  +3    |  +     |  +1+2  |  +0 Str   |  -     |  -
+| *Perception*    |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
+| *Occult Attack* |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
+| *Dex Attack*    |  +5    |  +     |  +2+2  |  +1 Dex   |  -     |  -
+| *Str Attack*    |  +4    |  +     |  +2+2  |  +0 Str   |  -     |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
-| *Crafting*      |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
-| *L: Academia*   |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
-| *L: Library*    |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
-| *Medicine*      |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
-| *Nature*        |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
-| *Occultism*     |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
-| *Religion*      |  +7    |  +     |  +1+2  |  +4 Wis   |  -     |  -
-| *Society*       |  +6    |  +     |  +1+2  |  +3 Int   |  -     |  -
+| *Arcana*        |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
+| *Crafting*      |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
+| *L: Academia*   |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
+| *L: Library*    |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
+| *Medicine*      |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
+| *Nature*        |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
+| *Occultism*     |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
+| *Religion*      |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
+| *Society*       |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Acrobatics*    |  +1    |        |  +0    |  +1 Dex   |  -     |  -
 | *Athletics*     |  +0    |        |  +0    |  +0 Str   |  -     |  -
@@ -80,6 +80,12 @@ amount of Hit Points; this does not remove the wounded condition. As with Treat
 Wounds, you can attempt checks against higher DCs if you have the minimum
 proficiency rank. The target is then temporarily immune to your Battle Medicine
 for 1 day.
+#### Assurance, Medicine (2nd)
+[Fortune] [General] [Skill]
+Even in the worst circumstances, you can perform basic tasks. Choose a skill
+you're trained in. You can forgo rolling a skill check for that skill to instead
+receive a result of 10 + your proficiency bonus (do not apply any other bonuses,
+penalties, or modifiers).
 
 ## Ancestry - Kitsune Changeling
 ### Kitsune
@@ -160,8 +166,33 @@ see. That ally is then temporarily immune for 10 minutes.
 - The ally gains a +1 status bonus to saving throws against mental effects until your psyche ends.
 - The ally regains Hit Points equal to 2 + double your level.
 
+### Class Feats
+#### Cathartic Mage (2nd)
+[Uncommon] [Archetype] [Dedication]
+You've learned to harness a particular emotion and mix it into your magic. If
+you can already cast spells from spell slots, you learn one additional cantrip
+from your spellcasting tradition. You gain the Catharsis reaction and the Settle
+Emotions activity.
+##### Catharsis
+[Concentrate] [Emotion] [Mental] [<]
+**Trigger:** Your emotional focus takes damage from an enemy while within 30
+feet of you.
+**Activation:** Your emotional focus gains a number of temporary Hit Points
+equal to half your level rounded up. These temporary HP last for 1 minute.
+**Emotional Fervor:** Your spells that target your emotional focus gain the
+benefits of Reach Spell. When you cast a healing spell that affects your
+emotional focus, your emotional focus also gains temporary HP equal to the
+spell's level in addition to the spell's effects. These temporary HP last for 1
+minute. You may also cast the spell Spirit Link. These benefits last 3 rounds.
+**Emotional Fallout:** Until you Settle your Emotions, you can't Cast Spells
+unless you're adjacent to your emotional focus.
+##### Settle Emotions
+[Concentrate] [Emotion] [Mental]
+You spend 10 minutes using techniques you've developed to calm your emotions and
+bring them back under control. This allows you to access your Catharsis again.
+
 ### Spells
-#### Dancing Lights (Cantrip I*)
+#### Dancing Lights (Cantrip I Amp)
 [Cantrip] [Evocation] [Light] [Verbal] [Somatic] [>>]
 *Range* 120 feet
 *Duration* sustained
@@ -178,7 +209,7 @@ Fortitude save.
 - *Failure* The creature is dazzled until the start of your next turn and must attempt a new save against the spell whenever it starts its turn adjacent to the lights.
 - *Critical Failure* As failure, but the creature is also fascinated by the lights until the start of your next turn.
 
-#### Shield (Cantrip I*)
+#### Shield (Cantrip I Amp)
 [Abjuration] [Cantrip] [Force] [Verbal] [>]
 *Duration* until the start of your next turn
 You raise a magical shield of force. This counts as using the Raise a Shield
@@ -209,7 +240,7 @@ If you break two layers instead of one, increase the Hardness to 1-1/2 × the
 normal amount. If you break all three layers, increase the Hardness to double
 the normal amount.
 
-#### Imaginary Weapon (Cantrip I*)
+#### Imaginary Weapon (Cantrip I Amp)
 [Attack] [Cantrip] [Evocation] [Force] [Psychic] [Verbal] [Somatic] [>>]
 *Range* touch; Targets 1 creature
 You create a simple weapon of force. Make a melee spell attack roll against your
@@ -241,7 +272,7 @@ in lieu of healer's tools for Medicine checks to Administer First Aid or Treat
 Wounds. If you have the Battle Medicine feat, you may use that feat as part of
 the action of casting this cantrip.
 
-#### Forbidding Ward (Cantrip I*)
+#### Forbidding Ward (Cantrip I Amp)
 [Abjuration] [Cantrip] [Somatic] [Verbal] [>>]
 *Range* 30 feet; Targets 1 ally and 1 enemy
 Duration sustained up to 1 minute
@@ -262,6 +293,17 @@ conditions.
 - Lift: Slowly lift an unattended object of light Bulk or less 1 foot off the ground.
 - Make: Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile - it can't be used as a tool, weapon, or spell component.
 - Tidy: Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.
+
+#### Phase Bolt (Cantrip I)
+[Attack] [Cantrip] [Evocation] [Somatic] [Verbal] [>>]
+*Range* 30 feet; Targets 1 creature
+You point your finger and project a bolt of magical energy that stutters in and
+out of phase until it reaches the target. Make a ranged spell attack roll
+against your target's AC; if the target has any circumstance bonuses to AC (such
+as from a shield or cover), reduce that bonus by 2 for this attack. On a success,
+you deal 1d4 piercing damage plus your spellcasting ability modifier. On a
+critical success, the target takes double damage.
+*Heightened (+1)* The bolt's damage increases by 1d4.
 
 #### Color Spray (Spell I)
 [Illusion] [Incapacitation] [Visual] [Verbal] [Somatic] [>>]
@@ -286,6 +328,23 @@ target uses a hostile action, the spell ends.
 - *Failure* The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.
 - *Critical Failure* The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.
 
+#### Spirit Link (Spell I Catharsis)
+[Healing] [Necromancy] [Somatic] [Verbal] [>>]
+*Range* 30 feet; Targets 1 willing creature
+*Duration* 10 minutes
+You form a spiritual link with another creature, allowing you to take in its
+pain. When you Cast this Spell and at the start of each of your turns, if the
+target is below maximum Hit Points, it regains 2 Hit Points (or the difference
+between its current and maximum Hit Points, if that's lower). You lose as many
+Hit Points as the target regained.
+This is a spiritual transfer, so no effects apply that would increase the Hit
+Points the target regains or decrease the Hit Points you lose. This transfer
+also ignores any temporary Hit Points you or the target have. Since this effect
+doesn't involve positive or negative energy, spirit link works even if you or
+the target is undead. While the duration persists, you gain no benefit from
+regeneration or fast healing. You can Dismiss this spell, and if you're ever at
+0 Hit Points, spirit link ends automatically.
+*Heightened (+1)* The number of Hit Points transferred each time increases by 2.
 ## Belongings
 Coinage: 05.95
 Bulk 1.3
@@ -312,7 +371,7 @@ Bulk 1.3
   - Writing Kit (1, L)
 - Backpack, Consumables (-, -)
   - 2x Lesser Antidote (?, ?)
-  - 3x Lesser Antiplague (?, ?) 
+  - 3x Lesser Antiplague (?, ?)
   - 2x Week's Rations (.4/, L/)
   - 5x Candles (.01/, -)
   - 5x Chalk (.01/, -)
