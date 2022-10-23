@@ -2,7 +2,7 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  15/15       |
+| *HP*         |  22/22       |
 | *Focus*      |  [x] [x]     |
 | *Fortune*    |  [ ] [ ] [ ] |
 | *Spells*     |--------------|
@@ -11,15 +11,15 @@
 ## Skills
 | **Skill**       |  Base  |
 |-----------------|--------|
-| *Arcana*        |  +6    |
-| *Crafting*      |  +6    |
-| *L: Academia*   |  +6    |
-| *L: Library*    |  +6    |
-| *Medicine*      |  +7    |
-| *Nature*        |  +7    |
-| *Occultism*     |  +6    |
-| *Religion*      |  +7    |
-| *Society*       |  +6    |
+| *Arcana*        |  +7    |
+| *Crafting*      |  +7    |
+| *L: Academia*   |  +7    |
+| *L: Library*    |  +7    |
+| *Medicine*      |  +8    |
+| *Nature*        |  +8    |
+| *Occultism*     |  +7    |
+| *Religion*      |  +8    |
+| *Society*       |  +7    |
 |-----------------|--------|
 | *Acrobatics*    |  +1    |
 | *Athletics*     |  +0    |
@@ -30,15 +30,15 @@
 | *Stealth*       |  +1    |
 | *Survival*      |  +4    |
 | *Thievery*      |  +1    |
-|-----------------|--------| 
+|-----------------|--------|
 
 ## Defenses
 | **Defense**     |  Base  |
 |-----------------|--------|
-| *Unarmored AC*  |  14    |
-| *Fortitude*     |  +4    |
-| *Reflex*        |  +4    |
-| *Will*          |  +8    |
+| *Unarmored AC*  |  15    |
+| *Fortitude*     |  +5    |
+| *Reflex*        |  +5    |
+| *Will*          |  +10   |
 Situational & Temporary Effects:
 - +1 Circumstance Save/Spell
 - [ ] +1 Circumstance AC with Shield
@@ -48,23 +48,27 @@ Situational & Temporary Effects:
 ## Offenses
 | **Offense**     |  Base  |
 |-----------------|--------|
-| *Class DC*      |  17    |
-| *Occult DC*     |  17    |
+| *Class DC*      |  18    |
+| *Occult DC*     |  18    |
 |-----------------|--------|
-| *Perception*    |  +7    |
-| *Occult Attack* |  +7    |
-| *Dex Attack*    |  +4    |
-| *Str Attack*    |  +3    |
+| *Perception*    |  +8    |
+| *Occult Attack* |  +8    |
+| *Dex Attack*    |  +5    |
+| *Str Attack*    |  +4    |
 Situational & Temporary Effects:
 - [ ] Psyche unleashed
 
-## Psyche
+## Status
 - *Unleash Psyche* <>: Requires having cast a spell last round. For 2 rounds, +(2x spell level) instantaneous spell damage. Stupefied 1 for 2 rounds after.
   - *Restore the Mind* >: 1/Ally/10min, either heal 3hp or +1 saves/mental until psyche ends.
     - [ ] Self
     - [ ] Suyra (Shira)
     - [ ] Iona (Violet)
-    - [ ] Zephyr (Jay)  
+    - [ ] Zephyr (Jay)
+- *Catharsis* <: Triggers upon a party member in 30' taking damage. They gain 1 tHP, and for 3 rounds, your spells have +30' range for them, and they gain +(spell level) tHP from healing spells. After end, need to be next to them to cast anything.
+    - [ ] Suyra (Shira)
+    - [ ] Iona (Violet)
+    - [ ] Zephyr (Jay)
 
 ## Cantrips
 - *Dancing Lights* >>: Make lights.
@@ -83,6 +87,7 @@ Situational & Temporary Effects:
     - DC (Causing Effect) to grant extra DC 10-15 flat check to remove bleeding
 - *Prestidigitation* >>: Minor conveniences.
 - *Shield* >: Ally or self gains +1 AC, can use own reaction to raise shield and block 5 damage. On raising, cannot cast again for 10min.
+- *Phase Bolt* >>: +8/AC, reduce shield bonuses by 2, 1d4+4 damage.
 
 ## Other
 - *Fox Form* >: Turn into a fox.
@@ -98,3 +103,4 @@ Situational & Temporary Effects:
 - L1
   - *Color Spray* >>: DC 17 Will, Nothing / Dazzled 1r / Stunned 1, Blinded 1r, Dazzled 1m / Stunned 1r, Blinded 1m
   - *Sanctuary* >>: Until target takes hostile action, attackers must make DC 17 Will or be unable to attack target that turn. Crit success ends spell, crit fail means they can't attempt again for duration.
+  - *Spirit Link (Catharsis)* >>: On cast & at start of each turn for 10m, if target is under full HP, it gains up to 2 and you lose the same.
