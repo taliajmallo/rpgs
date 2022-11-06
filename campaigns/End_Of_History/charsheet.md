@@ -115,7 +115,7 @@ Battle Medicine skill feat, and a +1 circumstance bonus to saving throws
 against spells. Healing spells, healing magic items, and magical effects with
 the healing trait have no effect on you.
 ### Languages
-Omnarki Sign, Low Song, High Song, Vaaltid
+Patter-Whistle, Low Song, High Song, Vaaltid
 
 ## Class - Psychic
 - Subconscious Mind: Moonlit Serenity (WIS Emotional Acceptance)
