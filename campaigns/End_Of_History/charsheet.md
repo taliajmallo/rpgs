@@ -355,7 +355,7 @@ regeneration or fast healing. You can Dismiss this spell, and if you're ever at
 0 Hit Points, spirit link ends automatically.
 *Heightened (+1)* The number of Hit Points transferred each time increases by 2.
 ## Belongings
-Coinage: 00.95
+Coinage: 10.95
 Bulk 1.3
 ### Armor
 - [x] Winter Clothing (.4, L)

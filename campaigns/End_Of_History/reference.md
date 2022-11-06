@@ -4,7 +4,7 @@
 |--------------|--------------|
 | *HP*         |  21/22       |
 | *Focus*      |  [x] [x]     |
-| *Fortune*    |  [ ] [ ] [ ] |
+| *Fortune*    |  [x] [ ] [ ] |
 | *Spells*     |--------------|
 |  1st         |  [ ] [ ]     |
 
@@ -62,7 +62,7 @@ Situational & Temporary Effects:
   - [ ] Psyche unleashed 
   - *Restore the Mind* >: 1/Ally/10min, either heal 6hp or +1 saves/mental until psyche ends.
     - [ ] Self
-    - [x] Suyra (Shira)
+    - [ ] Suyra (Shira)
     - [ ] Yuriso (Violet)
     - [ ] Meno (Violet's Eidolon)
     - [ ] Granz (Jay)
