@@ -23,7 +23,7 @@
 |--------------|--------------|-----------|
 | *HP*         |  22/22       |  +2/Rest
 | *Focus*      |  [x] [x]     |  +2/Refocus
-| *Fortune*    |  [x] [ ] [ ] |  =1/Session
+| *Fortune*    |  [ ] [ ] [ ] |  =1/Session
 | *Spells*     |--------------|  +All/Rest
 |  1st         |  [x] [x]     |
 
@@ -355,7 +355,7 @@ regeneration or fast healing. You can Dismiss this spell, and if you're ever at
 0 Hit Points, spirit link ends automatically.
 *Heightened (+1)* The number of Hit Points transferred each time increases by 2.
 ## Belongings
-Coinage: 10.95
+Coinage: 13.35
 Bulk 1.3
 ### Armor
 - [x] Winter Clothing (.4, L)
@@ -369,7 +369,6 @@ Bulk 1.3
   - Basic Crafter's Book (.1, L)
   - Bedroll (.02, L)
   - Cookware (1, 2)
-  - Ephemera Malefica (?, ?)
   - Flint & Steel (.05, -)
   - Hand Mirror (1, -)
   - Religious Text (1, L)
