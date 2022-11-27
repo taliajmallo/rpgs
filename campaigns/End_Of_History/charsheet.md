@@ -23,7 +23,7 @@
 |--------------|--------------|-----------|
 | *HP*         |  22/22       |  +2/Rest
 | *Focus*      |  [x] [x]     |  +2/Refocus
-| *Fortune*    |  [x] [ ] [ ] |  =1/Session
+| *Fortune*    |  [ ] [ ] [ ] |  =1/Session
 | *Spells*     |--------------|  +All/Rest
 |  1st         |  [x] [x]     |
 
@@ -115,7 +115,7 @@ Battle Medicine skill feat, and a +1 circumstance bonus to saving throws
 against spells. Healing spells, healing magic items, and magical effects with
 the healing trait have no effect on you.
 ### Languages
-Omnarki Sign, Low Song, High Song, Vaaltid
+Patter-Whistle, Low Song, High Song, Vaaltid
 
 ## Class - Psychic
 - Subconscious Mind: Moonlit Serenity (WIS Emotional Acceptance)
@@ -328,6 +328,15 @@ target uses a hostile action, the spell ends.
 - *Failure* The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.
 - *Critical Failure* The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.
 
+#### Soothe (Spell I)
+[Emotion] [Enchantment] [Healing] [Mental] [Somatic] [Verbal] [>>]
+*Range* 30 feet; Targets 1 willing living creature
+*Duration* 1 minute
+You grace the target's mind, boosting its mental defenses and healing its wounds.
+The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 
+status bonus to saves against mental effects for the duration.
+*Heightened (+1)* The amount of healing increases by 1d10+4.
+
 #### Spirit Link (Spell I Catharsis)
 [Healing] [Necromancy] [Somatic] [Verbal] [>>]
 *Range* 30 feet; Targets 1 willing creature
@@ -346,7 +355,7 @@ regeneration or fast healing. You can Dismiss this spell, and if you're ever at
 0 Hit Points, spirit link ends automatically.
 *Heightened (+1)* The number of Hit Points transferred each time increases by 2.
 ## Belongings
-Coinage: 05.95
+Coinage: 13.35
 Bulk 1.3
 ### Armor
 - [x] Winter Clothing (.4, L)
@@ -360,7 +369,6 @@ Bulk 1.3
   - Basic Crafter's Book (.1, L)
   - Bedroll (.02, L)
   - Cookware (1, 2)
-  - Ephemera Malefica (?, ?)
   - Flint & Steel (.05, -)
   - Hand Mirror (1, -)
   - Religious Text (1, L)
