@@ -26,17 +26,17 @@
 | **Attribute**   | Level | Specialization   |
 |-----------------|-------|------------------|
 | [Physical]
-| Strength        | o.... |
+| Strength        | oo... |
 | Dexterity       | ooooo | Precise
-| Stamina         | o.... |
+| Stamina         | oo... |
 |-----------------|-------|------------------|
 | [Social]
 | Charisma        | ooo.. |
 | Manipulation    | o.... |
-| Appearance      | ooooo | Uncanny
+| Appearance      | oooo. | Uncanny
 |-----------------|-------|------------------|
 | [Mental]
-| Perception      | ooo.. |
+| Perception      | oo... |
 | Intelligence    | ooooo | Encyclopedic
 | Wits            | ooooo | Genre-Savvy
 |-----------------|-------|------------------|
