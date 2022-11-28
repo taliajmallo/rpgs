@@ -19,12 +19,8 @@
 | > White      | 6/6                                     |
 | > Black      | 6/6                                     |
 |--------------|-----------------------------------------|
-| Experience   | 20 Spent / 71 Total                     |
+| Experience   | 65 Spent / 71 Total                     |
 |--------------|-----------------------------------------|
-Freebie Points:
-15
-+7=22 (Flaws)
--5=17 (Alchemy)
 
 ## Attributes
 | **Attribute**   | Level | Specialization   |
@@ -40,8 +36,8 @@ Freebie Points:
 | Appearance      | ooooo | Uncanny
 |-----------------|-------|------------------|
 | [Mental]
-| Perception      | oo... |
-| Intelligence    | oooo. | Encyclopedic
+| Perception      | ooo.. |
+| Intelligence    | ooooo | Encyclopedic
 | Wits            | ooooo | Genre-Savvy
 |-----------------|-------|------------------|
 
@@ -49,10 +45,10 @@ Freebie Points:
 | **Ability**     | Level | Specialization   |
 |-----------------|-------|------------------|
 | [Talents]
-| Alertness       |[ooo..]|
+| Alertness       |[oooo.]| Danger
 | Art             | o.... | Song
 | Athletics       | o.... |
-| Awareness       |[ooo..]|
+| Awareness       |[ooooo]| Fate/Destiny
 | Brawl           | ..... |
 | Empathy         |[oo...]|
 | Expression      |[oo...]|
@@ -65,12 +61,12 @@ Freebie Points:
 | Crafts          | ..... |
 | Drive           | ..... |
 | Etiquette       | o.... |
-| Firearms        | ooo.. |
+| Firearms        | oooo. | Finger-Guns
 | Martial Arts    | ..... |
 | Meditation      | ..... |
 | Melee           | ..... |
 | Research        | o.... |
-| Stealth         |[oo...]|
+| Stealth         | oo... |
 | Survival        | ..... |
 | Technology      | o.... |
 | Security        | o.... |
@@ -79,9 +75,9 @@ Freebie Points:
 | Academics       |[oo...]| Literature
 | Computer        | o.... |
 | Cosmology       | ..... |
-| Enigmas         | ..... |
-| Esoterica       |[oo...]| Horror
-| Investigation   | ..... |
+| Enigmas         |[oo...]|
+| Esoterica       |[ooo..]| Horror
+| Investigation   | o.... |
 | Law             | ..... |
 | Medicine        | ..... |
 | Occult          |[o....]|
@@ -93,16 +89,20 @@ Freebie Points:
 | Property           | Level | Notes   |
 |--------------------|-------|---------|
 | [Backgrounds]
-| Arcane             | ooooo | ++Stealth, --Tracking you
+| Arcane             | ooooo | +Stealth, -Tracking you
 | Past Life          | oo... |
 |--------------------|-------|---------|
 | [Merits]
-|
+| Common Sense       | o     | GM gets to say "Do you really want to do that"
+| Pitiable           | o     | -2 Diff to be taken care of, +2 to be taken serious
+| True Love          | oooo  | +1 auto-success on WP rolls, negated by botch
 |--------------------|-------|---------|
 | [Flaws]
-| Echoes             | ooo   |
-| Witch-Hunted       | oooo  |
-| Phobia (Knocking)  | o     |
+| Echoes             | oooo  | You're a creepy demon-child, and people *notice*
+| Witch-Hunted       | oooo  | Recurring enemies that will hunt you down
+| Squeamish          | ooo   | WP/Diff 7 to remain calm in violent situations
+| Child              | oo    |
+| Short              | ooo   |
 |--------------------|-------|---------|
 
 ## Characteristics
@@ -119,9 +119,7 @@ power. Once per session, when you act to strongly support or affirm one of your
 intimacies, you may regain a point of willpower.
 - Autumn Moore (Sisterly Love)
 - Max Statler (Romantic Love)
-- The world is horrifying.
-### Getimian Alchemy
-
+- The world is horrifying, but I will make it kinder.
 ### Limit
 #### Gaining Limit
 Gain one Limit whenever you:
@@ -166,7 +164,7 @@ causing reality to stutter-step backwards for a few moments, allowing them to
 attempt the roll again. Some variety of flowers appear on your person.
 #### The Sorcerer [ ]
 Your Manipulation, Wits, Occult, and Subterfuge are increased to 3. Choose
-another sort of supernatural being that you have heard of. WHen your anima
+another sort of supernatural being that you have heard of. When your anima
 banner manifests, instead of its usual appearance, it gives the outward
 appearance of being that sort of supernatural being. Your charms disguise
 themselves as characteristic powers of whatever being you're impersonating. Some
@@ -183,3 +181,64 @@ your Nature, either back to its original value or to any callous Nature that
 cares only about itself. Black feathers appear on your person.
 
 ## Charms
+### Excellence of the Forgotten Wound (Auspicious) I
+At any time, you may reflexively spend 1 essence to lower the difficulty of all
+actions using a single caste ability (chosen on activation) by 3, to a minimum
+of 3, for Essence + 1 rounds of combat or minutes of noncombat. Alternatively,
+you may add your Essence in dice to such rolls for the same duration. At the
+cost of 1 essence and 1 willpower, you gain both benefits.
+### World-Bending Triumph I
+All actions taken against or in opposition to you while in the presence of fear
+have their difficulty increased by 1.
+### Absolute Denial Defense III
+Reflexively spend 1 essence and roll Perception + Occult against difficulty 8.
+On a success, you avoid any single damaging, deleterious, or unwanted effect
+that you are aware of. Continuous threats only require a single roll.
+### Peremptory Object Reassignment III
+Reflexively spend 1 essence to transform an object you are holding into a
+different mundane, nonmagical object of similar size that you have previously
+held before. It returns to its true form at the end of the scene.
+### World-Rejecting Stride IV
+Spend 1 essence and roll Wits+Investigation against a local Shroud, Gauntlet, or
+Banality rating to teleport into an otherworld of your choice. By increasing the
+difficulty by 1 and spending an extra essence per ally, you may bring allies
+with you. This can also be used in reverse to return. If you stand in the
+presence of something which reminds you of your prior unreality, this instead
+transports you to the Cataract, regardless of where you meant to go. Bringing
+allies to the Cataract requires no additional difficulty or essence.
+This charm also permanently grants you the ability to understand the language of
+spirits and make yourself clearly understood by them.
+### Dream of Rain/Shadow of the Gun II
+You may reflexively spend 1 white essence to make all attempts to shoot you with
+a firearm increase their difficulty by 3 for the rest of the scene.
+You may use your action during combat to point at a target, spend 1 black
+essence, and make a Dexterity+Firearms attack at difficulty 6. As soon as the
+essence is spent, there's a massive roar and muzzle flash at your fingertip
+almost as big as you. This attack inflicts a base of 12 lethal damage.
+### Stoic Spider Spy/Sinister Messenger Arachnid II
+You may roll Perception+Investigation against difficulty 8, or spend 1 white
+essence to automatically succeed, to send a spider of pure essence along threads
+of fate to find some fact you desire, so long as that information is neither
+lost nor actively hidden. The spider whispers the answer in your ear five
+seconds later.
+You may roll Intelligence+Expression against difficulty 8, or spend 1 black
+essence to automatically succeed, to send a spider of pure essence along threads
+of fate to deliver a message to any recipient whose location is a matter of
+public knowledge. The spider whispers your message in their ear five seconds
+later.
+### Identity Confiscation Approach III
+Upon making physical contact with the target, spend 1 white essence and roll
+Wits+Subterfuge against difficulty 7. Success allows you to steal the target's
+identity for one day per success. This allows you to adopt their appearance down
+to fingerprints, mimic their voice, and produce (but not actually have) any
+requested proof of identity. You can draw upon any social backgrounds they may
+have. While this charm is in effect, nobody and nothing will recognize the
+target as being the person they claim to be.
+### Memories Like Windblown Leaves I
+Reflexively spend 1 black essence and roll Intelligence+Subterfuge against the
+Willpower rating of a target within arm's reach. On a success, you may steal
+their memories of the last hour for one day per success, or may permanently
+destroy the memories by paying a point of willpower.
+### Suffering Evaluation Eye I
+Reflexively spend 1 black essence to learn which of an array of options will
+lead to the worst short-term outcome.
