@@ -19,7 +19,7 @@
 | > White      | 6/6                                     |
 | > Black      | 6/6                                     |
 |--------------|-----------------------------------------|
-| Experience   | 65 Spent / 71 Total                     |
+| Experience   | 67 Spent / 75 Total                     |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -27,13 +27,13 @@
 |-----------------|-------|------------------|
 | [Physical]
 | Strength        | oo... |
-| Dexterity       | ooooo | Precise
+| Dexterity       | ooooo | Graceful
 | Stamina         | oo... |
 |-----------------|-------|------------------|
 | [Social]
-| Charisma        | ooo.. |
+| Charisma        | oo... |
 | Manipulation    | o.... |
-| Appearance      | oooo. | Uncanny
+| Appearance      | ooooo | Uncanny
 |-----------------|-------|------------------|
 | [Mental]
 | Perception      | oo... |
@@ -61,7 +61,7 @@
 | Crafts          | ..... |
 | Drive           | ..... |
 | Etiquette       | o.... |
-| Firearms        | oooo. | Finger-Guns
+| Firearms        | oooo. | Essence
 | Martial Arts    | ..... |
 | Meditation      | ..... |
 | Melee           | ..... |
@@ -90,7 +90,8 @@
 |--------------------|-------|---------|
 | [Backgrounds]
 | Arcane             | ooooo | +Stealth, -Tracking you
-| Past Life          | oo... |
+| Past Life          | o.... |
+| Resources          | o.... |
 |--------------------|-------|---------|
 | [Merits]
 | Common Sense       | o     | GM gets to say "Do you really want to do that"
@@ -99,7 +100,7 @@
 |--------------------|-------|---------|
 | [Flaws]
 | Echoes             | oooo  | You're a creepy demon-child, and people *notice*
-| Witch-Hunted       | oooo  | Recurring enemies that will hunt you down
+| Witch-Hunted       | oooo  | Recurring enemies will hunt you down
 | Squeamish          | ooo   | WP/Diff 7 to remain calm in violent situations
 | Child              | oo    |
 | Short              | ooo   |
