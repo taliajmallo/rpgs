@@ -48,10 +48,7 @@
 |---|-------------|-----------------|
 | Bonds           |
 | I | Snowball (Blood-bound familiar; six-legged cat made of marble)
-| I | Marie-Geneviève (Noa's character - I told her she'd be a Sister of St. Perdita)
-| I | Byurn (Siddy's character - he killed all the other actors in a play I was in, but didn't kill me)
-| I | Knox (Dee's character - I'm squired to him)
-
+| I | ??? (I tasted a PC's blood; TBD who?)
 ## Quick Reference
 | ? | Ability     |
 |---|-------------|
