@@ -13,7 +13,7 @@
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
 | Willpower    | [ ] [ ] [ ] [ ] [ ]                     |
-| Limit        | [x] [x] [x] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
+| Limit        | [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
 | > White      | 6/6                                     |
@@ -134,9 +134,6 @@ Gain one Limit whenever you:
 - Encounter a person who should recognize you but doesn't (1/person/story)
 - Encounter a place or thing that should be different (1/thing/story)
 - End a scene with one essence pool empty and the other at 3+ Essence
-#### Consequence: Discordant Burn
-Roll Limit against difficulty 6, then reset Limit to zero. Take an amount of
-aggravated damage equal to the successes. You cannot spend essence this turn.
 #### Consequence: Discordant Flaw
 Roll Limit against difficulty 6, then reset Limit to zero. Suffer a Discordant
 Flaw based on the number of successes, as follows, and lose access to your
@@ -147,11 +144,11 @@ Getimian Alchemy while the flaw persists:
 - 5-6: The effects of the previous two levels persist for several days. Additionally, people intermittently misidentify you as being someone else they have strong feelings about.
 - 7-8: In addition to the effects of all previous levels, people develop new and false memories of you that paint you in a sinister light. These memories fade when Discordant Flaw ends. Previous effects become more pronounced, inflicting +2 difficulty penalties.
 - 9-10: All previously mentioned effects persist for at least a week, at intense and near-constant severity. The alteration of memories is more significant and wide-ranging, and the memories do not fade away.
-#### Discordant Spirit
+#### Consequence: Discordant Spirit
 Your limit track empties, and a Paradox Spirit manifests, looking to deal with
 you as it would any other severe ongoing deviation from reality. Until the
 spirit is dealt with in some way, you cannot access your Getimian Alchemy.
-#### Discordant Soul
+#### Consequence: Discordant Soul
 Your limit track empties, and the friction between your nature and reality
 drives your essence in on itself, plunging you into a delusional mindscape. Your
 thoughts and perceptions twist, telling you that the world is returned to the
