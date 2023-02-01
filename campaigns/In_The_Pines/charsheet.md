@@ -10,16 +10,16 @@
 | Statistic    | Track                                   |
 |--------------|-----------------------------------------|
 | Health       | [ ] [ ] [ ] [ ] [ ] [ ] [ ]             |
-| (Ref)        | ---  -1  -1  -2  -2  -5 ---             |
+| (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
 | Willpower    | [ ] [ ] [ ] [ ] [ ]                     |
-| Limit        | [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
+| Limit        | [x] [x] [x] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
 | > White      | 6/6                                     |
-| > Black      | 6/6                                     |
+| > Black      | 5/6                                     |
 |--------------|-----------------------------------------|
-| Experience   | 67 Spent / 75 Total                     |
+| Experience   | 76 Spent / 79 Total                     |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -28,11 +28,11 @@
 | [Physical]
 | Strength        | oo... |
 | Dexterity       | ooooo | Graceful
-| Stamina         | oo... |
+| Stamina         | oox.. |
 |-----------------|-------|------------------|
 | [Social]
 | Charisma        | oo... |
-| Manipulation    | o.... |
+| Manipulation    | oxx.. |
 | Appearance      | ooooo | Uncanny
 |-----------------|-------|------------------|
 | [Mental]
@@ -46,11 +46,11 @@
 |-----------------|-------|------------------|
 | [Talents]
 | Alertness       |[oooo.]| Danger
-| Art             | o.... | Song
+| Art             | ox... | Song
 | Athletics       | o.... |
 | Awareness       |[ooooo]| Fate/Destiny
 | Brawl           | ..... |
-| Empathy         |[oo...]|
+| Empathy         |[oox..]|
 | Expression      |[oo...]|
 | Intimidation    | ..... |
 | Leadership      | ..... |
@@ -69,7 +69,7 @@
 | Stealth         | oo... |
 | Survival        | ..... |
 | Technology      | o.... |
-| Security        | o.... |
+| Security        | ox... |
 |-----------------|-------|------------------|
 | [Knowledges]
 | Academics       |[oo...]| Literature
@@ -102,6 +102,7 @@
 | Echoes             | oooo  | You're a creepy demon-child, and people *notice*
 | Witch-Hunted       | oooo  | Recurring enemies will hunt you down
 | Squeamish          | ooo   | WP/Diff 7 to remain calm in violent situations
+| Phobia, Knocking   | oo    | May need to make Willpower roll to not flee if you hear knocking
 | Child              | oo    |
 | Short              | ooo   |
 |--------------------|-------|---------|
@@ -113,6 +114,10 @@ you about how the world should be / how it was for you. You also regain 3 + your
 Essence points of essence at sunset, and regain 1 point of essence if you begin
 a scene with 0 essence. All essence gained in these ways may be split between
 black and white essence at will.
+You may spend at most 3 essence per turn. If you spend 3 or more essence in a
+single turn, your anima banner flares to life for 9 minutes, surrounding you
+with churning white and black halos. The more of each type of essence you use,
+the bolder and more violent those halos are.
 ### Intimacies
 Attempts to subvert an intimacy allow you to make a Willpower roll against
 difficulty 8 to resist, even if you already failed to resist a supernatural
@@ -170,11 +175,11 @@ banner manifests, instead of its usual appearance, it gives the outward
 appearance of being that sort of supernatural being. Your charms disguise
 themselves as characteristic powers of whatever being you're impersonating. Some
 cosmetic decorations of a rare and precious substance appear on your person.
-#### The Corpse [ ]
+#### The Corpse [x]
 Your Stamina, Manipulation, and Empathy increase to 3, and your Security and
-Performance increase to 2. If you play dead, you will always fool anyone with
-such thoroughness that they feel no need to test, even if you've already fooled
-them recently. A butterfly emblem of some variety appears on your person.
+Art increase to 2. If you play dead, you will always fool anyone with such
+thoroughness that they feel no need to test, even if you've already fooled them
+recently. A butterfly emblem of some variety appears on your person.
 #### The Crow [ ]
 Your Manipulation, Intimidation, and Subterfuge increase to 3, and your Wits,
 Melee, and Security increase to 2. Once per scene, you may reflexively change
@@ -243,3 +248,9 @@ destroy the memories by paying a point of willpower.
 ### Suffering Evaluation Eye I
 Reflexively spend 1 black essence to learn which of an array of options will
 lead to the worst short-term outcome.
+### Eloquence in Absence Technique/Unwitting Assassin Nomination III
+Spend 1 essence and make a roll - white essence for Expression, Leadership, or
+Intimidation, or black essence for Brawl or Melee - and choose a target and
+contingency. When the target next satisfies the contingency, their words and
+deeds convey the effect of the roll (If a Brawl or Melee roll, use your own
+Strength for the resultant damage roll).
