@@ -2,9 +2,9 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  22/22       |
+| *HP*         |  15/22       |
 | *Focus*      |  [x] [x]     |
-| *Fortune*    |  [x] [ ] [ ] |
+| *Fortune*    |  [ ] [ ] [ ] |
 | *Spells*     |--------------|
 |  1st         |  [x] [x]     |
 
@@ -58,6 +58,8 @@ Situational & Temporary Effects:
 Situational & Temporary Effects:
 
 ## Status
+- Wounded 1
+- Stupefied 1
 - [ ] Fox Form
 - *Unleash Psyche* <>: Requires having cast a spell last round. For 2 rounds, +(2x spell level) instantaneous spell damage. Stupefied 1 for 2 rounds after.
   - [ ] Psyche unleashed 
@@ -70,7 +72,7 @@ Situational & Temporary Effects:
     - [ ] Rasa (Chas)
 - *Catharsis* <: Triggers upon a party member in 30' taking damage. They gain 1 tHP, and for 3 rounds, your spells have +30' range for them, and they gain +(spell level) tHP from healing spells. After end, need to be next to them to cast anything.
     - [ ] Suyra (Shira)
-    - [ ] Yuriso-Meno (Violet)
+    - [x] Yuriso-Meno (Violet)
     - [ ] Meno-Yuriso (Violet's Eidolon)
     - [ ] Granz (Jay)
     - [ ] Rasa (Chas)
@@ -83,9 +85,9 @@ Situational & Temporary Effects:
 - *Moonlit Bandages*: Medicine.
   - Treat Wounds 1h: DC 15 Medicine / 2d8 HP / 4d8 HP crit.
   - Battle Medicine >: Treat Wounds 1/day/target as >.
-    - [ ] Self
+    - [x] Self
     - [ ] Suyra (Shira)
-    - [ ] Yuriso-Meno (Violet)
+    - [x] Yuriso-Meno (Violet)
     - [ ] Meno-Yuriso (Violet's Eidolon)
     - [ ] Granz (Jay)
     - [ ] Rasa (Chas)
