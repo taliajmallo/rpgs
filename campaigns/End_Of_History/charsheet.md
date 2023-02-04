@@ -54,7 +54,7 @@
 | *Crafting*      |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
 | *L: Academia*   |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
 | *L: Library*    |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
-| *Medicine*      |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
+| *Medicine*      |  +10   |  ++    |  +2+4  |  +4 Wis   |  -     |  -
 | *Nature*        |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
 | *Occultism*     |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
 | *Religion*      |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
@@ -167,29 +167,12 @@ see. That ally is then temporarily immune for 10 minutes.
 - The ally regains Hit Points equal to 2 + double your level.
 
 ### Class Feats
-#### Cathartic Mage (2nd)
-[Uncommon] [Archetype] [Dedication]
-You've learned to harness a particular emotion and mix it into your magic. If
-you can already cast spells from spell slots, you learn one additional cantrip
-from your spellcasting tradition. You gain the Catharsis reaction and the Settle
-Emotions activity.
-##### Catharsis
-[Concentrate] [Emotion] [Mental] [<]
-**Trigger:** Your emotional focus takes damage from an enemy while within 30
-feet of you.
-**Activation:** Your emotional focus gains a number of temporary Hit Points
-equal to half your level rounded up. These temporary HP last for 1 minute.
-**Emotional Fervor:** Your spells that target your emotional focus gain the
-benefits of Reach Spell. When you cast a healing spell that affects your
-emotional focus, your emotional focus also gains temporary HP equal to the
-spell's level in addition to the spell's effects. These temporary HP last for 1
-minute. You may also cast the spell Spirit Link. These benefits last 3 rounds.
-**Emotional Fallout:** Until you Settle your Emotions, you can't Cast Spells
-unless you're adjacent to your emotional focus.
-##### Settle Emotions
-[Concentrate] [Emotion] [Mental]
-You spend 10 minutes using techniques you've developed to calm your emotions and
-bring them back under control. This allows you to access your Catharsis again.
+#### Medic (2nd)
+[Archetype] [Dedication]
+You become an expert in Medicine. When you succeed with Battle Medicine or Treat
+Wounds, the target regains 5 additional HP at DC 20, 10 HP at DC 30, or 15 HP at
+DC 40. Once per day, you can use Battle Medicine on a creature that's
+temporarily immune. If you're a master in Medicine, you can do so once per hour.
 
 ### Spells
 #### Dancing Lights (Cantrip I Amp)
@@ -294,16 +277,6 @@ conditions.
 - Make: Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile - it can't be used as a tool, weapon, or spell component.
 - Tidy: Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.
 
-#### Phase Bolt (Cantrip I)
-[Attack] [Cantrip] [Evocation] [Somatic] [Verbal] [>>]
-*Range* 30 feet; Targets 1 creature
-You point your finger and project a bolt of magical energy that stutters in and
-out of phase until it reaches the target. Make a ranged spell attack roll
-against your target's AC; if the target has any circumstance bonuses to AC (such
-as from a shield or cover), reduce that bonus by 2 for this attack. On a success,
-you deal 1d4 piercing damage plus your spellcasting ability modifier. On a
-critical success, the target takes double damage.
-*Heightened (+1)* The bolt's damage increases by 1d4.
 
 #### Color Spray (Spell I)
 [Illusion] [Incapacitation] [Visual] [Verbal] [Somatic] [>>]
@@ -333,27 +306,10 @@ target uses a hostile action, the spell ends.
 *Range* 30 feet; Targets 1 willing living creature
 *Duration* 1 minute
 You grace the target's mind, boosting its mental defenses and healing its wounds.
-The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 
+The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2
 status bonus to saves against mental effects for the duration.
 *Heightened (+1)* The amount of healing increases by 1d10+4.
 
-#### Spirit Link (Spell I Catharsis)
-[Healing] [Necromancy] [Somatic] [Verbal] [>>]
-*Range* 30 feet; Targets 1 willing creature
-*Duration* 10 minutes
-You form a spiritual link with another creature, allowing you to take in its
-pain. When you Cast this Spell and at the start of each of your turns, if the
-target is below maximum Hit Points, it regains 2 Hit Points (or the difference
-between its current and maximum Hit Points, if that's lower). You lose as many
-Hit Points as the target regained.
-This is a spiritual transfer, so no effects apply that would increase the Hit
-Points the target regains or decrease the Hit Points you lose. This transfer
-also ignores any temporary Hit Points you or the target have. Since this effect
-doesn't involve positive or negative energy, spirit link works even if you or
-the target is undead. While the duration persists, you gain no benefit from
-regeneration or fast healing. You can Dismiss this spell, and if you're ever at
-0 Hit Points, spirit link ends automatically.
-*Heightened (+1)* The number of Hit Points transferred each time increases by 2.
 ## Belongings
 Coinage: 13.35
 Bulk 1.3

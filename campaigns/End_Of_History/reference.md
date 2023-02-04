@@ -15,7 +15,7 @@
 | *Crafting*      |  +7    |
 | *L: Academia*   |  +7    |
 | *L: Library*    |  +7    |
-| *Medicine*      |  +8    |
+| *Medicine*      |  +10/6 |
 | *Nature*        |  +8    |
 | *Occultism*     |  +7    |
 | *Religion*      |  +8    |
@@ -60,15 +60,9 @@ Situational & Temporary Effects:
 ## Status
 - [ ] Fox Form
 - *Unleash Psyche* <>: Requires having cast a spell last round. For 2 rounds, +(2x spell level) instantaneous spell damage. Stupefied 1 for 2 rounds after.
-  - [ ] Psyche unleashed 
+  - [ ] Psyche unleashed
   - *Restore the Mind* >: 1/Ally/10min, either heal 6hp or +1 saves/mental until psyche ends.
     - [ ] Self
-    - [ ] Suyra (Shira)
-    - [ ] Yuriso-Meno (Violet)
-    - [ ] Meno-Yuriso (Violet's Eidolon)
-    - [ ] Granz (Jay)
-    - [ ] Rasa (Chas)
-- *Catharsis* <: Triggers upon a party member in 30' taking damage. They gain 1 tHP, and for 3 rounds, your spells have +30' range for them, and they gain +(spell level) tHP from healing spells. After end, need to be next to them to cast anything.
     - [ ] Suyra (Shira)
     - [ ] Yuriso-Meno (Violet)
     - [ ] Meno-Yuriso (Violet's Eidolon)
@@ -89,12 +83,12 @@ Situational & Temporary Effects:
     - [ ] Meno-Yuriso (Violet's Eidolon)
     - [ ] Granz (Jay)
     - [ ] Rasa (Chas)
+    - [ ] Free
   - First Aid >>: Either of:
     - DC 15+Dying # to remove dying
     - DC (Causing Effect) to grant extra DC 10-15 flat check to remove bleeding
 - *Prestidigitation* >>: Minor conveniences.
 - *Shield* >: Ally or self gains +1 AC, can use own reaction to raise shield and block 5 damage. On raising, cannot cast again for 10min.
-- *Phase Bolt* >>: +8/AC, reduce shield bonuses by 2, 1d4+4 damage.
 
 ## Other
 - *Fox Form* >: Turn into a fox.
@@ -111,4 +105,3 @@ Situational & Temporary Effects:
   - *Color Spray* >>: DC 18 Will, Nothing / Dazzled 1r / Stunned 1, Blinded 1r, Dazzled 1m / Stunned 1r, Blinded 1m
   - *Sanctuary* >>: Until target takes hostile action, attackers must make DC 18 Will or be unable to attack target that turn. Crit success ends spell, crit fail means they can't attempt again for duration.
   - *Soothe* >>: 1d10+4 HP, +2 next mental save
-  - *Spirit Link (Catharsis)* >>: On cast & at start of each turn for 10m, if target is under full HP, it gains up to 2 and you lose the same.
