@@ -1,4 +1,18 @@
-## Backstory
+## Pre-campaign notes
+- "How evil are the Aelfir?" -> I'm always interested in alien psychologies
+- "How mystic is the Ministry?" -> No opinion
+- "How common is magic in general?"
+  - Magic as in done by people: common
+  - Magic as in phenomena: common
+  - Magic as in items that are affected by, or used for, magic: common
+  - Magic as in, items created with the specific intent of being magical in a particular way: rare
+- Areas of Ivory Row I find interesting:
+  - Sunlight Collective -> Honestly, it'd be surprising if Galene didn't already have contacts there
+  - Archbishop Wynn -> Maybe more amenable to Galene than Aelfir might...?
+  - The human college -> I think there's maybe something neat here I could tug on, not sure what
+
+
+## Backstory TODO: CLEAN THIS UP
 - Mom (Miriam) is a washed-up knight who got one too many severe injuries and can no longer go a-fightin' but still carouses with her buddies (and spends quite a bit of coin on drink); I haven't figured out what the other parents do but I'm mildly inclined for one to be Lajhan for the drama.
 
 - Mom sends Galene off on an early and double-length durance at the age of 12 - longer either to pay off debt collectors, and/or because the cushy durance she ended up getting was a very limited offer; I haven't yet sorted out exactly why or how the other parents feel about it or how much they were involved in the decision.

@@ -18,6 +18,7 @@
 | Essence      | Rating 3                                |
 | > White      | 6/6                                     |
 | > Black      | 5/6                                     |
+| Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
 | Experience   | 79 Spent / 79 Total                     |
 |--------------|-----------------------------------------|
@@ -114,10 +115,9 @@ you about how the world should be / how it was for you. You also regain 3 + your
 Essence points of essence at sunset, and regain 1 point of essence if you begin
 a scene with 0 essence. All essence gained in these ways may be split between
 black and white essence at will.
-You may spend at most 3 essence per turn. If you spend 3 or more essence in a
-single turn, your anima banner flares to life for 9 minutes, surrounding you
-with churning white and black halos. The more of each type of essence you use,
-the bolder and more violent those halos are.
+Your anima banner is a series of black and white churning halos. The proportion
+of black to white and the violence of the churning is dependent on how much of
+each type of anima you've spent this turn.
 ### Intimacies
 Attempts to subvert an intimacy allow you to make a Willpower roll against
 difficulty 8 to resist, even if you already failed to resist a supernatural

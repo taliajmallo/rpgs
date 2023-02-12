@@ -2,24 +2,25 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  15/22       |
+| *HP*         |  29       |
 | *Focus*      |  [x] [x]     |
-| *Fortune*    |  [ ] [ ] [ ] |
+| *Fortune*    |  [x] [ ] [ ] |
 | *Spells*     |--------------|
 |  1st         |  [x] [x]     |
+|  2nd         |  [x]         |
 
 ## Skills
 | **Skill**       |  Base  |
 |-----------------|--------|
-| *Arcana*        |  +7    |
-| *Crafting*      |  +7    |
-| *L: Academia*   |  +7    |
-| *L: Library*    |  +7    |
-| *Medicine*      |  +10/6 |
-| *Nature*        |  +8    |
-| *Occultism*     |  +7    |
-| *Religion*      |  +8    |
-| *Society*       |  +7    |
+| *Arcana*        |  +8    |
+| *Crafting*      |  +10   |
+| *L: Academia*   |  +8    |
+| *L: Library*    |  +8    |
+| *Medicine*      |  +11/7 |
+| *Nature*        |  +9    |
+| *Occultism*     |  +8    |
+| *Religion*      |  +9    |
+| *Society*       |  +8    |
 |-----------------|--------|
 | *Acrobatics*    |  +1    |
 | *Athletics*     |  +0    |
@@ -35,10 +36,10 @@
 ## Defenses
 | **Defense**     |  Base  |
 |-----------------|--------|
-| *Unarmored AC*  |  15    |
-| *Fortitude*     |  +5    |
-| *Reflex*        |  +5    |
-| *Will*          |  +10   |
+| *Unarmored AC*  |  16    |
+| *Fortitude*     |  +6    |
+| *Reflex*        |  +6    |
+| *Will*          |  +11   |
 Situational & Temporary Effects:
 - +1 Circumstance Save/Spell
 - [ ] +1 Circumstance AC with Shield
@@ -48,18 +49,16 @@ Situational & Temporary Effects:
 ## Offenses
 | **Offense**     |  Base  |
 |-----------------|--------|
-| *Class DC*      |  18    |
-| *Occult DC*     |  18    |
+| *Class DC*      |  19    |
+| *Occult DC*     |  19    |
 |-----------------|--------|
-| *Perception*    |  +8    |
-| *Occult Attack* |  +8    |
-| *Dex Attack*    |  +5    |
-| *Str Attack*    |  +4    |
+| *Perception*    |  +9    |
+| *Occult Attack* |  +9    |
+| *Dex Attack*    |  +6    |
+| *Str Attack*    |  +5    |
 Situational & Temporary Effects:
 
 ## Status
-- Wounded 1
-- Stupefied 1
 - [ ] Fox Form
 - *Unleash Psyche* <>: Requires having cast a spell last round. For 2 rounds, +(2x spell level) instantaneous spell damage. Stupefied 1 for 2 rounds after.
   - [ ] Psyche unleashed
@@ -72,16 +71,15 @@ Situational & Temporary Effects:
     - [ ] Rasa (Chas)
 
 ## Cantrips
-- *Dancing Lights* >>: Make lights.
 - *Forbidding Ward* >>: Target ally gains +1 AC and saves vs target enemy
 - *Guidance* >: 1/Target/Hour +1 to single d20 roll
-- *Imaginary Weapon* >>: Melee spell attack, 1d8+4 damage. Crits may knockback 10'.
+- *Imaginary Weapon* >>: Melee spell attack, 2d8+4 damage. Crits may knockback 10'.
 - *Moonlit Bandages*: Medicine.
   - Treat Wounds 1h: DC 15 Medicine / 2d8 HP / 4d8 HP crit.
   - Battle Medicine >: Treat Wounds 1/day/target as >.
-    - [x] Self
+    - [ ] Self
     - [ ] Suyra (Shira)
-    - [x] Yuriso-Meno (Violet)
+    - [ ] Yuriso-Meno (Violet)
     - [ ] Meno-Yuriso (Violet's Eidolon)
     - [ ] Granz (Jay)
     - [ ] Rasa (Chas)
@@ -89,8 +87,10 @@ Situational & Temporary Effects:
   - First Aid >>: Either of:
     - DC 15+Dying # to remove dying
     - DC (Causing Effect) to grant extra DC 10-15 flat check to remove bleeding
-- *Prestidigitation* >>: Minor conveniences.
+- *Phase Bolt* >>: 30' spell attack, 2d4+4 damage. Ignores 2 shield/cover AC.
 - *Shield* >: Ally or self gains +1 AC, can use own reaction to raise shield and block 5 damage. On raising, cannot cast again for 10min.
+- *Prestidigitation* >>: Minor conveniences.
+- *Dancing Lights* >>: Make lights.
 
 ## Other
 - *Fox Form* >: Turn into a fox.
@@ -99,7 +99,7 @@ Situational & Temporary Effects:
 
 ## Focus Spells
 - *Amp Dancing Lights* >>: Lights must stick together. On cast in 5' emanation around lights, DC 18 Fortitude, As Success / Dazzled 1r immune 1m / Dazzled 1r, re-save on starting turn adj to light / Dazzled 1r, Fascinated 1r, re-save as Failure
-- *Amp Imaginary Weapons* >>: Attack 2x different targets; MAP only increases after spell.
+- *Amp Imaginary Weapons* >>: Attack 2x different for 3d8+4; MAP only increases after spell.
 - *Amp Shield* >: Gain 3 layers, can sustain. Only gets +1 AC while all 3 layers hold; when shield blocking can spent 1/2/3 layers for 5/7/10 DR.
 
 ## Spell Slots
@@ -107,3 +107,6 @@ Situational & Temporary Effects:
   - *Color Spray* >>: DC 18 Will, Nothing / Dazzled 1r / Stunned 1, Blinded 1r, Dazzled 1m / Stunned 1r, Blinded 1m
   - *Sanctuary* >>: Until target takes hostile action, attackers must make DC 18 Will or be unable to attack target that turn. Crit success ends spell, crit fail means they can't attempt again for duration.
   - *Soothe* >>: 1d10+4 HP, +2 next mental save
+- L2
+  - *Soothe* >>: 2d10+8 HP, +2 next mental save
+  - *Sonata Span* >>: 30' Bridge of moonlight

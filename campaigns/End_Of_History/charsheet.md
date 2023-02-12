@@ -21,44 +21,45 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  22/22       |  +2/Rest
+| *HP*         |  29/29       |  +2/Rest
 | *Focus*      |  [x] [x]     |  +2/Refocus
-| *Fortune*    |  [ ] [ ] [ ] |  =1/Session
+| *Fortune*    |  [x] [ ] [ ] |  =1/Session
 | *Spells*     |--------------|  +All/Rest
 |  1st         |  [x] [x]     |
+|  2nd         |  [x]         |
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Unarmored AC*  |  15    |  +     |  +2+2  |  +1 Dex   |  -     |  +1 w/ Shield
+| *Unarmored AC*  |  16    |  +     |  +3+2  |  +1 Dex   |  -     |  +1 w/ Shield
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Fortitude*     |  +5    |  +     |  +2+2  |  +1 Con   |  -     |  +1/Spell
-| *Reflex*        |  +5    |  +     |  +2+2  |  +1 Dex   |  -     |  +1/Spell
-| *Will*          |  +10   |  ++    |  +2+4  |  +4 Wis   |  -     |  +1/Spell
+| *Fortitude*     |  +6    |  +     |  +3+2  |  +1 Con   |  -     |  +1/Spell
+| *Reflex*        |  +6    |  +     |  +3+2  |  +1 Dex   |  -     |  +1/Spell
+| *Will*          |  +11   |  ++    |  +3+4  |  +4 Wis   |  -     |  +1/Spell
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  18    |  +     |  +2+2  |  +4 Wis   |  -     |  -
-| *Occult DC*     |  18    |  +     |  +2+2  |  +4 Wis   |  -     |  -
+| *Class DC*      |  19    |  +     |  +3+2  |  +4 Wis   |  -     |  -
+| *Occult DC*     |  19    |  +     |  +3+2  |  +4 Wis   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
-| *Occult Attack* |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
-| *Dex Attack*    |  +5    |  +     |  +2+2  |  +1 Dex   |  -     |  -
-| *Str Attack*    |  +4    |  +     |  +2+2  |  +0 Str   |  -     |  -
+| *Perception*    |  +9    |  +     |  +3+2  |  +4 Wis   |  -     |  -
+| *Occult Attack* |  +9    |  +     |  +3+2  |  +4 Wis   |  -     |  -
+| *Dex Attack*    |  +6    |  +     |  +3+2  |  +1 Dex   |  -     |  -
+| *Str Attack*    |  +5    |  +     |  +3+2  |  +0 Str   |  -     |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
-| *Crafting*      |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
-| *L: Academia*   |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
-| *L: Library*    |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
-| *Medicine*      |  +10   |  ++    |  +2+4  |  +4 Wis   |  -     |  -
-| *Nature*        |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
-| *Occultism*     |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
-| *Religion*      |  +8    |  +     |  +2+2  |  +4 Wis   |  -     |  -
-| *Society*       |  +7    |  +     |  +2+2  |  +3 Int   |  -     |  -
+| *Arcana*        |  +10   |  ++    |  +3+4  |  +3 Int   |  -     |  -
+| *Crafting*      |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *L: Academia*   |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *L: Library*    |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *Medicine*      |  +12   |  ++    |  +3+4  |  +4 Wis   |  +1    |  -
+| *Nature*        |  +9    |  +     |  +3+2  |  +4 Wis   |  -     |  -
+| *Occultism*     |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *Religion*      |  +9    |  +     |  +3+2  |  +4 Wis   |  -     |  -
+| *Society*       |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Acrobatics*    |  +1    |        |  +0    |  +1 Dex   |  -     |  -
 | *Athletics*     |  +0    |        |  +0    |  +0 Str   |  -     |  -
@@ -86,6 +87,14 @@ Even in the worst circumstances, you can perform basic tasks. Choose a skill
 you're trained in. You can forgo rolling a skill check for that skill to instead
 receive a result of 10 + your proficiency bonus (do not apply any other bonuses,
 penalties, or modifiers).
+#### Kitsune Spell Familiarity (3rd)
+You've picked up a few magical tricks. During your daily preparations, choose
+daze, forbidding ward, or ghost sound. Until your next daily preparations, you
+can cast this cantrip as a divine innate spell at will. A Cantrip IIs heightened
+to a spell level equal to half your level rounded up.
+## Automatic Bonus Progression
+- Attack Potency I
+- Skill Potency I
 
 ## Ancestry - Kitsune Changeling
 ### Kitsune
@@ -175,7 +184,7 @@ DC 40. Once per day, you can use Battle Medicine on a creature that's
 temporarily immune. If you're a master in Medicine, you can do so once per hour.
 
 ### Spells
-#### Dancing Lights (Cantrip I Amp)
+#### Dancing Lights (Cantrip II Amp)
 [Cantrip] [Evocation] [Light] [Verbal] [Somatic] [>>]
 *Range* 120 feet
 *Duration* sustained
@@ -192,7 +201,7 @@ Fortitude save.
 - *Failure* The creature is dazzled until the start of your next turn and must attempt a new save against the spell whenever it starts its turn adjacent to the lights.
 - *Critical Failure* As failure, but the creature is also fascinated by the lights until the start of your next turn.
 
-#### Shield (Cantrip I Amp)
+#### Shield (Cantrip II Amp)
 [Abjuration] [Cantrip] [Force] [Verbal] [>]
 *Duration* until the start of your next turn
 You raise a magical shield of force. This counts as using the Raise a Shield
@@ -223,7 +232,7 @@ If you break two layers instead of one, increase the Hardness to 1-1/2 × the
 normal amount. If you break all three layers, increase the Hardness to double
 the normal amount.
 
-#### Imaginary Weapon (Cantrip I Amp)
+#### Imaginary Weapon (Cantrip II Amp)
 [Attack] [Cantrip] [Evocation] [Force] [Psychic] [Verbal] [Somatic] [>>]
 *Range* touch; Targets 1 creature
 You create a simple weapon of force. Make a melee spell attack roll against your
@@ -238,7 +247,7 @@ spellcasting ability modifier. Your multiple attack penalty doesn't increase
 until you've made both Strikes.
 *Amp Heightened (+1)* The damage increases by 2d8 instead of 1d8.
 
-#### Guidance (Cantrip I)
+#### Guidance (Cantrip II)
 [Cantrip] [Divination] [Verbal] [>]
 *Range* 30 feet; Targets 1 creature
 Duration until the start of your next turn
@@ -248,14 +257,14 @@ the duration ends. The target chooses which roll to use the bonus on before
 rolling. If the target uses the bonus, the spell ends. Either way, the target is
 then temporarily immune for 1 hour.
 
-#### Moonlit Bandages (Cantrip I)
+#### Moonlit Bandages (Cantrip II)
 [Cantrip] [Evocation] [Force] [Somatic] [>]
 You spin bandages out of moonlight, for use in tending wounds. This can be used
 in lieu of healer's tools for Medicine checks to Administer First Aid or Treat
 Wounds. If you have the Battle Medicine feat, you may use that feat as part of
 the action of casting this cantrip.
 
-#### Forbidding Ward (Cantrip I Amp)
+#### Forbidding Ward (Cantrip II Innate)
 [Abjuration] [Cantrip] [Somatic] [Verbal] [>>]
 *Range* 30 feet; Targets 1 ally and 1 enemy
 Duration sustained up to 1 minute
@@ -264,7 +273,7 @@ The target ally gains a +1 status bonus to Armor Class and saving throws against
 the target enemy's attacks, spells, and other effects.
 *Heightened (6th)* The status bonus increases to +2.
 
-#### Prestidigitation (Cantrip I)
+#### Prestidigitation (Cantrip II)
 [Cantrip] [Evocation] [Verbal] [Somatic] [>>]
 Range 10 feet; Targets 1 object (cook, lift, or tidy only)
 Duration sustained
@@ -277,6 +286,16 @@ conditions.
 - Make: Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile - it can't be used as a tool, weapon, or spell component.
 - Tidy: Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.
 
+#### Phase Bolt (Cantrip II)
+[Attack] [Cantrip] [Evocation] [Somatic] [Verbal] [>>]
+*Range* 30 feet; Targets 1 creature
+You point your finger and project a bolt of magical energy that stutters in and
+out of phase until it reaches the target. Make a ranged spell attack roll
+against your target's AC; if the target has any circumstance bonuses to AC (such
+as from a shield or cover), reduce that bonus by 2 for this attack. On a success,
+you deal 1d4 piercing damage plus your spellcasting ability modifier. On a
+critical success, the target takes double damage.
+*Heightened (+1)* The bolt's damage increases by 1d4.
 
 #### Color Spray (Spell I)
 [Illusion] [Incapacitation] [Visual] [Verbal] [Somatic] [>>]
@@ -301,7 +320,7 @@ target uses a hostile action, the spell ends.
 - *Failure* The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.
 - *Critical Failure* The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.
 
-#### Soothe (Spell I)
+#### Soothe (Spell I+)
 [Emotion] [Enchantment] [Healing] [Mental] [Somatic] [Verbal] [>>]
 *Range* 30 feet; Targets 1 willing living creature
 *Duration* 1 minute
@@ -309,7 +328,15 @@ You grace the target's mind, boosting its mental defenses and healing its wounds
 The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2
 status bonus to saves against mental effects for the duration.
 *Heightened (+1)* The amount of healing increases by 1d10+4.
-
+#### Sonata Span (Spell II)
+[Auditory] [Conjuration] [Sonic] [Occult] [Somatic] [Verbal] [>>]
+*Area* 30-foot line
+*Duration* Sustained
+By playing a brief tune on an instrument or in song, you cause the notes of the
+melody to physically manifest into a shimmering, translucent path. This path
+doesn't need to be over solid ground and can tilt up or down diagonally up to 45
+degrees, but it must be a straight, 5-foot-wide line. It can support as many
+creatures as can physically fit on the bridge.
 ## Belongings
 Coinage: 13.35
 Bulk 1.3
