@@ -247,7 +247,7 @@ spellcasting ability modifier. Your multiple attack penalty doesn't increase
 until you've made both Strikes.
 *Amp Heightened (+1)* The damage increases by 2d8 instead of 1d8.
 
-#### Guidance (Cantrip II)
+#### Guidance (Cantrip II Innate)
 [Cantrip] [Divination] [Verbal] [>]
 *Range* 30 feet; Targets 1 creature
 Duration until the start of your next turn
