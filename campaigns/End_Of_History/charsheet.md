@@ -2,7 +2,7 @@
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Soul-Scarred
-- Class: Psychic 2
+- Class: Psychic 3
 
 [Selfless] [Tolerant] [Traditional]
 [Medium] [Kitsune] [Changeling] [Humanoid]
