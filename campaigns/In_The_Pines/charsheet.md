@@ -13,14 +13,14 @@
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
 | Willpower    | [ ] [ ] [ ] [ ] [ ]                     |
-| Limit        | [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] [ ] |
+| Limit        | [x] [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
-| > White      | 6/6                                     |
+| > White      | 5/6                                     |
 | > Black      | 4/6                                     |
 | Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
-| Experience   | 79 Spent / 79 Total                     |
+| Experience   | 81 Spent / 82 Total                     |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -29,11 +29,11 @@
 | [Physical]
 | Strength        | oo... |
 | Dexterity       | ooooo | Graceful
-| Stamina         | oox.. |
+| Stamina         | oo... |
 |-----------------|-------|------------------|
 | [Social]
 | Charisma        | oo... |
-| Manipulation    | oxx.. |
+| Manipulation    | o.... |
 | Appearance      | ooooo | Uncanny
 |-----------------|-------|------------------|
 | [Mental]
@@ -47,11 +47,11 @@
 |-----------------|-------|------------------|
 | [Talents]
 | Alertness       |[oooo.]| Danger
-| Art             | ox... | Song
+| Art             | o.... | Song
 | Athletics       | o.... |
 | Awareness       |[ooooo]| Fate/Destiny
 | Brawl           | ..... |
-| Empathy         |[oox..]|
+| Empathy         |[oo...]|
 | Expression      |[oo...]|
 | Intimidation    | ..... |
 | Leadership      | ..... |
@@ -70,7 +70,7 @@
 | Stealth         | oo... |
 | Survival        | ..... |
 | Technology      | o.... |
-| Security        | ox... |
+| Security        | o.... |
 |-----------------|-------|------------------|
 | [Knowledges]
 | Academics       |[oo...]| Literature
@@ -78,7 +78,7 @@
 | Cosmology       | ..... |
 | Enigmas         |[oo...]|
 | Esoterica       |[ooo..]| Horror
-| Investigation   | o.... |
+| Investigation   | oo... |
 | Law             | ..... |
 | Medicine        | ..... |
 | Occult          |[o....]|
@@ -160,7 +160,7 @@ Alchemy is unavailable.
 You can overlay a "template destiny" on yourself by gaining a limit and spending
 a turn concentrating; this template lasts until another is used or you suffer
 Discordant Backlash.
-#### The Ewer [ ]
+#### The Ewer [x]
 Your Wits, Alertness, and Awareness are increased to 3, and your Perception is
 increased to 2. You may reflexively spend 1 essence when an ally's roll fails,
 causing reality to stutter-step backwards for a few moments, allowing them to
@@ -172,7 +172,7 @@ banner manifests, instead of its usual appearance, it gives the outward
 appearance of being that sort of supernatural being. Your charms disguise
 themselves as characteristic powers of whatever being you're impersonating. Some
 cosmetic decorations of a rare and precious substance appear on your person.
-#### The Corpse [x]
+#### The Corpse [ ]
 Your Stamina, Manipulation, and Empathy increase to 3, and your Security and
 Art increase to 2. If you play dead, you will always fool anyone with such
 thoroughness that they feel no need to test, even if you've already fooled them
