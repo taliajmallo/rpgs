@@ -4,7 +4,7 @@
 |--------------|--------------|
 | *HP*         |  29/29       |
 | *Focus*      |  [x] [x]     |
-| *Fortune*    |  [x] [ ] [ ] |
+| *Fortune*    |  [ ] [ ] [ ] |
 | *Spells*     |--------------|
 |  1st         |  [x] [x]     |
 |  2nd         |  [x]         |
@@ -60,7 +60,7 @@ Situational & Temporary Effects:
 
 ## Status
 - [ ] Fox Form
-- *Unleash Psyche* <>: Requires having cast a spell last round. For 2 rounds, +(2x spell level) instantaneous spell damage. Stupefied 1 for 2 rounds after.
+- [ ] *Unleash Psyche* <>: Requires having cast a spell last round. For 2 rounds, +(2x spell level) instantaneous spell damage. Stupefied 1 for 2 rounds after. 
   - [ ] Psyche unleashed
   - *Restore the Mind* >: 1/Ally/10min, either heal 6hp or +1 saves/mental until psyche ends.
     - [ ] Self
@@ -73,6 +73,12 @@ Situational & Temporary Effects:
 ## Cantrips
 - *Forbidding Ward* >>: Target ally gains +1 AC and saves vs target enemy
 - *Guidance* >: 1/Target/Hour +1 to single d20 roll
+    - [ ] Self
+    - [ ] Suyra (Shira)
+    - [ ] Yuriso-Meno (Violet)
+    - [ ] Meno-Yuriso (Violet's Eidolon)
+    - [ ] Granz (Jay)
+    - [ ] Rasa (Chas) 
 - *Imaginary Weapon* >>: Melee spell attack, 2d8+4 damage. Crits may knockback 10'.
 - *Moonlit Bandages*: Medicine.
   - Treat Wounds 1h: DC 15 Medicine / 2d8 HP / 4d8 HP crit.
