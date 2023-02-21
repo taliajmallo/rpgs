@@ -1,8 +1,8 @@
 # Sakari Kiriama / Sinta Mariwa
 ## Bio
 - Ancestry: Kitsune Changeling
-- Background: Soul-Scarred
-- Class: Psychic 3
+- Background: Raised by Belief
+- Class: Moontouched Kineticist 3
 
 [Selfless] [Tolerant] [Traditional]
 [Medium] [Kitsune] [Changeling] [Humanoid]
@@ -11,87 +11,80 @@
 ### Ability Scores
 |  Stat   | Base    |
 |---------|---------|
-| **STR** | 10 (--) |
+| **STR** | 12 (+1) |
 | **DEX** | 12 (+1) |
-| **CON** | 12 (+1) |
+| **CON** | 18 (+4) |
 | **INT** | 16 (+3) |
-| **WIS** | 18 (+4) |
-| **CHA** |  8 (-1) |
+| **WIS** | 10 (--) |
+| **CHA** | 08 (-1) |
 
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  29/29       |  +2/Rest
-| *Focus*      |  [x] [x]     |  +2/Refocus
+| *HP*         |  44/44       |  +3/Rest
+| *Focus*      |  [x]         |  +1/10min
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
-| *Spells*     |--------------|  +All/Rest
-|  1st         |  [x] [x]     |
-|  2nd         |  [x]         |
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Unarmored AC*  |  16    |  +     |  +3+2  |  +1 Dex   |  -     |  +1 w/ Shield
+| *AC (Armored)*  |  ??    |  +     |  +3+2  |  +1 Dex   |  +2    |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Fortitude*     |  +6    |  +     |  +3+2  |  +1 Con   |  -     |  +1/Spell
-| *Reflex*        |  +6    |  +     |  +3+2  |  +1 Dex   |  -     |  +1/Spell
-| *Will*          |  +11   |  ++    |  +3+4  |  +4 Wis   |  -     |  +1/Spell
+| *Fortitude*     |  +?    |  ++    |  +3+?  |  +4 Con   |  -     |
+| *Reflex*        |  +?    |  ++    |  +3+?  |  +1 Dex   |  -     |
+| *Will*          |  +?    |  ++    |  +3+?  |  +0 Wis   |  -     |
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  19    |  +     |  +3+2  |  +4 Wis   |  -     |  -
-| *Occult DC*     |  19    |  +     |  +3+2  |  +4 Wis   |  -     |  -
+| *Class DC*      |  ??    |  +     |  +3+?  |  +4 Con   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +9    |  +     |  +3+2  |  +4 Wis   |  -     |  -
-| *Occult Attack* |  +9    |  +     |  +3+2  |  +4 Wis   |  -     |  -
-| *Dex Attack*    |  +6    |  +     |  +3+2  |  +1 Dex   |  -     |  -
-| *Str Attack*    |  +5    |  +     |  +3+2  |  +0 Str   |  -     |  -
+| *Perception*    |  +?    |  +     |  +3+?  |  +0 Wis   |  -     |  -
+| *Kin. Attack*   |  +?    |  +     |  +3+?  |  +4 Con   |  +1    |  -
+| *Dex Attack*    |  +?    |  +     |  +3+?  |  +1 Dex   |  +1    |  -
+| *Str Attack*    |  +?    |  +     |  +3+?  |  +1 Str   |  +1    |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +10   |  ++    |  +3+4  |  +3 Int   |  -     |  -
-| *Crafting*      |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *L: Academia*   |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *L: Library*    |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *Medicine*      |  +12   |  ++    |  +3+4  |  +4 Wis   |  +1    |  -
-| *Nature*        |  +9    |  +     |  +3+2  |  +4 Wis   |  -     |  -
-| *Occultism*     |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *Religion*      |  +9    |  +     |  +3+2  |  +4 Wis   |  -     |  -
-| *Society*       |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *Arcana*        |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
+| *Crafting*      |  +?    |  ++    |  +3+?  |  +3 Int   |  -     |  -
+| *L: Academia*   |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
+| *L: Library*    |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
+| *L: Moon Faith* |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
+| *Medicine*      |  +?    |  +     |  +3+?  |  +0 Wis   |  -     |  -
+| *Occultism*     |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
+| *Religion*      |  +?    |  +     |  +3+?  |  +0 Wis   |  -     |  -
+| *Society*       |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Acrobatics*    |  +1    |        |  +0    |  +1 Dex   |  -     |  -
-| *Athletics*     |  +0    |        |  +0    |  +0 Str   |  -     |  -
-| *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
-| *Diplomacy*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
-| *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
-| *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
-| *Stealth*       |  +1    |        |  +0    |  +1 Dex   |  -     |  -
-| *Survival*      |  +4    |        |  +0    |  +4 Wis   |  -     |  -
-| *Thievery*      |  +1    |        |  +0    |  +1 Dex   |  -     |  -
+| *Acrobatics*    |  +?    |        |  +?    |  +1 Dex   |  -     |  -
+| *Athletics*     |  +?    |        |  +?    |  +1 Str   |  -     |  -
+| *Deception*     |  -?    |        |  +?    |  -1 Cha   |  -     |  -
+| *Diplomacy*     |  -?    |        |  +?    |  -1 Cha   |  -     |  -
+| *Intimidation*  |  -?    |        |  +?    |  -1 Cha   |  -     |  -
+| *Nature*        |  +?    |        |  +3    |  +0 Wis   |  -     |  -
+| *Performance*   |  -?    |        |  +?    |  -1 Cha   |  -     |  -
+| *Stealth*       |  +?    |        |  +?    |  +1 Dex   |  -     |  -
+| *Survival*      |  +?    |        |  +?    |  +0 Wis   |  -     |  -
+| *Thievery*      |  +?    |        |  +?    |  +1 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 
 ### Skill & General Feats
-#### Battle Medicine (Background)
-[General] [Healing] [Manipulate] [Skill] [>]
-You can patch up yourself or an adjacent ally, even in combat. Attempt a
-Medicine check with the same DC as for Treat Wounds, and restore a corresponding
-amount of Hit Points; this does not remove the wounded condition. As with Treat
-Wounds, you can attempt checks against higher DCs if you have the minimum
-proficiency rank. The target is then temporarily immune to your Battle Medicine
-for 1 day.
-#### Assurance, Medicine (2nd)
+#### Assurance, Occultism (Background)
 [Fortune] [General] [Skill]
 Even in the worst circumstances, you can perform basic tasks. Choose a skill
 you're trained in. You can forgo rolling a skill check for that skill to instead
 receive a result of 10 + your proficiency bonus (do not apply any other bonuses,
 penalties, or modifiers).
-#### Kitsune Spell Familiarity (3rd)
-You've picked up a few magical tricks. During your daily preparations, choose
-daze, forbidding ward, or ghost sound. Until your next daily preparations, you
-can cast this cantrip as a divine innate spell at will. A Cantrip IIs heightened
-to a spell level equal to half your level rounded up.
+#### Spun Moonlight (2nd Skill)
+[Archetype] [Skill]
+You may spin moonlight into threads, allowing you to use Occult instead of Craft
+when creating a magic item or an item made primarily of fabric.
+#### ??? (3rd General/Skill)
+[General] [Skill]
+You can Craft magic items, though some have other requirements. When you select
+this feat, you gain formulas for four common magic items of 2nd level or lower. TODO: DECIDE THESE
+
 ## Automatic Bonus Progression
 - Attack Potency I
 - Skill Potency I
@@ -99,10 +92,10 @@ to a spell level equal to half your level rounded up.
 ## Ancestry - Kitsune Changeling
 ### Kitsune
 Your size is medium, and you have low-light vision. You can see in dim light as
-if it were bright light. Your movement speed is 25 feet.
+if it were bright light. Your movement speed is ?? feet.
 #### Change Shape
 [Concentrate] [Polymorph] [Primal] [Transmutation] [>]
-You transform into a fox, which has the statistics of a 1st-level Pest Form, or
+You transform into a fox, which has the statistics of a ?st-level Pest Form, or
 back into your true form.
 
 ### Changeling
@@ -114,140 +107,7 @@ light, though your vision in darkness is in black and white.
 Your mother was a moon hag, a handmaiden of Groetus, and you have a single
 scarlet eye and a sliver of her supernal foresight. You can cast guidance as an
 occult innate cantrip.
-
-## Background - Soul-Scarred
-~~Reflavored Tech-Reliant~~
-Some event, be it an accident, attack, or disaster, has left you horribly
-scarred by magic. Your body no longer tolerates magical healing in any capacity.
-You're trained in the Crafting skill and the Medicine skill. You gain the
-Battle Medicine skill feat, and a +1 circumstance bonus to saving throws
-against spells. Healing spells, healing magic items, and magical effects with
-the healing trait have no effect on you.
-### Languages
-Patter-Whistle, Low Song, High Song, Vaaltid
-
-## Class - Psychic
-- Subconscious Mind: Moonlit Serenity (WIS Emotional Acceptance)
-- Conscious Mind: Tangible Dream
-
-### Psychic Spellcasting
-You access the vast well of power that resides within your own mind, calling
-forth psychic magic with nothing but thought and will. You can cast occult
-spells using the Cast a Spell activity. You alter some of the standard spell
-components when casting spells you know from your psychic spellcasting. Instead
-of speaking, you substitute any verbal components with a special mental
-component determined by your subconscious mind class feature. This represents
-how you exert your mind toward your intended effect. Any of these components
-impart the concentrate trait to the spell you're casting. You also substitute
-any material components with somatic components, though these tend to be simple
-movements of the hand or head compared to those used by other spellcasters. Your
-spells still have clear and noticeable visual and auditory manifestations, as
-normal for a spellcaster.
-
-You refill your focus pool during your daily preparations, and you can regain
-Focus Points by spending 10 minutes using the Refocus activity to explore your
-mind, whether via meditation, practicing a craft or activity that gives you the
-mental space to self-reflect, or talking through your thoughts and feelings with
-yourself or another. If you've spent Focus Points only to amp psi cantrips or
-fuel psychic abilities since the last time you Refocused, you regain 2 Focus
-Points when you Refocus, up to your maximum of 2. If you've spent Focus Points
-on focus spells or abilities other than those from the psychic class (for
-instance, to cast a focus spell you gained from an archetype), you regain only 1
-Focus Point.
-
-### Unleash Psyche
-[Psychic] [<>]
-Trigger: Your turn begins, you cast a spell last turn, you aren't stupefied.
-Result: Your psyche is unleashed for 2 rounds or until you fall unconscious,
-whichever happens first. You gain a constant visual manifestation of your magic,
-gain a status bonus to instantaneous damage spells equal to twice their spell
-level, and can take actions that have the [Psyche] trait. You are then stupefied
-1 for two rounds, and even if that is removed early cannot unleash your psyche
-again during those two rounds.
-
-### Restore the Mind
-[Emotion] [Enchantment] [Healing] [Mental] [Psyche] [Psychic] [>]
-Your unleashed psyche gives you closer connections to the emotions of your
-allies, letting you project reassurance and calm that replenishes their
-mind and body.
-Choose one of the two benefits to grant one ally within 30 feet that you can
-see. That ally is then temporarily immune for 10 minutes.
-- The ally gains a +1 status bonus to saving throws against mental effects until your psyche ends.
-- The ally regains Hit Points equal to 2 + double your level.
-
-### Class Feats
-#### Medic (2nd)
-[Archetype] [Dedication]
-You become an expert in Medicine. When you succeed with Battle Medicine or Treat
-Wounds, the target regains 5 additional HP at DC 20, 10 HP at DC 30, or 15 HP at
-DC 40. Once per day, you can use Battle Medicine on a creature that's
-temporarily immune. If you're a master in Medicine, you can do so once per hour.
-
-### Spells
-#### Dancing Lights (Cantrip II Amp)
-[Cantrip] [Evocation] [Light] [Verbal] [Somatic] [>>]
-*Range* 120 feet
-*Duration* sustained
-You create up to four floating lights that each shed light like a torch. When
-you Sustain the Spell, you can move any number of lights up to 60 feet.
-
-*Amp* Your lights whirl together, dazzlingly and hypnotically. When you amp the
-spell, you create a flashing display comprised of all four lights in an
-unoccupied 5-foot square. If you move the lights when you Sustain the Spell, the
-lights must remain together. The spell gains the [Visual] trait. Each creature
-in a 5-foot emanation around the lights when you Cast the Spell must attempt a
-Fortitude save.
-- *Success* The creature is dazzled until the start of your next turn and then becomes temporarily immune for 1 minute.
-- *Failure* The creature is dazzled until the start of your next turn and must attempt a new save against the spell whenever it starts its turn adjacent to the lights.
-- *Critical Failure* As failure, but the creature is also fascinated by the lights until the start of your next turn.
-
-#### Shield (Cantrip II Amp)
-[Abjuration] [Cantrip] [Force] [Verbal] [>]
-*Duration* until the start of your next turn
-You raise a magical shield of force. This counts as using the Raise a Shield
-action, giving you a +1 circumstance bonus to AC until the start of your next
-turn, but it doesn't require a hand to use. You may choose to grant this benefit
-to a target ally within 30 feet instead of yourself.
-
-While the spell is in effect, you can use the Shield Block reaction with your
-magic shield. The shield has Hardness 5. After you use Shield Block, the spell
-ends and you can't cast it again for 10 minutes. Unlike a normal Shield Block,
-you can use the spell's reaction against the magic missile spell.
-
-Heightening the spell increases the shield's Hardness.
-*Heightened (3rd)* The shield has Hardness 10.
-*Heightened (5th)* The shield has Hardness 15.
-*Heightened (7th)* The shield has Hardness 20.
-*Heightened (9th)* The shield has Hardness 25.
-
-*Amp* You create a layered barrier of three shields to improve your defenses.
-The duration increases to sustained up to 1 minute. The shield still lowers at
-the start of each of your turns, but you can raise it again when you Sustain the
-Spell. When you Shield Block with this spell, one of the three layers breaks and
-you cease to gain the bonus to AC, but the spell doesn't end. You can keep using
-the spell until the final layer breaks; once it does, the spell ends and you
-can't cast shield or amped shield again for 10 minutes. You can choose to break
-additional layers when you Shield Block with this spell to improve your defenses.
-If you break two layers instead of one, increase the Hardness to 1-1/2 × the
-normal amount. If you break all three layers, increase the Hardness to double
-the normal amount.
-
-#### Imaginary Weapon (Cantrip II Amp)
-[Attack] [Cantrip] [Evocation] [Force] [Psychic] [Verbal] [Somatic] [>>]
-*Range* touch; Targets 1 creature
-You create a simple weapon of force. Make a melee spell attack roll against your
-target's AC. If you hit, you deal your choice of bludgeoning or slashing damage
-equal to 1d8 plus your spellcasting ability modifier. On a critical success, you
-deal double damage and can choose to detonate your weapon to push the target 10
-feet away from you.
-*Heightened (+1)* The damage increases by 1d8.
-*Amp* You form multiple force weapons to lash out at multiple foes. You make two
-imaginary weapon Strikes, each against a different target for 1d8 plus your
-spellcasting ability modifier. Your multiple attack penalty doesn't increase
-until you've made both Strikes.
-*Amp Heightened (+1)* The damage increases by 2d8 instead of 1d8.
-
-#### Guidance (Cantrip II Innate)
+##### Guidance (Cantrip II Innate)
 [Cantrip] [Divination] [Verbal] [>]
 *Range* 30 feet; Targets 1 creature
 Duration until the start of your next turn
@@ -257,96 +117,133 @@ the duration ends. The target chooses which roll to use the bonus on before
 rolling. If the target uses the bonus, the spell ends. Either way, the target is
 then temporarily immune for 1 hour.
 
-#### Moonlit Bandages (Cantrip II)
-[Cantrip] [Evocation] [Force] [Somatic] [>]
-You spin bandages out of moonlight, for use in tending wounds. This can be used
-in lieu of healer's tools for Medicine checks to Administer First Aid or Treat
-Wounds. If you have the Battle Medicine feat, you may use that feat as part of
-the action of casting this cantrip.
+### Hagtouched Calling
+### Tier One Boon: Mist Child
+You blend in with unnatural subtlety. When you are concealed or hidden, increase
+the DC of the flat check to target you to 6 if you're concealed or 12 if you're
+hidden.
+### Tier One Bane: Hagmarked
+You've unknowingly taken the first step towards becoming a hag.
 
-#### Forbidding Ward (Cantrip II Innate)
-[Abjuration] [Cantrip] [Somatic] [Verbal] [>>]
-*Range* 30 feet; Targets 1 ally and 1 enemy
-Duration sustained up to 1 minute
-You ward an ally against the attacks and hostile spells from the target enemy.
-The target ally gains a +1 status bonus to Armor Class and saving throws against
-the target enemy's attacks, spells, and other effects.
-*Heightened (6th)* The status bonus increases to +2.
+## Background - Raised by Belief
+Whether in a monastery, a religious household, or just as part of your everyday
+life, your upbringing was steeped in the traditions of a faith or philosophy.
+You might remain committed or you may have turned from your childhood creed, but
+your skills are still founded in your devotion.
+Choose two ability boosts. One boost must be to an ability specified in the
+Divine Ability entry for your deity, and one is a free ability boost.
+You're trained in your deity's associated skill, and you gain Assurance with
+that skill. You gain a Lore skill with a subcategory associated with your deity.
+### Languages
+Patter-Whistle, Low Song, High Song, Vaaltid
 
-#### Prestidigitation (Cantrip II)
-[Cantrip] [Evocation] [Verbal] [Somatic] [>>]
-Range 10 feet; Targets 1 object (cook, lift, or tidy only)
-Duration sustained
-The simplest magic does your bidding. You can perform simple magical effects for
-as long as you Sustain the Spell. Each time you Sustain the Spell, you can
-choose one of four options. Prestidigitation can't deal damage or cause adverse
-conditions.
-- Cook: Cool, warm, or flavor 1 pound of nonliving material.
-- Lift: Slowly lift an unattended object of light Bulk or less 1 foot off the ground.
-- Make: Create a temporary object of negligible Bulk, made of congealed magical substance. The object looks crude and artificial and is extremely fragile - it can't be used as a tool, weapon, or spell component.
-- Tidy: Color, clean, or soil an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object a 1 minute per Bulk.
+## Class - Lunar Kineticist
+### Class Benefits
 
-#### Phase Bolt (Cantrip II)
-[Attack] [Cantrip] [Evocation] [Somatic] [Verbal] [>>]
-*Range* 30 feet; Targets 1 creature
-You point your finger and project a bolt of magical energy that stutters in and
-out of phase until it reaches the target. Make a ranged spell attack roll
-against your target's AC; if the target has any circumstance bonuses to AC (such
-as from a shield or cover), reduce that bonus by 2 for this attack. On a success,
-you deal 1d4 piercing damage plus your spellcasting ability modifier. On a
-critical success, the target takes double damage.
-*Heightened (+1)* The bolt's damage increases by 1d4.
+#### Gather An Element
+[Conjuration] [Kineticist] [Manipulate] [Occult] [>]
+Gather moonlight about you or in your palm.
 
-#### Color Spray (Spell I)
-[Illusion] [Incapacitation] [Visual] [Verbal] [Somatic] [>>]
-*Area* 15-foot cone
-*Saving Throw* Will; *Duration* 1 or more rounds (see below)
-Swirling colors affect viewers based on their Will saves.
-- *Critical Success* The creature is unaffected.
-- *Success* The creature is dazzled for 1 round.
-- *Failure* The creature is stunned 1, blinded for 1 round, and dazzled for 1 minute.
-- *Critical Failure* The creature is stunned for 1 round and blinded for 1 minute.
+#### Elemental Blast
+[Evocation] [Impulse] [Kineticist] [Negative] [Occult] [>]
+Make a melee or ranged strike using your gathered moonlight. This is considered
+to be an unarmed attack. It deals 1d6 negative damage, and is considered to deal
+silver damage for the purposes of weaknesses, resistances, and the like. If a
+melee attack, it has the traits fatal d10, finesse, and negative. If a ranged
+attack, it has the traits fatal d10 and negative, with a ranged increment of 60
+feet. You may use your Constitution modifier instead of your Strength or
+Dexterity modifier for attack rolls.
 
-#### Sanctuary (Spell I)
-[Abjuration] [Verbal] [Somatic] [>>]
-*Range* touch; Targets 1 creature
-*Duration* 1 minute
-You ward a creature with protective energy that deters enemy attacks. Creatures
-attempting to attack the target must attempt a Will save each time. If the
-target uses a hostile action, the spell ends.
+#### Adapt Element
+[Concentrate] [Evocation] [Kineticist] [Manipulate] [Occult] [>>]
+You can do small utility effects with moonlight.
 
-- *Critical Success* Sanctuary ends.
-- *Success* The creature can attempt its attack and any other attacks against the target this turn.
-- *Failure* The creature can't attack the target and wastes the action. It can't attempt further attacks against the target this turn.
-- *Critical Failure* The creature wastes the action and can't attempt to attack the target for the rest of sanctuary's duration.
+#### Extract Element
+[Kineticist] [Manipulate] [Occult] [Transmutation] [>]
+Choose a creature with 30 feet that is undead, has the Negative trait, or
+otherwise has a negative energy elemental nature. That creature must attempt a
+Fortitude save against your class DC or take 2d4 damage as you steal the
+elemental essence from its body, as well as the following effects.
+**Critical Success** The creature is unaffected.
+**Success** The creature takes half damage, you Gather An Element, and the
+creature is weakened against your impulses. It takes a -1 circumstance penalty
+to AC and saves while you have the element gathered. You may ignore any
+resistance it has entirely, and if it has immunity it instead has resistance
+equal to its level.
+**Failure** As success, but the creature takes half damage.
+**Critical Failure** As failure, but the creature takes double damage.
+**Level (+3)** The damage increases by 1d4.
 
-#### Soothe (Spell I+)
-[Emotion] [Enchantment] [Healing] [Mental] [Somatic] [Verbal] [>>]
-*Range* 30 feet; Targets 1 willing living creature
-*Duration* 1 minute
-You grace the target's mind, boosting its mental defenses and healing its wounds.
-The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2
-status bonus to saves against mental effects for the duration.
-*Heightened (+1)* The amount of healing increases by 1d10+4.
-#### Sonata Span (Spell II)
-[Auditory] [Conjuration] [Sonic] [Occult] [Somatic] [Verbal] [>>]
-*Area* 30-foot line
-*Duration* Sustained
-By playing a brief tune on an instrument or in song, you cause the notes of the
-melody to physically manifest into a shimmering, translucent path. This path
-doesn't need to be over solid ground and can tilt up or down diagonally up to 45
-degrees, but it must be a straight, 5-foot-wide line. It can support as many
-creatures as can physically fit on the bridge.
+### Class Feats
+#### Lunar Condemnation (Dedicated Gate)
+[Conjuration] [Impulse] [Kineticist] [Negative] [Occult] [Overflow] [>>]
+Gesturing with each hand, pull moonlight down from the heavens onto your foes. Either choose different two 5-foot squares, or a single 5-foot burst, both of which must be within 30 feet of you. Enemies within those spaces, or up to 30 feet directly above them, take 1d6 negative damage with a Fortitude save against your class DC.
+**Critical Success** The creature is unaffected.
+**Success** The creature takes half damage.
+**Failure** The creature takes full damage, and is your choice of Enfeebled 1 or Clumsy 1.
+**Critical Failure** The creature takes double damage, and is both Enfeebled 1 and Clumsy 1.
+**Level (+2)** The damage increases by 1d6.
+
+#### Nurturing Blood (Dedicated Gate)
+[Healing] [Impulse] [Kineticist] [Necromancy] [Occult] [<]
+**Trigger** An ally within 60 feet deals persistent bleed damage or reduces a creature to 0 hit points.
+Gentle moonlight invigorates your ally, renewing their strength with the tithe of blood paid. The target ally gains temporary hit points equal to 2 + half your level that last until the end of your next turn. You may instead choose to heal them for 3 hit points per level you have, but they then become temporarily immune to this impulse for ten minutes.
+
+#### Waxing Lunacy (Dedicated Gate)
+[Enchantment] [Impulse] [Kinetic_Aura] [Kineticist] [Mental] [Occult] [>>]
+Lunar madness begins to tinge the minds of those around you. Any creature that enters the aura or ends its turn there must make a Will save against your class DC. On a failure, they become Stupefied 1 while they are in the aura. On a critical failure, they also become Fascinated for one round with a creature of your choice that is within 30 feet of them.
+
+#### Celestial Whispers (Dedicated Gate)
+[Divination] [Impulse] [Kineticist] [Occult] [>]
+The moonlight in your hand gives you both light and sight. Recall Knowledge about a creature, object, or location that is illuminated by moonlight. You may use Occultism in place of the most appropriate skill.
+
+#### Lunar Kineticist Dedication (2nd Class)
+[Uncommon] [Archetype] [Class] [Dedication]
+When you cause a creature to gain the Fascinated condition, you may give them
+the Obsessed condition instead. Obsessed is identical to Fascinated, except that
+instead of being removed instantly if a hostile action is used against the
+creature or its allies, the condition is removed if the creature takes an action
+targeting the subject of its fascination.
+**Special** You can't select another dedication feat until you've gained two
+other feats from the Lunar Kineticist archetype.
+
+### Free Archetype
+#### Curse Maelstrom Dedication (2nd Archetype)
+You can manifest a curse maelstrom state in the following ways:
+- You succeed on a check, and accept the GM's offer to reroll
+- A foe forces you to roll with a misfortune effect
+- You fail a saving throw against a foe's curse effect
+
+While in a curse maelstrom state, you cannot benefit from fortune effects in any
+way, and all creatures other than you within a 10-foot emanation take a -1
+status penalty to all saving throws and skill checks. You gain the Expel
+Maelstrom action while in this state.
+##### Expel Maelstrom
+[Curse] [Necromancy] [Occult] [>]
+Choose one creature within 60 feet to make a Will save against your class DC,
+and your curse maelstrom state ends.
+**Critical Success** The creature is unaffected, and the curse's energy
+dissipates harmlessly.
+**Success** The creature comes to house the maelstrom's wrath within it. It
+takes a -1 status penalty to all saving throws and skill checks for 1 minute.
+**Failure** The maelstrom strikes deep into the creature's soul. It takes a -2
+status penalty to all saving throws and skill checks for 10 minutes.
+**Critical Failure** The maelstrom pitches the creature into a single fit of
+utter misfortune before burrowing into its soul. As failure, but the creature
+also must roll twice and take the lower result on its next saving throw or skill
+check; this is a misfortune effect.
+
 ## Belongings
-Coinage: 13.35
-Bulk 1.3
+Coinage: 05.75
+Bulk 3.1
 ### Armor
-- [x] Winter Clothing (.4, L)
+- [x] Studded Leather (3, 1)
 ### Weapons
 - [ ] Dagger (.2, L)
 ### Gear
 - Silver Religious Symbol of the Sunlord (2, L)
 - Wooden Religious Symbol of the Moon (.1, L)
+- Healer's Tools (5, 1)
 - Backpack (.1, L, stores 4 at 2 discount)
   - Assorted Spices (-, -)
   - Basic Crafter's Book (.1, L)
