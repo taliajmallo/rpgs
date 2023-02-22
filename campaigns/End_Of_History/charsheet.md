@@ -2,7 +2,7 @@
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Raised by Belief
-- Class: Moontouched Kineticist 3
+- Class: Moon-touched Kineticist 3
 
 [Selfless] [Tolerant] [Traditional]
 [Medium] [Kitsune] [Changeling] [Humanoid]
@@ -28,45 +28,45 @@
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *AC (Armored)*  |  ??    |  +     |  +3+2  |  +1 Dex   |  +2    |
+| *AC (Armored)*  |  18    |  +     |  +3+2  |  +1 Dex   |  +2    |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Fortitude*     |  +?    |  ++    |  +3+?  |  +4 Con   |  -     |
-| *Reflex*        |  +?    |  ++    |  +3+?  |  +1 Dex   |  -     |
-| *Will*          |  +?    |  ++    |  +3+?  |  +0 Wis   |  -     |
+| *Fortitude*     |  +11   |  ++    |  +3+4  |  +4 Con   |  -     |
+| *Reflex*        |  +8    |  ++    |  +3+4  |  +1 Dex   |  -     |
+| *Will*          |  +7    |  ++    |  +3+4  |  +0 Wis   |  -     |
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  ??    |  +     |  +3+?  |  +4 Con   |  -     |  -
+| *Class DC*      |  19    |  +     |  +3+2  |  +4 Con   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +?    |  +     |  +3+?  |  +0 Wis   |  -     |  -
-| *Kin. Attack*   |  +?    |  +     |  +3+?  |  +4 Con   |  +1    |  -
-| *Dex Attack*    |  +?    |  +     |  +3+?  |  +1 Dex   |  +1    |  -
-| *Str Attack*    |  +?    |  +     |  +3+?  |  +1 Str   |  +1    |  -
+| *Perception*    |  +5    |  +     |  +3+2  |  +0 Wis   |  -     |  -
+| *Kin. Attack*   |  +10   |  +     |  +3+2  |  +4 Con   |  +1    |  -
+| *Dex Attack*    |  +7    |  +     |  +3+2  |  +1 Dex   |  +1    |  -
+| *Str Attack*    |  +7    |  +     |  +3+2  |  +1 Str   |  +1    |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
-| *Crafting*      |  +?    |  ++    |  +3+?  |  +3 Int   |  -     |  -
-| *L: Academia*   |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
-| *L: Library*    |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
-| *L: Moon Faith* |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
-| *Medicine*      |  +?    |  +     |  +3+?  |  +0 Wis   |  -     |  -
-| *Occultism*     |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
-| *Religion*      |  +?    |  +     |  +3+?  |  +0 Wis   |  -     |  -
-| *Society*       |  +?    |  +     |  +3+?  |  +3 Int   |  -     |  -
+| *Arcana*        |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *Crafting*      |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *L: Academia*   |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *L: Library*    |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *L: Moon Faith* |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *Medicine*      |  +5    |  +     |  +3+2  |  +0 Wis   |  -     |  -
+| *Occultism*     |  +11   |  ++    |  +3+4  |  +3 Int   |  +1    |  -
+| *Religion*      |  +5    |  +     |  +3+2  |  +0 Wis   |  -     |  -
+| *Society*       |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Acrobatics*    |  +?    |        |  +?    |  +1 Dex   |  -     |  -
-| *Athletics*     |  +?    |        |  +?    |  +1 Str   |  -     |  -
-| *Deception*     |  -?    |        |  +?    |  -1 Cha   |  -     |  -
-| *Diplomacy*     |  -?    |        |  +?    |  -1 Cha   |  -     |  -
-| *Intimidation*  |  -?    |        |  +?    |  -1 Cha   |  -     |  -
-| *Nature*        |  +?    |        |  +3    |  +0 Wis   |  -     |  -
-| *Performance*   |  -?    |        |  +?    |  -1 Cha   |  -     |  -
-| *Stealth*       |  +?    |        |  +?    |  +1 Dex   |  -     |  -
-| *Survival*      |  +?    |        |  +?    |  +0 Wis   |  -     |  -
-| *Thievery*      |  +?    |        |  +?    |  +1 Dex   |  -     |  -
+| *Acrobatics*    |  +1    |        |  +0    |  +1 Dex   |  -     |  -
+| *Athletics*     |  +1    |        |  +0    |  +1 Str   |  -     |  -
+| *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
+| *Diplomacy*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
+| *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
+| *Nature*        |  +0    |        |  +0    |  +0 Wis   |  -     |  -
+| *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
+| *Stealth*       |  +1    |        |  +0    |  +1 Dex   |  -     |  -
+| *Survival*      |  +0    |        |  +0    |  +0 Wis   |  -     |  -
+| *Thievery*      |  +1    |        |  +0    |  +1 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 
 ### Skill & General Feats
@@ -77,13 +77,19 @@ you're trained in. You can forgo rolling a skill check for that skill to instead
 receive a result of 10 + your proficiency bonus (do not apply any other bonuses,
 penalties, or modifiers).
 #### Spun Moonlight (2nd Skill)
-[Archetype] [Skill]
+[Archetype] [Skill] [General]
+**Prerequisites** Trained in Occult, trained in Craft
 You may spin moonlight into threads, allowing you to use Occult instead of Craft
-when creating a magic item or an item made primarily of fabric.
-#### ??? (3rd General/Skill)
-[General] [Skill]
-You can Craft magic items, though some have other requirements. When you select
-this feat, you gain formulas for four common magic items of 2nd level or lower. TODO: DECIDE THESE
+when creating, repairing, or working with item made primarily of fabric. You
+must still pay the normal material cost, as any raw fabric you wouldn't need to
+purchase is replaced with an equivalent cost in reagents.
+#### Imbued Moonlight (3rd General)
+[Archetype] [Skill] [General]
+**Prerequisites** Spun Moonlight, expert in Occultism
+The moonlight you spin into threads may be imbued with magical effects. You may
+craft magical items as if you had the Magical Crafting skill feat, using
+Occultism instead of Craft. When you select this feat, you gain formulas for
+four common magic items of 2nd level or lower.
 
 ## Automatic Bonus Progression
 - Attack Potency I
@@ -92,10 +98,10 @@ this feat, you gain formulas for four common magic items of 2nd level or lower. 
 ## Ancestry - Kitsune Changeling
 ### Kitsune
 Your size is medium, and you have low-light vision. You can see in dim light as
-if it were bright light. Your movement speed is ?? feet.
+if it were bright light. Your movement speed is 25 feet.
 #### Change Shape
 [Concentrate] [Polymorph] [Primal] [Transmutation] [>]
-You transform into a fox, which has the statistics of a ?st-level Pest Form, or
+You transform into a fox, which has the statistics of a 1st-level Pest Form, or
 back into your true form.
 
 ### Changeling
@@ -170,14 +176,18 @@ creature is weakened against your impulses. It takes a -1 circumstance penalty
 to AC and saves while you have the element gathered. You may ignore any
 resistance it has entirely, and if it has immunity it instead has resistance
 equal to its level.
-**Failure** As success, but the creature takes half damage.
+**Failure** As success, but the creature takes full damage.
 **Critical Failure** As failure, but the creature takes double damage.
 **Level (+3)** The damage increases by 1d4.
 
 ### Class Feats
 #### Lunar Condemnation (Dedicated Gate)
 [Conjuration] [Impulse] [Kineticist] [Negative] [Occult] [Overflow] [>>]
-Gesturing with each hand, pull moonlight down from the heavens onto your foes. Either choose different two 5-foot squares, or a single 5-foot burst, both of which must be within 30 feet of you. Enemies within those spaces, or up to 30 feet directly above them, take 1d6 negative damage with a Fortitude save against your class DC.
+Gesturing with each hand, pull moonlight down from the heavens onto your foes.
+Either choose different two 5-foot squares, or a single 5-foot burst, each of
+which must be within 30 feet of you. Enemies within those spaces, or up to 30
+feet directly above them, take 1d6 negative damage with a Fortitude save against
+your class DC.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
 **Failure** The creature takes full damage, and is your choice of Enfeebled 1 or Clumsy 1.
@@ -187,15 +197,25 @@ Gesturing with each hand, pull moonlight down from the heavens onto your foes. E
 #### Nurturing Blood (Dedicated Gate)
 [Healing] [Impulse] [Kineticist] [Necromancy] [Occult] [<]
 **Trigger** An ally within 60 feet deals persistent bleed damage or reduces a creature to 0 hit points.
-Gentle moonlight invigorates your ally, renewing their strength with the tithe of blood paid. The target ally gains temporary hit points equal to 2 + half your level that last until the end of your next turn. You may instead choose to heal them for 3 hit points per level you have, but they then become temporarily immune to this impulse for ten minutes.
+Gentle moonlight invigorates your ally, renewing their strength with the tithe
+of blood paid. The target ally gains temporary hit points equal to 2 + half your
+level that last until the end of your next turn. You may instead choose to heal
+them for 3 hit points per level you have, but they then become temporarily
+immune to this impulse for ten minutes.
 
 #### Waxing Lunacy (Dedicated Gate)
 [Enchantment] [Impulse] [Kinetic_Aura] [Kineticist] [Mental] [Occult] [>>]
-Lunar madness begins to tinge the minds of those around you. Any creature that enters the aura or ends its turn there must make a Will save against your class DC. On a failure, they become Stupefied 1 while they are in the aura. On a critical failure, they also become Fascinated for one round with a creature of your choice that is within 30 feet of them.
+Lunar madness begins to tinge the minds of those around you. Any creature that
+enters the aura or ends its turn there must make a Will save against your class
+DC. On a failure, they become Stupefied 1 for one round. On a critical failure,
+they also become Fascinated for one round with a creature of your choice that is
+within 30 feet of them.
 
 #### Celestial Whispers (Dedicated Gate)
 [Divination] [Impulse] [Kineticist] [Occult] [>]
-The moonlight in your hand gives you both light and sight. Recall Knowledge about a creature, object, or location that is illuminated by moonlight. You may use Occultism in place of the most appropriate skill.
+The moonlight in your hand gives you both light and sight. Recall Knowledge
+about a creature, object, or location that is illuminated by moonlight. You may
+use Occultism in place of the most appropriate skill.
 
 #### Lunar Kineticist Dedication (2nd Class)
 [Uncommon] [Archetype] [Class] [Dedication]
@@ -264,3 +284,9 @@ Bulk 3.1
   - 5x Candles (.01/, -)
   - 5x Chalk (.01/, -)
   - 1x Scroll of Summon Lesser Servitor (?, ?)
+### Crafting Formulas
+- All 0-level common items.
+- Cantrip Deck
+- Runestone
+- Flask of Fellowship
+- Cloak of Feline Rest

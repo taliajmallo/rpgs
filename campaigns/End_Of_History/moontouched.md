@@ -14,7 +14,7 @@
 ### Impulses
 #### Lunar Condemnation (Feat 1)
 [Conjuration] [Impulse] [Kineticist] [Negative] [Occult] [Overflow] [>>]
-Gesturing with each hand, pull moonlight down from the heavens onto your foes. Either choose different two 5-foot squares, or a single 5-foot burst, both of which must be within 30 feet of you. Enemies within those spaces, or up to 30 feet directly above them, take 1d6 negative damage with a Fortitude save against your class DC.
+Gesturing with each hand, pull moonlight down from the heavens onto your foes. Either choose different two 5-foot squares, or a single 5-foot burst, each of which must be within 30 feet of you. Enemies within those spaces, or up to 30 feet directly above them, take 1d6 negative damage with a Fortitude save against your class DC.
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage.
 **Failure** The creature takes full damage, and is your choice of Enfeebled 1 or Clumsy 1.
@@ -28,7 +28,7 @@ Gentle moonlight invigorates your ally, renewing their strength with the tithe o
 
 #### Waxing Lunacy (Feat 1)
 [Enchantment] [Impulse] [Kinetic_Aura] [Kineticist] [Mental] [Occult] [>>]
-Lunar madness begins to tinge the minds of those around you. Any creature that enters the aura or ends its turn there must make a Will save against your class DC. On a failure, they become Stupefied 1 while they are in the aura. On a critical failure, they also become Fascinated for one round with a creature of your choice that is within 30 feet of them.
+Lunar madness begins to tinge the minds of those around you. Any creature that enters the aura or ends its turn there must make a Will save against your class DC. On a failure, they become Stupefied 1 for one round. On a critical failure, they also become Fascinated for one round with a creature of your choice that is within 30 feet of them.
 
 #### Celestial Whispers (Feat 1)
 [Divination] [Impulse] [Kineticist] [Occult] [>]
@@ -111,8 +111,14 @@ When you cause a creature to gain the Fascinated condition, you may give them th
 **Special** You can't select another dedication feat until you've gained two other feats from the Lunar Kineticist archetype.
 
 ## Spun Moonlight (Feat 2)
-[Archetype] [Skill]
-You may spin moonlight into threads, allowing you to use Occult instead of Craft when creating a magic item or an item made primarily of fabric.
+[Archetype] [Skill] [General]
+**Prerequisites** Trained in Occult, trained in Craft
+You may spin moonlight into threads, allowing you to use Occult instead of Craft when creating, repairing, or working with item made primarily of fabric. You must still pay the normal material cost, as any raw fabric you wouldn't need to purchase is replaced with an equivalent cost in reagents.
+
+## Imbued Moonlight (Feat 2)
+[Archetype] [Skill] [General]
+**Prerequisites** Spun Moonlight, expert in Occultism
+The moonlight you spin into threads may be imbued with magical effects. You may craft magical items as if you had the Magical Crafting skill feat, using Occultism instead of Craft. When you select this feat, you gain formulas for four common magic items of 2nd level or lower.
 
 ## Blind Lunacy (Feat 4)
 [Archetype] [Fortune]
