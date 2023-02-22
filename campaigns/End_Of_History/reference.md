@@ -98,7 +98,7 @@ Situational:
   - CS: --
   - _S: --
   - _F: Stupefied 1 for 1r.
-  - CF: Facinated for 1r with a creature within 30'.
+  - CF: Facinated or Obsessed for 1r with a creature within 30'.
 
 ## Overflow Impulses
 - *Lunar Condemnation* >>: Fortitude on two 5' squares or one 5' burst in 30'; 1d6 negative.
