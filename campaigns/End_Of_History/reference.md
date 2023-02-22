@@ -69,6 +69,7 @@ Situational:
   - _S: Gather Element, half damage, remove resist, immunity -> resist level
   - _F: ^ but full damage
   - CF: ^ but double damage
+- *Enter Maelstrom* <>: Succeed a roll and accept GM reroll, roll with misfortune, or be cursed.
 - *Expel Maelstrom* >: End active Curse Maelstrom; Will save on target within 60'.
   - CS: --
   - _S: -1 status to saves and skills for 1m.
@@ -98,7 +99,7 @@ Situational:
   - CS: --
   - _S: --
   - _F: Stupefied 1 for 1r.
-  - CF: Facinated or Obsessed for 1r with a creature within 30'.
+  - CF: Fascinated or Obsessed for 1r with a creature within 30'.
 
 ## Overflow Impulses
 - *Lunar Condemnation* >>: Fortitude on two 5' squares or one 5' burst in 30'; 1d6 negative.
