@@ -138,12 +138,29 @@ Gain one Limit whenever you:
 Roll Limit against difficulty 6, then reset Limit to zero. Suffer a Discordant
 Flaw based on the number of successes, as follows, and lose access to your
 Getimian Alchemy while the flaw persists:
-- 0: Your anima pulses into visibility, then fades away.
-- 1-2: Something about the world in your presence is wrong for a short while. Watches may count backwards in your presence, sounds may be distorted, or the air may carry a heavy whiff of industrial fumes. These changes last a scene or two.
-- 3-4: Gravity, time, or space around you suddenly misbehave in unpredictable ways, giving periodic +1 difficulty penalties. These changes come and go for at least a day.
-- 5-6: The effects of the previous two levels persist for several days. Additionally, people intermittently misidentify you as being someone else they have strong feelings about.
-- 7-8: In addition to the effects of all previous levels, people develop new and false memories of you that paint you in a sinister light. These memories fade when Discordant Flaw ends. Previous effects become more pronounced, inflicting +2 difficulty penalties.
-- 9-10: All previously mentioned effects persist for at least a week, at intense and near-constant severity. The alteration of memories is more significant and wide-ranging, and the memories do not fade away.
+##### 0:
+Your anima pulses into visibility, then fades away.
+##### 1-2:
+Something about the world in your presence is wrong for a short while. Watches
+may count backwards in your presence, sounds may be distorted, or the air may
+carry a heavy whiff of industrial fumes. These changes last a scene or two.
+##### 3-4:
+Gravity, time, or space around you suddenly misbehave in unpredictable ways,
+giving periodic +1 difficulty penalties. These changes come and go for at least
+a day.
+##### 5-6:
+The effects of the previous two levels persist for several days. Additionally,
+people intermittently misidentify you as being someone else they have strong
+feelings about.
+##### 7-8:
+In addition to the effects of all previous levels, people develop new and false
+memories of you that paint you in a sinister light. These memories fade when
+Discordant Flaw ends. Previous effects become more pronounced, inflicting +2
+difficulty penalties.
+##### 9-10:
+All previously mentioned effects persist for at least a week, at intense and
+near-constant severity. The alteration of memories is more significant and
+wide-ranging, and the memories do not fade away.
 #### Consequence: Discordant Spirit
 Your limit track empties, and a Paradox Spirit manifests, looking to deal with
 you as it would any other severe ongoing deviation from reality. Until the
