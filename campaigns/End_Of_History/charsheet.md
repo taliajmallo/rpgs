@@ -22,7 +22,6 @@
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
 | *HP*         |  44/44       |  +3/Rest
-| *Focus*      |  [x]         |  +1/10min
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Defenses
@@ -284,6 +283,8 @@ Bulk 3.1
   - 5x Candles (.01/, -)
   - 5x Chalk (.01/, -)
   - 1x Scroll of Summon Lesser Servitor (?, ?)
+  - 1x Potion of Lesser Healing
+  - 1x Potion of Barkskin
 ### Crafting Formulas
 - All 0-level common items.
 - Cantrip Deck

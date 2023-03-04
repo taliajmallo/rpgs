@@ -2,8 +2,7 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  44/44       |
-| *Focus*      |  [x]         |
+| *HP*         |  22/44       |
 | *Fortune*    |  [x] [ ] [ ] |
 
 ## Defenses
@@ -57,7 +56,8 @@ Situational:
 ## Status
 - [ ] Fox Form
 - [ ] Gathered Element (May use impulses)
-- [ ] Curse Maelstrom (-1 to saves and skills in 10')
+- [x] Curse Maelstrom (-1 to saves and skills in 10')
+- [x] Waxing Lunacy
 
 ## Actions
 - > *Stride*: Move 25.
@@ -77,7 +77,7 @@ Situational:
   - CF: ^ and next save or skill has disadvantage.
 - > *Guidance*: 1/Target/Hour +1 to single d20 roll
   - [ ] Self
-  - [ ] Suyra (Shira)
+  - [x] Suyra (Shira)
   - [ ] Yuriso-Meno (Violet)
   - [ ] Meno-Yuriso (Violet's Eidolon)
   - [ ] Granz (Jay)
