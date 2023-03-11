@@ -2,7 +2,7 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  22/44       |
+| *HP*         |  44/44       |
 | *Fortune*    |  [x] [ ] [ ] |
 
 ## Defenses
@@ -55,9 +55,9 @@ Situational:
 
 ## Status
 - [ ] Fox Form
-- [ ] Gathered Element (May use impulses)
-- [x] Curse Maelstrom (-1 to saves and skills in 10')
-- [x] Waxing Lunacy
+- [x] Gathered Element (May use impulses)
+- [ ] Curse Maelstrom (-1 to saves and skills in 10')
+- [ ] Waxing Lunacy
 
 ## Actions
 - > *Stride*: Move 25.
@@ -78,7 +78,7 @@ Situational:
 - > *Guidance*: 1/Target/Hour +1 to single d20 roll
   - [ ] Self
   - [x] Suyra (Shira)
-  - [ ] Yuriso-Meno (Violet)
+  - [x] Yuriso-Meno (Violet)
   - [ ] Meno-Yuriso (Violet's Eidolon)
   - [ ] Granz (Jay)
   - [ ] Rasa (Chas)
@@ -102,7 +102,7 @@ Situational:
   - CF: Fascinated or Obsessed for 1r with a creature within 30'.
 
 ## Overflow Impulses
-- >> *Lunar Condemnation*: Fortitude on two 5' squares or one 5' burst in 30'; 1d6 negative.
+- >> *Lunar Condemnation*: Fortitude on two 5' squares or one 5' burst in 30'; 2d6 negative.
   - CS: --
   - _S: Half Damage
   - _F: Full damage and either Enfeebled 1 or Clumsy 1.
