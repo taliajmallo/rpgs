@@ -12,15 +12,15 @@
 | Health       | [ ] [ ] [ ] [ ] [ ] [ ] [ ]             |
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
-| Willpower    | [ ] [ ] [ ] [ ] [ ]                     |
+| Willpower    | [x] [ ] [ ] [ ] [ ]                     |
 | Limit        | [x] [x] [x] [x] [x] [x] [ ] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
-| > White      | 6/6                                     |
-| > Black      | 6/6                                     |
+| > White      | 5/6                                     |
+| > Black      | 5/6                                     |
 | Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
-| Experience   | 85 Spent / 86 Total                     |
+| Experience   | 88 Spent / 90 Total                     |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -78,7 +78,7 @@
 | Cosmology       | ..... |
 | Enigmas         |[oo...]|
 | Esoterica       |[ooo..]| Horror
-| Investigation   | oo... |
+| Investigation   | ooo.. |
 | Law             | ..... |
 | Medicine        | ..... |
 | Occult          |[o....]|
@@ -91,7 +91,7 @@
 |--------------------|-------|---------|
 | [Backgrounds]
 | Arcane             | ooooo | +Stealth, -Tracking you
-| Past Life          | o.... |
+| Past Life          | o.... | 1/Session PL/8, successes -> another roll
 | Resources          | o.... |
 |--------------------|-------|---------|
 | [Merits]
@@ -102,8 +102,8 @@
 | [Flaws]
 | Echoes             | oooo  | You're a creepy demon-child, and people *notice*
 | Witch-Hunted       | oooo  | Recurring enemies will hunt you down
-| Squeamish          | ooo   | WP/Diff 7 to remain calm in violent situations
-| Phobia, Knocking   | oo    | May need to make Willpower roll to not flee if you hear knocking
+| Squeamish          | ooo   | WP/7 to remain calm in violent situations
+| Phobia, Knocking   | oo    | Willpower roll to not flee if you hear knocking
 | Child              | oo    |
 | Short              | ooo   |
 |--------------------|-------|---------|
