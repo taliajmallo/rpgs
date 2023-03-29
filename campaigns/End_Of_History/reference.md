@@ -77,11 +77,12 @@ Situational:
   - CF: ^ and next save or skill has disadvantage.
 - > *Guidance*: 1/Target/Hour +1 to single d20 roll
   - [ ] Self
-  - [x] Suyra (Shira)
-  - [x] Yuriso-Meno (Violet)
+  - [ ] Suyra (Shira)
+  - [ ] Yuriso-Meno (Violet)
   - [ ] Meno-Yuriso (Violet's Eidolon)
   - [ ] Granz (Jay)
   - [ ] Rasa (Chas)
+  - [ ] Karchanek (Sean)
 
 ## Simple Impulses
 - > *Eldritch Blast*: +10/AC, 60' range, 1d6 negative, 3d10 negative on crit
@@ -92,6 +93,7 @@ Situational:
   - [ ] Meno-Yuriso (Violet's Eidolon)
   - [ ] Granz (Jay)
   - [ ] Rasa (Chas)
+  - [ ] Karchanek (Sean)
 - > *Celestial Whispers*: Recall Knowledge using Occult about something touched by moonlight.
 
 ## Aura Impulses
