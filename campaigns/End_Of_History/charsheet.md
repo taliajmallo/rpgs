@@ -252,9 +252,19 @@ utter misfortune before burrowing into its soul. As failure, but the creature
 also must roll twice and take the lower result on its next saving throw or skill
 check; this is a misfortune effect.
 
+
 ## Belongings
 Coinage: 05.75
 Bulk 3.1
+### Magic Items
+#### Ring of Minor Arcana
+[Uncommon] [Arcane] [Evocation] [Invested]
+Value 160
+This rose-gold ring is adorned in the center by a somewhat ominous-looking horned 
+skull. This ring gives you the power to cast the following innate arcane cantrips 
+any number of times each day: detect magic, mage hand, and prestidigitation. Each 
+is cast as a 1st-level spell. If you are an arcane spellcaster, these can instead 
+be heightened to the level of your cantrips.
 ### Armor
 - [x] Studded Leather (3, 1)
 ### Weapons
@@ -285,6 +295,7 @@ Bulk 3.1
   - 1x Scroll of Summon Lesser Servitor (?, ?)
   - 1x Potion of Lesser Healing
   - 1x Potion of Barkskin
+  - 2x Mutagen, Lesser Energy (Fire)
 ### Crafting Formulas
 - All 0-level common items.
 - Cantrip Deck
