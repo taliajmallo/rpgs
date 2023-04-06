@@ -1,4 +1,5 @@
-# Sakari Kiriama / Sinta Mariwa
+# Sakari Kiriama
+
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Raised by Belief
@@ -21,40 +22,40 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  44/44       |  +3/Rest
+| *HP*         |  56/56       |  +4/Rest
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *AC (Armored)*  |  18    |  +     |  +3+2  |  +1 Dex   |  +2    |
+| *AC (Armored)*  |  21    |  +     |  +4+2  |  +1 Dex   |  +4    |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Fortitude*     |  +11   |  ++    |  +3+4  |  +4 Con   |  -     |
-| *Reflex*        |  +8    |  ++    |  +3+4  |  +1 Dex   |  -     |
-| *Will*          |  +7    |  ++    |  +3+4  |  +0 Wis   |  -     |
+| *Fortitude*     |  +12   |  ++    |  +4+4  |  +4 Con   |  -     |
+| *Reflex*        |  +9    |  ++    |  +4+4  |  +1 Dex   |  -     |
+| *Will*          |  +8    |  ++    |  +4+4  |  +0 Wis   |  -     |
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  19    |  +     |  +3+2  |  +4 Con   |  -     |  -
+| *Class DC*      |  20    |  +     |  +4+2  |  +4 Con   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +5    |  +     |  +3+2  |  +0 Wis   |  -     |  -
-| *Kin. Attack*   |  +10   |  +     |  +3+2  |  +4 Con   |  +1    |  -
-| *Dex Attack*    |  +7    |  +     |  +3+2  |  +1 Dex   |  +1    |  -
-| *Str Attack*    |  +7    |  +     |  +3+2  |  +1 Str   |  +1    |  -
+| *Perception*    |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
+| *Kin. Attack*   |  +11   |  +     |  +4+2  |  +4 Con   |  +1    |  -
+| *Dex Attack*    |  +8    |  +     |  +4+2  |  +1 Dex   |  +1    |  -
+| *Str Attack*    |  +8    |  +     |  +4+2  |  +1 Str   |  +1    |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *Crafting*      |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *L: Academia*   |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *L: Library*    |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *L: Moon Faith* |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
-| *Medicine*      |  +5    |  +     |  +3+2  |  +0 Wis   |  -     |  -
-| *Occultism*     |  +11   |  ++    |  +3+4  |  +3 Int   |  +1    |  -
-| *Religion*      |  +5    |  +     |  +3+2  |  +0 Wis   |  -     |  -
-| *Society*       |  +8    |  +     |  +3+2  |  +3 Int   |  -     |  -
+| *Arcana*        |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
+| *Crafting*      |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
+| *L: Academia*   |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
+| *L: Library*    |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
+| *L: Moon Faith* |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
+| *Medicine*      |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
+| *Occultism*     |  +12   |  ++    |  +4+4  |  +3 Int   |  +1    |  -
+| *Religion*      |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
+| *Society*       |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Acrobatics*    |  +1    |        |  +0    |  +1 Dex   |  -     |  -
 | *Athletics*     |  +1    |        |  +0    |  +1 Str   |  -     |  -
@@ -63,9 +64,9 @@
 | *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Nature*        |  +0    |        |  +0    |  +0 Wis   |  -     |  -
 | *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
-| *Stealth*       |  +1    |        |  +0    |  +1 Dex   |  -     |  -
+| *Stealth*       |  -1    |        |  +0    |  +1 Dex   |  -2    |  -
 | *Survival*      |  +0    |        |  +0    |  +0 Wis   |  -     |  -
-| *Thievery*      |  +1    |        |  +0    |  +1 Dex   |  -     |  -
+| *Thievery*      |  -1    |        |  +0    |  +1 Dex   |  -2    |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 
 ### Skill & General Feats
@@ -75,6 +76,7 @@ Even in the worst circumstances, you can perform basic tasks. Choose a skill
 you're trained in. You can forgo rolling a skill check for that skill to instead
 receive a result of 10 + your proficiency bonus (do not apply any other bonuses,
 penalties, or modifiers).
+
 #### Spun Moonlight (2nd Skill)
 [Archetype] [Skill] [General]
 **Prerequisites** Trained in Occult, trained in Craft
@@ -82,7 +84,22 @@ You may spin moonlight into threads, allowing you to use Occult instead of Craft
 when creating, repairing, or working with item made primarily of fabric. You
 must still pay the normal material cost, as any raw fabric you wouldn't need to
 purchase is replaced with an equivalent cost in reagents.
-#### Imbued Moonlight (3rd General)
+
+#### Prescient Planner (3rd General)
+[General]
+**Cost** the Price of the chosen item
+**Requirements** You haven't used this ability since the last time you were able
+to purchase goods.
+You regularly create convoluted plans and contingencies, using your resources to
+enact them. You take 1 minute to remove your backpack, then carefully remove an
+item you hadn't previously declared that you purchased—you intuited that you
+would come to need the item and purchased it at the latest opportunity. The item
+must be a piece of adventuring gear, and can't be a weapon, armor, alchemical
+item, magic item, or other treasure. It must be common with a level no higher
+than half your level, and its Bulk must be low enough that carrying it wouldn't
+have made you encumbered.
+
+#### Imbued Moonlight (4th Skill)
 [Archetype] [Skill] [General]
 **Prerequisites** Spun Moonlight, expert in Occultism
 The moonlight you spin into threads may be imbued with magical effects. You may
@@ -93,11 +110,13 @@ four common magic items of 2nd level or lower.
 ## Automatic Bonus Progression
 - Attack Potency I
 - Skill Potency I
+- Devastating I
 
 ## Ancestry - Kitsune Changeling
 ### Kitsune
 Your size is medium, and you have low-light vision. You can see in dim light as
 if it were bright light. Your movement speed is 25 feet.
+
 #### Change Shape
 [Concentrate] [Polymorph] [Primal] [Transmutation] [>]
 You transform into a fox, which has the statistics of a 1st-level Pest Form, or
@@ -112,6 +131,7 @@ light, though your vision in darkness is in black and white.
 Your mother was a moon hag, a handmaiden of Groetus, and you have a single
 scarlet eye and a sliver of her supernal foresight. You can cast guidance as an
 occult innate cantrip.
+
 ##### Guidance (Cantrip II Innate)
 [Cantrip] [Divination] [Verbal] [>]
 *Range* 30 feet; Targets 1 creature
@@ -123,11 +143,14 @@ rolling. If the target uses the bonus, the spell ends. Either way, the target is
 then temporarily immune for 1 hour.
 
 ### Hagtouched Calling
-### Tier One Boon: Mist Child
+Your heritage beckons.
+
+#### Tier One Boon: Mist Child
 You blend in with unnatural subtlety. When you are concealed or hidden, increase
 the DC of the flat check to target you to 6 if you're concealed or 12 if you're
 hidden.
-### Tier One Bane: Hagmarked
+
+#### Tier One Bane: Hagmarked
 You've unknowingly taken the first step towards becoming a hag.
 
 ## Background - Raised by Belief
@@ -139,17 +162,17 @@ Choose two ability boosts. One boost must be to an ability specified in the
 Divine Ability entry for your deity, and one is a free ability boost.
 You're trained in your deity's associated skill, and you gain Assurance with
 that skill. You gain a Lore skill with a subcategory associated with your deity.
+
 ### Languages
 Patter-Whistle, Low Song, High Song, Vaaltid
 
 ## Class - Lunar Kineticist
-### Class Benefits
-
-#### Gather An Element
+The moon-mother watches over you, child.
+### Gather An Element (Feature 1st)
 [Conjuration] [Kineticist] [Manipulate] [Occult] [>]
 Gather moonlight about you or in your palm.
 
-#### Elemental Blast
+### Elemental Blast (Feature 1st)
 [Evocation] [Impulse] [Kineticist] [Negative] [Occult] [>]
 Make a melee or ranged strike using your gathered moonlight. This is considered
 to be an unarmed attack. It deals 1d6 negative damage, and is considered to deal
@@ -159,11 +182,15 @@ attack, it has the traits fatal d10 and negative, with a ranged increment of 60
 feet. You may use your Constitution modifier instead of your Strength or
 Dexterity modifier for attack rolls.
 
-#### Adapt Element
+### Adapt Element (Feature 1st)
 [Concentrate] [Evocation] [Kineticist] [Manipulate] [Occult] [>>]
 You can do small utility effects with moonlight.
 
-#### Extract Element
+### Elemental Resistance (Feature 3rd)
+While you have gathered moonlight, you have resistance equal to your level from
+any source that has the Negative or Undead trait.
+
+### Extract Element (Feature 3rd)
 [Kineticist] [Manipulate] [Occult] [Transmutation] [>]
 Choose a creature with 30 feet that is undead, has the Negative trait, or
 otherwise has a negative energy elemental nature. That creature must attempt a
@@ -226,49 +253,57 @@ targeting the subject of its fascination.
 **Special** You can't select another dedication feat until you've gained two
 other feats from the Lunar Kineticist archetype.
 
-### Free Archetype
-#### Curse Maelstrom Dedication (2nd Archetype)
-You can manifest a curse maelstrom state in the following ways:
-- You succeed on a check, and accept the GM's offer to reroll
-- A foe forces you to roll with a misfortune effect
-- You fail a saving throw against a foe's curse effect
+#### Sentinel Dedication (2nd Archetype)
+[Archetype] [Dedication]
+You have trained carefully to maximize the protective qualities of your armor.
+You become trained in light armor and medium armor. If you already were trained
+in light armor and medium armor, you gain training in heavy armor as well.
+Whenever you gain a class feature that grants you expert or greater proficiency
+in any type of armor (but not unarmored defense), you also gain that proficiency
+in the armor types granted to you by this feat. If you are at least 13th level
+and you have a class feature that grants you expert proficiency in unarmored
+defense, you also become an expert in the armor types granted to you by this
+feat.
+**Special** You can't select another dedication feat until you have gained two
+other feats from the sentinel archetype.
 
-While in a curse maelstrom state, you cannot benefit from fortune effects in any
-way, and all creatures other than you within a 10-foot emanation take a -1
-status penalty to all saving throws and skill checks. You gain the Expel
-Maelstrom action while in this state.
-##### Expel Maelstrom
-[Curse] [Necromancy] [Occult] [>]
-Choose one creature within 60 feet to make a Will save against your class DC,
-and your curse maelstrom state ends.
-**Critical Success** The creature is unaffected, and the curse's energy
-dissipates harmlessly.
-**Success** The creature comes to house the maelstrom's wrath within it. It
-takes a -1 status penalty to all saving throws and skill checks for 1 minute.
-**Failure** The maelstrom strikes deep into the creature's soul. It takes a -2
-status penalty to all saving throws and skill checks for 10 minutes.
-**Critical Failure** The maelstrom pitches the creature into a single fit of
-utter misfortune before burrowing into its soul. As failure, but the creature
-also must roll twice and take the lower result on its next saving throw or skill
-check; this is a misfortune effect.
+#### Lunar Mania (4th Class)
+[Enchantment] [Impulse] [Kineticist] [Mental] [Occult] [>>]
+The full moon coaxes dormant madness to the forefront of the mind. Choose a
+creature within 60 feet of you. It must attempt a Will save against your class
+DC.
+**Critical Success** The target is unaffected.
+**Success** The target is Stupefied 1 for one round.
+**Failure** The target is Confused for one round.
+**Critical Failure** The target is Confused for one minute, but may attempt a new save at the end of each of its turns to end the condition.
+
+#### Blind Lunacy (4th Archetype)
+[Archetype] [Fortune]
+You do not count as an appropriate target for Confused creatures to attack, and
+whenever you are Confused, you have full control over the targets you attack
+(but must still use all actions to attack a target).
 
 
 ## Belongings
 Coinage: 05.75
-Bulk 3.1
+Bulk 4.1/6
+
 ### Magic Items
 #### Ring of Minor Arcana
 [Uncommon] [Arcane] [Evocation] [Invested]
 Value 160
-This rose-gold ring is adorned in the center by a somewhat ominous-looking horned 
-skull. This ring gives you the power to cast the following innate arcane cantrips 
-any number of times each day: detect magic, mage hand, and prestidigitation. Each 
-is cast as a 1st-level spell. If you are an arcane spellcaster, these can instead 
-be heightened to the level of your cantrips.
+This rose-gold ring is adorned in the center by a somewhat ominous-looking
+horned skull. This ring gives you the power to cast the following innate arcane
+cantrips any number of times each day: detect magic, mage hand, and
+prestidigitation. Each is cast as a 1st-level spell. If you are an arcane
+spellcaster, these can instead be heightened to the level of your cantrips.
+
 ### Armor
-- [x] Studded Leather (3, 1)
+- [x] Chainmail (6, 2)
+
 ### Weapons
 - [ ] Dagger (.2, L)
+
 ### Gear
 - Silver Religious Symbol of the Sunlord (2, L)
 - Wooden Religious Symbol of the Moon (.1, L)
@@ -296,6 +331,7 @@ be heightened to the level of your cantrips.
   - 1x Potion of Lesser Healing
   - 1x Potion of Barkskin
   - 2x Mutagen, Lesser Energy (Fire)
+
 ### Crafting Formulas
 - All 0-level common items.
 - Cantrip Deck

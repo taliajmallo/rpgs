@@ -2,42 +2,46 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  44/44       |
+| *HP*         |  56/56       |
 | *Fortune*    |  [x] [ ] [ ] |
 
 ## Defenses
 | **Defense**     |  Sum   |
 |-----------------|--------|
-| *AC (Armored)*  |  18    |
+| *AC (Armored)*  |  21    |
 |-----------------|--------|
-| *Fortitude*     |  +11   |
-| *Reflex*        |  +8    |
-| *Will*          |  +7    |
+| *Fortitude*     |  +12   |
+| *Reflex*        |  +9    |
+| *Will*          |  +8    |
 Situational:
 - +1 to flat check to hit if concealed or hidden
+- Resist 4 Negative while Gathered Element
+- Confused creatures cannot attack you
 
 ## Offenses
 | **Offense**     |  Sum   |
 |-----------------|--------|
-| *Class DC*      |  19    |
+| *Class DC*      |  20    |
 |-----------------|--------|
-| *Perception*    |  +5    |
-| *Kin. Attack*   |  +10   |
-| *Dex Attack*    |  +7    |
-| *Str Attack*    |  +7    |
+| *Perception*    |  +6    |
+| *Kin. Attack*   |  +11   |
+| *Dex Attack*    |  +8    |
+| *Str Attack*    |  +8    |
+Situational:
+- If Confused, can choose attack targets (but must attack).
 
 ## Skills
 | **Skill**       |  Sum   |
 |-----------------|--------|
-| *Arcana*        |  +8    |
-| *Crafting*      |  +8    |
-| *L: Academia*   |  +8    |
-| *L: Library*    |  +8    |
-| *L: Moon Faith* |  +8    |
-| *Medicine*      |  +5    |
-| *Occultism*     |  +11^  |
-| *Religion*      |  +5    |
-| *Society*       |  +8    |
+| *Arcana*        |  +9    |
+| *Crafting*      |  +9    |
+| *L: Academia*   |  +9    |
+| *L: Library*    |  +9    |
+| *L: Moon Faith* |  +9    |
+| *Medicine*      |  +6    |
+| *Occultism*     |  +12^  |
+| *Religion*      |  +6    |
+| *Society*       |  +9    |
 |-----------------|--------|
 | *Acrobatics*    |  +1    |
 | *Athletics*     |  +1    |
@@ -46,35 +50,28 @@ Situational:
 | *Intimidation*  |  -1    |
 | *Nature*        |  +0    |
 | *Performance*   |  -1    |
-| *Stealth*       |  +1    |
+| *Stealth*       |  -1    |
 | *Survival*      |  +0    |
-| *Thievery*      |  +1    |
+| *Thievery*      |  -1    |
 |-----------------|--------|
 Situational:
-- Occult Assurance rolls 17 total.
+- Occult Assurance rolls 18 total.
 
 ## Status
 - [ ] Fox Form
-- [x] Gathered Element (May use impulses)
-- [ ] Curse Maelstrom (-1 to saves and skills in 10')
+- [x] Gathered Element
 - [ ] Waxing Lunacy
 
 ## Actions
-- > *Stride*: Move 25.
+- > *Stride*: Move 20.
 - > *Fox Form*: Turn into a fox.
-- > *Gather Element*: Prep for ability usage.
+- > *Gather Element*: Prep for impulse usage.
 - > *Adapt Element*: Do misc things with moonlight.
 - > *Extract Element*: Fortitude save on undead target within 30'; 2d4 damage.
   - CS: --
   - _S: Gather Element, half damage, remove resist, immunity -> resist level
   - _F: ^ but full damage
   - CF: ^ but double damage
-- <> *Enter Maelstrom*: Succeed a roll and accept GM reroll, roll with misfortune, or be cursed.
-- > *Expel Maelstrom*: End active Curse Maelstrom; Will save on target within 60'.
-  - CS: --
-  - _S: -1 status to saves and skills for 1m.
-  - _F: -2 status to saves and skills for 10m.
-  - CF: ^ and next save or skill has disadvantage.
 - > *Guidance*: 1/Target/Hour +1 to single d20 roll
   - [ ] Self
   - [ ] Suyra (Shira)
@@ -85,7 +82,7 @@ Situational:
   - [ ] Karchanek (Sean)
 
 ## Simple Impulses
-- > *Eldritch Blast*: +10/AC, 60' range, 1d6 negative, 3d10 negative on crit
+- > *Eldritch Blast*: +10/AC, 60' range, 2d6 negative, 5d10 negative on crit
 - < *Nurturing Blood*: On deal bleed or kill, give 3 THP for 1r. Can instead heal 9, but then they become immune for 10 minutes.
   - [ ] Self
   - [ ] Suyra (Shira)
@@ -95,9 +92,14 @@ Situational:
   - [ ] Rasa (Chas)
   - [ ] Karchanek (Sean)
 - > *Celestial Whispers*: Recall Knowledge using Occult about something touched by moonlight.
+- >> *Lunar Mania*: Will on creature in 60'.
+  - CS: --
+  - _S: Stupefied 1 for 1r.
+  - _F: Confused for 1r.
+  - CF: Confused for 1m, may re-attempt at end of each turn.
 
 ## Aura Impulses
-- >> *Waxing Lunacy*: 10' aura, Will save on any who enter or end turn in.
+- >> *Waxing Lunacy*: 10' aura, Will on any who enter or end turn within.
   - CS: --
   - _S: --
   - _F: Stupefied 1 for 1r.

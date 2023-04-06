@@ -115,7 +115,7 @@ When you cause a creature to gain the Fascinated condition, you may give them th
 **Prerequisites** Trained in Occult, trained in Craft
 You may spin moonlight into threads, allowing you to use Occult instead of Craft when creating, repairing, or working with item made primarily of fabric. You must still pay the normal material cost, as any raw fabric you wouldn't need to purchase is replaced with an equivalent cost in reagents.
 
-## Imbued Moonlight (Feat 2)
+## Imbued Moonlight (Feat 4)
 [Archetype] [Skill] [General]
 **Prerequisites** Spun Moonlight, expert in Occultism
 The moonlight you spin into threads may be imbued with magical effects. You may craft magical items as if you had the Magical Crafting skill feat, using Occultism instead of Craft. When you select this feat, you gain formulas for four common magic items of 2nd level or lower.
