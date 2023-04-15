@@ -22,7 +22,7 @@
 ### Resources
 | **Resource** |  Value       |  Refill   |
 |--------------|--------------|-----------|
-| *HP*         |  56/56       |  +4/Rest
+| *HP*         |  56/56       |  +16/Rest
 | *Fortune*    |  [x] [ ] [ ] |  =1/Session
 
 ### Defenses
