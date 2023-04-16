@@ -2,7 +2,7 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  56/56       |
+| *HP*         |  42/56       |
 | *Fortune*    |  [x] [ ] [ ] |
 
 ## Defenses
@@ -75,20 +75,22 @@ Situational:
 - > *Guidance*: 1/Target/Hour +1 to single d20 roll
   - [ ] Self
   - [ ] Suyra (Shira)
+  - [ ] Hansa (Shira's Cat)
   - [ ] Yuriso-Meno (Violet)
   - [ ] Meno-Yuriso (Violet's Eidolon)
-  - [ ] Granz (Jay)
+  - [ ] Vendari the Lesser (Jay)
   - [ ] Rasa (Chas)
   - [ ] Karchanek (Sean)
 
 ## Simple Impulses
 - > *Eldritch Blast*: +10/AC, 60' range, 2d6 negative, 5d10 negative on crit
-- < *Nurturing Blood*: On deal bleed or kill, give 3 THP for 1r. Can instead heal 9, but then they become immune for 10 minutes.
+- < *Nurturing Blood*: On deal bleed or kill, give 4 THP for 1r. Can instead heal 12, but then they become immune for 10 minutes.
   - [ ] Self
   - [ ] Suyra (Shira)
+  - [x] Hansa (Shira's Cat)
   - [ ] Yuriso-Meno (Violet)
   - [ ] Meno-Yuriso (Violet's Eidolon)
-  - [ ] Granz (Jay)
+  - [ ] Vendari the Lesser (Jay)
   - [ ] Rasa (Chas)
   - [ ] Karchanek (Sean)
 - > *Celestial Whispers*: Recall Knowledge using Occult about something touched by moonlight.
@@ -99,7 +101,7 @@ Situational:
   - CF: Confused for 1m, may re-attempt at end of each turn.
 
 ## Aura Impulses
-- >> *Waxing Lunacy*: 10' aura, Will on any who enter or end turn within.
+- >> *Waxing Lunacy*: 10' aura, Will on any who enter or start turn within.
   - CS: --
   - _S: --
   - _F: Stupefied 1 for 1r.
