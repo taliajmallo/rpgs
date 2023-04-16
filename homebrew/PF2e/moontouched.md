@@ -28,7 +28,7 @@ Gentle moonlight invigorates your ally, renewing their strength with the tithe o
 
 #### Waxing Lunacy (Feat 1)
 [Enchantment] [Impulse] [Kinetic_Aura] [Kineticist] [Mental] [Occult] [>>]
-Lunar madness begins to tinge the minds of those around you. Any creature that enters the aura or ends its turn there must make a Will save against your class DC. On a failure, they become Stupefied 1 for one round. On a critical failure, they also become Fascinated for one round with a creature of your choice that is within 30 feet of them.
+Lunar madness begins to tinge the minds of those around you. Any creature that enters the aura or starts its turn there must make a Will save against your class DC. On a failure, they become Stupefied 1 for one round. On a critical failure, they also become Fascinated for one round with a creature of your choice that is within 30 feet of them.
 
 #### Celestial Whispers (Feat 1)
 [Divination] [Impulse] [Kineticist] [Occult] [>]

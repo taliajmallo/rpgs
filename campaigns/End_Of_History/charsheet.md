@@ -232,10 +232,10 @@ immune to this impulse for ten minutes.
 #### Waxing Lunacy (Dedicated Gate)
 [Enchantment] [Impulse] [Kinetic_Aura] [Kineticist] [Mental] [Occult] [>>]
 Lunar madness begins to tinge the minds of those around you. Any creature that
-enters the aura or ends its turn there must make a Will save against your class
-DC. On a failure, they become Stupefied 1 for one round. On a critical failure,
-they also become Fascinated for one round with a creature of your choice that is
-within 30 feet of them.
+enters the aura or starts its turn there must make a Will save against your
+class DC. On a failure, they become Stupefied 1 for one round. On a critical
+failure, they also become Fascinated for one round with a creature of your
+choice that is within 30 feet of them.
 
 #### Celestial Whispers (Dedicated Gate)
 [Divination] [Impulse] [Kineticist] [Occult] [>]
