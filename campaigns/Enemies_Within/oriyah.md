@@ -3,9 +3,11 @@
 Human of Nehekharan Descent
 Avenger I
 ??? XP
+* Check with caoimhe - double below?
 +20 Race
 +0 Nationality
 +0 Career
++25 Attribute reorder
 
 ## Biographical Info
 Age ??, born under the ??? star on the ??? of ???.
@@ -43,6 +45,7 @@ Trade (Any), Pray, Cool, Play (Wind), Art (Any), Gossip, Haggle, Language (Araby
 Coolheaded OR Suave, Magical Sense OR Magic Resistance, Read/Write OR Stone Soup, Resistance (Heat), Random Roll -> Craftsman (???)
 ## Talents
 ### Coolheaded
+### Craftsman
 ### Magical Sense
 ### Read/Write
 ### Resistance (Heat)
