@@ -1,2 +1,0 @@
-- Update all charsheets to reflect current state in Foundry
-- Export journal entries from foundry
