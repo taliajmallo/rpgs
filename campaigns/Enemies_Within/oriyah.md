@@ -43,6 +43,9 @@ Trade (Any), Pray, Cool, Play (Wind), Art (Any), Gossip, Haggle, Language (Araby
 - Sail
 
 Coolheaded OR Suave, Magical Sense OR Magic Resistance, Read/Write OR Stone Soup, Resistance (Heat), Random Roll -> Craftsman (???)
+
+Career bits todo
+
 ## Talents
 ### Coolheaded
 ### Craftsman
@@ -50,4 +53,12 @@ Coolheaded OR Suave, Magical Sense OR Magic Resistance, Read/Write OR Stone Soup
 ### Read/Write
 ### Resistance (Heat)
 
-Career bits todo
+## Traits
+### Child of the Necropolis
+Max: 1
+Continued proximity to necromancy has suffused you with Shyish. Aggressive
+animals in your presence gain Animosity towards you, while other animals gain
+Fear I towards you. However, undead do not detect you as living, but rather,
+perceive you to be undead. Unintelligent undead will not attack you unless
+ordered or provoked, and intelligent undead will assume that you are one of them
+unless they have reason to expect otherwise.
