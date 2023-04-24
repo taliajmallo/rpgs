@@ -20,9 +20,9 @@ Trappings: Armored or inscribed robes, Fellow warriors, Tattoos or piercings rep
 
 ## Hand of Asaph - Brass 2
 T
-Skills: Leadership, Lore (Magic)
+Skills: Language (High Nehekharan), Lore (Magic)
 Talents: Fearless (Any), Frightening, Sure Shot, Reaction Strike
-Trappings: An unsettling mein, Network of allies and contacts, Tattoos or piercings representing your deeds
+Trappings: A clear conscience, Network of allies and contacts, Tattoos or piercings representing your deeds
 
 ## New Talents:
 ### Zealous Calm
