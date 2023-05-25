@@ -201,6 +201,7 @@ your Nature, either back to its original value or to any callous Nature that
 cares only about itself. Black feathers appear on your person.
 
 ## Charms
+
 ### Passive Charms
 #### World-Bending Triumph I
 All actions taken against or in opposition to you while in the presence of fear
@@ -208,6 +209,7 @@ have their difficulty increased by 1.
 #### Improvised Murder Roulette I
 Any improvised weapon you wield becomes as effective as a sword (attacks at
 difficulty 6, inflicts Strength + 2 lethal damage).
+
 ### Essence Charms
 #### Excellence of the Forgotten Wound (Auspicious) I
 At any time, you may reflexively spend 1 essence to lower the difficulty of all
@@ -233,6 +235,7 @@ transports you to the Cataract, regardless of where you meant to go. Bringing
 allies to the Cataract requires no additional difficulty or essence.
 This charm also permanently grants you the ability to understand the language of
 spirits and make yourself clearly understood by them.
+
 ### Black Charms
 #### Memories Like Windblown Leaves I
 Reflexively spend 1 black essence and roll Intelligence+Subterfuge against the
@@ -242,6 +245,7 @@ destroy the memories by paying a point of willpower.
 #### Suffering Evaluation Eye I
 Reflexively spend 1 black essence to learn which of an array of options will
 lead to the worst short-term outcome.
+
 ### White Charms
 #### Life-Infiltrating Gambit III
 After you give the target something they want, no matter how petty or banal, you
