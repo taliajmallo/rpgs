@@ -20,7 +20,7 @@
 | > Black      | 0/6                                     |
 | Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
-| Experience   | 104 Spent / 106 Total                   |
+| Experience   | 105 Spent / 106 Total                   |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -65,7 +65,7 @@
 | Firearms        | oooo. | Essence
 | Martial Arts    | ..... |
 | Meditation      | ..... |
-| Melee           | oo... |
+| Melee           | o.... |
 | Research        | o.... |
 | Stealth         | oo... |
 | Survival        | ..... |
@@ -236,24 +236,6 @@ allies to the Cataract requires no additional difficulty or essence.
 This charm also permanently grants you the ability to understand the language of
 spirits and make yourself clearly understood by them.
 
-### Black Charms
-#### Memories Like Windblown Leaves I
-Reflexively spend 1 black essence and roll Intelligence+Subterfuge against the
-Willpower rating of a target within arm's reach. On a success, you may steal
-their memories of the last hour for one day per success, or may permanently
-destroy the memories by paying a point of willpower.
-#### Suffering Evaluation Eye I
-Reflexively spend 1 black essence to learn which of an array of options will
-lead to the worst short-term outcome.
-
-### White Charms
-#### Life-Infiltrating Gambit III
-After you give the target something they want, no matter how petty or banal, you
-may spend 2 white essence and select a Background; this is now the relationship
-the target remembers having always had with you. The target won't question the
-relationship unless someone else tries to force them to, and at that point must
-succeed a difficult 8 Willpower roll to doubt it.
-
 ### Dual Charms
 #### Dream of Rain/Shadow of the Gun II
 You may reflexively spend 1 white essence to make all attempts to shoot you with
@@ -273,12 +255,36 @@ essence to automatically succeed, to send a spider of pure essence along threads
 of fate to deliver a message to any recipient whose location is a matter of
 public knowledge. The spider whispers your message in their ear five seconds
 later.
-#### Eloquence in Absence Technique/Unwitting Assassin Nomination III
-Spend 1 essence and make a roll - white essence for Expression, Leadership, or
-Intimidation, or black essence for Brawl or Melee - and choose a target and
-contingency. When the target next satisfies the contingency, their words and
-deeds convey the effect of the roll (If a Brawl or Melee roll, use your own
-Strength for the resultant damage roll).
+
+### White Charms
+#### Knowledge-Blotting Query II
+Ask a question and spend 1 white essence. All listeners become incapable of
+remembering, solving, or answering the question. If the answer is of great and
+pressing importance, a listener can spend 1 Willpower to fight their way through
+the charm's effects. This lasts until the end of the scene.
+#### Life-Infiltrating Gambit III
+After you give the target something they want, no matter how petty or banal, you
+may spend 2 white essence and select a Background; this is now the relationship
+the target remembers having always had with you. The target won't question the
+relationship unless someone else tries to force them to, and at that point must
+succeed a difficult 8 Willpower roll to doubt it.
+
+### Black Charms
+#### Memories Like Windblown Leaves I
+Reflexively spend 1 black essence and roll Intelligence+Subterfuge against the
+Willpower rating of a target within arm's reach. On a success, you may steal
+their memories of the last hour for one day per success, or may permanently
+destroy the memories by paying a point of willpower.
+#### Suffering Evaluation Eye I
+Reflexively spend 1 black essence to learn which of an array of options will
+lead to the worst short-term outcome.
+#### Safety Through Denial II
+Spend 1 black essence and roll against difficulty 8; this charm lasts for one
+day per success (or one scene for a failure). While in effect, all magic that
+seeks to harm, impede, inconvenience, or otherwise oppose you becomes vulgar. If
+done in front of you, it becomes vulgar with witnesses. Furthermore the first
+time each scene that someone attempts to harm you without magic and fails, that
+failure becomes a botch.
 
 ### Secret Arts
 #### Kaleidoscopic Border I - Birth of the Perfect Ego Juggernaut Form
