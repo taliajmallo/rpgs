@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Raised by Belief
-- Class: Moon-touched Kineticist 3
+- Class: Avenger 3
 
 [Selfless] [Tolerant] [Traditional]
 [Medium] [Kitsune] [Changeling] [Humanoid]
@@ -12,80 +12,86 @@
 ### Ability Scores
 |  Stat   | Base    |
 |---------|---------|
-| **STR** | 12 (+1) |
-| **DEX** | 12 (+1) |
-| **CON** | 18 (+4) |
+| **STR** | 14 (+2) |
+| **DEX** | 18 (+4) |
+| **CON** | 12 (+1) |
 | **INT** | 16 (+3) |
 | **WIS** | 10 (--) |
 | **CHA** | 08 (-1) |
 
 ### Resources
-| **Resource** |  Value       |  Refill   |
-|--------------|--------------|-----------|
-| *HP*         |  56/56       |  +16/Rest
-| *Fortune*    |  [x] [ ] [ ] |  =1/Session
+| **Resource** |  Max   |  Refill   |
+|--------------|--------|-----------|
+| *HP*         |  52    |  +4/Rest
+| *Focus*      |  1     |  +1/Refocus
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *AC (Armored)*  |  21    |  +     |  +4+2  |  +1 Dex   |  +4    |
+| *Unarmored AC*  |  22    |  ++    |  +4+4  |  +4 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Fortitude*     |  +12   |  ++    |  +4+4  |  +4 Con   |  -     |
-| *Reflex*        |  +9    |  ++    |  +4+4  |  +1 Dex   |  -     |
-| *Will*          |  +8    |  ++    |  +4+4  |  +0 Wis   |  -     |
+| *Perception*    |  +8    |  ++    |  +4+4  |  +0 Wis   |  -     |  -
+| *Fortitude*     |  +9    |  ++    |  +4+4  |  +1 Con   |  -     |  -
+| *Reflex*        |  +12   |  ++    |  +4+4  |  +4 Dex   |  -     |  -
+| *Will*          |  +8    |  ++    |  +4+4  |  +0 Wis   |  -     |  -
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  20    |  +     |  +4+2  |  +4 Con   |  -     |  -
+| *Class DC*      |  20    |  +     |  +4+2  |  +4 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
-| *Kin. Attack*   |  +11   |  +     |  +4+2  |  +4 Con   |  +1    |  -
-| *Dex Attack*    |  +8    |  +     |  +4+2  |  +1 Dex   |  +1    |  -
-| *Str Attack*    |  +8    |  +     |  +4+2  |  +1 Str   |  +1    |  -
+| *Dex Attack*    |  +11   |  +     |  +4+2  |  +4 Dex   |  +1    |  -
+| *Str Attack*    |  +9    |  +     |  +4+2  |  +2 Str   |  +1    |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
+| *Acrobatics*    |  +10   |  +     |  +4+2  |  +4 Dex   |  -     |  -
 | *Arcana*        |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 | *Crafting*      |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 | *L: Academia*   |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 | *L: Library*    |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 | *L: Moon Faith* |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 | *Medicine*      |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
+| *Nature*        |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
 | *Occultism*     |  +12   |  ++    |  +4+4  |  +3 Int   |  +1    |  -
 | *Religion*      |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
 | *Society*       |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Acrobatics*    |  +1    |        |  +0    |  +1 Dex   |  -     |  -
-| *Athletics*     |  +1    |        |  +0    |  +1 Str   |  -     |  -
+| *Athletics*     |  +2    |        |  +0    |  +2 Str   |  -     |  -
 | *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Diplomacy*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
-| *Nature*        |  +0    |        |  +0    |  +0 Wis   |  -     |  -
 | *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
-| *Stealth*       |  -1    |        |  +0    |  +1 Dex   |  -2    |  -
+| *Stealth*       |  +4    |        |  +0    |  +4 Dex   |  -     |  -
 | *Survival*      |  +0    |        |  +0    |  +0 Wis   |  -     |  -
-| *Thievery*      |  -1    |        |  +0    |  +1 Dex   |  -2    |  -
+| *Thievery*      |  +4    |        |  +0    |  +4 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 
-### Skill & General Feats
-#### Assurance, Occultism (Background)
+### Assurance, Occultism (Background)
 [Fortune] [General] [Skill]
 Even in the worst circumstances, you can perform basic tasks. Choose a skill
 you're trained in. You can forgo rolling a skill check for that skill to instead
 receive a result of 10 + your proficiency bonus (do not apply any other bonuses,
 penalties, or modifiers).
 
-#### Spun Moonlight (2nd Skill)
-[Archetype] [Skill] [General]
+### Spun Moonlight (2nd Skill)
+[Rare] [General] [Skill]
 **Prerequisites** Trained in Occult, trained in Craft
 You may spin moonlight into threads, allowing you to use Occult instead of Craft
 when creating, repairing, or working with item made primarily of fabric. You
 must still pay the normal material cost, as any raw fabric you wouldn't need to
 purchase is replaced with an equivalent cost in reagents.
 
-#### Prescient Planner (3rd General)
+### Imbued Moonlight (3rd Divine Insight)
+[Rare] [General] [Skill]
+**Prerequisites** Spun Moonlight, expert in Occultism
+The moonlight you spin into threads may be imbued with magical effects. You may
+craft magical items as if you had the Magical Crafting skill feat, using
+Occultism instead of Craft. When you select this feat, you gain formulas for
+four common magic items of 2nd level or lower.
+
+### Prescient Planner (3rd General)
 [General]
 **Cost** the Price of the chosen item
 **Requirements** You haven't used this ability since the last time you were able
@@ -99,13 +105,11 @@ item, magic item, or other treasure. It must be common with a level no higher
 than half your level, and its Bulk must be low enough that carrying it wouldn't
 have made you encumbered.
 
-#### Imbued Moonlight (4th Skill)
-[Archetype] [Skill] [General]
-**Prerequisites** Spun Moonlight, expert in Occultism
-The moonlight you spin into threads may be imbued with magical effects. You may
-craft magical items as if you had the Magical Crafting skill feat, using
-Occultism instead of Craft. When you select this feat, you gain formulas for
-four common magic items of 2nd level or lower.
+### Quick Identification (4th Skill)
+[General] [Skill]
+You only take 1 minute when using Identify Magic to determine the properties of
+an item, ongoing effect, or location. If you're a master, it becomes a three
+action activity, and if you're legendary, it becomes a 1 action activity.
 
 ## Automatic Bonus Progression
 - Attack Potency I
@@ -128,9 +132,8 @@ light, though your vision in darkness is in black and white.
 
 ### Ancestry Feats
 #### Moon May (1st)
-Your mother was a moon hag, a handmaiden of Groetus, and you have a single
-scarlet eye and a sliver of her supernal foresight. You can cast guidance as an
-occult innate cantrip.
+Your mother was a moon hag, and you have a single scarlet eye and a sliver of
+her supernal foresight. You can cast guidance as an occult innate cantrip.
 
 ##### Guidance (Cantrip II Innate)
 [Cantrip] [Divination] [Verbal] [>]
@@ -166,127 +169,77 @@ that skill. You gain a Lore skill with a subcategory associated with your deity.
 ### Languages
 Patter-Whistle, Low Song, High Song, Vaaltid
 
-## Class - Lunar Kineticist
+## Class - Avenger
 The moon-mother watches over you, child.
-### Gather An Element (Feature 1st)
-[Conjuration] [Kineticist] [Manipulate] [Occult] [>]
-Gather moonlight about you or in your palm.
+### Divine Fury (1st Feature)
+Your Divine Fury damage type is negative.
 
-### Elemental Blast (Feature 1st)
-[Evocation] [Impulse] [Kineticist] [Negative] [Occult] [>]
-Make a melee or ranged strike using your gathered moonlight. This is considered
-to be an unarmed attack. It deals 1d6 negative damage, and is considered to deal
-silver damage for the purposes of weaknesses, resistances, and the like. If a
-melee attack, it has the traits fatal d10, finesse, and negative. If a ranged
-attack, it has the traits fatal d10 and negative, with a ranged increment of 60
-feet. You may use your Constitution modifier instead of your Strength or
-Dexterity modifier for attack rolls.
+### Vow of Enmity (1st Feature)
+[Avenger] [Concentrate] [Fortune]
+Declare a vow against a creature within 60 feet of you. When you miss a melee
+Strike against the chosen creature, if you are isolated, you may reroll the
+missed attack roll and keep the result. You are isolated if there are no enemies
+adjacent to you except your target, or if you have that status from another
+ability. You may only have one creature designated with your Vow of Enmity at a
+time, and cannot use the ability again until a minute passes, the target is
+reduced to 0 hit points, or the target surrenders to you or your allies.
 
-### Adapt Element (Feature 1st)
-[Concentrate] [Evocation] [Kineticist] [Manipulate] [Occult] [>>]
-You can do small utility effects with moonlight.
+### Censure of Knowledge (1st Feature)
+When you successfully Recall Knowledge on the target of your Vow of Enmity, you
+are isolated for 1 round.
 
-### Elemental Resistance (Feature 3rd)
-While you have gathered moonlight, you have resistance equal to your level from
-any source that has the Negative or Undead trait.
+### Enmity Knowledge (1st Class)
+As part of the action used for Vow of Enmity, you may attempt a check to Recall
+Knowledge about the target. If the target relates to your deity's anathema, you
+gain a +1 circumstance bonus to the check.
 
-### Extract Element (Feature 3rd)
-[Kineticist] [Manipulate] [Occult] [Transmutation] [>]
-Choose a creature with 30 feet that is undead, has the Negative trait, or
-otherwise has a negative energy elemental nature. That creature must attempt a
-Fortitude save against your class DC or take 2d4 damage as you steal the
-elemental essence from its body, as well as the following effects.
-**Critical Success** The creature is unaffected.
-**Success** The creature takes half damage, you Gather An Element, and the
-creature is weakened against your impulses. It takes a -1 circumstance penalty
-to AC and saves while you have the element gathered. You may ignore any
-resistance it has entirely, and if it has immunity it instead has resistance
-equal to its level.
-**Failure** As success, but the creature takes full damage.
-**Critical Failure** As failure, but the creature takes double damage.
-**Level (+3)** The damage increases by 1d4.
+### Enmity Bane (2nd Class)
+Against humanoids that transgress against your deity's anathema, your Strikes
+gain a +2 circumstance bonus to damage. This increases to +4 if you have master
+proficiency with the weapon used.
 
-### Class Feats
-#### Lunar Condemnation (Dedicated Gate)
-[Conjuration] [Impulse] [Kineticist] [Negative] [Occult] [Overflow] [>>]
-Gesturing with each hand, pull moonlight down from the heavens onto your foes.
-Either choose different two 5-foot squares, or a single 5-foot burst, each of
-which must be within 30 feet of you. Enemies within those spaces, or up to 30
-feet directly above them, take 1d6 negative damage with a Fortitude save against
-your class DC.
-**Critical Success** The creature is unaffected.
-**Success** The creature takes half damage.
-**Failure** The creature takes full damage, and is your choice of Enfeebled 1 or Clumsy 1.
-**Critical Failure** The creature takes double damage, and is both Enfeebled 1 and Clumsy 1.
-**Level (+2)** The damage increases by 1d6.
-
-#### Nurturing Blood (Dedicated Gate)
-[Healing] [Impulse] [Kineticist] [Necromancy] [Occult] [<]
-**Trigger** An ally within 60 feet deals persistent bleed damage or reduces a creature to 0 hit points.
-Gentle moonlight invigorates your ally, renewing their strength with the tithe
-of blood paid. The target ally gains temporary hit points equal to 2 + half your
-level that last until the end of your next turn. You may instead choose to heal
-them for 3 hit points per level you have, but they then become temporarily
-immune to this impulse for ten minutes.
-
-#### Waxing Lunacy (Dedicated Gate)
-[Enchantment] [Impulse] [Kinetic_Aura] [Kineticist] [Mental] [Occult] [>>]
-Lunar madness begins to tinge the minds of those around you. Any creature that
-enters the aura or starts its turn there must make a Will save against your
-class DC. On a failure, they become Stupefied 1 for one round. On a critical
-failure, they also become Fascinated for one round with a creature of your
-choice that is within 30 feet of them.
-
-#### Celestial Whispers (Dedicated Gate)
-[Divination] [Impulse] [Kineticist] [Occult] [>]
-The moonlight in your hand gives you both light and sight. Recall Knowledge
-about a creature, object, or location that is illuminated by moonlight. You may
-use Occultism in place of the most appropriate skill.
-
-#### Lunar Kineticist Dedication (2nd Class)
-[Uncommon] [Archetype] [Class] [Dedication]
-When you cause a creature to gain the Fascinated condition, you may give them
-the Obsessed condition instead. Obsessed is identical to Fascinated, except that
-instead of being removed instantly if a hostile action is used against the
-creature or its allies, the condition is removed if the creature takes an action
-targeting the subject of its fascination.
-**Special** You can't select another dedication feat until you've gained two
-other feats from the Lunar Kineticist archetype.
-
-#### Sentinel Dedication (2nd Archetype)
+### Mind Smith Dedication (2nd Archetype)
 [Archetype] [Dedication]
-You have trained carefully to maximize the protective qualities of your armor.
-You become trained in light armor and medium armor. If you already were trained
-in light armor and medium armor, you gain training in heavy armor as well.
-Whenever you gain a class feature that grants you expert or greater proficiency
-in any type of armor (but not unarmored defense), you also gain that proficiency
-in the armor types granted to you by this feat. If you are at least 13th level
-and you have a class feature that grants you expert proficiency in unarmored
-defense, you also become an expert in the armor types granted to you by this
-feat.
+During your daily preparations, you may envision a mind weapon that you then
+become able to manifest with an interact action. You may choose whether it is a
+one handed weapon that deals d4 damage with the agile and finesse traits, a one
+handed weapon that deals d6 damage with the finesse trait, a one handed weapon
+that deals d8 damage, or a two-handed weapon that deals d10 damage with the
+reach trait. Furthermore, you may decide whether it deals bludgeoning damage and
+belongs to the club weapon group, deals piercing damage and belongs to the spear
+weapon group, or deals slashing damage and belongs to the sword weapon group. It
+is an extension of your mind, and has no hardness; any damage it would take
+instead becomes mental damage to you. Only you can carry, hold, or wield it - it
+vanishes if ever removed from your hand.
+You may bind a keepsake to it. The keepsake cannot be a magical item, nor may it
+have any value beyond runes inscribed on it. You may inscribe runes on it in the
+same way as you would a weapon, and those runes apply to your mind weapon. If
+the keepsake is ever lost or destroyed, you can spend 1 week of downtime linking
+a new keepsake with the mind weapon.
 **Special** You can't select another dedication feat until you have gained two
 other feats from the sentinel archetype.
 
-#### Lunar Mania (4th Class)
-[Enchantment] [Impulse] [Kineticist] [Mental] [Occult] [>>]
-The full moon coaxes dormant madness to the forefront of the mind. Choose a
-creature within 60 feet of you. It must attempt a Will save against your class
-DC.
-**Critical Success** The target is unaffected.
-**Success** The target is Stupefied 1 for one round.
-**Failure** The target is Confused for one round.
-**Critical Failure** The target is Confused for one minute, but may attempt a new save at the end of each of its turns to end the condition.
+### Devoted Speed (3rd Feature)
+Gain a +10' status bonus to your speed when you have an Oath of Enmity active;
+half benefit otherwise. This increases by 5' at 7th level and every 4 levels
+thereafter.
 
-#### Blind Lunacy (4th Archetype)
-[Archetype] [Fortune]
-You do not count as an appropriate target for Confused creatures to attack, and
-whenever you are Confused, you have full control over the targets you attack
-(but must still use all actions to attack a target).
+### Vengeful Smite (4th Class)
+[Avenger]
+Gain the Vengeful Smite covenant spell, and increase your maximum Focus by 1.
+#### Vengeful Smite
+[Avenger] [Evocation] [Verbal] [<>]
+Upon hitting with a strike, you deal 2d4 negative damage.
+**Heightened (+1)** The damage increases by 1d4.
 
+### Just the Tool (4th Archetype)
+[Archetype] [Concentrate] [>]
+You may temporarily change your weapon's shape into a single simple tool to help
+with a mundane task, or change it back into its weapon form.
 
 ## Belongings
-Coinage: 05.75
-Bulk 4.1/6
+Coinage: 13.75
+Bulk 2.4/7
 
 ### Magic Items
 #### Ring of Minor Arcana
@@ -299,7 +252,7 @@ prestidigitation. Each is cast as a 1st-level spell. If you are an arcane
 spellcaster, these can instead be heightened to the level of your cantrips.
 
 ### Armor
-- [x] Chainmail (6, 2)
+- [x] Winter Clothing (.4, L)
 
 ### Weapons
 - [ ] Dagger (.2, L)
