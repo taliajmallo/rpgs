@@ -37,8 +37,8 @@ Situational:
 | *L: Moon Faith* |  +9    |
 | *Medicine*      | ^+8    |
 | *Nature*        |  +6    |
-| *Occultism*     | ^+10   |
-| *Religion*      |  +6    |
+| *Occultism*     | ^+9    |
+| *Religion*      |  +7    |
 | *Society*       |  +9    |
 |-----------------|--------|
 | *Athletics*     |  +1    |
