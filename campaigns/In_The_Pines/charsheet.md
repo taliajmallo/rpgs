@@ -16,11 +16,11 @@
 | Limit        | [x] [x] [x] [x] [x] [x] [x] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
-| > White      | 2/6                                     |
-| > Black      | 1/6                                     |
+| > White      | 0/6                                     |
+| > Black      | 0/6                                     |
 | Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
-| Experience   | 97 Spent / 101 Total                    |
+| Experience   | 105 Spent / 106 Total                   |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -65,7 +65,7 @@
 | Firearms        | oooo. | Essence
 | Martial Arts    | ..... |
 | Meditation      | ..... |
-| Melee           | ..... |
+| Melee           | o.... |
 | Research        | o.... |
 | Stealth         | oo... |
 | Survival        | ..... |
@@ -201,24 +201,31 @@ your Nature, either back to its original value or to any callous Nature that
 cares only about itself. Black feathers appear on your person.
 
 ## Charms
-### Excellence of the Forgotten Wound (Auspicious) I
+
+### Passive Charms
+#### World-Bending Triumph I
+All actions taken against or in opposition to you while in the presence of fear
+have their difficulty increased by 1.
+#### Improvised Murder Roulette I
+Any improvised weapon you wield becomes as effective as a sword (attacks at
+difficulty 6, inflicts Strength + 2 lethal damage).
+
+### Essence Charms
+#### Excellence of the Forgotten Wound (Auspicious) I
 At any time, you may reflexively spend 1 essence to lower the difficulty of all
 actions using a single caste ability (chosen on activation) by 3, to a minimum
 of 3, for Essence + 1 rounds of combat or minutes of noncombat. Alternatively,
 you may add your Essence in dice to such rolls for the same duration. At the
 cost of 1 essence and 1 willpower, you gain both benefits.
-### World-Bending Triumph I
-All actions taken against or in opposition to you while in the presence of fear
-have their difficulty increased by 1.
-### Absolute Denial Defense III
+#### Absolute Denial Defense III
 Reflexively spend 1 essence and roll Perception + Occult against difficulty 8.
 On a success, you avoid any single damaging, deleterious, or unwanted effect
 that you are aware of. Continuous threats only require a single roll.
-### Peremptory Object Reassignment III
+#### Peremptory Object Reassignment III
 Reflexively spend 1 essence to transform an object you are holding into a
 different mundane, nonmagical object of similar size that you have previously
 held before. It returns to its true form at the end of the scene.
-### World-Rejecting Stride IV
+#### World-Rejecting Stride IV
 Spend 1 essence and roll Wits+Investigation against a local Shroud, Gauntlet, or
 Banality rating to teleport into an otherworld of your choice. By increasing the
 difficulty by 1 and spending an extra essence per ally, you may bring allies
@@ -228,14 +235,16 @@ transports you to the Cataract, regardless of where you meant to go. Bringing
 allies to the Cataract requires no additional difficulty or essence.
 This charm also permanently grants you the ability to understand the language of
 spirits and make yourself clearly understood by them.
-### Dream of Rain/Shadow of the Gun II
+
+### Dual Charms
+#### Dream of Rain/Shadow of the Gun II
 You may reflexively spend 1 white essence to make all attempts to shoot you with
 a firearm increase their difficulty by 3 for the rest of the scene.
 You may use your action during combat to point at a target, spend 1 black
 essence, and make a Dexterity+Firearms attack at difficulty 6. As soon as the
 essence is spent, there's a massive roar and muzzle flash at your fingertip
 almost as big as you. This attack inflicts a base of 12 lethal damage.
-### Stoic Spider Spy/Sinister Messenger Arachnid II
+#### Stoic Spider Spy/Sinister Messenger Arachnid II
 You may roll Perception+Investigation against difficulty 8, or spend 1 white
 essence to automatically succeed, to send a spider of pure essence along threads
 of fate to find some fact you desire, so long as that information is neither
@@ -246,37 +255,45 @@ essence to automatically succeed, to send a spider of pure essence along threads
 of fate to deliver a message to any recipient whose location is a matter of
 public knowledge. The spider whispers your message in their ear five seconds
 later.
-### Identity Confiscation Approach III
-Upon making physical contact with the target, spend 1 white essence and roll
-Wits+Subterfuge against difficulty 7. Success allows you to steal the target's
-identity for one day per success. This allows you to adopt their appearance down
-to fingerprints, mimic their voice, and produce (but not actually have) any
-requested proof of identity. You can draw upon any social backgrounds they may
-have. While this charm is in effect, nobody and nothing will recognize the
-target as being the person they claim to be.
-### Memories Like Windblown Leaves I
+
+### White Charms
+#### Knowledge-Blotting Query II
+Ask a question and spend 1 white essence. All listeners become incapable of
+remembering, solving, or answering the question. If the answer is of great and
+pressing importance, a listener can spend 1 Willpower to fight their way through
+the charm's effects. This lasts until the end of the scene.
+#### Life-Infiltrating Gambit III
+After you give the target something they want, no matter how petty or banal, you
+may spend 2 white essence and select a Background; this is now the relationship
+the target remembers having always had with you. The target won't question the
+relationship unless someone else tries to force them to, and at that point must
+succeed a difficult 8 Willpower roll to doubt it.
+
+### Black Charms
+#### Memories Like Windblown Leaves I
 Reflexively spend 1 black essence and roll Intelligence+Subterfuge against the
 Willpower rating of a target within arm's reach. On a success, you may steal
 their memories of the last hour for one day per success, or may permanently
 destroy the memories by paying a point of willpower.
-### Suffering Evaluation Eye I
+#### Suffering Evaluation Eye I
 Reflexively spend 1 black essence to learn which of an array of options will
 lead to the worst short-term outcome.
-### Eloquence in Absence Technique/Unwitting Assassin Nomination III
-Spend 1 essence and make a roll - white essence for Expression, Leadership, or
-Intimidation, or black essence for Brawl or Melee - and choose a target and
-contingency. When the target next satisfies the contingency, their words and
-deeds convey the effect of the roll (If a Brawl or Melee roll, use your own
-Strength for the resultant damage roll).
+#### Safety Through Denial II
+Spend 1 black essence and roll against difficulty 8; this charm lasts for one
+day per success (or one scene for a failure). While in effect, all magic that
+seeks to harm, impede, inconvenience, or otherwise oppose you becomes vulgar. If
+done in front of you, it becomes vulgar with witnesses. Furthermore the first
+time each scene that someone attempts to harm you without magic and fails, that
+failure becomes a botch.
 
-## Secret Arts
-### Kaleidoscopic Border I - Birth of the Perfect Ego Juggernaut Form
+### Secret Arts
+#### Kaleidoscopic Border I - Birth of the Perfect Ego Juggernaut Form
 Spend 1 essence to activate this for the rest of the scene. Add your Essence
 Rating (3) to all Willpower & Attribute+Ability pools, up to a maximum of 10
 dice. Additionally, all Mind and Life sphere effects cast on you increase their
 difficulty and Paradox generated by your Essence Rating (3). This is a Form-type
 secret art, and may not be active with another Form-type.
-### Kaleidoscopic Border II - Two Score Mirror Glance Form
+#### Kaleidoscopic Border II - Two Score Mirror Glance Form
 Spend 1 essence to activate this for the rest of the scene. You may move through
 any obstacles between yourself and your opponent as if they were not there,
 without suffering any difficulty or injury. Fire, mud, brambles, solid walls,
@@ -284,7 +301,7 @@ even gravity are all ignorable so long as you are in the pursuit of a foe.
 Additionally, all Time and Correspondence sphere effects cast on you increase
 their difficulty and paradox generated by your Essence Rating (3). This is a
 Form-type secret art, and may not be active with another Form-type.
-### Kaleidoscopic Border III - Without Assumption Form
+#### Kaleidoscopic Border III - Without Assumption Form
 Spend 1 essence to activate this for the rest of the scene. Your bare hands
 inflict lethal damage, and you raise your soak by +3. Any supernatural power
 which targets a living or animate being cannot be used to target you, as you are

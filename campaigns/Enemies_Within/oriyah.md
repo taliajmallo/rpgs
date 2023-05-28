@@ -3,11 +3,10 @@
 Human of Nehekharan Descent
 Avenger I
 ??? XP
-* Check with caoimhe - double below?
-+20 Race
++40 Race
 +0 Nationality
 +0 Career
-+25 Attribute reorder
++50 Attribute reorder
 
 ## Biographical Info
 Age ??, born under the ??? star on the ??? of ???.
