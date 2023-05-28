@@ -35,9 +35,9 @@ Situational:
 | *L: Academia*   |  +9    |
 | *L: Library*    |  +9    |
 | *L: Moon Faith* |  +9    |
-| *Medicine*      | ^+8    |
+| *Medicine*      |  +8    |
 | *Nature*        |  +6    |
-| *Occultism*     | ^+9    |
+| *Occultism*     |  +9    |
 | *Religion*      |  +7    |
 | *Society*       |  +9    |
 |-----------------|--------|
@@ -51,7 +51,8 @@ Situational:
 | *Thievery*      |  +4    |
 |-----------------|--------|
 Situational:
-- ^ Assurance rolls 18 total.
+- Medicine Assurance rolls 18 total.
+- Occult Assurance rolls 16 total.
 
 ## Status
 - Modals:
