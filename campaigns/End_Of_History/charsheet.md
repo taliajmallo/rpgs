@@ -52,9 +52,9 @@
 | *L: Academia*   |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 | *L: Library*    |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 | *L: Moon Faith* |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
-| *Medicine*      |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
+| *Medicine*      |  +8    |  ++    |  +4+4  |  +0 Wis   |  -     |  -
 | *Nature*        |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
-| *Occultism*     |  +12   |  ++    |  +4+4  |  +3 Int   |  +1    |  -
+| *Occultism*     |  +10   |  +     |  +4+4  |  +3 Int   |  +1    |  -
 | *Religion*      |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
 | *Society*       |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
@@ -75,41 +75,32 @@ you're trained in. You can forgo rolling a skill check for that skill to instead
 receive a result of 10 + your proficiency bonus (do not apply any other bonuses,
 penalties, or modifiers).
 
-### Spun Moonlight (2nd Skill)
-[Rare] [General] [Skill]
-**Prerequisites** Trained in Occult, trained in Craft
-You may spin moonlight into threads, allowing you to use Occult instead of Craft
-when creating, repairing, or working with item made primarily of fabric. You
-must still pay the normal material cost, as any raw fabric you wouldn't need to
-purchase is replaced with an equivalent cost in reagents.
+### Assurance, Medicine (2nd Skill)
+[Fortune] [General] [Skill]
+Even in the worst circumstances, you can perform basic tasks. Choose a skill
+you're trained in. You can forgo rolling a skill check for that skill to instead
+receive a result of 10 + your proficiency bonus (do not apply any other bonuses,
+penalties, or modifiers).
 
-### Imbued Moonlight (3rd Divine Insight)
-[Rare] [General] [Skill]
-**Prerequisites** Spun Moonlight, expert in Occultism
-The moonlight you spin into threads may be imbued with magical effects. You may
-craft magical items as if you had the Magical Crafting skill feat, using
-Occultism instead of Craft. When you select this feat, you gain formulas for
-four common magic items of 2nd level or lower.
+### Battle Medicine (3rd Divine Insight)
+[General] [Healing] [Manipulate] [Skill] [>]
+You can patch up yourself or an adjacent ally, even in combat. Attempt a
+Medicine check with the same DC as for Treat Wounds, and restore a corresponding
+amount of Hit Points; this does not remove the wounded condition. As with Treat
+Wounds, you can attempt checks against higher DCs if you have the minimum
+proficiency rank. The target is then temporarily immune to your Battle Medicine
+for 1 day.
 
-### Prescient Planner (3rd General)
-[General]
-**Cost** the Price of the chosen item
-**Requirements** You haven't used this ability since the last time you were able
-to purchase goods.
-You regularly create convoluted plans and contingencies, using your resources to
-enact them. You take 1 minute to remove your backpack, then carefully remove an
-item you hadn't previously declared that you purchased—you intuited that you
-would come to need the item and purchased it at the latest opportunity. The item
-must be a piece of adventuring gear, and can't be a weapon, armor, alchemical
-item, magic item, or other treasure. It must be common with a level no higher
-than half your level, and its Bulk must be low enough that carrying it wouldn't
-have made you encumbered.
-
-### Quick Identification (4th Skill)
+### Ward Medic (3rd General)
 [General] [Skill]
-You only take 1 minute when using Identify Magic to determine the properties of
-an item, ongoing effect, or location. If you're a master, it becomes a three
-action activity, and if you're legendary, it becomes a 1 action activity.
+When you use Treat Wounds or Treat Disease, you may treat up to 2 targets. If
+you are a master, you may treat up to 4, and if you are legendary, you may treat
+up to 8.
+
+### Continual Recovery (4th Skill)
+[General] [Skill]
+When you Treat Wounds, your target only becomes immune to Treat Wounds for 10
+minutes instead of an hour.
 
 ## Automatic Bonus Progression
 - Attack Potency I
@@ -171,6 +162,7 @@ Patter-Whistle, Low Song, High Song, Vaaltid
 
 ## Class - Avenger
 The moon-mother watches over you, child.
+
 ### Divine Fury (1st Feature)
 Your Divine Fury damage type is negative.
 
@@ -282,11 +274,3 @@ spellcaster, these can instead be heightened to the level of your cantrips.
   - 5x Chalk (.01/, -)
   - 1x Potion of Barkskin
   - 2x Mutagen, Lesser Energy (Fire)
-
-### Crafting Formulas
-- All 0-level common items.
-- Cantrip Deck
-- Runestone
-- Flask of Fellowship
-- Cloak of Feline Rest
-- Fearsome Rune
