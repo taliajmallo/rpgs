@@ -1,8 +1,8 @@
-# Sakari Kiriama / Sinta Mariwa
+# Sakari Kiriama
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  42/56       |
+| *HP*         |  18/56       |
 | *Fortune*    |  [x] [ ] [ ] |
 
 ## Defenses
@@ -58,9 +58,12 @@ Situational:
 - Occult Assurance rolls 18 total.
 
 ## Status
-- [ ] Fox Form
-- [x] Gathered Element
-- [ ] Waxing Lunacy
+- Modals:
+    - [x] Gathered Element
+    - [x] Waxing Lunacy
+    - [ ] Fox Form
+- Status Effects:
+    - 4 Resist Fire & Ice
 
 ## Actions
 - > *Stride*: Move 20.
@@ -83,11 +86,11 @@ Situational:
   - [ ] Karchanek (Sean)
 
 ## Simple Impulses
-- > *Eldritch Blast*: +10/AC, 60' range, 2d6 negative, 5d10 negative on crit
+- > *Eldritch Blast*: +11/AC, 60' range, 2d6 negative, 5d10 negative on crit
 - < *Nurturing Blood*: On deal bleed or kill, give 4 THP for 1r. Can instead heal 12, but then they become immune for 10 minutes.
   - [ ] Self
   - [ ] Suyra (Shira)
-  - [x] Hansa (Shira's Cat)
+  - [ ] Hansa (Shira's Cat)
   - [ ] Yuriso-Meno (Violet)
   - [ ] Meno-Yuriso (Violet's Eidolon)
   - [ ] Vendari the Lesser (Jay)

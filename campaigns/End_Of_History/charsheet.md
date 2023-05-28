@@ -327,8 +327,6 @@ spellcaster, these can instead be heightened to the level of your cantrips.
   - 2x Week's Rations (.4/, L/)
   - 5x Candles (.01/, -)
   - 5x Chalk (.01/, -)
-  - 1x Scroll of Summon Lesser Servitor (?, ?)
-  - 1x Potion of Lesser Healing
   - 1x Potion of Barkskin
   - 2x Mutagen, Lesser Energy (Fire)
 
@@ -338,3 +336,4 @@ spellcaster, these can instead be heightened to the level of your cantrips.
 - Runestone
 - Flask of Fellowship
 - Cloak of Feline Rest
+- Fearsome Rune
