@@ -29,8 +29,8 @@ Situational:
 ## Skills
 | **Skill**       |  Sum   |
 |-----------------|--------|
-| *Acrobatics*    |  +8    |
 | *Arcana*        |  +9    |
+| *Athletics*     |  +10   |
 | *Crafting*      |  +9    |
 | *L: Academia*   |  +9    |
 | *L: Library*    |  +9    |
@@ -40,13 +40,13 @@ Situational:
 | *Occultism*     |  +9    |
 | *Religion*      |  +7    |
 | *Society*       |  +9    |
+| *Stealth*       |  +8    |
 |-----------------|--------|
-| *Athletics*     |  +4    |
+| *Acrobatics*    |  +2    |
 | *Deception*     |  -1    |
 | *Diplomacy*     |  -1    |
 | *Intimidation*  |  -1    |
 | *Performance*   |  -1    |
-| *Stealth*       |  +2    |
 | *Survival*      |  +0    |
 | *Thievery*      |  +2    |
 |-----------------|--------|
