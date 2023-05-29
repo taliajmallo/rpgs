@@ -33,7 +33,6 @@ Situational:
 | *Athletics*     |  +10   |
 | *Crafting*      |  +9    |
 | *L: Academia*   |  +9    |
-| *L: Library*    |  +9    |
 | *L: Moon Faith* |  +9    |
 | *Medicine*      |  +8    |
 | *Nature*        |  +6    |
