@@ -9,11 +9,11 @@
 ## Defenses
 | **Defense**     |  Sum   |
 |-----------------|--------|
-| *AC (Armored)*  |  22    |
+| *AC (Armored)*  |  20    |
 |-----------------|--------|
 | *Perception*    |  +8    |
 | *Fortitude*     |  +9    |
-| *Reflex*        |  +12   |
+| *Reflex*        |  +10   |
 | *Will*          |  +8    |
 Situational:
 - +1 to flat check to hit if concealed or hidden
@@ -23,13 +23,13 @@ Situational:
 |-----------------|--------|
 | *Class DC*      |  20    |
 |-----------------|--------|
-| *Dex Attack*    |  +11   |
-| *Str Attack*    |  +8    |
+| *Dex Attack*    |  +9    |
+| *Str Attack*    |  +11   |
 
 ## Skills
 | **Skill**       |  Sum   |
 |-----------------|--------|
-| *Acrobatics*    |  +10   |
+| *Acrobatics*    |  +8    |
 | *Arcana*        |  +9    |
 | *Crafting*      |  +9    |
 | *L: Academia*   |  +9    |
@@ -41,14 +41,14 @@ Situational:
 | *Religion*      |  +7    |
 | *Society*       |  +9    |
 |-----------------|--------|
-| *Athletics*     |  +1    |
+| *Athletics*     |  +4    |
 | *Deception*     |  -1    |
 | *Diplomacy*     |  -1    |
 | *Intimidation*  |  -1    |
 | *Performance*   |  -1    |
-| *Stealth*       |  +4    |
+| *Stealth*       |  +2    |
 | *Survival*      |  +0    |
-| *Thievery*      |  +4    |
+| *Thievery*      |  +2    |
 |-----------------|--------|
 Situational:
 - Medicine Assurance rolls 18 total.
@@ -66,7 +66,7 @@ Situational:
 - > *Recall Knowledge*: Roll knowledge skill. If Oath target, become isolated.
 - > *Oath of Enmity*: Select target w/in 60'. Free Recall Knowledge about them.
   - +1 / anathema
-- > *Attack*: +11/AC. 2d6+2 Slashing damage.
+- > *Attack*: +11/AC, 10' reach. 2d10+4 Slashing damage.
   - May reroll on fail if Oath active and target
   - May spend focus to add 2d4 negative damage
   - +2 damage / humanoid anathema
