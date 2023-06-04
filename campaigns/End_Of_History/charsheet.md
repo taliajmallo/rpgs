@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Raised by Belief
-- Class: Avenger 3
+- Class: Avenger 5
 
 [Selfless] [Tolerant] [Traditional]
 [Medium] [Kitsune] [Changeling] [Humanoid]
@@ -12,59 +12,59 @@
 ### Ability Scores
 |  Stat   | Base    |
 |---------|---------|
-| **STR** | 18 (+4) |
-| **DEX** | 14 (+2) |
-| **CON** | 12 (+1) |
-| **INT** | 16 (+3) |
+| **STR** | 19 (+4) |
+| **DEX** | 16 (+3) |
+| **CON** | 14 (+2) |
+| **INT** | 18 (+4) |
 | **WIS** | 10 (--) |
 | **CHA** | 08 (-1) |
 
 ### Resources
 | **Resource** |  Max   |  Refill   |
 |--------------|--------|-----------|
-| *HP*         |  52    |  +4/Rest
+| *HP*         |  68    |  +5/Rest
 | *Focus*      |  1     |  +1/Refocus
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Unarmored AC*  |  20    |  ++    |  +4+4  |  +2 Dex   |  -     |  -
+| *Unarmored AC*  |  23    |  ++    |  +5+4  |  +3 Dex   |  +1    |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +8    |  ++    |  +4+4  |  +0 Wis   |  -     |  -
-| *Fortitude*     |  +9    |  ++    |  +4+4  |  +1 Con   |  -     |  -
-| *Reflex*        |  +10   |  ++    |  +4+4  |  +2 Dex   |  -     |  -
-| *Will*          |  +8    |  ++    |  +4+4  |  +0 Wis   |  -     |  -
+| *Perception*    |  +9    |  ++    |  +5+4  |  +0 Wis   |  -     |  -
+| *Fortitude*     |  +11   |  ++    |  +5+4  |  +2 Con   |  -     |  -
+| *Reflex*        |  +12   |  ++    |  +5+4  |  +3 Dex   |  -     |  -
+| *Will*          |  +9    |  ++    |  +5+4  |  +0 Wis   |  -     |  -
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  20    |  +     |  +4+2  |  +4 Str   |  -     |  -
+| *Class DC*      |  21    |  +     |  +5+2  |  +4 Str   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Dex Attack*    |  +9    |  +     |  +4+2  |  +2 Dex   |  +1    |  -
-| *Str Attack*    |  +11   |  +     |  +4+2  |  +4 Str   |  +1    |  -
+| *Dex Attack*    |  +13   |  ++    |  +5+4  |  +3 Dex   |  +1    |  -
+| *Str Attack*    |  +14   |  ++    |  +5+4  |  +4 Str   |  +1    |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
-| *Athletics*     |  +10   |  +     |  +4+2  |  +4 Str   |  -     |  -
-| *Crafting*      |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
-| *L: Academia*   |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
-| *L: Moon Faith* |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
-| *Medicine*      |  +8    |  ++    |  +4+4  |  +0 Wis   |  -     |  -
-| *Nature*        |  +6    |  +     |  +4+2  |  +0 Wis   |  -     |  -
-| *Occultism*     |  +9    |  +     |  +4+4  |  +3 Int   |  -     |  -
-| *Religion*      |  +7    |  +     |  +4+2  |  +0 Wis   |  +1    |  -
-| *Society*       |  +9    |  +     |  +4+2  |  +3 Int   |  -     |  -
-| *Stealth*       |  +8    |  +     |  +4+2  |  +2 Dex   |  -     |  -
+| *Arcana*        |  +11   |  +     |  +5+2  |  +4 Int   |  -     |  -
+| *Athletics*     |  +11   |  +     |  +5+2  |  +4 Str   |  -     |  -
+| *Crafting*      |  +11   |  +     |  +5+2  |  +4 Int   |  -     |  -
+| *L: Academia*   |  +11   |  +     |  +5+2  |  +4 Int   |  -     |  -
+| *L: Moon Faith* |  +11   |  +     |  +5+2  |  +4 Int   |  -     |  -
+| *Medicine*      |  +9    |  ++    |  +5+4  |  +0 Wis   |  -     |  -
+| *Nature*        |  +7    |  +     |  +5+2  |  +0 Wis   |  -     |  -
+| *Occultism*     |  +13   |  ++    |  +5+4  |  +4 Int   |  -     |  -
+| *Religion*      |  +8    |  +     |  +5+2  |  +0 Wis   |  +1    |  -
+| *Society*       |  +11   |  +     |  +5+2  |  +4 Int   |  -     |  -
+| *Stealth*       |  +10   |  +     |  +5+2  |  +3 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Acrobatics*    |  +2    |        |  +0    |  +2 Dex   |  -     |  -
+| *Acrobatics*    |  +3    |        |  +0    |  +3 Dex   |  -     |  -
 | *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Diplomacy*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Survival*      |  +0    |        |  +0    |  +0 Wis   |  -     |  -
-| *Thievery*      |  +2    |        |  +0    |  +2 Dex   |  -     |  -
+| *Thievery*      |  +3    |        |  +0    |  +3 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 
 ### Assurance, Occultism (Background)
@@ -120,12 +120,11 @@ back into your true form.
 You can see in darkness and dim light just as well as you can see in bright
 light, though your vision in darkness is in black and white.
 
-### Ancestry Feats
-#### Moon May (1st)
+### Moon May (1st Ancestry)
 Your mother was a moon hag, and you have a single scarlet eye and a sliver of
 her supernal foresight. You can cast guidance as an occult innate cantrip.
 
-##### Guidance (Cantrip II Innate)
+#### Guidance (Cantrip II Innate)
 [Cantrip] [Divination] [Verbal] [>]
 *Range* 30 feet; Targets 1 creature
 Duration until the start of your next turn
@@ -134,6 +133,10 @@ roll, Perception check, saving throw, or skill check the target attempts before
 the duration ends. The target chooses which roll to use the bonus on before
 rolling. If the target uses the bonus, the spell ends. Either way, the target is
 then temporarily immune for 1 hour.
+
+### Myriad Forms (5th Ancestry)
+You may use Change Shape to take the form of your previous self, with minor
+alterations due to your soul-transposed nature.
 
 ### Hagtouched Calling
 Your heritage beckons.
@@ -202,6 +205,8 @@ weapon group, or deals slashing damage and belongs to the sword weapon group. It
 is an extension of your mind, and has no hardness; any damage it would take
 instead becomes mental damage to you. Only you can carry, hold, or wield it - it
 vanishes if ever removed from your hand.
+GM Permission allows you to choose that the weapon belongs to the polearm weapon
+group and deals slashing damage instead of the three other options.
 You may bind a keepsake to it. The keepsake cannot be a magical item, nor may it
 have any value beyond runes inscribed on it. You may inscribe runes on it in the
 same way as you would a weapon, and those runes apply to your mind weapon. If
@@ -227,6 +232,11 @@ Upon hitting with a strike, you deal 2d4 negative damage.
 [Archetype] [Concentrate] [>]
 You may temporarily change your weapon's shape into a single simple tool to help
 with a mundane task, or change it back into its weapon form.
+
+### Weapon Expertise (5th Feature)
+Your proficiency for simple weapons, martial weapons, and unarmed attacks
+increases to expert. You gain the critical specialization effect for all weapons
+for which you have expert proficiency.
 
 ## Belongings
 Coinage: 13.75

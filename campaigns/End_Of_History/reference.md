@@ -2,44 +2,44 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  12/52       |
+| *HP*         |  68/68       |
 | *Fortune*    |  [x] [ ] [ ] |
 | *Focus*      |  [x]         |
 
 ## Defenses
 | **Defense**     |  Sum   |
 |-----------------|--------|
-| *AC (Armored)*  |  20    |
+| *AC (Armored)*  |  23    |
 |-----------------|--------|
-| *Perception*    |  +8    |
-| *Fortitude*     |  +9    |
-| *Reflex*        |  +10   |
-| *Will*          |  +8    |
+| *Perception*    |  +9    |
+| *Fortitude*     |  +11   |
+| *Reflex*        |  +12   |
+| *Will*          |  +9    |
 Situational:
 - +1 to flat check to hit if concealed or hidden
 
 ## Offenses
 | **Offense**     |  Sum   |
 |-----------------|--------|
-| *Class DC*      |  20    |
+| *Class DC*      |  21    |
 |-----------------|--------|
-| *Dex Attack*    |  +9    |
-| *Str Attack*    |  +11   |
+| *Dex Attack*    |  +11   |
+| *Str Attack*    |  +12   |
 
 ## Skills
 | **Skill**       |  Sum   |
 |-----------------|--------|
-| *Arcana*        |  +9    |
-| *Athletics*     |  +10   |
-| *Crafting*      |  +9    |
-| *L: Academia*   |  +9    |
-| *L: Moon Faith* |  +9    |
-| *Medicine*      |  +8    |
-| *Nature*        |  +6    |
-| *Occultism*     |  +9    |
-| *Religion*      |  +7    |
-| *Society*       |  +9    |
-| *Stealth*       |  +8    |
+| *Arcana*        |  +11   |
+| *Athletics*     |  +11   |
+| *Crafting*      |  +11   |
+| *L: Academia*   |  +11   |
+| *L: Moon Faith* |  +11   |
+| *Medicine*      |  +9    |
+| *Nature*        |  +7    |
+| *Occultism*     |  +13   |
+| *Religion*      |  +8    |
+| *Society*       |  +11   |
+| *Stealth*       |  +10   |
 |-----------------|--------|
 | *Acrobatics*    |  +2    |
 | *Deception*     |  -1    |
@@ -50,8 +50,8 @@ Situational:
 | *Thievery*      |  +2    |
 |-----------------|--------|
 Situational:
-- Medicine Assurance rolls 18 total.
-- Occult Assurance rolls 16 total.
+- Medicine Assurance rolls 19 total.
+- Occult Assurance rolls 19 total.
 
 ## Status
 - Modals:
@@ -65,10 +65,11 @@ Situational:
 - > *Recall Knowledge*: Roll knowledge skill. If Oath target, become isolated.
 - > *Oath of Enmity*: Select target w/in 60'. Free Recall Knowledge about them.
   - +1 / anathema
-- > *Attack*: +11/AC, 10' reach. 2d10+4 Slashing damage.
+- > *Attack*: +14/AC, 10' reach. 2d10+4 Slashing damage.
   - May reroll on fail if Oath active and target
   - May spend focus to add 2d4 negative damage
   - +2 damage / humanoid anathema
+  - Crit grants 5' forced movement
 
 ## Limited Actions
 - > *Guidance*: 1/Target/Hour +1 to single d20 roll
