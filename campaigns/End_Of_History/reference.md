@@ -69,7 +69,7 @@ Situational:
   - May reroll on fail if Oath active and target
   - May spend focus to add 2d4 negative damage
   - +2 damage / humanoid anathema
-  - Crit grants 5' forced movement
+  - Crit grants 5' forced movement, frightened 1
 
 ## Limited Actions
 - > *Guidance*: 1/Target/Hour +1 to single d20 roll

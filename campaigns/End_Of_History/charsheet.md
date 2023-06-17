@@ -251,6 +251,9 @@ horned skull. This ring gives you the power to cast the following innate arcane
 cantrips any number of times each day: detect magic, mage hand, and
 prestidigitation. Each is cast as a 1st-level spell. If you are an arcane
 spellcaster, these can instead be heightened to the level of your cantrips.
+#### Mind Weapon: Fearsome Rune
+[Emotion] [Enchantment] [Fear] [Magical] [Mental]
+When you crit with this weapon, the target becomes frightened 1.
 
 ### Armor
 - [x] Winter Clothing (.4, L)
