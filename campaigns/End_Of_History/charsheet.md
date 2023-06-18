@@ -23,7 +23,6 @@
 | **Resource** |  Max   |  Refill   |
 |--------------|--------|-----------|
 | *HP*         |  68    |  +5/Rest
-| *Focus*      |  1     |  +1/Refocus
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
@@ -220,13 +219,12 @@ Gain a +10' status bonus to your speed when you have an Oath of Enmity active;
 half benefit otherwise. This increases by 5' at 7th level and every 4 levels
 thereafter.
 
-### Vengeful Smite (4th Class)
-[Avenger]
-Gain the Vengeful Smite covenant spell, and increase your maximum Focus by 1.
-#### Vengeful Smite
-[Avenger] [Evocation] [Verbal] [<>]
-Upon hitting with a strike, you deal 2d4 negative damage.
-**Heightened (+1)** The damage increases by 1d4.
+### Interrupt Enmity (4th Class)
+[Avenger] [↻]
+Trigger: Your Object of Enmity is within your reach, and it uses a manipulate
+action, uses a move action, or leaves a square during a move action it's using.
+Make a melee Strike against your Object of Enmity. If the attack is a critical
+hit, you disrupt the triggering action.
 
 ### Just the Tool (4th Archetype)
 [Archetype] [Concentrate] [>]

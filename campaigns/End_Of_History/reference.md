@@ -4,7 +4,6 @@
 |--------------|--------------|
 | *HP*         |  68/68       |
 | *Fortune*    |  [x] [ ] [ ] |
-| *Focus*      |  [x]         |
 
 ## Defenses
 | **Defense**     |  Sum   |
@@ -67,9 +66,11 @@ Situational:
   - +1 / anathema
 - > *Attack*: +14/AC, 10' reach. 2d10+4 Slashing damage.
   - May reroll on fail if Oath active and target
-  - May spend focus to add 2d4 negative damage
   - +2 damage / humanoid anathema
   - Crit grants 5' forced movement, frightened 1
+
+## Reactions
+- ↻ *Interrupt Enmity*: Strike if Oath is in reach and manipulates or moves.
 
 ## Limited Actions
 - > *Guidance*: 1/Target/Hour +1 to single d20 roll
