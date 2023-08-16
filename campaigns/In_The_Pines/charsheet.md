@@ -16,11 +16,11 @@
 | Limit        | [x] [x] [x] [x] [x] [x] [x] [x] [ ] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
-| > White      | 1/6                                     |
+| > White      | 0/6                                     |
 | > Black      | 0/6                                     |
 | Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
-| Experience   | 105 Spent / 113 Total                   |
+| Experience   | 114 Spent / 116 Total                   |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -65,7 +65,7 @@
 | Firearms        | oooo. | Essence
 | Martial Arts    | ..... |
 | Meditation      | ..... |
-| Melee           | o.... |
+| Melee           | oooo. | Dramatic Moves
 | Research        | o.... |
 | Stealth         | oo... |
 | Survival        | ..... |
