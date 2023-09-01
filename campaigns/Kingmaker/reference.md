@@ -12,8 +12,6 @@
 |-----------------|--------|
 | *Light Armor*   |  17    |
 |-----------------|--------|
-| *Perception*    |  +6    |
-| *-> Familiar*   |  +5    |
 | *Fortitude*     |  +9    |
 | *Reflex*        |  +7    |
 | *Will*          |  +6    |
@@ -23,6 +21,8 @@
 |-----------------|--------|
 | *Class DC*      |  17    |
 | *Class Attack*  |  +7    |
+|-----------------|--------|
+| *Perception*    |  +6    |
 
 ## Skills
 | **Skill**       |  Sum   |
@@ -36,7 +36,6 @@
 | *Society*       |  +4    |
 |-----------------|--------|
 | *Acrobatics*    |  +2    |
-| *-> Familiar*   |  +5    |
 | *Athletics*     |  -1    |
 | *Crafting*      |  +1    |
 | *Deception*     |  -1    |
@@ -45,10 +44,13 @@
 | *Performance*   |  -1    |
 | *Occultism*     |  +1    |
 | *Stealth*       |  +2    |
-| *-> Familiar*   |  +5    |
 | *Survival*      |  +3    |
 | *Thievery*      |  +2    |
 |-----------------|--------|
+Familiar has +5 to:
+- Perception
+- Acrobatics
+- Stealth
 
 ## Statuses
 - Modals:

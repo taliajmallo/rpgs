@@ -29,8 +29,6 @@
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Light Armor*   |  17    |  +     |  +1+2  |  +2 Dex   |  +2    |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
-| *-> Familiar*   |  +5    |  *     |  +1    |  +4 Con   |  -     |  -
 | *Fortitude*     |  +9    |  ++    |  +1+4  |  +4 Con   |  -     |  -
 | *Reflex*        |  +7    |  ++    |  +1+4  |  +2 Dex   |  -     |  -
 | *Will*          |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
@@ -40,6 +38,8 @@
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Class DC*      |  17    |  +     |  +1+2  |  +4 Con   |  -     |  -
 | *Class Attack*  |  +7    |  +     |  +1+2  |  +4 Con   |  -     |  -
+|-----------------|--------|--------|--------|-----------|--------|--------|
+| *Perception*    |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
@@ -53,7 +53,6 @@
 | *Society*       |  +4    |  +     |  +1+2  |  +1 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Acrobatics*    |  +2    |        |  +0    |  +2 Dex   |  -     |  -
-| *-> Familiar*   |  +5    |  *     |  +1    |  +4 Con   |  -     |  -
 | *Athletics*     |  -1    |        |  +0    |  -1 Str   |  -     |  -
 | *Crafting*      |  +1    |        |  +0    |  +1 Int   |  -     |  -
 | *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
@@ -62,7 +61,6 @@
 | *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Occultism*     |  +1    |        |  +0    |  +1 Int   |  -     |  -
 | *Stealth*       |  +2    |        |  +0    |  +2 Dex   |  -     |  -
-| *-> Familiar*   |  +5    |  *     |  +1    |  +4 Con   |  -     |  -
 | *Survival*      |  +3    |        |  +0    |  +3 Wis   |  -     |  -
 | *Thievery*      |  +2    |        |  +0    |  +2 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
@@ -179,7 +177,8 @@ leaving behind an ordinary tree if used in a space where a tree can live.
 ## Familiar
 Your familiar resembles a tiny stoat carved out of wood. It has the minion trait,
 and so gain 2 actions in a round if and only if you use an action to command
-them. It has a movement speed of 25'.
+them. It has a movement speed of 25'. Its Perception, Acrobatics, and Stealth
+modifiers are all equal to your level plus your Constitution modifier.
 ### Lifelink
 If your familiar would be reduced to 0 HP by damage, as a reaction with the
 concentrate trait, you can take the damage. If you do, you take all the damage
