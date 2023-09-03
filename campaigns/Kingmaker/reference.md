@@ -5,7 +5,7 @@
 |-----------------|--------------|
 | *HP*            |  18/18       |
 | *Familiar HP*   |  5/5         |
-| *Fortune*       |  [x] [ ] [ ] |
+| *Fortune*       |  [x] [x] [x] |
 
 ## Defenses
 | **Defense**     |  Sum   |
@@ -72,6 +72,6 @@ Familiar has +5 to:
 - > *Fresh Produce*: Ally in aura may spend action to heal 1d4+1 once per 10 min
   - [ ] Self
   - [ ] Tashya (Chas)
-  - [ ] Melgoura (Caoimhe)
-  - [ ] Josefine (Violet)
-  - [ ] Miniri (Shira)
+  - [x] Melgoura (Caoimhe)
+  - [x] Josefine (Violet)
+  - [x] Miniri (Shira)
