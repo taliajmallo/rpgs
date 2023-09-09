@@ -4,7 +4,9 @@
 | **Resource**    |  Value       |
 |-----------------|--------------|
 | *HP*            |  18/18       |
+| *THP*           |  0/-         |
 | *Familiar HP*   |  5/5         |
+| *Tree HP*       |  0/10        |
 | *Fortune*       |  [x] [x] [x] |
 
 ## Defenses
@@ -23,6 +25,30 @@
 | *Class Attack*  |  +7    |
 |-----------------|--------|
 | *Perception*    |  +6    |
+
+## Statuses
+- Modals:
+  - [x] Gathered Element
+- Effects:
+
+## Actions
+### Base
+- > *Stride*: Move 30'.
+- > *Channel Element*: Activate aura 10', use 1-action Blast or Stance.
+- >> *Prestidigitation*: Convenience effects.
+- > *Command Familiar*: Your familiar gains 2 actions.
+
+### Impulses
+- > *Kinetic Blast*: +7/AC, 30', 1d8 B or +, double on crit
+- >> *Kinetic Blast*: As above, +4 damage
+- >> *Timber Sentinel*: Create tree in 30' that blocks 10 hp for adjacent allies
+- > *Fresh Produce*: Ally in aura may spend action to heal 1d4+1 once per 10 min
+  - [ ] Self
+  - [ ] Tashya (Chas)
+  - [ ] Melgoura (Caoimhe)
+  - [ ] Josefine (Violet)
+  - [ ] Miniri (Shira)
+  - [ ] Andvari (Sean) 
 
 ## Skills
 | **Skill**       |  Sum   |
@@ -51,27 +77,4 @@ Familiar has +5 to:
 - Perception
 - Acrobatics
 - Stealth
-
-## Statuses
-- Modals:
-  - [x] Gathered Element
-  - [ ] Tree HP: 10/10
-- Effects:
-
-## Actions
-### Base
-- > *Stride*: Move 30'.
-- > *Channel Element*: Activate aura 10', use 1-action Blast or Stance.
-- >> *Prestidigitation*: Convenience effects.
-- > *Command Familiar*: Your familiar gains 2 actions.
-
-### Impulses
-- > *Kinetic Blast*: +7/AC, 30', 1d8 B or +, double on crit
-- >> *Kinetic Blast*: As above, +4 damage
-- >> *Timber Sentinel*: Create tree in 30' that blocks 10 hp for adjacent allies
-- > *Fresh Produce*: Ally in aura may spend action to heal 1d4+1 once per 10 min
-  - [ ] Self
-  - [ ] Tashya (Chas)
-  - [x] Melgoura (Caoimhe)
-  - [x] Josefine (Violet)
-  - [x] Miniri (Shira)
+ 
