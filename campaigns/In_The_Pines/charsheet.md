@@ -26,17 +26,17 @@
 ## Attributes
 | **Attribute**   | Level | Specialization   |
 |-----------------|-------|------------------|
-| [Physical]
+| [Physical]      |
 | Strength        | oo... |
 | Dexterity       | ooooo | Graceful
 | Stamina         | oo... |
 |-----------------|-------|------------------|
-| [Social]
+| [Social]        |
 | Charisma        | oo... |
 | Manipulation    | o.... |
 | Appearance      | ooooo | Uncanny
 |-----------------|-------|------------------|
-| [Mental]
+| [Mental]        |
 | Perception      | oo... |
 | Intelligence    | ooooo | Encyclopedic
 | Wits            | ooooo | Genre-Savvy
@@ -45,7 +45,7 @@
 ## Abilities
 | **Ability**     | Level | Specialization   |
 |-----------------|-------|------------------|
-| [Talents]
+| [Talents]       |
 | Alertness       |[oooo.]| Danger
 | Art             | o.... | Song
 | Athletics       | o.... |
@@ -58,7 +58,7 @@
 | Streetwise      | o.... |
 | Subterfuge      | oo... |
 |-----------------|-------|------------------|
-| [Skills]
+| [Skills]        |
 | Crafts          | ..... |
 | Drive           | ..... |
 | Etiquette       | o.... |
@@ -72,7 +72,7 @@
 | Technology      | o.... |
 | Security        | o.... |
 |-----------------|-------|------------------|
-| [Knowledges]
+| [Knowledges]    |
 | Academics       |[oo...]| Literature
 | Computer        | o.... |
 | Cosmology       | ..... |
@@ -89,17 +89,17 @@
 ## Backgrounds, Merits, and Flaws
 | Property           | Level | Notes   |
 |--------------------|-------|---------|
-| [Backgrounds]
+| [Backgrounds]      |
 | Arcane             | ooooo | +Stealth, -Tracking you
 | Past Life          | o.... | 1/Session PL/8, successes -> another roll
 | Resources          | o.... |
 |--------------------|-------|---------|
-| [Merits]
+| [Merits]           |
 | Common Sense       | o     | GM gets to say "Do you really want to do that"
 | Pitiable           | o     | -2 Diff to be taken care of, +2 to be taken serious
 | True Love          | oooo  | +1 auto-success on WP rolls, negated by botch
 |--------------------|-------|---------|
-| [Flaws]
+| [Flaws]            |
 | Echoes             | oooo  | You're a creepy demon-child, and people *notice*
 | Witch-Hunted       | oooo  | Recurring enemies will hunt you down
 | Squeamish          | ooo   | WP/7 to remain calm in violent situations
