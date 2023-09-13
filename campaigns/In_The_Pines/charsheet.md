@@ -12,15 +12,15 @@
 | Health       | [ ] [ ] [ ] [ ] [ ] [ ] [ ]             |
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
-| Willpower    | [x] [ ] [ ] [ ] [ ]                     |
-| Limit        | [x] [x] [x] [x] [x] [x] [x] [x] [ ] [ ] |
+| Willpower    | [ ] [ ] [ ] [ ] [ ]  *                  |
+| Limit        | [x] [x] [x] [x] [x] [x] [x] [x] [x] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
-| > White      | 2/6                                     |
-| > Black      | 1/6                                     |
+| > White      | 4/6                                     |
+| > Black      | 4/6                                     |
 | Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
-| Experience   | 114 Spent / 120 Total                   |
+| Experience   | 114 Spent / 123 Total                   |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -279,7 +279,7 @@ destroy the memories by paying a point of willpower.
 Reflexively spend 1 black essence to learn which of an array of options will
 lead to the worst short-term outcome.
 #### Safety Through Denial II
-Spend 1 black essence and roll against difficulty 8; this charm lasts for one
+Spend 1 black essence and roll WP against difficulty 8; this charm lasts for one
 day per success (or one scene for a failure). While in effect, all magic that
 seeks to harm, impede, inconvenience, or otherwise oppose you becomes vulgar. If
 done in front of you, it becomes vulgar with witnesses. Furthermore the first
