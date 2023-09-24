@@ -12,31 +12,31 @@
 | Health       | [ ] [ ] [ ] [ ] [ ] [ ] [ ]             |
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
-| Willpower    | [x] [ ] [ ] [ ] [ ]                     |
-| Limit        | [x] [x] [x] [x] [x] [x] [x] [x] [ ] [ ] |
+| Willpower    | [ ] [ ] [ ] [ ] [ ]  *                  |
+| Limit        | [x] [x] [x] [x] [x] [x] [x] [x] [x] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
-| > White      | 2/6                                     |
-| > Black      | 1/6                                     |
+| > White      | 4/6                                     |
+| > Black      | 4/6                                     |
 | Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
-| Experience   | 114 Spent / 120 Total                   |
+| Experience   | 114 Spent / 123 Total                   |
 |--------------|-----------------------------------------|
 
 ## Attributes
 | **Attribute**   | Level | Specialization   |
 |-----------------|-------|------------------|
-| [Physical]
+| [Physical]      |
 | Strength        | oo... |
 | Dexterity       | ooooo | Graceful
 | Stamina         | oo... |
 |-----------------|-------|------------------|
-| [Social]
+| [Social]        |
 | Charisma        | oo... |
 | Manipulation    | o.... |
 | Appearance      | ooooo | Uncanny
 |-----------------|-------|------------------|
-| [Mental]
+| [Mental]        |
 | Perception      | oo... |
 | Intelligence    | ooooo | Encyclopedic
 | Wits            | ooooo | Genre-Savvy
@@ -45,7 +45,7 @@
 ## Abilities
 | **Ability**     | Level | Specialization   |
 |-----------------|-------|------------------|
-| [Talents]
+| [Talents]       |
 | Alertness       |[oooo.]| Danger
 | Art             | o.... | Song
 | Athletics       | o.... |
@@ -58,7 +58,7 @@
 | Streetwise      | o.... |
 | Subterfuge      | oo... |
 |-----------------|-------|------------------|
-| [Skills]
+| [Skills]        |
 | Crafts          | ..... |
 | Drive           | ..... |
 | Etiquette       | o.... |
@@ -72,7 +72,7 @@
 | Technology      | o.... |
 | Security        | o.... |
 |-----------------|-------|------------------|
-| [Knowledges]
+| [Knowledges]    |
 | Academics       |[oo...]| Literature
 | Computer        | o.... |
 | Cosmology       | ..... |
@@ -89,17 +89,17 @@
 ## Backgrounds, Merits, and Flaws
 | Property           | Level | Notes   |
 |--------------------|-------|---------|
-| [Backgrounds]
+| [Backgrounds]      |
 | Arcane             | ooooo | +Stealth, -Tracking you
 | Past Life          | o.... | 1/Session PL/8, successes -> another roll
 | Resources          | o.... |
 |--------------------|-------|---------|
-| [Merits]
+| [Merits]           |
 | Common Sense       | o     | GM gets to say "Do you really want to do that"
 | Pitiable           | o     | -2 Diff to be taken care of, +2 to be taken serious
 | True Love          | oooo  | +1 auto-success on WP rolls, negated by botch
 |--------------------|-------|---------|
-| [Flaws]
+| [Flaws]            |
 | Echoes             | oooo  | You're a creepy demon-child, and people *notice*
 | Witch-Hunted       | oooo  | Recurring enemies will hunt you down
 | Squeamish          | ooo   | WP/7 to remain calm in violent situations
@@ -279,7 +279,7 @@ destroy the memories by paying a point of willpower.
 Reflexively spend 1 black essence to learn which of an array of options will
 lead to the worst short-term outcome.
 #### Safety Through Denial II
-Spend 1 black essence and roll against difficulty 8; this charm lasts for one
+Spend 1 black essence and roll WP against difficulty 8; this charm lasts for one
 day per success (or one scene for a failure). While in effect, all magic that
 seeks to harm, impede, inconvenience, or otherwise oppose you becomes vulgar. If
 done in front of you, it becomes vulgar with witnesses. Furthermore the first
