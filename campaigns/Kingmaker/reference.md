@@ -4,10 +4,10 @@
 | **Resource**    |  Value       |
 |-----------------|--------------|
 | *HP*            |  18/18       |
-| *THP*           |  0/-         |
+| *THP*           |  1/-         |
 | *Familiar HP*   |  5/5         |
-| *Tree HP*       |  0/10        |
-| *Fortune*       |  [x] [x] [x] |
+| *Tree HP*       |  10/10       |
+| *Fortune*       |  [ ] [ ] [ ] |
 
 ## Defenses
 | **Defense**     |  Sum   |
@@ -37,6 +37,7 @@
 - > *Channel Element*: Activate aura 10', use 1-action Blast or Stance.
 - >> *Prestidigitation*: Convenience effects.
 - > *Command Familiar*: Your familiar gains 2 actions.
+- <> *Wood Junction*: 1 THP on >> Wood impulse
 
 ### Impulses
 - > *Kinetic Blast*: +7/AC, 30', 1d8 B or +, double on crit
@@ -44,11 +45,11 @@
 - >> *Timber Sentinel*: Create tree in 30' that blocks 10 hp for adjacent allies
 - > *Fresh Produce*: Ally in aura may spend action to heal 1d4+1 once per 10 min
   - [ ] Self
-  - [ ] Tashya (Chas)
-  - [ ] Melgoura (Caoimhe)
-  - [ ] Josefine (Violet)
+  - [x] Tashya (Chas)
+  - [x] Melgoura (Caoimhe)
+  - [x] Josefine (Violet)
   - [ ] Miniri (Shira)
-  - [ ] Andvari (Sean) 
+  - [x] Andvari (Sean) 
 
 ## Skills
 | **Skill**       |  Sum   |

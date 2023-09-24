@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Elven Ardande
 - Background: Brevic Noble (Orlovsky)
-- Class: Kineticist 1 (470/1000)
+- Class: Kineticist 1 (840/1000)
 
 [Lawful] [Medium] [Elf] [Ardande] [Humanoid]
 
@@ -192,7 +192,7 @@ up to 1 minute. You can Dismiss this effect.
 
 
 ## Belongings
-Coinage: 00.20
+Coinage: 50.20
 Bulk 1.9/4.0
 
 ### Armor
@@ -213,6 +213,8 @@ Bulk 1.9/4.0
   - Tent (.8, L)
   - Waterskin (.05, L)
   - Writing Kit (1, L)
+  - Charter (-, -)
 - Backpack, Consumables (-, -)
   - 2x Rations (.4/, L/)
   - 5x Chalk (.01/, -/)
+  - 2x Lesser Healing Potions (?, -/) 
