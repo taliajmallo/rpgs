@@ -192,8 +192,8 @@ up to 1 minute. You can Dismiss this effect.
 
 
 ## Belongings
-Coinage: 50.20
-Bulk 1.9/4.0
+Coinage: 49.32
+Bulk 2.8/4.0
 
 ### Armor
 - [x] Quilted (3, 1)
@@ -209,12 +209,13 @@ Bulk 1.9/4.0
   - Flint & Steel (.05, -)
   - Hand Mirror (1, -)
   - Rope (.5, L)
+  - Signal Whistle (.08, -/)
   - Soap (.02, -)
   - Tent (.8, L)
   - Waterskin (.05, L)
   - Writing Kit (1, L)
   - Charter (-, -)
 - Backpack, Consumables (-, -)
-  - 2x Rations (.4/, L/)
+  - 4x Rations (.4/, L/)
   - 5x Chalk (.01/, -/)
-  - 2x Lesser Healing Potions (?, -/) 
+  - 2x Lesser Healing Potions (12, L/)
