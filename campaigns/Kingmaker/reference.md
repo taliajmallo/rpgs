@@ -59,8 +59,8 @@
 | *L: Academia*   |  +4    |
 | *L: Brevoy*     |  +4    |
 | *Nature*        |  +6    |
-| *Religion*      |  +6    |
 | *Society*       |  +4    |
+| *Survival*      |  +6    |
 |-----------------|--------|
 | *Acrobatics*    |  +2    |
 | *Athletics*     |  -1    |
@@ -70,8 +70,8 @@
 | *Medicine*      |  +3    |
 | *Performance*   |  -1    |
 | *Occultism*     |  +1    |
+| *Religion*      |  +3    |
 | *Stealth*       |  +2    |
-| *Survival*      |  +3    |
 | *Thievery*      |  +2    |
 |-----------------|--------|
 Familiar has +5 to:
