@@ -4,10 +4,10 @@
 | **Resource**    |  Value       |
 |-----------------|--------------|
 | *HP*            |  18/18       |
-| *THP*           |  1/-         |
+| *THP*           |  -/-         |
 | *Familiar HP*   |  5/5         |
-| *Tree HP*       |  10/10       |
-| *Fortune*       |  [ ] [ ] [ ] |
+| *Tree HP*       |  --/10       |
+| *Fortune*       |  [x] [ ] [ ] |
 
 ## Defenses
 | **Defense**     |  Sum   |
@@ -45,11 +45,11 @@
 - >> *Timber Sentinel*: Create tree in 30' that blocks 10 hp for adjacent allies
 - > *Fresh Produce*: Ally in aura may spend action to heal 1d4+1 once per 10 min
   - [ ] Self
-  - [x] Tashya (Chas)
-  - [x] Melgoura (Caoimhe)
-  - [x] Josefine (Violet)
+  - [ ] Tashya (Chas)
+  - [ ] Melgoura (Caoimhe)
+  - [ ] Josefine (Violet)
   - [ ] Miniri (Shira)
-  - [x] Andvari (Sean) 
+  - [ ] Andvari (Sean) 
 
 ## Skills
 | **Skill**       |  Sum   |
