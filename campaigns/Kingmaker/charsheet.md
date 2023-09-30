@@ -192,7 +192,7 @@ up to 1 minute. You can Dismiss this effect.
 
 
 ## Belongings
-Coinage: 49.32
+Coinage: 48.49
 Bulk 2.8/4.0
 
 ### Armor
