@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Elven Ardande
 - Background: Brevic Noble (Orlovsky)
-- Class: Kineticist 1 (930/1000)
+- Class: Kineticist 2 (930/2000)
 
 [Lawful] [Medium] [Elf] [Ardande] [Humanoid]
 
@@ -21,36 +21,36 @@
 ### Resources
 | **Resource**    |  Max   |  Refill   |
 |-----------------|--------|-----------|
-| *HP*            |  18    |  +4/Rest
-| *Familiar HP*   |  5     |  +4/Rest
+| *HP*            |  30    |  +4/Rest
+| *Familiar HP*   |  10    |  +4/Rest
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Light Armor*   |  17    |  +     |  +1+2  |  +2 Dex   |  +2    |  -
+| *Light Armor*   |  18    |  +     |  +2+2  |  +2 Dex   |  +2    |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Fortitude*     |  +9    |  ++    |  +1+4  |  +4 Con   |  -     |  -
-| *Reflex*        |  +7    |  ++    |  +1+4  |  +2 Dex   |  -     |  -
-| *Will*          |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
+| *Fortitude*     |  +10   |  ++    |  +2+4  |  +4 Con   |  -     |  -
+| *Reflex*        |  +8    |  ++    |  +2+4  |  +2 Dex   |  -     |  -
+| *Will*          |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  17    |  +     |  +1+2  |  +4 Con   |  -     |  -
-| *Class Attack*  |  +7    |  +     |  +1+2  |  +4 Con   |  -     |  -
+| *Class DC*      |  18    |  +     |  +2+2  |  +4 Con   |  -     |  -
+| *Class Attack*  |  +8    |  +     |  +2+2  |  +4 Con   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
+| *Perception*    |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +4    |  +     |  +1+2  |  +1 Int   |  -     |  -
-| *Diplomacy*     |  +2    |  +     |  +1+2  |  -1 Cha   |  -     |  -
-| *L: Academia*   |  +4    |  +     |  +1+2  |  +1 Int   |  -     |  -
-| *L: Brevoy*     |  +4    |  +     |  +1+2  |  +1 Int   |  -     |  -
-| *Nature*        |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
-| *Society*       |  +4    |  +     |  +1+2  |  +1 Int   |  -     |  -
-| *Survival*      |  +6    |  +     |  +1+2  |  +3 Wis   |  -     |  -
+| *Arcana*        |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
+| *Diplomacy*     |  +3    |  +     |  +2+2  |  -1 Cha   |  -     |  -
+| *L: Academia*   |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
+| *L: Brevoy*     |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
+| *Nature*        |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
+| *Society*       |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
+| *Survival*      |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Acrobatics*    |  +2    |        |  +0    |  +2 Dex   |  -     |  -
 | *Athletics*     |  -1    |        |  +0    |  -1 Str   |  -     |  -
@@ -71,6 +71,22 @@ When you Make an Impression, you can compare your Diplomacy check result to the
 Will DCs of two targets instead of one. It's possible to get a different degree
 of success for each target. The number of targets increases to four if you're an
 expert, 10 if you're a master, and 25 if you're legendary.
+
+### Arcane Sense (2nd Skill)
+[General] [Skill]
+You can cast 1st-level detect magic at-will as an arcane innate spell. If you're
+a master in arcana, this heightens to 3rd; if legendary, this heightens to 4th.
+#### Detect Magic (Cantrip I)
+[Arcane] [Cantrip] [Detection] [Divination] [Somatic] [Verbal] [>>]
+*Area* 30' emanation
+You send out a pulse that registers the presence of magic. You receive no
+information beyond the presence or absence of magic. You can choose to ignore
+magic you're fully aware of, such as the magic items and ongoing spells of you
+and your allies.
+You detect illusion magic only if that magic's effect has a lower level than the
+level of your detect magic spell. However, items that have an illusion aura but
+aren't deceptive in appearance (such as an invisibility potion) typically are
+detected normally.
 
 ## Ancestry - Elven Ardande
 ### Elf
@@ -174,16 +190,44 @@ movement through its square. Using this impulse again ends any previous use,
 leaving behind an ordinary tree if used in a space where a tree can live.
 *Level (+2)* The tree has an additional 10 hitpoints.
 
-## Familiar
+### Weapon Infusion (2nd Feat)
+[Infusion] [Kineticist]
+You may choose to substitute bludgeoning, piercing, or slashing for your kinetic
+blast. Additionally, if making a melee blast, you may add one of the following
+traits: agile, backswing, forceful, reach, or sweep. If making a ranged attack,
+you may choose range increment 100 and volley 30, range increment 50 and
+propulsive, or range increment 20 and thrown.
+
+### Familiar Master Dedication (2nd Archetype)
+[Archetype] [Dedication]
+You gain the Enhanced Familiar feat.
+#### Enhanced Familiar (Free)
+You can select four familiar or master abilities per day, instead of two.
+
+## Familiar (Elemental Wisp)
 Your familiar resembles a tiny stoat carved out of wood. It has the minion trait,
 and so gain 2 actions in a round if and only if you use an action to command
 them. It has a movement speed of 25'. Its Perception, Acrobatics, and Stealth
 modifiers are all equal to your level plus your Constitution modifier.
-### Lifelink
-If your familiar would be reduced to 0 HP by damage, as a reaction with the
-concentrate trait, you can take the damage. If you do, you take all the damage
-and your familiar takes none. However, special effects that would occur due to
-that damage (such as snake venom) still apply to your familiar.
+
+### Innate Abilities
+#### Accompanist
+Whenever you attempt a Performance check, if your familiar is nearby and can act,
+it accompanies you with chirps, claps, or its own miniature instrument.
+This grants you a +1 circumstance bonus, or +2 if you're a master in
+Performance.
+#### Speech
+Your familiar understands and speaks a language you know.
+#### Elemental
+Your familiar has the elemental and wood traits instead of the animal traits. It
+is immune to bleed, paralyzed, poison, sleep, and the element matching its trait.
+#### Elemental Mobility
+Your familiar gains a climb speed of 25'.
+#### Resonance
+All creatures within 30 feet of your wisp gain a +1 status bonus to damage rolls
+for alchemical and magical effects with the wood or plant trait.
+
+### Chosen Abilities
 ### Share Senses
 Once every 10 minutes, you can use a single action with the concentrate trait to
 project your senses into your familiar. When you do, you lose all sensory

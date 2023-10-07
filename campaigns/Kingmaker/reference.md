@@ -3,45 +3,47 @@
 ## Resources
 | **Resource**    |  Value       |
 |-----------------|--------------|
-| *HP*            |  18/18       |
+| *HP*            |  30/30       |
 | *THP*           |  -/-         |
-| *Familiar HP*   |  5/5         |
+| *Familiar HP*   |  10/10       |
 | *Tree HP*       |  --/10       |
 | *Fortune*       |  [x] [ ] [ ] |
 
 ## Defenses
 | **Defense**     |  Sum   |
 |-----------------|--------|
-| *Light Armor*   |  17    |
+| *Light Armor*   |  18    |
 |-----------------|--------|
-| *Fortitude*     |  +9    |
-| *Reflex*        |  +7    |
-| *Will*          |  +6    |
+| *Fortitude*     |  +10   |
+| *Reflex*        |  +8    |
+| *Will*          |  +7    |
 
 ## Offenses
 | **Offense**     |  Sum   |
 |-----------------|--------|
-| *Class DC*      |  17    |
-| *Class Attack*  |  +7    |
+| *Class DC*      |  18    |
+| *Class Attack*  |  +8    |
 |-----------------|--------|
-| *Perception*    |  +6    |
+| *Perception*    |  +7    |
 
 ## Statuses
 - Modals:
   - [x] Gathered Element
 - Effects:
+  - +1 status to damage within 30' of familiar
 
 ## Actions
 ### Base
 - > *Stride*: Move 30'.
 - > *Channel Element*: Activate aura 10', use 1-action Blast or Stance.
+- >> *Detect Magic*: Detect magic within 30'.
 - >> *Prestidigitation*: Convenience effects.
 - > *Command Familiar*: Your familiar gains 2 actions.
-- <> *Wood Junction*: 1 THP on >> Wood impulse
+- <> *Wood Junction*: 2 THP on >> Wood impulse
 
 ### Impulses
-- > *Kinetic Blast*: +7/AC, 30', 1d8 B or +, double on crit
-- >> *Kinetic Blast*: As above, +4 damage
+- > *Kinetic Blast*: +8/AC, 120', 1d8+1* B/P/S/+, double on crit
+- >> *Kinetic Blast*: As above, +4 status to damage instead
 - >> *Timber Sentinel*: Create tree in 30' that blocks 10 hp for adjacent allies
 - > *Fresh Produce*: Ally in aura may spend action to heal 1d4+1 once per 10 min
   - [ ] Self
@@ -49,18 +51,18 @@
   - [ ] Melgoura (Caoimhe)
   - [ ] Josefine (Violet)
   - [ ] Miniri (Shira)
-  - [ ] Andvari (Sean) 
+  - [ ] Andvari (Sean)
 
 ## Skills
 | **Skill**       |  Sum   |
 |-----------------|--------|
-| *Arcana*        |  +4    |
-| *Diplomacy*     |  +2    |
-| *L: Academia*   |  +4    |
-| *L: Brevoy*     |  +4    |
-| *Nature*        |  +6    |
-| *Society*       |  +4    |
-| *Survival*      |  +6    |
+| *Arcana*        |  +5    |
+| *Diplomacy*     |  +3    |
+| *L: Academia*   |  +5    |
+| *L: Brevoy*     |  +5    |
+| *Nature*        |  +7    |
+| *Society*       |  +5    |
+| *Survival*      |  +7    |
 |-----------------|--------|
 | *Acrobatics*    |  +2    |
 | *Athletics*     |  -1    |
@@ -74,8 +76,7 @@
 | *Stealth*       |  +2    |
 | *Thievery*      |  +2    |
 |-----------------|--------|
-Familiar has +5 to:
+Familiar has +6 to:
 - Perception
 - Acrobatics
 - Stealth
- 
