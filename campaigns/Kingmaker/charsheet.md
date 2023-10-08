@@ -113,7 +113,7 @@ conditions.
   object of 1 Bulk with 10 rounds of concentration, and a larger object a 1
   minute per Bulk.
 
-## Background - Brevic Noble (Orlovsky)
+## Background - Anti-Magical
 Magic has never worked quite right around you. Perhaps you have become a 
 magic-user in spite of that, or perhaps you use your unique ability to fight 
 magic-users.
