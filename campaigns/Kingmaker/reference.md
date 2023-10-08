@@ -60,7 +60,7 @@
 | *Arcana*        |  +5    |
 | *L: Academia*   |  +5    |
 | *L: Brevoy*     |  +5    |
-| *L: Cooking*     |  +5    |
+| *L: Cooking*    |  +5    |
 | *Nature*        |  +7    |
 | *Society*       |  +5    |
 |-----------------|--------|
