@@ -30,6 +30,7 @@
 - Modals:
   - [x] Gathered Element
 - Effects:
+  - 10% Spell Rejection
   - +1 status to damage within 30' of familiar
 
 ## Actions
@@ -57,23 +58,24 @@
 | **Skill**       |  Sum   |
 |-----------------|--------|
 | *Arcana*        |  +5    |
-| *Diplomacy*     |  +3    |
 | *L: Academia*   |  +5    |
 | *L: Brevoy*     |  +5    |
+| *L: Cooking*     |  +5    |
 | *Nature*        |  +7    |
 | *Society*       |  +5    |
-| *Survival*      |  +7    |
 |-----------------|--------|
 | *Acrobatics*    |  +2    |
 | *Athletics*     |  -1    |
 | *Crafting*      |  +1    |
 | *Deception*     |  -1    |
+| *Diplomacy*     |  -1    |
 | *Intimidation*  |  -1    |
 | *Medicine*      |  +3    |
 | *Performance*   |  -1    |
 | *Occultism*     |  +1    |
 | *Religion*      |  +3    |
 | *Stealth*       |  +2    |
+| *Survival*      |  +3    |
 | *Thievery*      |  +2    |
 |-----------------|--------|
 Familiar has +6 to:

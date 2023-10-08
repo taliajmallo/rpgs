@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Elven Ardande
 - Background: Brevic Noble (Orlovsky)
-- Class: Kineticist 2 (930/2000)
+- Class: Kineticist 2 (1010/2000)
 
 [Lawful] [Medium] [Elf] [Ardande] [Humanoid]
 
@@ -45,32 +45,26 @@
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Arcana*        |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
-| *Diplomacy*     |  +3    |  +     |  +2+2  |  -1 Cha   |  -     |  -
 | *L: Academia*   |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
 | *L: Brevoy*     |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
+| *L: Cooking*    |  +5    |  +     |  +2+2  |  +3 Int   |  -     |  -
 | *Nature*        |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
 | *Society*       |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
-| *Survival*      |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Acrobatics*    |  +2    |        |  +0    |  +2 Dex   |  -     |  -
 | *Athletics*     |  -1    |        |  +0    |  -1 Str   |  -     |  -
 | *Crafting*      |  +1    |        |  +0    |  +1 Int   |  -     |  -
 | *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
+| *Diplomacy*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Intimidation*  |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Medicine*      |  +3    |        |  +0    |  +3 Wis   |  -     |  -
 | *Performance*   |  -1    |        |  +0    |  -1 Cha   |  -     |  -
 | *Occultism*     |  +1    |        |  +0    |  +1 Int   |  -     |  -
 | *Religion*      |  +3    |        |  +0    |  +3 Wis   |  -     |  -
 | *Stealth*       |  +2    |        |  +0    |  +2 Dex   |  -     |  -
+| *Survival*      |  +3    |        |  +0    |  +3 Wis   |  -     |  -
 | *Thievery*      |  +2    |        |  +0    |  +2 Dex   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-
-### Group Impression (Background)
-[General] [Skill]
-When you Make an Impression, you can compare your Diplomacy check result to the
-Will DCs of two targets instead of one. It's possible to get a different degree
-of success for each target. The number of targets increases to four if you're an
-expert, 10 if you're a master, and 25 if you're legendary.
 
 ### Arcane Sense (2nd Skill)
 [General] [Skill]
@@ -120,10 +114,16 @@ conditions.
   minute per Bulk.
 
 ## Background - Brevic Noble (Orlovsky)
-You claim a tangential but legitimate connection to one of Brevoy's noble
-families - house Orlovsky. Your family has a reputation for avoiding conflicts,
-and the family motto is "High Above". You're trained in Diplomacy and Brevoy
-Lore, and gain the Group Impression skill feat.
+Magic has never worked quite right around you. Perhaps you have become a 
+magic-user in spite of that, or perhaps you use your unique ability to fight 
+magic-users.
+You're trained in a Lore skill of your choice, though it can't be about a 
+magical subject (as determined by the GM if it's unclear). Whenever you would be 
+affected by magic, even your own magic or that of an ally, the originator of the 
+effect must attempt a DC 3 flat check. On a failure, the magic doesn't affect 
+you (though it still has its normal effects on anyone else). On a success, the 
+magic affects you and there is no need to attempt further flat checks for the 
+same magical effect, even if it affects you again later.
 
 ### Languages
 Elven, Hallit, Taldane
