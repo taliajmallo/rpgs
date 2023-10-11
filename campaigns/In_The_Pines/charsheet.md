@@ -2,7 +2,7 @@
 ## Biographical Info
 - Concept      :  Fate-lost reincarnate
 - Exaltation   :  Getimian
-- Nature       :  Caregiver
+- Nature       :  Penitent
 - Demeanor     :  Coward
 - Chronicle    :  In the Pines
 
@@ -12,15 +12,15 @@
 | Health       | [ ] [ ] [ ] [ ] [ ] [ ] [ ]             |
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
-| Willpower    | [x] [ ] [ ] [ ] [ ]  *                  |
-| Limit        | [x] [x] [x] [x] [x] [x] [x] [x] [x] [ ] |
+| Willpower    | [x] [x] [x] [ ] [ ]  *                  |
+| Limit        | [x] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
 | Essence      | Rating 3                                |
-| > White      | 5/6                                     |
-| > Black      | 5/6                                     |
+| > White      | 4/6                                     |
+| > Black      | 3/6                                     |
 | Spending     | 2 Muted / 3 Visible                     |
 |--------------|-----------------------------------------|
-| Experience   | 114 Spent / 127 Total                   |
+| Experience   | 125 Spent / 139 Total                   |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -62,7 +62,7 @@
 | Crafts          | ..... |
 | Drive           | ..... |
 | Etiquette       | o.... |
-| Firearms        | oooo. | Essence
+| Firearms        | ooooo | Essence
 | Martial Arts    | ..... |
 | Meditation      | ..... |
 | Melee           | oooo. | Dramatic Moves
@@ -93,6 +93,7 @@
 | Arcane             | ooooo | +Stealth, -Tracking you
 | Past Life          | o.... | 1/Session PL/8, successes -> another roll
 | Resources          | o.... |
+| Allies             | ooo.. | Alys, Rowan, Genievieve (Order of Hermes)
 |--------------------|-------|---------|
 | [Merits]           |
 | Common Sense       | o     | GM gets to say "Do you really want to do that"
@@ -109,6 +110,10 @@
 |--------------------|-------|---------|
 
 ## Characteristics
+### Penitent Nature
+Regain one Willpower whenever you are able to do a good deed for someone to whom
+(in reality or in your imagination) you have been an inconvenience, annoyance,
+or danger.
 ### Essence
 Once per scene, you may regain 2 points of essence if a specific person believes
 you about how the world should be / how it was for you. You also regain 3 + your
@@ -177,7 +182,7 @@ Alchemy is unavailable.
 You can overlay a "template destiny" on yourself by gaining a limit and spending
 a turn concentrating; this template lasts until another is used or you suffer
 Discordant Backlash.
-#### The Ewer [x]
+#### The Ewer [ ]
 Your Wits, Alertness, and Awareness are increased to 3, and your Perception is
 increased to 2. You may reflexively spend 1 essence when an ally's roll fails,
 causing reality to stutter-step backwards for a few moments, allowing them to
@@ -201,7 +206,6 @@ your Nature, either back to its original value or to any callous Nature that
 cares only about itself. Black feathers appear on your person.
 
 ## Charms
-
 ### Passive Charms
 #### World-Bending Triumph I
 All actions taken against or in opposition to you while in the presence of fear
@@ -244,6 +248,10 @@ You may use your action during combat to point at a target, spend 1 black
 essence, and make a Dexterity+Firearms attack at difficulty 6. As soon as the
 essence is spent, there's a massive roar and muzzle flash at your fingertip
 almost as big as you. This attack inflicts a base of 12 lethal damage.
+#### Burning the Tapestry II
+Reflexively spend 1 essence. If white, add your Essence to your feat of strength
+and dodge rolls for the rest of the scene; if black, add your Essence to damage
+and soak rolls for the rest of the scene.
 #### Stoic Spider Spy/Sinister Messenger Arachnid II
 You may roll Perception+Investigation against difficulty 8, or spend 1 white
 essence to automatically succeed, to send a spider of pure essence along threads
