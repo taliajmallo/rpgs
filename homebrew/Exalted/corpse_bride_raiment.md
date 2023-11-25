@@ -20,7 +20,10 @@ At the wearer's thought, a bloody slice appears on her body as she offers her
 lifeblood up to her beloved, her protector. Another exalt may drink from this
 wound as a simple action to restore (her intimacy towards the wearer + the
 wearer's intimacy towards her) motes. Afterward, the wound closes and ceases
-bleeding, though a scar remains until the health level heals.
+bleeding, though a scar remains until the health level heals. This evocation may
+only be used once per scene, unless reset by someone other than the last
+beneficiary acting to affirm or uphold a major or defining positive intimacy
+towards you.
 
 Design notes: Intimacy values are Minor = 2, Major = 3, Defining = 4; exigent
 doc says "a health level is generally valued at five motes" ish, with the caveat
@@ -63,8 +66,8 @@ While her blood may be a boon to her suitors, the wearer's blood is likewise a
 bane to those who mean her ill. Upon taking damage from an attack that would
 normally draw blood, the wearer may choose to allow the attack to do so despite
 Corpse Bride Raiment's attunement effect. For the rest of the scene, her allies
-add(their intimacy towards her) to raw damage on all attacks against the
-creature that attacked her.
+add (their intimacy towards her) non-charm dice to raw damage on all attacks
+against the creature that attacked her.
 
 Design notes: Mechanically compare against Heart-Forged Aegis (Arms of the
 Chosen p96, adds intimacy to soak for a scene at 5m 1i, essence 1 prereq), Fire
