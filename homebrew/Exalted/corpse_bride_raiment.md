@@ -33,7 +33,7 @@ towards the recipient and their intimacy towards her?
 
 ### Tender Blood Spilled
    - Design objective: action economy improvement to core charm
-   - Cost: 5m
+   - Cost: 3m, 2i
    - Mins: Essence 1
    - Type: Reflexive
    - Duration: Instant
@@ -55,6 +55,7 @@ the action cost to the beneficiary.
    - Cost: 5m, 2i
    - Mins: Essence 2
    - Type: Reflexive
+   - Keywords: Uniform
    - Duration: One scene
    - Prerequisites: Tender Blood Spilled
 
@@ -85,7 +86,7 @@ solid precedent for giving it a duration in exchange for an initiative cost.
 In a scene where the wearer activated either prerequisite evocation, the wearer
 may embrace an ally who incapacitated at least one character. Both her and her
 protector heal (her intimacy towards her protector) levels of bashing damage or
-half that many levels of lethal damage. This charm may only be used once per
+half that many levels of lethal damage. This evocation may only be used once per
 scene.
 
 Design notes: This heals a lot less than existing solar and lunar charms are
