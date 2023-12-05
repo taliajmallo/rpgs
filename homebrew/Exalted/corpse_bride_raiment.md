@@ -7,6 +7,21 @@ always looks clean and unmarred regardless of her environment or injuries. Any
 physical harm she suffers will not result in visible damage unless it is a
 deliberate attempt to draw her blood.
 
+### Slain Consort Visage
+   - Design objective: Recapture Grace's original "everyone automatically gets a
+     minor tie" thingy
+   - Cost: 5m
+   - Mins: Essence 1
+   - Type: Simple
+   - Duration: Indefinite
+   - Prerequisites: None
+
+All who look upon the wearer see a delicate bride, deserving of love and
+protection. Whenever a character sees the wearer for the first time, she may
+reflexively instill a positive tie of love, lust, protectiveness, or a similar
+emotion towards her. This automatically succeeds against mortals whose resolve
+is less than the exalt's appearance.
+
 ### Martyred Lover's Dowry
    - Design objective: sacrifice health to provide another motes, improves with
      intimacies towards wearer
@@ -66,8 +81,8 @@ While her blood may be a boon to her suitors, the wearer's blood is likewise a
 bane to those who mean her ill. Upon taking damage from an attack that would
 normally draw blood, the wearer may choose to allow the attack to do so despite
 Corpse Bride Raiment's attunement effect. For the rest of the scene, her allies
-add (their intimacy towards her) non-charm dice to raw damage on all attacks
-against the creature that attacked her.
+add (their intimacy towards her) charm dice to raw damage on all attacks against
+the creature that attacked her.
 
 Design notes: Mechanically compare against Heart-Forged Aegis (Arms of the
 Chosen p96, adds intimacy to soak for a scene at 5m 1i, essence 1 prereq), Fire
