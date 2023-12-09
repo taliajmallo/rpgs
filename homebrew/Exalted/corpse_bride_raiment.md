@@ -1,11 +1,11 @@
-# Corpse Bride Raiment (Starmetal ??? (confirm item type, dots))
+# Corpse Bride Raiment (Starmetal Dress oooo)
 Add fluff here!
 
 ## Evocations of Corpse Bride Raiment
 Corpse Bride Raiment's wearer suffers no wound penalty on Appearance rolls, and
 always looks clean and unmarred regardless of her environment or injuries. Any
 physical harm she suffers will not result in visible damage unless it is a
-deliberate attempt to draw her blood.
+deliberate attempt to draw her blood. Attunement costs 4m.
 
 ### Slain Consort Visage
    - Design objective: Recapture Grace's original "everyone automatically gets a
