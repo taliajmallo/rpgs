@@ -32,6 +32,8 @@
 - Effects:
   - 10% Spell Rejection
   - +1 status to damage within 30' of familiar
+  - Clumsy 1
+  - Atk -1
 
 ## Actions
 ### Base
