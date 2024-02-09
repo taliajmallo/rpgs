@@ -111,3 +111,42 @@ Design notes: This heals a lot less than existing solar and lunar charms are
 capable of, and has a very constrained use-case, but heals instantly. I think
 the willpower cost and limited use keep it of appropriate value, but am willing
 to flex on the numbers if desired.
+
+### Somber Maiden's Boon
+- Design objective: Let Grace buff a single ally in an overly-romantic and
+  overly-baroque way
+- Cost: 7m
+- Mins: Essence 1
+- Type: Simple
+- Duration: One Scene
+- Prerequisites: None
+The wearer's affection spurs her beloved to even greater heights. A token of the
+wearer's favor - a flower, a tied ribbon, a lipstick-print, or other similar
+mark - appears on an ally of the wearer's choice. At the end of each of her
+turns, the wearer may reflexively grant (1/2 her intimacy towards the ally)
+initiative to the ally. This evocation ends if the ally's wound penalty is
+greater than (the wearer's intimacy towards them), or if the wearer is no longer
+in danger, and may only be used once per scene.
+
+Design note: Compare against Dirge of Death's Lawgiver, which has a minimal mote
+cost, but consumes actions per turn, and grants all allies in earshot one
+initiative and an extra initiative per withering attack. This can grant more
+initiative and permits other actions, but comes with a higher mote cost, and can
+only target a single ally. If in need of adjustment, consider changing it to
+transfer initiative instead of granting it.
+
+### Black Heart Protector
+- Design objective: Let Grace be a bit of a buff-bot, while still giving her
+  things to do
+- Cost: -
+- Mins: Essence 2
+- Type: Permanent
+- Prerequisites: Somber Maiden's Boon, Black Claw Form
+The wearer's helpless mein makes foes as unprepared to fight her protector as to
+fight her. While both Somber Maiden's Boon and Black Claw Form are both active,
+if the chosen ally attacks an enemy who has a positive tie to the wearer, or an
+enemy within close range of another enemy who has a positive tie to the wearer,
+the attacked enemy suffers a -1 penalty to their Defense.
+
+Design note: this is the same defense penalty applied by Black Claw Form,
+without the accompanying buff to evasion and disengage/withdraw.
