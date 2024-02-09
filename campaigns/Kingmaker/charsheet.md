@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Elven Ardande
 - Background: Brevic Noble (Orlovsky)
-- Class: Kineticist 2 (1396/2000)
+- Class: Kineticist 2 (1456/2000)
 
 [Lawful] [Medium] [Elf] [Ardande] [Humanoid]
 
@@ -236,7 +236,7 @@ up to 1 minute. You can Dismiss this effect.
 
 
 ## Belongings
-Coinage: 50.49
+Coinage: 25.49
 Bulk 2.8/4.0
 
 ### Armor
