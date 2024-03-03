@@ -3,8 +3,8 @@
 ## Resources
 | **Resource**    |  Value       |
 |-----------------|--------------|
-| *HP*            |  30/30       |
-| *THP*           |  -/-         |
+| *HP*            |  18/30       |
+| *THP*           |  2/-         |
 | *Familiar HP*   |  10/10       |
 | *Tree HP*       |  --/10       |
 | *Fortune*       |  [x] [ ] [ ] |
@@ -51,9 +51,9 @@
 - > *Fresh Produce*: Ally in aura may spend action to heal 1d4+1 once per 10 min
   - [ ] Self
   - [ ] Tashya (Chas)
-  - [ ] Melgoura (Caoimhe)
+  - [x] Melgoura (Caoimhe)
   - [ ] Josefine (Violet)
-  - [ ] Miniri (Shira)
+  - [x] Miniri (Shira)
   - [ ] Andvari (Sean)
 
 ## Skills

@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Elven Ardande
 - Background: Brevic Noble (Orlovsky)
-- Class: Kineticist 2 (1456/2000)
+- Class: Kineticist 2 (1686/2000)
 
 [Lawful] [Medium] [Elf] [Ardande] [Humanoid]
 
