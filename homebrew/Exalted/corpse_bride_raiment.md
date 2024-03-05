@@ -120,6 +120,7 @@ to flex on the numbers if desired.
 - Type: Simple
 - Duration: One Scene
 - Prerequisites: None
+
 The wearer's affection spurs her beloved to even greater heights. A token of the
 wearer's favor - a flower, a tied ribbon, a lipstick-print, or other similar
 mark - appears on an ally of the wearer's choice. At the end of each of her
@@ -142,6 +143,7 @@ transfer initiative instead of granting it.
 - Mins: Essence 2
 - Type: Permanent
 - Prerequisites: Somber Maiden's Boon, Black Claw Form
+
 The wearer's helpless mein makes foes as unprepared to fight her protector as to
 fight her. While both Somber Maiden's Boon and Black Claw Form are both active,
 if the chosen ally attacks an enemy who has a positive tie to the wearer, or an
