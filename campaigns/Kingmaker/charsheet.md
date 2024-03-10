@@ -3,53 +3,54 @@
 ## Bio
 - Ancestry: Elven Ardande
 - Background: Brevic Noble (Orlovsky)
-- Class: Kineticist 2 (1886/2000)
+- Class: Kineticist 3 (1886/1600)
 
 [Lawful] [Medium] [Elf] [Ardande] [Humanoid]
 
 ## Stats
+
 ### Ability Scores
-|  Stat   | Base    |
-|---------|---------|
-| **STR** | 08 (-1) |
-| **DEX** | 14 (+2) |
-| **CON** | 18 (+4) |
-| **INT** | 12 (+1) |
-| **WIS** | 16 (+3) |
-| **CHA** | 08 (-1) |
+|  Stat     |  Base  |
+|-----------|--------|
+|  **STR**  |  -1    |
+|  **DEX**  |  +2    |
+|  **CON**  |  +4    |
+|  **INT**  |  +1    |
+|  **WIS**  |  +3    |
+|  **CHA**  |  -1    |
 
 ### Resources
 | **Resource**    |  Max   |  Refill   |
 |-----------------|--------|-----------|
-| *HP*            |  30    |  +4/Rest
-| *Familiar HP*   |  10    |  +4/Rest
+| *HP*            |  42    |  +4/Rest
+| *Mount HP*      |  32    |  +4/Rest
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Light Armor*   |  18    |  +     |  +2+2  |  +2 Dex   |  +2    |  -
+| *Light Armor*   |  19    |  +     |  +3+2  |  +2 Dex   |  +2    |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Fortitude*     |  +10   |  ++    |  +2+4  |  +4 Con   |  -     |  -
-| *Reflex*        |  +8    |  ++    |  +2+4  |  +2 Dex   |  -     |  -
-| *Will*          |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
+| *Fortitude*     |  +11   |  ++    |  +3+4  |  +4 Con   |  -     |  -
+| *Reflex*        |  +9    |  ++    |  +3+4  |  +2 Dex   |  -     |  -
+| *Will*          |  +10   |  ++    |  +3+4  |  +3 Wis   |  -     |  -
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  18    |  +     |  +2+2  |  +4 Con   |  -     |  -
-| *Class Attack*  |  +8    |  +     |  +2+2  |  +4 Con   |  -     |  -
+| *Class DC*      |  19    |  +     |  +3+2  |  +4 Con   |  -     |  -
+| *Class Attack*  |  +9    |  +     |  +3+2  |  +4 Con   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
+| *Perception*    |  +10   |  ++    |  +3+2  |  +3 Wis   |  -     |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Arcana*        |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
-| *L: Academia*   |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
-| *L: Brevoy*     |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
-| *L: Cooking*    |  +5    |  +     |  +2+2  |  +3 Int   |  -     |  -
-| *Nature*        |  +7    |  +     |  +2+2  |  +3 Wis   |  -     |  -
-| *Society*       |  +5    |  +     |  +2+2  |  +1 Int   |  -     |  -
+| *Arcana*        |  +8    |  ++    |  +3+2  |  +1 Int   |  -     |  -
+| *L: Academia*   |  +6    |  +     |  +3+2  |  +1 Int   |  -     |  -
+| *L: Brevoy*     |  +6    |  +     |  +3+2  |  +1 Int   |  -     |  -
+| *L: Cooking*    |  +6    |  +     |  +3+2  |  +1 Int   |  -     |  -
+| *Nature*        |  +8    |  +     |  +3+2  |  +3 Wis   |  -     |  -
+| *Society*       |  +6    |  +     |  +3+2  |  +1 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Acrobatics*    |  +2    |        |  +0    |  +2 Dex   |  -     |  -
 | *Athletics*     |  -1    |        |  +0    |  -1 Str   |  -     |  -
@@ -70,6 +71,7 @@
 [General] [Skill]
 You can cast 1st-level detect magic at-will as an arcane innate spell. If you're
 a master in arcana, this heightens to 3rd; if legendary, this heightens to 4th.
+
 #### Detect Magic (Cantrip I)
 [Arcane] [Cantrip] [Detection] [Divination] [Somatic] [Verbal] [>>]
 *Area* 30' emanation
@@ -83,6 +85,7 @@ aren't deceptive in appearance (such as an invisibility potion) typically are
 detected normally.
 
 ## Ancestry - Elven Ardande
+
 ### Elf
 Your size is medium, and you have low-light vision. You can see in dim light as
 if it were bright light. Your movement speed is 30 feet.
@@ -125,18 +128,16 @@ you (though it still has its normal effects on anyone else). On a success, the
 magic affects you and there is no need to attempt further flat checks for the 
 same magical effect, even if it affects you again later.
 
+### Canny Acumen (3rd General)
+Become an expert in Perception. At 17th level, you become a master instead.
+
 ### Languages
 Elven, Hallit, Taldane
 
 ## Class - Kineticist
 
 ### Kinetic Gate (1st Feature)
-You have a single gate to the plane of Wood.
-
-### Wood Junction (1st Feature)
-When you use a wood impulse that takes 2 or more actions, you may choose to gain
-temporary hitpoints equal to your level that last until the start of your next
-turn.
+You have a dual gate to the planes of Wood and Water.
 
 ### Kinetic Aura (1st Feature)
 Upon channeling an element, you gain a 10' kinetic aura. Kineticist stances
@@ -153,22 +154,23 @@ the Overflow trait.
 ### Elemental Blast (1st Feature)
 [Attack] [Impulse] [Kineticist] [Primal] [Wood] [>->>]
 Make a melee or ranged impulse attack against the AC of a creature within 30',
-dealing 1d8 bludgeoning or vitality (your choice) damage on a hit, double damage
-on a critical. If you make a 2-action elemental blast, you gain a status bonus
-to the damage roll equal to your Constitution modifier.
+dealing 1d8 bludgeoning, cold, or vitality (your choice) damage on a hit, double
+damage on a critical. If you make a 2-action elemental blast, you gain a status
+bonus to the damage roll equal to your Constitution modifier.
 *Level (+4)* The damage increases by one die.
 
 ### Base Kinesis (1st Feature)
 [Impulse] [Kineticist] [Primal] [Wood] [>>]
-You may create ordinary elemental wood, move unattended wood objects of light or
-negligible bulk within 30', or destroy unworked nonmagical wood within 30'.
+You may affect wood or water. This has a range of 30', and the bulk of the
+the target must be negligible or light. The target cannot be magical, secured in
+place, or attended by a creature unwilling to let you. Choose one:
+- Generate: Bring ordinary water or wood from its elemental plane.
+- Move: Move water or wood 20' in any direction. You can catch it if it enters
+  your space, and sustain this impulse to keep moving it.
+- Suppress: Destroy existing, natural water or wood.
 *Level (+4)* The range increases by 15', and the maximum Bulk increases by 1.
 
-### Elemental Familiar (1st Feat)
-[Kineticist]
-You gain a kinetic familiar.
-
-### Fresh Produce (1st Gate Impulse)
+### Fresh Produce (1st Feat)
 [Healing] [Impulse] [Kineticist] [Plant] [Primal] [Vitality] [Wood] [>]
 You grow a nourishing nut, vegetable, seed, or fruit. Choose a creature in your
 kinetic aura. The produce grows in their open hand, or at their feet if they
@@ -190,50 +192,40 @@ movement through its square. Using this impulse again ends any previous use,
 leaving behind an ordinary tree if used in a space where a tree can live.
 *Level (+2)* The tree has an additional 10 hitpoints.
 
-### Weapon Infusion (2nd Feat)
-[Infusion] [Kineticist]
-You may choose to substitute bludgeoning, piercing, or slashing for your kinetic
-blast. Additionally, if making a melee blast, you may add one of the following
-traits: agile, backswing, forceful, reach, or sweep. If making a ranged attack,
-you may choose range increment 100 and volley 30, range increment 50 and
-propulsive, or range increment 20 and thrown.
+### Winter's Clutch (1st Gate Impulse)
+[Cold] [Impulse] [Kineticist] [Primal] [Water] [>>]
+Gleaming flakes of chilling snow fall in a 10-foot burst within 60 feet. Each 
+creature in the area takes 2d4 cold damage with a basic Reflex save against your 
+class DC. The ground in the area is covered in a snow drift, which is difficult 
+terrain. Each square of the drift lasts until it melts, either naturally or 
+until fire damage is dealt in that square.
+*Level (+2)* The damage increases by 1d4.
 
-### Familiar Master Dedication (2nd Archetype)
+### Hail of Splinters (2nd Feat)
+[Impulse] [Kineticist] [Overflow] [Primal] [Wood] [>>]
+A fusillade of jagged splinters flies from you. Creatures in a 30-foot cone take
+1d4 piercing damage and 1d4 persistent bleed damage with a basic Reflex save
+against your class DC.
+*Level (+2)* Each type of damage increases by 1d4.
+
+### Cavalier Dedication (2nd Archetype)
 [Archetype] [Dedication]
-You gain the Enhanced Familiar feat.
-#### Enhanced Familiar (Free)
-You can select four familiar or master abilities per day, instead of two.
+You gain a young animal companion that serves as your mount.
 
-## Familiar (Elemental Wisp)
-Your familiar resembles a tiny stoat carved out of wood. It has the minion trait,
-and so gain 2 actions in a round if and only if you use an action to command
-them. It has a movement speed of 25'. Its Perception, Acrobatics, and Stealth
-modifiers are all equal to your level plus your Constitution modifier.
+## Animal Companion
+Your animal companion is a horse. Its size is large, and its speed is 40'. It
+has low-light vision and 30' imprecise scent. Its strike is a single action with
+the agile trait, dealing 1d6 bludgeoning.
 
-### Innate Abilities
-#### Accompanist
-Whenever you attempt a Performance check, if your familiar is nearby and can act,
-it accompanies you with chirps, claps, or its own miniature instrument.
-This grants you a +1 circumstance bonus, or +2 if you're a master in
-Performance.
-#### Speech
-Your familiar understands and speaks a language you know.
-#### Elemental
-Your familiar has the elemental and wood traits instead of the animal traits. It
-is immune to bleed, paralyzed, poison, sleep, and the element matching its trait.
-#### Elemental Mobility
-Your familiar gains a climb speed of 25'.
-#### Resonance
-All creatures within 30 feet of your wisp gain a +1 status bonus to damage rolls
-for alchemical and magical effects with the wood or plant trait.
-
-### Chosen Abilities
-### Share Senses
-Once every 10 minutes, you can use a single action with the concentrate trait to
-project your senses into your familiar. When you do, you lose all sensory
-information from your own body, but can sense through your familiar's body for
-up to 1 minute. You can Dismiss this effect.
-
+### Ability Scores
+|  Stat     |  Base  |
+|-----------|--------|
+|  **STR**  |  +3    |
+|  **DEX**  |  +2    |
+|  **CON**  |  +2    |
+|  **INT**  |  -4    |
+|  **WIS**  |  +1    |
+|  **CHA**  |  +0    |
 
 ## Belongings
 Coinage: 25.49
