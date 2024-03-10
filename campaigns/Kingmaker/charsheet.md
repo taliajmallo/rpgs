@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Elven Ardande
 - Background: Brevic Noble (Orlovsky)
-- Class: Kineticist 2 (1686/2000)
+- Class: Kineticist 2 (1886/2000)
 
 [Lawful] [Medium] [Elf] [Ardande] [Humanoid]
 
@@ -262,4 +262,4 @@ Bulk 2.8/4.0
 - Backpack, Consumables (-, -)
   - 4x Rations (.4/, L/)
   - 5x Chalk (.01/, -/)
-  - 2x Lesser Healing Potions (12, L/)
+  - 1x Lesser Healing Potions (12, L/)
