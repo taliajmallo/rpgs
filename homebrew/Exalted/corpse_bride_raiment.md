@@ -152,3 +152,31 @@ the attacked enemy suffers a -1 penalty to their Defense.
 
 Design note: this is the same defense penalty applied by Black Claw Form,
 without the accompanying buff to evasion and disengage/withdraw.
+
+### Heart-Reflecting Symmetry
+- Design Objective: Open up some synergy between Grace and Mongrel+Meat
+- Cost: -
+- Mins: Essence 2
+- Type: Permanent
+- Prerequisites: Somber Maiden's Boon
+
+While Somber Maiden's Boon is active, the wearer and chosen ally may treat
+others' positive ties towards the wearer as ties of hate or fear towards the
+chosen ally, and others' negative ties towards the chosen ally as ties of love
+or lust towards the wearer.
+
+### Broken-Hearted Plea
+- Design objective: Give Grace something that resembles the homebrew's Hearts
+  and Blades Tied
+- Cost: 5m, 1wp
+- Mins: Essence 2
+- Type: Reflexive
+- Keywords: Clash
+- Duration: Instant
+
+What cruelty could possess another to harm one so fair? The wearer may
+reflexively clash an attack with a special (Appearance+Presence) persuade action
+to not harm her, using the attacker's roll instead of their base resolve. If
+successful, the attacker falters at the last second, pulling their blow or
+deliberately missing. The wearer does not roll damage, and the attacker does not
+suffer the defense penalty of a failed clash.
