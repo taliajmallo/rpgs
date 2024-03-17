@@ -1,8 +1,8 @@
 # Kineticist Class Archetype: Lunar Kineticist
 ## Blood-Moon Gate (1st)
-**Prerequisites**: You must be a Kineticist with a Dedicated Gate.
+**Prerequisites**: You must be a Kineticist who choose a single gate.
 
-**Adjustments**: Instead of choosing an elemental plane as normal, your inner gate links you to the domain of the Blood Moon. Replace the Primal trait on all Kineticist feats with the Occult trait. You become Trained in Occultism instead of Nature.
+**Adjustments**: 
 
 ## Blood Moon Element
 **Elemental Blast**: The Blood Moon Elemental Blast deals 1d6 negative damage. In melee, it has the traits fatal d10, finesse, and negative. At range, it has the traits fatal d10 and negative, with a range increment of 60 feet. Elemental Blast and all Blood-Moon Impulses deal silver damage for the purposes of weaknesses, resistances, and the like, and you may use your Constitution modifier instead of your Strength or Dexterity modifier for attack rolls.

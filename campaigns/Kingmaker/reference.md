@@ -3,25 +3,19 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  19/42       |
+| *HP*         |  42/42       |
 | *Mount HP*   |  32/32       |
 | *Tree HP*    |  --/20       |
 | *Fortune*    |  [x] [ ] [ ] |
 
-## Defenses
-| **Defense**     |  Ily   |  Mount |
+## Proficiencies
+| **Proficiency** |  Ily   |  Mount |
 |-----------------|--------|--------|
 | *Light Armor*   |  19    |  17    |
 |-----------------|--------|--------|
 | *Fortitude*     |  +11   |  +7    |
 | *Reflex*        |  +9    |  +7    |
 | *Will*          |  +10   |  +6    |
-
-## Offenses
-| **Offense**     |  Ily   |  Mount |
-|-----------------|--------|--------|
-| *Class DC*      |  19    |  --    |
-| *Class Attack*  |  +9    |  +8    |
 |-----------------|--------|--------|
 | *Perception*    |  +10   |  +6    |
 
@@ -29,9 +23,7 @@
 - Modals:
   - [x] Gathered Element
 - Effects:
-  - 10% Spell Rejection
-  - Clumsy 1
-  - Atk -1
+  - 10% Spell Rejection (Permanent)
 
 ## Actions
 ### Rote Attacks
@@ -46,11 +38,11 @@
 ### Support
 - >> *Timber Sentinel*: 30', create tree to block 20 hp for adjacent allies
 - > *Fresh Produce*: 10', ally may spend action to heal 2d4+6 per 10 min
-  - [x] Self
-  - [x] Tashya (Chas)
-  - [x] Melgoura (Caoimhe)
+  - [ ] Self
+  - [ ] Tashya (Chas)
+  - [ ] Melgoura (Caoimhe)
   - [ ] Josefine (Violet)
-  - [x] Miniri (Shira)
+  - [ ] Miniri (Shira)
   - [ ] Andvari (Sean)
 
 ### Basic
