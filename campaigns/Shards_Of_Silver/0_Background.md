@@ -1,0 +1,5 @@
+- KoS war was 25 years ago
+  - Wailing Death adjusted to be close to it timewise
+  - Caoimhe's char is one with shard in chest
+  - Satya's char is Jerro descendent (TODO: Family tree?)
+- Relena's char is out of time from ancient Illefarn

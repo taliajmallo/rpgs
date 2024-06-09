@@ -1,0 +1,4 @@
+- Steal guard weapon shipment
+- Firebomb guard HQ
+- Deal with Amn guy
+- tell about weird people asking around
