@@ -128,6 +128,10 @@ you (though it still has its normal effects on anyone else). On a success, the
 magic affects you and there is no need to attempt further flat checks for the 
 same magical effect, even if it affects you again later.
 
+### Automatic Bonus Progression
+- 2nd: +1 to weapon & unarmed attack rolls
+- 3rd: +1 to impulse attack rolls
+
 ### Canny Acumen (3rd General)
 Become an expert in Perception. At 17th level, you become a master instead.
 
@@ -228,7 +232,7 @@ the agile trait, dealing 1d6 bludgeoning.
 |  **CHA**  |  +0    |
 
 ## Belongings
-Coinage: 25.49
+Coinage: 30.49
 Bulk 2.8/4.0
 
 ### Armor
