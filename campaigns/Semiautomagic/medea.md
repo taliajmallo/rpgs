@@ -1,6 +1,6 @@
 # Medea ~~???~~
 ## Biographical Info
-- Concept      :  Seething Sorceress
+- Concept      :  Sinister Sorceress
 - Exaltation   :  Infernal
 - Nature       :  Conniver
 - Demeanor     :  Sensualist
@@ -70,8 +70,8 @@
 | [Knowledges]    |
 | Academics       |[oooo.]| Mythology
 | Computer        |[o....]|
-| Finance         | ..... |
-| Investigation   |[oo...]|
+| Finance         | o.... |
+| Investigation   |[o....]|
 | Law             | ..... |
 | Medicine        | ..... |
 | Occult          |[ooooo]| Verbena Practices
@@ -86,7 +86,7 @@
 | [Backgrounds]      |
 | Demonic Guide      | o.... | A demon was woven into your flesh.
 | Supernatural Status| o.... | Your soothing touch is desired.
-| Resources          | ooo.. |
+| Resources          | ooo.. | Enough to support you in adequate comfort.
 |--------------------|-------|---------|
 | [Merits]           |
 | Hedge Mage         | oooo  | You are a capable sorcerer.
