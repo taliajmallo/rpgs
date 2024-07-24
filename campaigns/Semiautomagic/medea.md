@@ -94,7 +94,7 @@
 | [Flaws]            |
 | Wyrm-Thrall        | ooo   | You have a limit track.
 | Unholy Beacon      | oo    | Clergy and devout mortals know you're a monster.
-| Echoes             | oo... | Fires near you take on a green tinge.
+| Echoes             | oo... | Fires take on a green tinge as you draw near.
 |--------------------|-------|---------|
 | [Paths]            |
 | Divination         | o.... | Practiced through Witchcraft (Int+Occult).
@@ -110,8 +110,8 @@ difficulty 8 to resist, even if you already failed to resist a supernatural
 power. Once per session, when you act to strongly support or affirm one of your
 intimacies, you may regain a point of willpower.
 - Magic (Love)
-- They will always discard you, so make yourself indispensable.
-- ???
+- Always be the one holding the leash.
+- Trust is a luxury affordable only to those who have nothing.
 
 ### Urge of the Corruptor
 Replenish 2 motes whenever you destroy the illusions of the righteous, or tempt
