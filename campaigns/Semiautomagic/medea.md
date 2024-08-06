@@ -2,8 +2,8 @@
 ## Biographical Info
 - Concept      :  Sinister Sorceress
 - Exaltation   :  Infernal
-- Nature       :  Conniver
-- Demeanor     :  Sensualist
+- Nature       :  Show-Off
+- Demeanor     :  Conniver
 - Chronicle    :  Semiautomagic
 
 ## Stats
@@ -101,8 +101,8 @@
 | Hellfire           | o.... | Practiced through Malefica (Int+Occult).
 
 ## Characteristics
-### Nature of the Conniver
-You regain willpower when you trick someone to serve your interests.
+### Nature of the Show-Off
+You regain willpower when your actions earn you praise from another.
 
 ### Intimacies
 Attempts to subvert an intimacy allow you to make a Willpower roll against
