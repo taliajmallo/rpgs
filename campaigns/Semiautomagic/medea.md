@@ -110,8 +110,8 @@ difficulty 8 to resist, even if you already failed to resist a supernatural
 power. Once per session, when you act to strongly support or affirm one of your
 intimacies, you may regain a point of willpower.
 - Magic (Love)
+- Camila (She Can't Abandon Me) 
 - Always be the one holding the leash.
-- Trust is a luxury affordable only to those who have nothing.
 
 ### Urge of the Corruptor
 Replenish 2 motes whenever you destroy the illusions of the righteous, or tempt
