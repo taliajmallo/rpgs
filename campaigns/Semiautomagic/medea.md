@@ -74,7 +74,7 @@
 | Investigation   |[o....]|
 | Law             | ..... |
 | Medicine        | ..... |
-| Occult          |[ooooo]| Verbena Practices
+| Occult          |[ooooo]| Magick
 | Politics        | ..... |
 | Science         | o.... |
 | Technology      |[oooo.]| Suborning
