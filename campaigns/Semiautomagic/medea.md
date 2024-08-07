@@ -97,15 +97,6 @@
 | Echoes             | oo... | Fires take on a green tinge as you draw near.
 |--------------------|-------|---------|
 
-Freebie Points:
-+4 Hedge Mage
-+3 Path
-+3 Path
--3 Brigid's Heir
-=7
--5 spell
-=2
-
 ## Characteristics
 ### Nature of the Show-Off
 You regain willpower when your actions earn you praise from another.
