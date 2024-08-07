@@ -89,16 +89,22 @@
 | Resources          | ooo.. | Enough to support you in adequate comfort.
 |--------------------|-------|---------|
 | [Merits]           |
-| Hedge Mage         | oooo  | You are a capable sorcerer.
+| Brigid's Heir      | ooo   | Learn an Ancient Sorcery 1/story.
 |--------------------|-------|---------|
 | [Flaws]            |
 | Wyrm-Thrall        | ooo   | You have a limit track.
 | Unholy Beacon      | oo    | Clergy and devout mortals know you're a monster.
 | Echoes             | oo... | Fires take on a green tinge as you draw near.
 |--------------------|-------|---------|
-| [Paths]            |
-| Divination         | o.... | Practiced through Witchcraft (Int+Occult).
-| Hellfire           | o.... | Practiced through Malefica (Int+Occult).
+
+Freebie Points:
++4 Hedge Mage
++3 Path
++3 Path
+-3 Brigid's Heir
+=7
+-5 spell
+=2
 
 ## Characteristics
 ### Nature of the Show-Off
@@ -110,7 +116,7 @@ difficulty 8 to resist, even if you already failed to resist a supernatural
 power. Once per session, when you act to strongly support or affirm one of your
 intimacies, you may regain a point of willpower.
 - Magic (Love)
-- Camila (She Can't Abandon Me) 
+- Camila (She Can't Abandon Me)
 - Always be the one holding the leash.
 
 ### Urge of the Corruptor
@@ -150,12 +156,6 @@ Extend your hand, and spend 1 mote. The target gains some temporary reprieve
 from an ongoing malady or misery of theirs. This lasts for a number of weeks
 equal to your Essence, ending early if they disobey a command of yours.
 
-### Lanka: Demon City of the Rakshas
-#### Prince of Ruin Attitude I
-When attempting to use a broken or nonfunctional tool, object, or vehicle, you
-may make a reflexive Appearance + Technology roll against difficulty 6. For the
-rest of the scene, success forces the target to function as though new and whole.
-
 ### The Wicked City
 #### Electronic Devil Caress II
 You may operate any electronic device within (Essence x 5) yards without
@@ -174,30 +174,20 @@ will. It lasts a duration based on the successes rolled:
 - 4: One year
 - 5+: Permanent
 
-## Hedge Magic
-To cast the below spells, spend a Willpower, and roll Intelligence + Occult. The
-difficulty is equal to 4 + the Path rank, and requires a number of successes
-equal to 1 + the sum of all aspects. The spell takes a number of turns to cast
-equal to its Path rank, but can be sped up at a rate of +1 difficulty per turn
-reduced.
+### Sorceries
+#### Iron Shade Binding
+This hour-long ritual must be performed at night or in the Underworld, and uses
+a ghost's living name, a piece of their body, or one of their fetters to summon
+them and bind them to your service. Spend 5 motes and make an extended
+Intelligence + Occult roll against difficulty 8. Once you reach ten successes,
+the ghost is summoned to your ritual circle. Make contested Willpower rolls at
+difficulty 6 against the ghost until you or it has three more successes than the
+other. If the wraith wins, it may depart and is immune to this spell for an hour
+and a day. Should you win, the wraith must obey your commands to the best of its
+ability for a year and a day.
 
-### Divination I
-Aspects available:
-- Time Period
-  - I: One Day
-- Accuracy
-  - I: Vague, difficult to interpret visions and signs
-- Query
-  - I: A simple yes/no question
-
-### Hellfire I
-Aspects available:
-- Damage
-  - I: Two dice of lethal damage. May use two bonus successes to convert to agg.
-- Range
-  - I: Touch (Requires Brawl vs unwilling)
-- Area
-  - I: A single target
-- Hellfire
-  - I (Decay): Converts each point of damage to 3lbs of material destroyed.
-  - I (Sleet): Causes brief blindness, leaves ground slippery. Cannot be agg.
+#### Flight of the Brilliant Raptor
+Spend 4 motes and make an extended Perception + Occult roll against difficulty 7.
+Upon reaching 5 successes, an explosive detonation of hellfire occurs at a point
+of your choosing within line of sight, dealing 15 dice of aggravated damage to
+everything within 15 yards of the target and setting anything flammable ablaze.
