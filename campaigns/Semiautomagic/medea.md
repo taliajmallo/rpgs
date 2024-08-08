@@ -127,14 +127,15 @@ You may fly at your normal movement speed, even outside Shintai form.
 ## Charms
 Caste Hells: Kakuri, Wicked City
 
-### Crown of Flames (Anima)
-You become aware whenever someone speaks your name. You may optionally spend 1
-mote to reflexively scry the situation without in any way impinging on your
-concentration. You can see and hear the speaker and their surroundings for the
-next Essence minutes, and amy optionally spend 1 additional mote to punish the
-speaker with emerald flames (two lethal damage per turn of exposure, difficult
-6 to soak). While your anima banner is flaring, there is no mote cost to any of
-this.
+### Crown of Kings (Anima)
+You may spend 1 mote to sanctify any oath you have personally witnessed. Any who
+break this oath begin to radiate corrupt essence that draws in great swarms of
+powerful, wicked spirits that desire nothing more than to feast on the
+oathbreaker and everything she spends a great deal of time in contact with.
+Additionally, if you approach any of the night folk on legitimate business and
+they offer you or your companions unprovoked violence, then any roll made by the
+offending supernatural during that violence which produces even a single 1
+becomes an automatic botch.
 
 ### Keys to the Kingdom (Infernal I)
 When rolling a caste ability, you may reflexively spend 1 mote to add to your
