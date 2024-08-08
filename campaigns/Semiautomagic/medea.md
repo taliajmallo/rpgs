@@ -84,8 +84,8 @@
 | Property           | Level | Notes   |
 |--------------------|-------|---------|
 | [Backgrounds]      |
+| Allies             | o.... | You are attended by a modest undead host.
 | Demonic Guide      | o.... | A demon was woven into your flesh.
-| Supernatural Status| o.... | Your soothing touch is desired.
 | Resources          | ooo.. | Enough to support you in adequate comfort.
 |--------------------|-------|---------|
 | [Merits]           |
