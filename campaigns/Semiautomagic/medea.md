@@ -126,8 +126,8 @@ You may fly at your normal movement speed, even outside Shintai form.
 
 ## Charms
 Caste Hells: Kakuri, Wicked City
-### Infernal
-#### Crown of Flames
+
+### Crown of Flames (Anima)
 You become aware whenever someone speaks your name. You may optionally spend 1
 mote to reflexively scry the situation without in any way impinging on your
 concentration. You can see and hear the speaker and their surroundings for the
@@ -136,25 +136,23 @@ speaker with emerald flames (two lethal damage per turn of exposure, difficult
 6 to soak). While your anima banner is flaring, there is no mote cost to any of
 this.
 
-#### Keys to the Kingdom I
+### Keys to the Kingdom (Infernal I)
 When rolling a caste ability, you may reflexively spend 1 mote to add to your
 die pool (Attribute + Ability) for Essence + 1 turns in combat / minutes out of
 combat.
 
-### Kakuri: The Night Realm
-#### False Springs Beckon III
+### False Springs Beckon (Kakuri III)
 Extend your hand, and spend 1 mote. The target gains some temporary reprieve
 from an ongoing malady or misery of theirs. This lasts for a number of weeks
 equal to your Essence, ending early if they disobey a command of yours.
 
-### The Wicked City
-#### Electronic Devil Caress II
+### Electronic Devil Caress (Wicked City II)
 You may operate any electronic device within (Essence x 5) yards without
 touching it. If it is actively in the possession of another, you must roll
 Intelligence + Technology against the target's Willpower. Alternatively, you can
 spend 1 mote or 1 Willpower to short out the device and brick it.
 
-#### Hollow Mind Possession II
+### Hollow Mind Possession (Wicked City II)
 You may focus on a computerized device within line of sight, spend 1 mote, and
 roll Charisma + (higher of Computer or Technology) against difficulty 7.
 Successes briefly awaken the spirit of the technology, and enslave it to your
@@ -165,8 +163,8 @@ will. It lasts a duration based on the successes rolled:
 - 4: One year
 - 5+: Permanent
 
-### Sorceries
-#### Iron Shade Binding
+## Sorceries
+### Iron Shade Binding
 This hour-long ritual must be performed at night or in the Underworld, and uses
 a ghost's living name, a piece of their body, or one of their fetters to summon
 them and bind them to your service. Spend 5 motes and make an extended
@@ -177,8 +175,16 @@ other. If the wraith wins, it may depart and is immune to this spell for an hour
 and a day. Should you win, the wraith must obey your commands to the best of its
 ability for a year and a day.
 
-#### Flight of the Brilliant Raptor
-Spend 4 motes and make an extended Perception + Occult roll against difficulty 7.
-Upon reaching 5 successes, an explosive detonation of hellfire occurs at a point
-of your choosing within line of sight, dealing 15 dice of aggravated damage to
-everything within 15 yards of the target and setting anything flammable ablaze.
+### Raise the Skeletal Horde
+Raise one zombie per 2 motes spent on this spell, targeting existing cadavers.
+Make an extended Intelligence + Occult roll against difficulty 8. Once you reach
+10 successes, the dead rise at your command. Zombies are perfectly obedient, but
+can only carry out simple instructions. They last for one cycle of the moon
+unless within a Dragon Nest, in which case they last until destroyed.
+#### Zombie Stats
+Zombies have Strength 3, Dexterity 2, Stamina 4, Intelligence 1, and Brawl 2.
+They always act last in a turn. They have Willpower 10, but cannot spend it;
+they have 10 health levels and suffer no wound penalties. They halve any bashing
+damage post-soak (round down), and suffer aggravated damage from fire. They can
+soak lethal, but not aggravated, and can never heal. They are mindless, and can
+only be controlled by effects that specifically command the mindless dead.
