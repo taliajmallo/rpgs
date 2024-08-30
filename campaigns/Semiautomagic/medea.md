@@ -110,10 +110,10 @@ intimacies, you may regain a point of willpower.
 - Camila (She Can't Abandon Me)
 - Always be the one holding the leash.
 
-### Urge of the Corruptor
-Replenish 2 motes whenever you destroy the illusions of the righteous, or tempt
-them into abandoning their code and taking the low road. Additionally, regain
-3 + Essence motes every sunrise.
+### Urge of the Forbidden
+Replenish 2 motes whenever you learn secretive or forbidden lore of the
+supernatural world, or bind an unwholesome being into your service. Additionally,
+regain 3 + Essence motes every sunrise.
 
 ### Limit
 Gain limit when you botch a roll, undermine your nature or intimacies, or are
