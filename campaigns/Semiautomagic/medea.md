@@ -31,7 +31,7 @@
 |-----------------|-------|------------------|
 | [Social]        |
 | Charisma        | o.... |
-| Manipulation    | oooo. | Temptation
+| Manipulation    | oooo. | Please Sign On The Dotted Line
 | Appearance      | oooo. | You Know You Shouldn't
 |-----------------|-------|------------------|
 | [Mental]        |
