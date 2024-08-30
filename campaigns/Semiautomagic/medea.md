@@ -69,9 +69,9 @@
 |-----------------|-------|------------------|
 | [Knowledges]    |
 | Academics       |[oooo.]| Mythology
-| Computer        |[o....]|
-| Finance         | o.... |
-| Investigation   |[o....]|
+| Computer        |[oo...]|
+| Finance         |[o....]|
+| Investigation   | ..... |
 | Law             | ..... |
 | Medicine        | ..... |
 | Occult          |[ooooo]| Magick
