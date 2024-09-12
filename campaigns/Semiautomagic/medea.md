@@ -2,7 +2,7 @@
 ## Biographical Info
 - Concept      :  Sinister Sorceress
 - Exaltation   :  Infernal
-- Nature       :  Show-Off
+- Nature       :  Praise-Seeker
 - Demeanor     :  Conniver
 - Chronicle    :  Semiautomagic
 
@@ -98,7 +98,7 @@
 |--------------------|-------|---------|
 
 ## Characteristics
-### Nature of the Show-Off
+### Nature of the Praise-Seeker
 You regain willpower when your actions earn you praise from another.
 
 ### Intimacies
@@ -122,7 +122,8 @@ limit meter to 0, and replace your Nature with a monstrous urge.
 
 ## Shintai Aspects
 ### Flight
-You may fly at your normal movement speed, even outside Shintai form.
+You are a demon of the digital age. Electronic devices yield before you in
+supplication, and cannot capture your image.
 
 ## Charms
 Caste Hells: Kakuri, Wicked City
