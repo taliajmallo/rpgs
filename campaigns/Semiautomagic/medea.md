@@ -68,7 +68,7 @@
 | Survival        | ..... |
 |-----------------|-------|------------------|
 | [Knowledges]    |
-| Academics       |[oooo.]| Mythology
+| Academics       |[oooo.]| Fairytales
 | Computer        |[oo...]|
 | Finance         |[o....]|
 | Investigation   | ..... |
