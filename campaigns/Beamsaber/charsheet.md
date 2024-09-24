@@ -31,7 +31,7 @@ of electricity that can be used to power such implements.
 ## Status
 | **Statistic**   | Track                    | Details  |
 |-----------------|--------------------------|----------|
-| [Harm]/Armor    | [*] [*]                  | Unarmored
+| [Harm]/Armor    | [●] [●]                  | Unarmored
 | I: -Effect      | [ ] [ ]                  |
 | II: -1 Die      | [ ] [ ]                  |
 | III: Peril      | [ ]                      |
@@ -42,8 +42,8 @@ of electricity that can be used to power such implements.
 |-----------------|--------------------------|----------|
 | [Spark]         | [ ]                      |
 |-----------------|--------------------------|----------|
-| [Drive]         | [ ] [ ] [ ] [ ]          |
-|                 | [ ] [ ] [ ] [ ]          |
+| [Drive]         | [ ] [ ] [ ] [ ]          | Find Suitable
+|                 | [ ] [ ] [ ] [ ]          | Handler
 |-----------------|--------------------------|----------|
 | [Experience]    | [ ] [ ] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
@@ -82,7 +82,7 @@ one stress. Gain the scale and gear of each form.
 # Subject Capabilities - Alien Form
 ## Status
 |-----------------|--------------------------|----------|
-| [Damage]/Armor  | [*] [*] [*] [*] [*] [*]  | Unarmored
+| [Damage]/Armor  | [●] [●] [●] [●] [●] [●]  | Unarmored
 | I: -Effect      | [ ] [ ]                  |
 | II: -1 Die      | [ ] [ ]                  |
 | III: Peril      | [ ]                      |
@@ -97,7 +97,7 @@ one stress. Gain the scale and gear of each form.
 - [ ] Horrifying Appearance
 - [ ] Flexible Form
 - [ ] Deceptively Quick
-- [ ] Shortened Profile
+- [ ] Shallow Profile
 
 ## Attributes
 | **Attribute**   | Level  |
