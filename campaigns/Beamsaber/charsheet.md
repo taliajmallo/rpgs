@@ -115,3 +115,14 @@ one stress. Gain the scale and gear of each form.
 
 ## Load (Heavy)
 - No Equipment Yet
+
+# Squad
+## Beliefs
+- Alvenica Midgard
+  - She is soft-hearted and will suffer for it.
+- Amaryllis Ubiquitous
+  - She understands purpose like I do, even if we serve different masters.
+- Naomi Förstner
+  - She is a dutiful and diligent interim handler - I am fortunate she survived.
+- <???>
+  - ???
