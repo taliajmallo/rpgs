@@ -37,10 +37,9 @@ of electricity that can be used to power such implements.
 | III: Peril      | [ ]                      |
 | Healing Clock   | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Stress]        | [ ] [ ] [ ] [ ]          | No Scars
-|                 | [ ] [ ] [ ] [ ] [ ]      |
-|-----------------|--------------------------|----------|
-| [Spark]         | [ ]                      |
+| [Stress]        | [ ] [ ] [ ]              | No Scars
+|                 | [ ] [ ] [ ]              |
+|                 | [ ] [ ] [ ]              |
 |-----------------|--------------------------|----------|
 | [Drive]         | [ ] [ ] [ ] [ ]          | Find Suitable
 |                 | [ ] [ ] [ ] [ ]          | Handler
@@ -95,7 +94,7 @@ one stress. Gain the scale and gear of each form.
 
 ## Quirks
 - [ ] Horrifying Appearance
-- [ ] Flexible Form
+- [ ] Serpentine Flexibility
 - [ ] Deceptively Quick
 - [ ] Shallow Profile
 
