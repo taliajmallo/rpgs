@@ -121,7 +121,7 @@ denounced by someone you respect or admire. Upon reaching 10 limit, reset your
 limit meter to 0, and replace your Nature with a monstrous urge.
 
 ## Shintai Aspects
-### Flight
+### Tyrant of Photon and Circuit
 You are a demon of the digital age. Electronic devices yield before you in
 supplication, and cannot capture your image.
 
