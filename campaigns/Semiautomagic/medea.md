@@ -107,7 +107,7 @@ difficulty 8 to resist, even if you already failed to resist a supernatural
 power. Once per session, when you act to strongly support or affirm one of your
 intimacies, you may regain a point of willpower.
 - Magic (Love)
-- Camila (She Can't Abandon Me)
+- I will retake my rightful place in Changeling society.
 - Always be the one holding the leash.
 
 ### Urge of the Forbidden
