@@ -18,7 +18,7 @@
 | Essence      | Rating 1                                |
 | > Motes      |  8/10                                   |
 |--------------|-----------------------------------------|
-| Experience   | 0 Spent / 6 Total                       |
+| Experience   | 9 Spent / 9 Total                       |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -164,6 +164,12 @@ will. It lasts a duration based on the successes rolled:
 - 3: One month
 - 4: One year
 - 5+: Permanent
+
+### Essence-Dissecting Stare (Wicked City III)
+Roll Perception + Occult against difficulty 7. Success allows you to see Dragon
+Nests, visible from up to (Essence) miles away. Spending 1 Willpower lets you
+attune your senses to another realm for a scene, such as the Gauntlet or Shroud,
+or seeing reality's Chimerical aspect.
 
 ## Sorceries
 ### Iron Shade Binding
