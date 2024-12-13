@@ -6,7 +6,7 @@
 
 ## Subject Record
 - Playbook     :  Transformed
-- Squad        :  Mechanized Cavalry
+- Squad        :  The Hunted
 - History      :  Experimental Subject
 - Tragedy      :  Handlers Slain
 - Opening      :  Leashed Horror
