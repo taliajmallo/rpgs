@@ -117,11 +117,11 @@ one stress. Gain the scale and gear of each form.
 
 # Squad
 ## Beliefs
-- Alvenica Midgard
+- Alvenica Midgard (Relena)
   - She is soft-hearted and will suffer for it.
-- Amaryllis Ubiquitous
+- Amaryllis Ubiquitous (Minerva)
   - She understands purpose like I do, even if we serve different masters.
-- Naomi Förstner
+- Naomi Förstner (Caoimhe)
   - She is a dutiful and diligent interim handler - I am fortunate she survived.
-- <???>
-  - ???
+- Gawain 7490 (Satya)
+  - It is fascinating that, even though she is human, we were created in much the same way.
