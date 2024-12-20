@@ -37,14 +37,14 @@ of electricity that can be used to power such implements.
 | III: Peril      | [ ]                      |
 | Healing Clock   | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Stress]        | [ ] [ ] [ ]              | No Scars
+| [Stress]        | [x] [x] [ ]              | No Scars
 |                 | [ ] [ ] [ ]              |
 |                 | [ ] [ ] [ ]              |
 |-----------------|--------------------------|----------|
 | [Drive]         | [ ] [ ] [ ] [ ]          | Find Suitable
 |                 | [ ] [ ] [ ] [ ]          | Handler
 |-----------------|--------------------------|----------|
-| [Experience]    | [ ] [ ] [ ] [ ] [ ] [ ]  |
+| [Experience]    | [x] [ ] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -81,10 +81,10 @@ one stress. Gain the scale and gear of each form.
 # Subject Capabilities - Alien Form
 ## Status
 |-----------------|--------------------------|----------|
-| [Damage]/Armor  | [●] [●] [●] [●] [●] [●]  | Unarmored
+| [Damage]/Armor  | [●] [●] [●] [●] [●] [●]  | Armor x1
 | I: -Effect      | [ ] [ ]                  |
 | II: -1 Die      | [ ] [ ]                  |
-| III: Peril      | [ ]                      |
+| III: Peril      | [x]                      | Reentry Burns
 | Repair Clock    | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
 | [Breakdown]     | [ ] [ ] [ ] [ ]          |
@@ -94,26 +94,29 @@ one stress. Gain the scale and gear of each form.
 
 ## Quirks
 - [ ] Horrifying Appearance
-- [ ] Serpentine Flexibility
+- [x] Serpentine Flexibility
 - [ ] Deceptively Quick
-- [ ] Shallow Profile
+- [x] Shallow Profile
 
 ## Attributes
 | **Attribute**   | Level  |
 |-----------------|--------|
-| [Expertise]     | 0/6 XP |
+| [Expertise]     | 1/6 XP |
 | Battle          | [●]●.. |
 | Destroy         | [●]... |
 | Maneuver        | [●]... |
 |-----------------|--------|
-| [Acuity]        | 0/6 XP |
+| [Acuity]        | 1/6 XP |
 | Bombard         | [●]●.. |
 | Manipulate      | [●]... |
 | Scan            | [.]... |
 |-----------------|--------|
 
 ## Load (Heavy)
-- No Equipment Yet
+- Fine Directed Energy Weapon
+- Fine Diffuse Energy Weapon
+- Inhuman Senses (Radio Signals)
+- 4 Load Remaining
 
 # Squad
 ## Beliefs
