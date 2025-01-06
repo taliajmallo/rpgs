@@ -37,14 +37,14 @@ of electricity that can be used to power such implements.
 | III: Peril      | [ ]                      |
 | Healing Clock   | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Stress]        | [x] [x] [ ]              | No Scars
+| [Stress]        | [ ] [ ] [ ]              | No Scars
 |                 | [ ] [ ] [ ]              |
 |                 | [ ] [ ] [ ]              |
 |-----------------|--------------------------|----------|
-| [Drive]         | [ ] [ ] [ ] [ ]          | Find Suitable
-|                 | [ ] [ ] [ ] [ ]          | Handler
+| [Drive]         | [ ] [ ] [ ] [ ]          |
+|                 | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Experience]    | [x] [ ] [ ] [ ] [ ] [ ]  |
+| [Experience]    | [ ] [ ] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -83,30 +83,30 @@ one stress. Gain the scale and gear of each form.
 |-----------------|--------------------------|----------|
 | [Damage]/Armor  | [●] [●] [●] [●] [●] [●]  | Armor x1
 | I: -Effect      | [ ] [ ]                  |
-| II: -1 Die      | [ ] [ ]                  |
-| III: Peril      | [x]                      | Reentry Burns
-| Repair Clock    | [ ] [ ] [ ] [ ]          |
+| II: -1 Die      | [x] [ ]                  | Recent Surgery
+| III: Peril      | [ ]                      |
+| Repair Clock    | [ ] [ ]                  |
 |-----------------|--------------------------|----------|
 | [Breakdown]     | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Enhancement]   | [ ] [ ] [ ] [ ] [ ] [ ]  |
+| [Enhancement]   | [x] [ ] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Quirks
 - [ ] Horrifying Appearance
-- [x] Serpentine Flexibility
+- [ ] Serpentine Flexibility
 - [ ] Deceptively Quick
-- [x] Shallow Profile
+- [ ] Shallow Profile
 
 ## Attributes
 | **Attribute**   | Level  |
 |-----------------|--------|
-| [Expertise]     | 1/6 XP |
+| [Expertise]     | 4/6 XP |
 | Battle          | [●]●.. |
 | Destroy         | [●]... |
 | Maneuver        | [●]... |
 |-----------------|--------|
-| [Acuity]        | 1/6 XP |
+| [Acuity]        | 3/6 XP |
 | Bombard         | [●]●.. |
 | Manipulate      | [●]... |
 | Scan            | [.]... |
@@ -127,4 +127,4 @@ one stress. Gain the scale and gear of each form.
 - Naomi Förstner (Caoimhe)
   - She is a dutiful and diligent interim handler - I am fortunate she survived.
 - Gawain 7490 (Satya)
-  - It is fascinating that, even though she is human, we were created in much the same way.
+  - NONE
