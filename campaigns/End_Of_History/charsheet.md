@@ -50,8 +50,8 @@
 | *Crafting*      |  +14   |  ++    |  +6+4  |  +3 Int   |  +1    |  -
 | *L: Academia*   |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
 | *L: Her Union*  |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
-| *L: Library*    |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
 | *L: Moon Faith* |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
+| *L: Writing*    |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
 | *Nature*        |  +9    |  +     |  +6+2  |  +1 Wis   |  -     |  -
 | *Occultism*     |  +14   |  ++    |  +6+4  |  +3 Int   |  +1    |  -
 | *Religion*      |  +9    |  +     |  +6+2  |  +1 Wis   |  -     |  -
