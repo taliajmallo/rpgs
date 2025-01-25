@@ -44,7 +44,7 @@ of electricity that can be used to power such implements.
 | [Drive]         | [ ] [ ] [ ] [ ]          |
 |                 | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Experience]    | [ ] [ ] [ ] [ ] [ ] [ ]  |
+| [Experience]    | [x] [ ] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -81,7 +81,7 @@ one stress. Gain the scale and gear of each form.
 # Subject Capabilities - Alien Form
 ## Status
 |-----------------|--------------------------|----------|
-| [Damage]/Armor  | [●] [●] [●] [●] [●] [●]  | Armor x1
+| [Damage]/Armor  | [●] [●] [●] [●] [●] [●]  | Unarmored
 | I: -Effect      | [ ] [ ]                  |
 | II: -1 Die      | [x] [ ]                  | Recent Surgery
 | III: Peril      | [ ]                      |
@@ -101,13 +101,13 @@ one stress. Gain the scale and gear of each form.
 ## Attributes
 | **Attribute**   | Level  |
 |-----------------|--------|
-| [Expertise]     | 4/6 XP |
-| Battle          | [●]●.. |
+| [Expertise]     | 0/6 XP |
+| Battle          | [●]●●. |
 | Destroy         | [●]... |
 | Maneuver        | [●]... |
 |-----------------|--------|
-| [Acuity]        | 3/6 XP |
-| Bombard         | [●]●.. |
+| [Acuity]        | 0/6 XP |
+| Bombard         | [●]●●. |
 | Manipulate      | [●]... |
 | Scan            | [.]... |
 |-----------------|--------|
@@ -117,6 +117,7 @@ one stress. Gain the scale and gear of each form.
 - Fine Diffuse Energy Weapon
 - Inhuman Senses (Radio Signals)
 - 4 Load Remaining
+- 2 Mobility-Only Load Remaining
 
 # Squad
 ## Beliefs
