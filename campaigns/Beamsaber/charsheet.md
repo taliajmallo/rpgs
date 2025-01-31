@@ -41,10 +41,10 @@ of electricity that can be used to power such implements.
 |                 | [ ] [ ] [ ]              |
 |                 | [ ] [ ] [ ]              |
 |-----------------|--------------------------|----------|
-| [Drive]         | [ ] [ ] [ ] [ ]          |
-|                 | [ ] [ ] [ ] [ ]          |
+| [Drive]         | [x] [ ] [ ] [ ]          | Find a new
+|                 | [ ] [ ] [ ] [ ]          | master.
 |-----------------|--------------------------|----------|
-| [Experience]    | [x] [ ] [ ] [ ] [ ] [ ]  |
+| [Experience]    | [x] [x] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -83,19 +83,19 @@ one stress. Gain the scale and gear of each form.
 |-----------------|--------------------------|----------|
 | [Damage]/Armor  | [●] [●] [●] [●] [●] [●]  | Unarmored
 | I: -Effect      | [ ] [ ]                  |
-| II: -1 Die      | [x] [ ]                  | Recent Surgery
+| II: -1 Die      | [ ] [ ]                  |
 | III: Peril      | [ ]                      |
 | Repair Clock    | [ ] [ ]                  |
 |-----------------|--------------------------|----------|
 | [Breakdown]     | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Enhancement]   | [x] [ ] [ ] [ ] [ ] [ ]  |
+| [Enhancement]   | [x] [x] [x] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Quirks
 - [ ] Horrifying Appearance
 - [ ] Serpentine Flexibility
-- [ ] Deceptively Quick
+- [x] Deceptively Quick
 - [ ] Shallow Profile
 
 ## Attributes
