@@ -37,14 +37,14 @@ of electricity that can be used to power such implements.
 | III: Peril      | [ ]                      |
 | Healing Clock   | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Stress]        | [ ] [ ] [ ]              | No Scars
-|                 | [ ] [ ] [ ]              |
-|                 | [ ] [ ] [ ]              |
+| [Stress]        | [x] [x] [x]              | No Scars
+|                 | [x] [x] [x]              |
+|                 | [x] [ ] [ ]              |
 |-----------------|--------------------------|----------|
 | [Drive]         | [x] [ ] [ ] [ ]          | Find a new
 |                 | [ ] [ ] [ ] [ ]          | master.
 |-----------------|--------------------------|----------|
-| [Experience]    | [x] [x] [ ] [ ] [ ] [ ]  |
+| [Experience]    | [x] [x] [x] [x] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -56,7 +56,7 @@ of electricity that can be used to power such implements.
 | Survey          | [.]... |
 | Engineer        | [.]... |
 |-----------------|--------|
-| [Prowess]       | 0/6 XP |
+| [Prowess]       | 1/6 XP |
 | Finesse         | [.]... |
 | Struggle        | [●]... |
 | Prowl           | [●]... |
@@ -106,7 +106,7 @@ one stress. Gain the scale and gear of each form.
 | Destroy         | [●]... |
 | Maneuver        | [●]... |
 |-----------------|--------|
-| [Acuity]        | 0/6 XP |
+| [Acuity]        | 1/6 XP |
 | Bombard         | [●]●●. |
 | Manipulate      | [●]... |
 | Scan            | [.]... |
@@ -125,6 +125,7 @@ one stress. Gain the scale and gear of each form.
   - She is soft-hearted and will suffer for it.
 - Amaryllis Ubiquitous (Minerva)
   - She understands purpose like I do, even if we serve different masters.
+  - We are both weapons of war. How is it, then, that she so capably demonstrates agency away from the battlefield?
 - Naomi Förstner (Caoimhe)
   - She is a dutiful and diligent interim handler - I am fortunate she survived.
 - Gawain 7490 (Satya)

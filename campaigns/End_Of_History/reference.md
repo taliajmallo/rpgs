@@ -3,7 +3,7 @@
 | **Resource** |  Value       |
 |--------------|--------------|
 | *HP*         |  80/80       |
-| *Focus*      |  [x]         |
+| *Focus*      |  [x] [x]     |
 | *Fortune*    |  [x] [ ] [ ] |
 
 ## Defenses
@@ -59,22 +59,32 @@ Situational:
     - [ ] Incendiary Aura (0/10 rounds remaining)
 - Status Effects:
 
-## Basic Actions
-- > *Stride*: Move 25.
-- > *Recall Knowledge*: Roll knowledge skill.
-
-## Reactions
-- ↻ *Recognize Spell*: Auto-recognize rank 2, 4 if occult.
-
 ## Attacks
-- > Elemental Blast
-- >> Elemental Blast
-- 
+- > Elemental Blast: 100', +13/AC, 2d6 f/b/p/s, +1 if melee
+- >> Elemental Blast: 100', +13/AC, 2d8+4 f/b/p/s, +1 if melee
+- >> Extract Element: 30', must have fire trait, Fort 22 vs 3d4 & ignore resists
+- >> Flying Flame: 30' path, basic Ref 22 vs 3d8 f
+- >>+ Blazing Wave: 30'c, basic Ref 22 vs 5d8 f, prone on crit fail
 
-## Overflows
+## Modals
+- > Channel Elements: Enable aura, use 1-action stance/blast. Enemies in 10' gain weak 3/f.
+- > Thermal Nimbus: 10'r. Allies gain resist 6/f. Enemies take 3 f/turn.
+- >> Incendiary Aura: 15'r. On taking f damage in aura, take 3d4 persistent.
 
 ## Utility
-- > *Guidance*: 1/Target/Hour +1 to single d20 roll
+- > Stride: Move 25'.
+- >> Burning Jet: Stride 60' in a straight line or Leap 40'. Ignores difficult terrain and reactions.
+- > Recall Knowledge: Roll knowledge skill.
+
+## Reactions
+- ↻+ *Volcanic Escape*: If damaged by within 10', basic Ref 22 vs 1d6 f, leap 10'
+- ↻ *Recognize Spell*: Auto-know rank 2, 4 if occult; else Recall Knowledge
+
+## Misc
+- >> Base Kinesis: Control
+- > Eternal Torch: Create magical light with unlimited duration; up to 4 active.
+- >> Prestidigitation: Minor conveniences
+- > Guidance: 1/Target/Hour +1 to single d20 roll
   - [ ] Self
   - [ ] Suyra (Shira)
   - [ ] Hansa (Shira's Cat)
@@ -83,4 +93,4 @@ Situational:
   - [ ] Vendari the Lesser (Jay)
   - [ ] Rasa (Chas)
   - [ ] Karchanek (Sean)
-- > *Fox Form*: Turn into a fox.
+- > Fox Form: Turn into a fox.

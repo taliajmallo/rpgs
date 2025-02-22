@@ -22,7 +22,7 @@
 | **Resource** |  Max   |  Refill   |
 |--------------|--------|-----------|
 | *HP*         |  80    |  +24/Rest
-| *Focus*      |  1     |  +2/Refocus
+| *Focus*      |  2     |  +2/Refocus
 | *Fortune*    |  1     |  =1/Session
 
 ### Defenses
@@ -166,16 +166,28 @@ You can weave moonlight into harsh, scouring beams.
 ### Thermal Nimbus (4th Class)
 ### Expand the Portal: Fire Aura (5th Feature)
 ### Blazing Wave (5th Impulse)
-### Crawling Fire (6th Class)
+### Volcanic Escape (6th Class)
 
 ## Free Archetype - Oracle
 The moon-mother watches over you, child.
 
 ### Oracle Dedication: Flame (2nd Archetype)
 Become trained in Religion and Acrobatics. If you're already trained in either,
-gain another training of your choice.
+gain another training of your choice. Gain a spellcasting repertoire with two
+divine cantrips.
+
 ### First Revelation (4th Archetype)
-### Basic Mysteries: Cantrip Expansion (6th Archetype)
+You gain your mystery's initial revelation spell. If you don't have one, you
+gain a focus pool of 1 Focus Point. You can Refocus by reconciling the
+conflicting nature of your mystery, which also reduces your cursebound value
+by 1.
+
+### Basic Mysteries: Domain Acumen (Moon) (6th Archetype)
+You gain a 1st- or 2nd-level oracle feat of your choice.
+Chosen: Every oracle's mystery touches on a divine domain of the deities that
+fuel it; you can access that power. Choose one of the domains associated with
+your mystery for which you don't already have an initial domain spell. You gain
+an initial domain spell from that domain, which you cast as a revelation spell.
 
 ## Spells
 ### Incendiary Aura (Focus III)
@@ -186,6 +198,18 @@ You surround yourself with a combustible aura. Each time a creature within the
 aura takes fire damage, it catches on fire, taking 2d4 persistent fire damage.
 Heightened (+2) The persistent damage increases by 1d4 and the radius of the
 emanation increases by 5 feet.
+
+### Moonbeam (Focus III)
+[Uncommon] [Attack] [Cleric] [Concentrate] [Fire] [Focus] [Light] [Manipulate] [>>]
+Range 120 feet; Targets 1 creature
+Defense AC
+You shine a ray of moonlight. Make a spell attack roll. The beam of light deals
+2d6 fire damage. This is silver damage for the purposes of weaknesses,
+resistances, and the like.
+Critical Success: The beam deals double damage, and the target is dazzled for 1
+minute.
+Success: The beam deals full damage, and the target is dazzled for 1 round.
+Heightened (+1) The ray's damage increases by 1d6.
 
 ### Detect Magic (Cantrip III)
 
@@ -214,16 +238,6 @@ conditions.
 ## Belongings
 Coinage: 12.75
 Bulk <TODO>
-
-### Magic Items
-#### Ring of Minor Arcana
-[Uncommon] [Arcane] [Evocation] [Invested]
-Value 160
-This rose-gold ring is adorned in the center by a somewhat ominous-looking
-horned skull. This ring gives you the power to cast the following innate arcane
-cantrips any number of times each day: detect magic, mage hand, and
-prestidigitation. Each is cast as a 1st-level spell. If you are an arcane
-spellcaster, these can instead be heightened to the level of your cantrips.
 
 ### Armor
 - [x] Winter Clothing (.4, L)
