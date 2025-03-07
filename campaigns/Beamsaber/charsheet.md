@@ -39,12 +39,12 @@ of electricity that can be used to power such implements.
 |-----------------|--------------------------|----------|
 | [Stress]        | [x] [x] [x]              | No Scars
 |                 | [x] [x] [x]              |
-|                 | [x] [ ] [ ]              |
+|                 | [x] [x] [ ]              |
 |-----------------|--------------------------|----------|
 | [Drive]         | [x] [ ] [ ] [ ]          | Find a new
 |                 | [ ] [ ] [ ] [ ]          | master.
 |-----------------|--------------------------|----------|
-| [Experience]    | [x] [x] [x] [x] [ ] [ ]  |
+| [Experience]    | [x] [ ] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -62,7 +62,7 @@ of electricity that can be used to power such implements.
 | Prowl           | [●]... |
 | Wreck           | [.]... |
 |-----------------|--------|
-| [Resolve]       | 0/6 XP |
+| [Resolve]       | 1/6 XP |
 | Command         | [.]... |
 | Consort         | [.]... |
 | Sway            | [.]... |
@@ -74,6 +74,8 @@ of electricity that can be used to power such implements.
 Instead of a vehicle, you have an Other form. It uses the same rules as a
 vehicle. To transform between Pilot and Other during a Mission, you must spend
 one stress. Gain the scale and gear of each form.
+### Specialized Design (Scout)
+You may use gear from the Scout playbook.
 
 ## Load (Light)
 - No Equipment Yet
@@ -94,14 +96,14 @@ one stress. Gain the scale and gear of each form.
 
 ## Quirks
 - [ ] Horrifying Appearance
-- [ ] Serpentine Flexibility
+- [x] Serpentine Flexibility
 - [x] Deceptively Quick
 - [ ] Shallow Profile
 
 ## Attributes
 | **Attribute**   | Level  |
 |-----------------|--------|
-| [Expertise]     | 0/6 XP |
+| [Expertise]     | 1/6 XP |
 | Battle          | [●]●●. |
 | Destroy         | [●]... |
 | Maneuver        | [●]... |
@@ -116,7 +118,8 @@ one stress. Gain the scale and gear of each form.
 - Fine Directed Energy Weapon
 - Fine Diffuse Energy Weapon
 - Inhuman Senses (Radio Signals)
-- 4 Load Remaining
+- Passenger Space
+- 3 Load Remaining
 - 2 Mobility-Only Load Remaining
 
 # Squad
