@@ -37,14 +37,14 @@ of electricity that can be used to power such implements.
 | III: Peril      | [ ]                      |
 | Healing Clock   | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Stress]        | [x] [x] [x]              | No Scars
-|                 | [x] [x] [x]              |
-|                 | [x] [x] [ ]              |
+| [Stress]        | [ ] [ ] [ ]              | No Scars
+|                 | [ ] [ ] [ ]              |
+|                 | [ ] [ ] [ ]              |
 |-----------------|--------------------------|----------|
-| [Drive]         | [x] [ ] [ ] [ ]          | Find a new
+| [Drive]         | [x] [x] [x] [ ]          | Find a new
 |                 | [ ] [ ] [ ] [ ]          | master.
 |-----------------|--------------------------|----------|
-| [Experience]    | [x] [ ] [ ] [ ] [ ] [ ]  |
+| [Experience]    | [x] [x] [x] [x] [x] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -91,7 +91,7 @@ You may use gear from the Scout playbook.
 |-----------------|--------------------------|----------|
 | [Breakdown]     | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Enhancement]   | [x] [x] [x] [ ] [ ] [ ]  |
+| [Enhancement]   | [x] [x] [x] [x] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Quirks
@@ -126,10 +126,12 @@ You may use gear from the Scout playbook.
 ## Beliefs
 - Alvenica Midgard (Relena)
   - She is soft-hearted and will suffer for it.
+  - She really cares, doesn't she?
 - Amaryllis Ubiquitous (Minerva)
   - She understands purpose like I do, even if we serve different masters.
   - We are both weapons of war. How is it, then, that she so capably demonstrates agency away from the battlefield?
 - Naomi Förstner (Caoimhe)
   - She is a dutiful and diligent interim handler - I am fortunate she survived.
+  - She thinks I am going to kill her.
 - Gawain 7490 (Satya)
-  - NONE
+  - She seemed surprised that I have a will of my own - is that how she used to see me? Is that how others see me?
