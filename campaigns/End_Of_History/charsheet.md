@@ -200,7 +200,7 @@ Heightened (+2) The persistent damage increases by 1d4 and the radius of the
 emanation increases by 5 feet.
 
 ### Moonbeam (Focus III)
-[Uncommon] [Attack] [Cleric] [Concentrate] [Fire] [Focus] [Light] [Manipulate] [>>]
+[Uncommon] [Attack] [Concentrate] [Fire] [Focus] [Light] [Manipulate] [Oracle]  [>>]
 Range 120 feet; Targets 1 creature
 Defense AC
 You shine a ray of moonlight. Make a spell attack roll. The beam of light deals
