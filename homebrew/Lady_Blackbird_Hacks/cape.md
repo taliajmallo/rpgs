@@ -76,7 +76,8 @@ experience each, up to a maximum of 5 Drives.
 ### Knacks
 Knacks represent your character's ability to do something exceptional that sets
 them apart. This may be due to superior training, to a life hard-lived, or to
-triggering with a power.
+having a superpower. Knacks shouldn't need you to roll to perform them, but may
+come with a once per scene or once per session restriction as a result.
 
 New characters start with 2 Knacks. Example Knacks are listed below, but you are
 also encouraged to make your own. Additional Knacks may be bought for 5
