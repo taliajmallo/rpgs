@@ -40,17 +40,17 @@ wishes. Example Traits and corresponding Tags are listed below, but you are also
 encouraged to create your own.
 
 ### Drives
-Drives represent your character's goals and motivations, and determine how your
-character gains experience. You gain 1 experience when you meet the conditions
-listed on the Drive, plus another 1 experience if your Drive puts you in danger.
+Drives represent your character's goals, motivations, and life experiences, and
+determine how your character gains experience. You gain 1 experience when you
+meet the conditions listed on the Drive, plus another 1 experience if your Drive
+puts you in danger.
 
 Each Drive also has a Buyoff. If the Buyoff condition occurs, you may choose to
 permanently lose the Drive, replace it with a new Drive of your choice, and gain
 5 experience.
 
 New characters start with 3 Drives. Example Drives are listed below, but you are
-also encouraged to create your own. Additional Drives may be bought for 5
-experience each, up to a maximum of 5 Drives.
+also encouraged to create your own.
 
 - `Drive of the Mission`: You have an objective that defines your personal and/or professional life. Gain experience whenever you take action to complete your mission. Buyoff: Succeed at or abandon your mission.
 - `Drive of the Bond`: You have a strong relationship with another character. Gain experience when you are influenced by them or when you show how deep the bond is. Buyoff: Sever the relationship.
@@ -80,8 +80,7 @@ having a superpower. Knacks shouldn't need you to roll to perform them, but may
 come with a once per scene or once per session restriction as a result.
 
 New characters start with 2 Knacks. Example Knacks are listed below, but you are
-also encouraged to make your own. Additional Knacks may be bought for 5
-experience each, up to a maximum of 5 Knacks.
+also encouraged to make your own.
 
 - `Knack of the Cape`: You have a superpower. Describe the capabilities of your power.
 - `Knack of Preparation`: You always have a few essentials on your person, even if searched. You can produce any common, simple item at a moment's notice.
