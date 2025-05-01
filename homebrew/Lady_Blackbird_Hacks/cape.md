@@ -82,8 +82,9 @@ come with a once per scene or once per session restriction as a result.
 New characters start with 2 Knacks. Example Knacks are listed below, but you are
 also encouraged to make your own.
 
-- `Knack of the Cape`: You have a superpower. Describe the capabilities of your power.
+- `Knack of the Cape`: You have a superpower. Describe the capabilities of your power. Depending on the power in question, you may need to have Tags and/or a Trait in order to effectively use your power.
 - `Knack of Preparation`: You always have a few essentials on your person, even if searched. You can produce any common, simple item at a moment's notice.
+- `Knack of the Armory`: You can declare that you own any sort of mundane firearm and a reasonable supply of ammunition. The GM may determine whether any given firearm is owned legally or not.
 - `Knack of Teamwork`: If you spend Edge to give another player a die, they gain a another die.
 - `Knack of Desperation`: When you regain Edge from failing a roll, regain an additional Edge.
 - `Knack of Experience`: Once per scene, you may use multiple Traits (and Tags from those Traits) when making a roll.
@@ -92,7 +93,7 @@ also encouraged to make your own.
 - `Knack of the Brawler`: Once per scene, you can tell exactly who present would be easiest to goad into a fight, and roughly how.
 - `Knack of the Dilettante`: Once per session, you may give yourself a temporary Trait or Tag that lasts until the next time you use this Knack.
 - `Knack of the Lucky Break`: Once per session, you may reset your Edge to its maximum value.
-- `Knack of the Socialite`: Once per session, upon meeting a character for the first time, you may declare that you have previously met them before.
+- `Knack of the Socialite`: Once per session, upon meeting a character for the first time, you may declare that you have previously met them before. The GM may determine how the character remembers you.
 - `Knack of Attention`: Once per session, you may draw a crowd to you in minutes.
 - `Knack of Infiltration`: Once per session, you may insert yourself into a situation where you are not currently present, so long as you could plausibly appear.
 - `Knack of Bargaining`: Once per session, regardless of what it is, you can set up a meeting with a character who will make a deal for it (but not necessarily a favorable one).
@@ -103,7 +104,8 @@ mainly used and regained when making die rolls, but some Knacks may interact
 with it as well.
 
 Each session, you start with Edge equal to your maximum. Additionally, when you
-have downtime, the GM may tell you to reset your Edge to its maximum.
+have a break in the action or chance to rest, the GM may tell you to reset your
+Edge to its maximum.
 
 You start with a maximum Edge of 5.
 
