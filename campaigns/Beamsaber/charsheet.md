@@ -44,7 +44,7 @@ of electricity that can be used to power such implements.
 | [Drive]         | [x] [x] [x] [ ]          | Find a new
 |                 | [ ] [ ] [ ] [ ]          | master.
 |-----------------|--------------------------|----------|
-| [Experience]    | [x] [x] [x] [x] [x] [ ]  |
+| [Experience]    | [ ] [ ] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -74,11 +74,16 @@ of electricity that can be used to power such implements.
 Instead of a vehicle, you have an Other form. It uses the same rules as a
 vehicle. To transform between Pilot and Other during a Mission, you must spend
 one stress. Gain the scale and gear of each form.
-### Specialized Design (Scout)
+### Veteran: Specialized Design (Scout)
 You may use gear from the Scout playbook.
+### Veteran: Internal Mechanism
+Select a piece of Pilot or Vehicle Gear you have access to; a Pilot scale
+version exists within your body. Reduce its Load by 1 (Minimum 0). It must be
+declared at the start of every mission.
 
-## Load (Light)
-- No Equipment Yet
+## Load (Light 3)
+- (0) Internal Weaponry: Fine Directed Energy Weapon
+- 3 Load Remaining
 
 # Subject Capabilities - Alien Form
 ## Status
@@ -114,12 +119,12 @@ You may use gear from the Scout playbook.
 | Scan            | [.]... |
 |-----------------|--------|
 
-## Load (Heavy)
-- Fine Directed Energy Weapon
-- Fine Diffuse Energy Weapon
-- Inhuman Senses (Radio Signals)
-- Passenger Space
-- 3 Load Remaining
+## Load (Heavy 6)
+- (1) Fine Directed Energy Weapon
+- (1) Fine Diffuse Energy Weapon
+- (1) Inhuman Senses, Radio Signals
+- (1) Passenger Space
+- 2 Load Remaining
 - 2 Mobility-Only Load Remaining
 
 # Squad
