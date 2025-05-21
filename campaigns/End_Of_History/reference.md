@@ -2,7 +2,7 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  80/80       |
+| *HP*         |  78/80       |
 | *Focus*      |  [x] [x]     |
 | *Fortune*    |  [x] [ ] [ ] |
 
@@ -56,7 +56,7 @@ Situational:
     - [ ] Fox Form
     - [ ] Kinetic Aura
     - [ ] Thermal Nimbus
-    - [ ] Incendiary Aura (0/10 rounds remaining)
+    - [ ] Incendiary Aura (00/10 rounds remaining)
 - Status Effects:
 
 ## Attacks
