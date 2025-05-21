@@ -37,7 +37,7 @@ of electricity that can be used to power such implements.
 | III: Peril      | [ ]                      |
 | Healing Clock   | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Stress]        | [ ] [ ] [ ]              | No Scars
+| [Stress]        | [x] [x] [ ]              | No Scars
 |                 | [ ] [ ] [ ]              |
 |                 | [ ] [ ] [ ]              |
 |-----------------|--------------------------|----------|
@@ -56,7 +56,7 @@ of electricity that can be used to power such implements.
 | Survey          | [.]... |
 | Engineer        | [.]... |
 |-----------------|--------|
-| [Prowess]       | 1/6 XP |
+| [Prowess]       | 3/6 XP |
 | Finesse         | [.]... |
 | Struggle        | [●]... |
 | Prowl           | [●]... |
