@@ -2,7 +2,7 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  78/80       |
+| *HP*         |  56/80       |
 | *Focus*      |  [x] [x]     |
 | *Fortune*    |  [x] [ ] [ ] |
 
@@ -54,10 +54,11 @@ Situational:
 ## Status
 - Modals:
     - [ ] Fox Form
-    - [ ] Kinetic Aura
-    - [ ] Thermal Nimbus
-    - [ ] Incendiary Aura (00/10 rounds remaining)
+    - [x] Kinetic Aura
+    - [x] Thermal Nimbus
+    - [x] Incendiary Aura (10/10 rounds remaining)
 - Status Effects:
+  - Enfeebled 2 (Heals 1/hr)
 
 ## Attacks
 - > Elemental Blast: 100', +13/AC, 2d6 f/b/p/s, +1 if melee
