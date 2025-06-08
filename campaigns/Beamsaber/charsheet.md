@@ -44,7 +44,7 @@ of electricity that can be used to power such implements.
 | [Drive]         | [x] [x] [x] [ ]          | Find a new
 |                 | [ ] [ ] [ ] [ ]          | master.
 |-----------------|--------------------------|----------|
-| [Experience]    | [ ] [ ] [ ] [ ] [ ] [ ]  |
+| [Experience]    | [x] [ ] [ ] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
