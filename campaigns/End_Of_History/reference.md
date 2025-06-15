@@ -2,43 +2,45 @@
 ## Resources
 | **Resource** |  Value       |
 |--------------|--------------|
-| *HP*         |  56/80       |
+| *HP*         |  89/92       |
 | *Focus*      |  [x] [x]     |
 | *Fortune*    |  [x] [ ] [ ] |
 
 ## Defenses
 | **Defense**     |  Sum   |
 |-----------------|--------|
-| *AC (Armored)*  |  24    |
+| *AC (Armored)*  |  25    |
 |-----------------|--------|
-| *Perception*    |  +11   |
-| *Fortitude*     |  +14   |
-| *Reflex*        |  +13   |
-| *Will*          |  +11   |
+| *Perception*    |  +14   |
+| *Fortitude*     |  +17   |
+| *Reflex*        |  +14   |
+| *Will*          |  +12   |
 Situational:
+- Fortitude Success is upgraded to Crit Success
+- +2 Circumstance to Perception (already included)
 - +1 to flat check to hit if concealed or hidden
 
 ## Offenses
 | **Offense**     |  Sum   |
 |-----------------|--------|
-| *Class DC*      |  22    |
+| *Class DC*      |  25    |
 |-----------------|--------|
-| *Class Attack*  |  +13   |
+| *Class Attack*  |  +16   |
 
 ## Skills
 | **Skill**       |  Sum   |
 |-----------------|--------|
-| *Acrobatics*    |  +11   |
-| *Arcana*        |  +11   |
-| *Crafting*      |  +14   |
-| *L: Academia*   |  +11   |
-| *L: Her Union*  |  +11   |
-| *L: Library*    |  +11   |
-| *L: Moon Faith* |  +11   |
-| *Nature*        |  +9    |
-| *Occultism*     |  +14   |
-| *Religion*      |  +9    |
-| *Society*       |  +11   |
+| *Acrobatics*    |  +12   |
+| *Arcana*        |  +12   |
+| *Crafting*      |  +15   |
+| *L: Academia*   |  +12   |
+| *L: Her Union*  |  +12   |
+| *L: Library*    |  +12   |
+| *L: Moon Faith* |  +12   |
+| *Nature*        |  +10   |
+| *Occultism*     |  +17   |
+| *Religion*      |  +10   |
+| *Society*       |  +12   |
 |-----------------|--------|
 | *Athletics*     |  +1    |
 | *Deception*     |  -1    |
@@ -54,22 +56,22 @@ Situational:
 ## Status
 - Modals:
     - [ ] Fox Form
-    - [x] Kinetic Aura
-    - [x] Thermal Nimbus
-    - [x] Incendiary Aura (10/10 rounds remaining)
+    - [ ] Kinetic Aura
+    - [ ] Thermal Nimbus
+    - [ ] Incendiary Aura (00/10 rounds remaining)
 - Status Effects:
-  - Enfeebled 2 (Heals 1/hr)
+  - Enfeebled 1 (Heals 1/hr)
 
 ## Attacks
-- > Elemental Blast: 100', +13/AC, 2d6 f/b/p/s, +1 if melee
-- >> Elemental Blast: 100', +13/AC, 2d8+4 f/b/p/s, +1 if melee
-- >> Extract Element: 30', must have fire trait, Fort 22 vs 3d4 & ignore resists
-- >> Flying Flame: 30' path, basic Ref 22 vs 3d8 f
-- >>+ Blazing Wave: 30'c, basic Ref 22 vs 5d8 f, prone on crit fail
+- > Elemental Blast: 100', +16/AC, 2d6 f/b/p/s, +1 if melee
+- >> Elemental Blast: 100', +16/AC, 2d8+4 f/b/p/s, +1 if melee
+- >> Extract Element: 30', must have fire trait, Fort 25 vs 4d4 & ignore resists
+- >> Flying Flame: 30' path, basic Ref 25 vs 4d8 f
+- >>+ Blazing Wave: 30'c, basic Ref 25 vs 5d8 f, prone on crit fail
 
 ## Modals
 - > Channel Elements: Enable aura, use 1-action stance/blast. Enemies in 10' gain weak 3/f.
-- > Thermal Nimbus: 10'r. Allies gain resist 6/f. Enemies take 3 f/turn.
+- > Thermal Nimbus: 10'r. Allies gain resist 7/f. Enemies take 3 f/turn.
 - >> Incendiary Aura: 15'r. On taking f damage in aura, take 3d4 persistent.
 
 ## Utility

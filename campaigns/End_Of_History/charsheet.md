@@ -3,7 +3,7 @@
 ## Bio
 - Ancestry: Kitsune Changeling
 - Background: Raised by Belief
-- Class: Kineticist 6
+- Class: Kineticist 7
 
 [Medium] [Kitsune] [Changeling] [Humanoid]
 
@@ -21,41 +21,41 @@
 ### Resources
 | **Resource** |  Max   |  Refill   |
 |--------------|--------|-----------|
-| *HP*         |  80    |  +24/Rest
+| *HP*         |  92    |  +28/Rest
 | *Focus*      |  2     |  +2/Refocus
 | *Fortune*    |  1     |  =1/Session
 
 ### Defenses
 | **Defense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Armored AC*    |  24    |  +     |  +6+2  |  +3 Dex   |  +2+1  |  -
+| *Armored AC*    |  25    |  +     |  +7+2  |  +3 Dex   |  +2+1  |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +11   |  ++    |  +6+4  |  +1 Wis   |  -     |  -
-| *Fortitude*     |  +14   |  ++    |  +6+4  |  +4 Con   |  -     |  -
-| *Reflex*        |  +13   |  ++    |  +6+4  |  +3 Dex   |  -     |  -
-| *Will*          |  +11   |  ++    |  +6+4  |  +1 Wis   |  -     |  -
+| *Perception*    |  +14   |  ++    |  +7+4  |  +1 Wis   |  -     |  +2 Circ.
+| *Fortitude*     |  +17   |  +++   |  +7+6  |  +4 Con   |  -     |  S -> CS
+| *Reflex*        |  +14   |  ++    |  +7+4  |  +3 Dex   |  -     |  -
+| *Will*          |  +12   |  ++    |  +7+4  |  +1 Wis   |  -     |  -
 
 ### Offenses
 | **Offense**     |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class DC*      |  22    |  +     |  +6+2  |  +4 Con   |  -     |  -
+| *Class DC*      |  25    |  ++    |  +7+4  |  +4 Con   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Class Attack*  |  +13   |  +     |  +6+2  |  +4 Con   |  +1    |  -
+| *Class Attack*  |  +16   |  ++    |  +7+4  |  +4 Con   |  +1    |  -
 
 ## Skills
 | **Skill**       |  Sum   |  TEML  |  Prof  |  Ability  |  Item  |  Temp  |
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Acrobatics*    |  +11   |  +     |  +6+2  |  +3 Dex   |  -     |  -
-| *Arcana*        |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
-| *Crafting*      |  +14   |  ++    |  +6+4  |  +3 Int   |  +1    |  -
-| *L: Academia*   |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
-| *L: Her Union*  |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
-| *L: Moon Faith* |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
-| *L: Writing*    |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
-| *Nature*        |  +9    |  +     |  +6+2  |  +1 Wis   |  -     |  -
-| *Occultism*     |  +14   |  ++    |  +6+4  |  +3 Int   |  +1    |  -
-| *Religion*      |  +9    |  +     |  +6+2  |  +1 Wis   |  -     |  -
-| *Society*       |  +11   |  +     |  +6+2  |  +3 Int   |  -     |  -
+| *Acrobatics*    |  +12   |  +     |  +7+2  |  +3 Dex   |  -     |  -
+| *Arcana*        |  +12   |  +     |  +7+2  |  +3 Int   |  -     |  -
+| *Crafting*      |  +15   |  ++    |  +7+4  |  +3 Int   |  +1    |  -
+| *L: Academia*   |  +12   |  +     |  +7+2  |  +3 Int   |  -     |  -
+| *L: Her Union*  |  +12   |  +     |  +7+2  |  +3 Int   |  -     |  -
+| *L: Moon Faith* |  +12   |  +     |  +7+2  |  +3 Int   |  -     |  -
+| *L: Writing*    |  +12   |  +     |  +7+2  |  +3 Int   |  -     |  -
+| *Nature*        |  +10   |  +     |  +7+2  |  +1 Wis   |  -     |  -
+| *Occultism*     |  +17   |  +++   |  +7+4  |  +3 Int   |  +1    |  -
+| *Religion*      |  +10   |  +     |  +7+2  |  +1 Wis   |  -     |  -
+| *Society*       |  +12   |  +     |  +7+2  |  +3 Int   |  -     |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Athletics*     |  +1    |        |  +0    |  +1 Str   |  -     |  -
 | *Deception*     |  -1    |        |  +0    |  -1 Cha   |  -     |  -
@@ -150,6 +150,10 @@ You've unknowingly taken the first step towards becoming a hag.
 [General]
 Gain expert proficiency in perception. At 17th level, gain master proficiency.
 
+### Incredible Initiative (7th General)
+[General]
+Gain +2 circumstance bonus to initiative.
+
 ### Languages
 Patter-Whistle, Low Song, High Song, Vaaltid
 
@@ -190,7 +194,7 @@ your mystery for which you don't already have an initial domain spell. You gain
 an initial domain spell from that domain, which you cast as a revelation spell.
 
 ## Spells
-### Incendiary Aura (Focus III)
+### Incendiary Aura (Focus IV)
 [Uncommon] [Concentrate] [Fire] [Focus] [Manipulate] [Oracle] [>>]
 Area 10' emanation
 Duration 1 minute
@@ -199,7 +203,7 @@ aura takes fire damage, it catches on fire, taking 2d4 persistent fire damage.
 Heightened (+2) The persistent damage increases by 1d4 and the radius of the
 emanation increases by 5 feet.
 
-### Moonbeam (Focus III)
+### Moonbeam (Focus IV)
 [Uncommon] [Attack] [Concentrate] [Fire] [Focus] [Light] [Manipulate] [Oracle]  [>>]
 Range 120 feet; Targets 1 creature
 Defense AC
@@ -211,9 +215,9 @@ minute.
 Success: The beam deals full damage, and the target is dazzled for 1 round.
 Heightened (+1) The ray's damage increases by 1d6.
 
-### Detect Magic (Cantrip III)
+### Detect Magic (Cantrip IV)
 
-### Prestidigitation (Cantrip III)
+### Prestidigitation (Cantrip IV)
 [Cantrip] [Evocation] [Verbal] [Somatic] [>>]
 Range 10 feet; Targets 1 object (cook, lift, or tidy only)
 Duration sustained
@@ -231,9 +235,9 @@ conditions.
   object of 1 Bulk with 10 rounds of concentration, and a larger object a 1
   minute per Bulk.
 
-### Read Aura (Cantrip III)
+### Read Aura (Cantrip IV)
 
-### Stabilize (Cantrip III)
+### Stabilize (Cantrip IV)
 
 ## Belongings
 Coinage: 12.75
