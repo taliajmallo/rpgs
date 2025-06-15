@@ -31,20 +31,20 @@ of electricity that can be used to power such implements.
 ## Status
 | **Statistic**   | Track                    | Details  |
 |-----------------|--------------------------|----------|
-| [Harm]/Armor    | [●] [●]                  | Unarmored
+| [Harm]/Armor    | [●] [x]                  | 1x Armor
 | I: -Effect      | [ ] [ ]                  |
 | II: -1 Die      | [ ] [ ]                  |
 | III: Peril      | [ ]                      |
 | Healing Clock   | [ ] [ ] [ ] [ ]          |
 |-----------------|--------------------------|----------|
-| [Stress]        | [x] [x] [ ]              | No Scars
-|                 | [ ] [ ] [ ]              |
+| [Stress]        | [x] [x] [x]              | No Scars
+|                 | [x] [ ] [ ]              |
 |                 | [ ] [ ] [ ]              |
 |-----------------|--------------------------|----------|
 | [Drive]         | [x] [x] [x] [ ]          | Find a new
 |                 | [ ] [ ] [ ] [ ]          | master.
 |-----------------|--------------------------|----------|
-| [Experience]    | [x] [ ] [ ] [ ] [ ] [ ]  |
+| [Experience]    | [x] [x] [x] [ ] [ ] [ ]  |
 |-----------------|--------------------------|----------|
 
 ## Attributes
@@ -83,7 +83,8 @@ declared at the start of every mission.
 
 ## Load (Light 3)
 - (0) Internal Weaponry: Fine Directed Energy Weapon
-- 3 Load Remaining
+- (2) Armor
+- 1 Load Remaining
 
 # Subject Capabilities - Alien Form
 ## Status
