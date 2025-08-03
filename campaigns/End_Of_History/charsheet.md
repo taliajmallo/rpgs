@@ -30,7 +30,7 @@
 |-----------------|--------|--------|--------|-----------|--------|--------|
 | *Armored AC*    |  25    |  +     |  +7+2  |  +3 Dex   |  +2+1  |  -
 |-----------------|--------|--------|--------|-----------|--------|--------|
-| *Perception*    |  +14   |  ++    |  +7+4  |  +1 Wis   |  -     |  +2 Circ.
+| *Perception*    |  +15   |  ++    |  +7+4  |  +1 Wis   |  +1    |  +2 Circ.
 | *Fortitude*     |  +17   |  +++   |  +7+6  |  +4 Con   |  -     |  S -> CS
 | *Reflex*        |  +14   |  ++    |  +7+4  |  +3 Dex   |  -     |  -
 | *Will*          |  +12   |  ++    |  +7+4  |  +1 Wis   |  -     |  -
@@ -100,6 +100,7 @@ Reaction: You automatically recognize the spell if it is of rank 2 or lower, or
 - Skill Potency II
 - Devastating I
 - Defense Potency I
+- Perception Potency I
 
 ## Ancestry - Kitsune Changeling
 ### Kitsune
