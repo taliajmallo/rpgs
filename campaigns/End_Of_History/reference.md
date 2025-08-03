@@ -11,7 +11,7 @@
 |-----------------|--------|
 | *AC (Armored)*  |  25    |
 |-----------------|--------|
-| *Perception*    |  +14   |
+| *Perception*    |  +15   |
 | *Fortitude*     |  +17   |
 | *Reflex*        |  +14   |
 | *Will*          |  +12   |
@@ -55,7 +55,7 @@ Situational:
 
 ## Status
 - Modals:
-    - [ ] Fox Form
+    - [x] Fox Form
     - [ ] Kinetic Aura
     - [ ] Thermal Nimbus
     - [ ] Incendiary Aura (00/10 rounds remaining)
