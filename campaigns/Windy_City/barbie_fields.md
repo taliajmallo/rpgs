@@ -64,9 +64,9 @@
 | Expression      | oooo. | Drama
 | Intimidation    | ..... |
 | Persuasion      | oooo. |
-| Socialize       | ..... |
+| Socialize       | o.... |
 | Streetwise      | ..... |
-| Subterfuge      | ooo.. |
+| Subterfuge      | oo... |
 |-----------------|-------|------------------|
 | [Mental]        |
 | Academics       | ooo.. | Performing Arts
