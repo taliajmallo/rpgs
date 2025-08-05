@@ -48,6 +48,16 @@
 ## Skills
 | **Skill**       | Level | Specialization   |
 |-----------------|-------|------------------|
+| [Mental]        |
+| Academics       | ooo.. | Performing Arts
+| Computer        | o.... |
+| Crafts          | ..... |
+| Investigation   | ..... |
+| Medicine        | ..... |
+| Occult          | ..... |
+| Politics        | ..... |
+| Science         | ..... |
+|-----------------|-------|------------------|
 | [Physical]      |
 | Athletics       | oooo. | Dance
 | Brawl           | ..... |
@@ -68,19 +78,10 @@
 | Streetwise      | ..... |
 | Subterfuge      | oo... |
 |-----------------|-------|------------------|
-| [Mental]        |
-| Academics       | ooo.. | Performing Arts
-| Computer        | o.... |
-| Crafts          | ..... |
-| Investigation   | ..... |
-| Medicine        | ..... |
-| Occult          | ..... |
-| Politics        | ..... |
-| Science         | ..... |
-|-----------------|-------|------------------|
 
 ## Merits
-### ??? I
+### Hollow I
+You have access to the interdimensional doctor's office in the Hedge.
 
 ### Lair I
 You have an apartment.
@@ -141,7 +142,7 @@ You have ~$500/month.
 #### Divine Fire
 - Fire inflicts aggravated damage to you.
 
-#### Disfigurements 
+#### Disfigurements
 - Spending any Pyros momentarily reveals your disfigurements.
 
 #### Disquiet
