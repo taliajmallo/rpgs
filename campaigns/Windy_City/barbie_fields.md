@@ -4,7 +4,7 @@
 - Lineage     : Galatean
 - Refinement  : Gold
 - Virtue      : Hope
-- Vice        : Envy
+- Vice        : Sloth
 
 ## Stats
 | Statistic     | Track                                   |
