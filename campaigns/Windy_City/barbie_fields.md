@@ -206,6 +206,13 @@ You have ~$500/month.
 - Gain 9-again on any social roll affected by your beauty. If you fail such a
 roll, you may spend 1 Pyros to re-roll without 9-again. Additionally, you may
 increase your Presence and Manipulation above the mortal limit of 5 dots.
+### Attuned to the Wyrd (Fetch Bestowment)
+- Cost: None
+- Action: None
+- You can see through changelings' fae miens and mortal guises. In addition,
+  you can tell when a changeling is within your Azoth's Radiance. You cannot
+  tell one changeling from another using this sense, with the sole exception
+  of your progenitor changeling.
 ### Soothe Disquiet (Disquietism I)
 - Cost: 1 Pyros
 - Action Reflexive
