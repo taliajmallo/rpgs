@@ -81,10 +81,13 @@
 
 ## Merits
 ### ??? I
+
 ### Lair I
 You have an apartment.
+
 ### Resources I
 You have ~$500/month.
+
 ### Striking Looks IV
 - Advantage: +2 to Presence/Manipulation when using your looks.
 - Disadvantage: You are memorable, and draw attention.
@@ -98,6 +101,7 @@ You have ~$500/month.
   - When you sleep amidst voices (not recordings) that last into your first
     hour of sleep, you roll Azoth + Composure upon awakening, and gain one
     Pyros per success.
+
 #### Superlative Endurance
 - You can go 48 hours without incurring fatigue penalties, and sleep for less
   time when forced to sleep due to fatigue.
@@ -107,6 +111,7 @@ You have ~$500/month.
   health, causes limb loss.
 - [ ] Once ever, after dying while at Azoth 2+, you can resurrect roughly 24
   hours later, at the cost of all but one dot of Azoth.
+
 #### Superlative Constitution
 - You can eat any organic substance, and emit no waste. Gain a +2 to Survival
   rolls to forage in the wild. 
@@ -117,6 +122,7 @@ You have ~$500/month.
 - Gain a +4 to Stamina rolls against against drugs, poisons, toxins, disease,
   infection, and other such conditions. You struggle to become intoxicated from
   any substance. Painkillers and anesthetics are only half as effective.
+
 #### Electroshock Therapy
 - Electricity heals you at a rate of:
   - 1 point of electric bashing heals 1 point of bashing damage.
@@ -126,14 +132,18 @@ You have ~$500/month.
   discharge in arcs around you, and affects anyone touching you.
 - After healing in this manner, and for a number of turns after equal to your
   Azoth, your disfigurements are visible.
+
 #### Transhuman Potential
 - You can increase an attribute for one turn, up to your Azoth in additional
   dots, at a cost of one Pyros per additional dot.
+
 ### Drawbacks
 #### Divine Fire
 - Fire inflicts aggravated damage to you.
+
 #### Disfigurements 
 - Spending any Pyros momentarily reveals your disfigurements.
+
 #### Disquiet
 - When a human is exposed to your presence for any amount of time longer than a
   casual passing on the street, the human must roll Resolve + Composure against
@@ -169,10 +179,12 @@ You have ~$500/month.
     Finally, this stage of disquiet does not reduce unless you are destroyed.
     After you are destroyed, it requires a number of months equal to your 
     Azoth to reduce to the Impulse stage.
+
 #### Wasteland
 - Instead of the traditional Wasteland effect, attempts to exit the Hedge to a
   location within your Azoth's radiance gain a die bonus equal to half your
   Azoth, rounded up, if the entity is familiar with you.
+
 #### Torment
 - The following triggers all can cause Torment:
   - Disquiet bringing a human to act against you (Wits + Empathy to try to
@@ -206,6 +218,7 @@ You have ~$500/month.
 - Gain 9-again on any social roll affected by your beauty. If you fail such a
 roll, you may spend 1 Pyros to re-roll without 9-again. Additionally, you may
 increase your Presence and Manipulation above the mortal limit of 5 dots.
+
 ### Attuned to the Wyrd (Fetch Bestowment)
 - Cost: None
 - Action: None
@@ -213,6 +226,7 @@ increase your Presence and Manipulation above the mortal limit of 5 dots.
   you can tell when a changeling is within your Azoth's Radiance. You cannot
   tell one changeling from another using this sense, with the sole exception
   of your progenitor changeling.
+
 ### Soothe Disquiet (Disquietism I)
 - Cost: 1 Pyros
 - Action Reflexive
@@ -221,6 +235,7 @@ increase your Presence and Manipulation above the mortal limit of 5 dots.
   Disquiet from advancing ot the second stage. A mortal cannot be affected by
   thus power for longer than 24 hours. For the week afterwards, they
   automatically fail Disquiet rolls against you.
+
 ### Suggestion (Mesmerism II)
 - Cost: None
 - Action: Contested
