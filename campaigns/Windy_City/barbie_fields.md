@@ -29,6 +29,11 @@
 ## Attributes
 | **Attribute**   | Level |
 |-----------------|-------|
+| [Mental]        |
+| Intelligence    | o.... |
+| Wits            | ooo.. |
+| Resolve         | oo... |
+|-----------------|-------|
 | [Physical]      |
 | Strength        | o.... |
 | Dexterity       | oooo. |
@@ -38,11 +43,6 @@
 | Presence        | oooo. |
 | Manipulation    | ooo.. |
 | Composure       | o.... |
-|-----------------|-------|
-| [Mental]        |
-| Intelligence    | o.... |
-| Wits            | ooo.. |
-| Resolve         | oo... |
 |-----------------|-------|
 
 ## Skills
