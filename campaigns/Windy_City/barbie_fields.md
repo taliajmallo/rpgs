@@ -5,6 +5,7 @@
 - Refinement  : Gold
 - Virtue      : Hope
 - Vice        : Sloth
+- Flaw        : Cowardice
 
 ## Stats
 | Statistic     | Track                                   |
