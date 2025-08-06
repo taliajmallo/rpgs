@@ -80,11 +80,9 @@
 |-----------------|-------|------------------|
 
 ## Merits
-### Hollow I
-You have access to the interdimensional doctor's office in the Hedge.
-
-### Lair I
-You have an apartment.
+### Lair I + Hollow I
+You have an apartment, and may access the interdimensional doctor's office in
+the Hedge.
 
 ### Resources I
 You have ~$500/month.
