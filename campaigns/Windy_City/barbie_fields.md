@@ -113,7 +113,7 @@ You have ~$500/month.
 
 #### Superlative Constitution
 - You can eat any organic substance, and emit no waste. Gain a +2 to Survival
-  rolls to forage in the wild. 
+  rolls to forage in the wild.
 - If you go more than Min(Stamina, Resolve) days without eating, you build
   Torment.
 - If you go more than Stamina + Resolve days without eating, you suffer
@@ -157,10 +157,10 @@ You have ~$500/month.
 - Disquiet reduces by 1 stage if you avoid the victim for a number of weeks
   equal to your Azoth.
 - Disquiet has the following four stages:
-  - Dream: The victim has unsettling dreams involving you, and struggles to 
+  - Dream: The victim has unsettling dreams involving you, and struggles to
     get proper sleep. They take a -1 die penalty to any tasks on the day after
     such dreams.
-  - Fantasy: When the victim sees you or a situation that pertains to your 
+  - Fantasy: When the victim sees you or a situation that pertains to your
     governing humor (sanguine - courage or lust), they may slip into a fantasy
     about you in some capacity. They take a -2 penalty to all die pools while
     fantasizing, and often feel queasy with shame or disgust afterwards.
@@ -176,7 +176,7 @@ You have ~$500/month.
     nights equal to your Azoth, by making a Wits, Intelligence, Presence, or
     Manipulation based roll against another victim's Resolve + Composure.
     Finally, this stage of disquiet does not reduce unless you are destroyed.
-    After you are destroyed, it requires a number of months equal to your 
+    After you are destroyed, it requires a number of months equal to your
     Azoth to reduce to the Impulse stage.
 
 #### Wasteland
@@ -239,7 +239,7 @@ increase your Presence and Manipulation above the mortal limit of 5 dots.
 - Cost: None
 - Action: Contested
 - Die Pool: Manipulation + Intelligence + Persuasion vs Composure + Azoth
-- Whisper an instruction in the target's ear. This has a -2 penalty unless the 
+- Whisper an instruction in the target's ear. This has a -2 penalty unless the
   victim is asleep or incapacitated by the Fixed Stare Transmutation.
   - Dramatic Failure: The target is immune to your Mesmerism for one full day.
   - Failure: The attempt to influence the target fails.
