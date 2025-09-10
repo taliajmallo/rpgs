@@ -16,14 +16,14 @@
 | Humanity      | [1] [2] [3] [4] [5] [6] [7] [ ] [ ] [ ] |
 |---------------|-----------------------------------------|
 | Azoth         | Rating 1 (Radiance: same building)      |
-| Pyros         | 7/10 (1 per turn)                       |
+| Pyros         | 6/10 (1 per turn)                       |
 |---------------|-----------------------------------------|
 | Size          | 5                                       |
 | Speed         | 10                                      |
 | Defense       | 3                                       |
 | Initiative    | 5                                       |
 |---------------|-----------------------------------------|
-| Experience    | 0 Spent / 0 Total                       |
+| Experience    | 0 Spent / 6 Total                       |
 | Vitriol       | 0 Spent / 0 Total                       |
 |---------------|-----------------------------------------|
 
@@ -205,14 +205,14 @@ You have ~$500/month.
 - When subject to Torment, any expenditure of Pyros costs an additional Pyros.
   Once Torment passes, you are morose and withdrawn for a number of hours equal
   to your Azoth, and cannot spend or regain any Willpower points.
-- As a Galateid, your Torment drives you to foolhardiness and unhealthy
+- As a Galatean, your Torment drives you to foolhardiness and unhealthy
   fixation on the object(s) of your affection. Additionally, take a -1 penalty
   to any Wits roll. Your Torment lasts until your fascination is resolved, or
   for a number of hours equal to your Azoth, whichever happens first.
 
 
 ## Transmutations
-### Mesmerizing Appearance (Galateid Bestowment)
+### Mesmerizing Appearance (Galatean Bestowment)
 - Cost: None or 1 Pyros
 - Action: Reflexive
 - Gain 9-again on any social roll affected by your beauty. If you fail such a
@@ -233,7 +233,7 @@ increase your Presence and Manipulation above the mortal limit of 5 dots.
 - For the rest of the scene, any person contending with Disquiet gains a +1 die
   bonus to their Resolve + Composure roll. It also prevents the first stage of
   Disquiet from advancing ot the second stage. A mortal cannot be affected by
-  thus power for longer than 24 hours. For the week afterwards, they
+  this power for longer than 24 hours. For the week afterwards, they
   automatically fail Disquiet rolls against you.
 
 ### Suggestion (Mesmerism II)
