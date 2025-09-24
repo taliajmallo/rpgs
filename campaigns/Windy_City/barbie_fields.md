@@ -23,7 +23,7 @@
 | Defense       | 3                                       |
 | Initiative    | 5                                       |
 |---------------|-----------------------------------------|
-| Experience    | 5 Spent / 6 Total                       |
+| Experience    | 5 Spent / 9 Total                       |
 | Vitriol       | 0 Spent / 0 Total                       |
 |---------------|-----------------------------------------|
 
