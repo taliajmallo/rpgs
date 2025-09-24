@@ -23,7 +23,7 @@
 | Defense       | 3                                       |
 | Initiative    | 5                                       |
 |---------------|-----------------------------------------|
-| Experience    | 0 Spent / 6 Total                       |
+| Experience    | 5 Spent / 6 Total                       |
 | Vitriol       | 0 Spent / 0 Total                       |
 |---------------|-----------------------------------------|
 
@@ -235,6 +235,25 @@ increase your Presence and Manipulation above the mortal limit of 5 dots.
   Disquiet from advancing ot the second stage. A mortal cannot be affected by
   this power for longer than 24 hours. For the week afterwards, they
   automatically fail Disquiet rolls against you.
+
+### Fixed Stare (Mesmerism I)
+- Cost: None
+- Action: Contested
+- Die Pool: Presence + Resolve + Intimidation vs Resolve + Azoth
+- Make eye contact and stay still to paralyze a target and pause their memory
+  while the paralysis holds. The effect ends immediately if the target is
+  attacked.
+    - Dramatic Failure: The attempt fails, and the target is immune to your
+      Mesmerism transmutations for a day.
+    - Failure: The attempt fails, but you can try again.
+    - Success: So long as you remain motionless, the target remains motionless
+      and unaware of their surroundings. You cannot move, but can still speak.
+      Once the effect ends, the target becomes aware of you if they were not
+      already.
+    - Exceptional Success: When the effect ends, the target is disoriented. If
+      you leave immediately, the target forgets that you were ever there unless
+      they get more successes on a reflexive Wits + Composure than were rolled
+      for this ability's activation.
 
 ### Suggestion (Mesmerism II)
 - Cost: None
