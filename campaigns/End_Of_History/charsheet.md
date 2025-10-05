@@ -241,7 +241,7 @@ conditions.
 ### Stabilize (Cantrip IV)
 
 ## Belongings
-Coinage: 12.75
+Coinage: 11.75
 Bulk <TODO>
 
 ### Armor
