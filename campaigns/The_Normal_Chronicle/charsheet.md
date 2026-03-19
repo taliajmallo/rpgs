@@ -71,9 +71,9 @@
 | Crafts          | ..... |
 | Drive           | ..... |
 | Etiquette       | oo... |
-| Firearms        | ..... |
+| Firearms        | o.... |
 | Martial Arts    | ..... |
-| Meditation      | ooo.. |
+| Meditation      | oo... |
 | Melee           | ..... |
 | Research        | oooo. |
 | Stealth         | o.... |
