@@ -178,4 +178,4 @@ understanding current technology and modes of behavior.
 - 2 Academics III->IV = 2
 - 2 Esoterica III->IV = 0
 ### XP
-0
+0 Starting / 0 Lifetime
