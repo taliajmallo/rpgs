@@ -85,7 +85,7 @@
 | Computer        | ..... |
 | Cosmology       | o.... |
 | Enigmas         | oo... |
-| Esoterica       | ooo.. | Symbolism
+| Esoterica       | oooo. | Symbolism
 | Investigation   | ..... |
 | Law             | o.... |
 | Medicine        | o.... |
