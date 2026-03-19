@@ -7,13 +7,13 @@
 - Essence   :   Primordial
 - Paradigm  :   Creation is Innately Divine and Alive
 - Practice  :   High Ritual
-  - Prayers and Invocations
+  - [Prayers and Invocations]
   - Circles and Designs
   - Writings and Inscriptions
   - Formulae, Equations, and Sacred Mathematics
   - Symbols
   - Gestures
-  - [Meditation]
+  - ~~Meditation~~
 
 ## Stats
 | Statistic    | Track                                   |
