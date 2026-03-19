@@ -3,7 +3,7 @@
 - Concept   :   Time-Lost Echo of a Ritualist
 - Sect      :   Order of Hermes
 - Nature    :   Idealist
-- Demeanor  :   [TBD]
+- Demeanor  :   Bon Vivant
 - Essence   :   Primordial
 - Paradigm  :   Creation is Innately Divine and Alive
 - Practice  :   High Ritual
