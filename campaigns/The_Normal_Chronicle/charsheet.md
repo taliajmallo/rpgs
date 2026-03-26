@@ -29,7 +29,7 @@
 | > Spheres    | Prime III*, Entropy III, Time III,      |
 |              | Forces II                               |
 |--------------|-----------------------------------------|
-| Experience   | 0 Spent / 0 Total                       |
+| Experience   | 0 Spent / 4 Total                       |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -104,7 +104,7 @@
 | Sanctum            | oo    | All magic coincidental, -1 diff rituals
 |--------------------|-------|---------|
 | [Merits]           |
-| Lightning Calc     | o     | -2 diff to math and calculation.
+| Lightning Calc.    | o     | -2 diff to math and calculation.
 |--------------------|-------|---------|
 | [Flaws]            |
 | Paradox Flaw       | o+(6) | Reality is actively trying to erode your existence.
@@ -161,10 +161,10 @@ understanding current technology and modes of behavior.
 
 ## Advancement Audit
 ### Freebies
-15 Starting
-- 8 (Arete) = 7
-+ 12 (flaws) = 19
-+ 35 (a GM most generous and gracious) = 54
++ 15 Starting
++ 35 (a GM most generous and gracious) = 50
++ 12 (flaws) = 62
+- 8 (Arete) = 54
 - 1 (Lightning Calculator) = 53
 - 7 Entropy II->III = 46
 - 14 Time 0->II = 32
@@ -178,4 +178,4 @@ understanding current technology and modes of behavior.
 - 2 Academics III->IV = 2
 - 2 Esoterica III->IV = 0
 ### XP
-0 Starting / 0 Lifetime
++ 4 XP (0 Spent, 4 Gained)
