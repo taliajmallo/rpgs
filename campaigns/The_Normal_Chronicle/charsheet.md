@@ -178,4 +178,4 @@ understanding current technology and modes of behavior.
 - 2 Academics III->IV = 2
 - 2 Esoterica III->IV = 0
 ### XP
-+ 4 XP (0 Spent, 4 Gained)
++ 4 Session End 2026-25-03 (0 Spent, 4 Gained)
