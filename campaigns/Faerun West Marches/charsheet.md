@@ -112,7 +112,8 @@ remain within 100 feet of you to remain at full strength.
 Your eidolon is bound to ideals of cooperation and community, as per the Tribe
 spirit. You gain the Tribal Cooperation supernatural ability. You gain an
 additional hex at 6th, 8th, 10th, and 16th levels, which may be drawn from the
-Tribe spirit's hexes, but use your Wisdom modifier to determine DCs.
+Tribe spirit's hexes, but use your Wisdom modifier to determine DCs for these
+hexes.
 
 ### Hex (I)
 You have the Slumber hex.
@@ -301,4 +302,3 @@ per day equal to 3 + your Charisma modifier.
 
 # Eidolon
 3 HD / +3 BAB / +3 Good saves / +1 Bad Saves / 12 skills / 2 Feats / +2 AC / +1 Str,Dex / 7+1 Evo Pool / 4 attacks max
-
