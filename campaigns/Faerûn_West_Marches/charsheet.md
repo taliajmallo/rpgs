@@ -23,14 +23,14 @@ LN Half-Elf worshipper of Tyr
 ### Combat
 | **Statistic** | Sum   | Base  | Ability | Boni  |
 |---------------|-------|-------|---------|-------|
-| *Armor Class* | 17    | 10    | +3 Dex  | +4 Armor
+| *Armor Class* | 17    | 10    | +3 Dex  | +4 Armor, +2 Shield in Eidolon's reach
 | *Flat-Footed* | 14    | 10    |  0 N/A  | ''
 | *Touch*       | 13    | 10    | +3 Dex  |
 | *CMD*         | 18    | 10    | +5 S+D  | +3 BAB
 |---------------|-------|-------|---------|-------|
-| *Fortitude*   | +3    | +1    | +2 Con  |
-| *Reflex*      | +4    | +1    | +3 Dex  |
-| *Will*        | +5    | +4    | +1 Wis  | +2/Enchantment
+| *Fortitude*   | +3    | +1    | +2 Con  | +2 Circ. in Eidolon's reach
+| *Reflex*      | +4    | +1    | +3 Dex  | +2 Circ. in Eidolon's reach
+| *Will*        | +5    | +4    | +1 Wis  | +2 Circ. in Eidolon's reach, +2/Ench.
 |---------------|-------|-------|---------|-------|
 | *Initiative*  | +3    | N/A   | +3 Dex  |
 |---------------|-------|-------|---------|-------|
@@ -43,19 +43,19 @@ LN Half-Elf worshipper of Tyr
 
 
 ### Skills
-|   Skill               | Total | Rank  | Ability |  Boni  |
-|-----------------------|-------|-------|---------|--------|
-|  *Bluff*              | +11   |  2+3  | +5 Int  | +1 Trait (unless disheveled)
-|  *Diplomacy*          | +11   |  2+3  | +5 Int  | +1 Trait (unless disheveled)
-|  *Kn. [Arcana]*       | +12   |  4+3  | +5 Int  |
-|  *Kn. [Engineering]*  | +9    |  1+3  | +5 Int  |
-|  *Kn. [Geography]*    | +9    |  1+3  | +5 Int  |
-|  *Kn. [Local]*        | +12   |  4+3  | +5 Int  |
-|  *Kn. [Nature]*       | +9    |  1+3  | +5 Int  |
-|  *Kn. [Planes]*       | +9    |  1+3  | +5 Int  |
-|  *Kn. [Religion]*     | +12   |  4+3  | +5 Int  |
-|  *Perception*         | +13   |  4+3  | +1 Wis  | +2 Racial, +3
-|  *Spellcraft*         | +12   |  4+3  | +5 Int  |
+|   Skill             | Total | Rank  | Ability |  Boni  |
+|---------------------|-------|-------|---------|--------|
+| *Bluff*             | +11   |  2+3  | +5 Int  | +1 Trait (unless disheveled)
+| *Diplomacy*         | +11   |  2+3  | +5 Int  | +1 Trait (unless disheveled)
+| *Kn. [Arcana]*      | +12   |  4+3  | +5 Int  |
+| *Kn. [Engineering]* | +9    |  1+3  | +5 Int  |
+| *Kn. [Geography]*   | +9    |  1+3  | +5 Int  |
+| *Kn. [Local]*       | +12   |  4+3  | +5 Int  |
+| *Kn. [Nature]*      | +9    |  1+3  | +5 Int  |
+| *Kn. [Planes]*      | +9    |  1+3  | +5 Int  |
+| *Kn. [Religion]*    | +12   |  4+3  | +5 Int  |
+| *Perception*        | +13   |  4+3  | +1 Wis  | +2 Racial, +3
+| *Spellcraft*        | +12   |  4+3  | +5 Int  |
 Misc: -2 if untrained
 
 ## Languages, Proficiencies
@@ -295,11 +295,11 @@ damage. Whether or not the save is successful, a creature cannot be the target
 of this hex again for one day.
 
 ### Protective Luck (Su)
-Bless a creature within 30 feet with protective luck. Whenever that creature is
-targeted by an effect that requires an attack roll, including weapon attacks,
-the attacker must roll twice and take the worse result. At 8th and 16th level,
-the duration of this hex is extended by 1 round. You cannot use this hex on
-yourself. Hexes that affect the fortune hex also affect protective luck.
+Bless a creature within 30 feet with protective luck for 1 round. Whenever that
+creature is targeted by an effect that requires an attack roll, including weapon
+attacks, the attacker must roll twice and take the worse result. At 8th and 16th
+level, the duration of this hex is extended by 1 round. You cannot use this hex
+on yourself. Hexes that affect the fortune hex also affect protective luck.
 
 ### Healing (Su)
 You can touch a creature to heal 1d8 points of damage plus 1 per caster level.
