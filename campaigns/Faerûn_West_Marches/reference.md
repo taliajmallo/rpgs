@@ -62,7 +62,6 @@
 | *Use Magic Device*  | +6    |
 |---------------------|-------|--------|
 
-
 ## Status
 - Status Effects:
 
