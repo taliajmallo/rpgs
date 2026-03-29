@@ -76,7 +76,7 @@
   - Pursuit of Glory: If charge starts or ends adj, +2 morale on one attack; charge through allies.
 
 ### Eidolon At-Will
-- ⬗ Standard Attack: 15' reach. +8/AC, 1d10+7 damage.
+- ⬗ Standard Attack: 15' reach. +8/AC (18-20/x2), 1d10+7 slashing damage.
   - Opportunity Attack: Can be made 3x/round.
   - Power Attack: -1 attack roll, +3 damage.
 - ⟐ Move: 30' movement speed.
