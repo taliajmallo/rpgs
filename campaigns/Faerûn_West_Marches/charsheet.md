@@ -431,7 +431,7 @@ rounds plus 1 round for every 2 class levels. You may use this a number of times
 per day equal to 3 + your Charisma modifier.
 
 # Items
-## Equipped ([TBD])
+## Equipped (Ilsivel)
 ### Fine Clothing
 (150 gp; --)
 Fine clothing worth 150gp.
