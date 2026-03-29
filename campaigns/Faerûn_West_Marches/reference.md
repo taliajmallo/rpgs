@@ -53,7 +53,15 @@
 | *Spellcraft*        | +12   |
 |---------------------|-------|--------|
 | [Eidolon]                   |
-| [TODO]                      |
+| *Bluff*             | +4    |
+| *Heal*              | +6    |
+| *Intimidate*        | +5    |
+| *Perception*        | +5    |
+| *Sense Motive*      | +4    |
+| *Stealth*           | +6    |
+| *Use Magic Device*  | +6    |
+|---------------------|-------|--------|
+
 
 ## Status
 - Status Effects:

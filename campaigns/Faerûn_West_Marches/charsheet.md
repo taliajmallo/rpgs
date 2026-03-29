@@ -201,7 +201,15 @@ consciousness, your eidolon is banished normally.
 Power Attack: -1 Attack; +3 Damage.
 
 ### Skills
-[TODO]
+|   Skill             | Total | Rank  | Ability |  Boni  |
+|---------------------|-------|-------|---------|--------|
+| *Bluff*             | +4    |  1+3  | +0 Cha  |
+| *Heal*              | +6    |  3+3  | +0 Wis  |
+| *Intimidate*        | +5    |  2+3  | +0 Cha  |
+| *Perception*        | +5    |  1+3  | +1 Wis  |
+| *Sense Motive*      | +4    |  1+3  | +0 Wis  |
+| *Stealth*           | +6    |  1+3  | +2 Dex  |
+| *Use Magic Device*  | +6    |  3+3  | +0 Cha  |
 
 ## Bipedal Eidolon
 Your eidolon is a medium outsider with a base speed of 30'. You have +2 natural
