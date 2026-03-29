@@ -1,4 +1,7 @@
 # Ilsivel
+## Bio
+LN Half-Elf worshipper of Tyr
+
 ## Stats
 ### Ability Scores
 |  Stat   | Total   | Base  | Item  | Temp  |
