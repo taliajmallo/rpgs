@@ -21,15 +21,15 @@
 | Health       | [ ] [ ] [ ] [ ] [ ] [ ] [ ]             |
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
-| Willpower    | [x] [x] [x] [x] [x]                     |
-| Quintessence | [x] [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] |
+| Willpower    | [x] [x] [x] [x] [ ]                     |
+| Quintessence | [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] [ ] |
 |    & Paradox | [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
 | Arete        | Rating III                              |
 | > Spheres    | Prime III*, Entropy III, Time III,      |
 |              | Forces II                               |
 |--------------|-----------------------------------------|
-| Experience   | 0 Spent / 4 Total                       |
+| Experience   | 0 Spent / 8 Total                       |
 |--------------|-----------------------------------------|
 
 ## Attributes
@@ -178,4 +178,5 @@ understanding current technology and modes of behavior.
 - 2 Academics III->IV = 2
 - 2 Esoterica III->IV = 0
 ### XP
-+ 4 Session End 2026-25-03 (0 Spent, 4 Gained)
++ 4 Session End 2026-03-25 (0 Spent, 4 Total)
++ 4 Session End 2026-04-01 (0 Spent, 8 Total)
