@@ -47,11 +47,14 @@ LN Half-Elf worshipper of Tyr
 |---------------------|-------|-------|---------|--------|
 | *Bluff*             | +11   |  2+3  | +5 Int  | +1 Trait (unless disheveled)
 | *Diplomacy*         | +11   |  2+3  | +5 Int  | +1 Trait (unless disheveled)
-| *Kn. [Arcana]*      | +12   |  4+3  | +5 Int  |
+| *Kn. [Arcana]*      | +9    |  1+3  | +5 Int  |
+| *Kn. [Dungeon]*     | +9    |  1+3  | +5 Int  |
 | *Kn. [Engineering]* | +9    |  1+3  | +5 Int  |
 | *Kn. [Geography]*   | +9    |  1+3  | +5 Int  |
+| *Kn. [History]*     | +9    |  1+3  | +5 Int  |
 | *Kn. [Local]*       | +12   |  4+3  | +5 Int  |
 | *Kn. [Nature]*      | +9    |  1+3  | +5 Int  |
+| *Kn. [Nobility]*    | +9    |  1+3  | +5 Int  |
 | *Kn. [Planes]*      | +9    |  1+3  | +5 Int  |
 | *Kn. [Religion]*    | +12   |  4+3  | +5 Int  |
 | *Perception*        | +13   |  4+3  | +1 Wis  | +2 Racial, +3

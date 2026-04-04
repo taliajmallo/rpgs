@@ -42,13 +42,15 @@
 | [Ilsivel]                   | -2 if untrained
 | *Bluff*             | +11   | -1 if disheveled
 | *Diplomacy*         | +11   | -1 if disheveled
-| *Kn. [Arcana]*      | +12   |
+| *Kn. [Arcana]*      | +9    |
+| *Kn. [Dungeon]*     | +9    |
 | *Kn. [Engineering]* | +9    |
 | *Kn. [Geography]*   | +9    |
+| *Kn. [History]*     | +9    |
 | *Kn. [Local]*       | +12   |
 | *Kn. [Nature]*      | +9    |
+| *Kn. [Nobility]*    | +9    |
 | *Kn. [Planes]*      | +9    |
-| *Kn. [Religion]*    | +12   |
 | *Perception*        | +13   |
 | *Spellcraft*        | +12   |
 |---------------------|-------|--------|
