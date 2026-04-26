@@ -45,8 +45,8 @@ LN Half-Elf worshipper of Tyr
 ### Skills
 |   Skill             | Total | Rank  | Ability |  Boni  |
 |---------------------|-------|-------|---------|--------|
-| *Bluff*             | +11   |  2+3  | +5 Int  | +1 Trait (unless disheveled)
-| *Diplomacy*         | +11   |  2+3  | +5 Int  | +1 Trait (unless disheveled)
+| *Bluff*             | +13   |  2+3  | +5 Int  | +2 Circ, +1 Trait (unless disheveled)
+| *Diplomacy*         | +13   |  2+3  | +5 Int  | +2 Circ, +1 Trait (unless disheveled)
 | *Kn. [Arcana]*      | +9    |  1+3  | +5 Int  |
 | *Kn. [Dungeon]*     | +9    |  1+3  | +5 Int  |
 | *Kn. [Engineering]* | +9    |  1+3  | +5 Int  |
@@ -435,9 +435,17 @@ per day equal to 3 + your Charisma modifier.
 
 # Items
 ## Equipped (Ilsivel)
-### Fine Clothing
-(150 gp; --)
-Fine clothing worth 150gp.
+### Silken Gown
+(200 gp; --)
+Donning this clothing requires assistance and a successful DC 15 Knowledge
+Nobility check. When dealing in an appropriate cultural context, a properly worn
+gown grants a +2 circumstance bonuses on Diplomacy checks, as well as on
+Disguise checks made to appear as a person of high standing.
+### Veil
+(40 gp; --)
+While worn, a veil grants a +2 circumstance bonus on Bluff checks; however, the
+wearer treats all other creatures as having concealment. The wearer has a 50%
+chance to avoid gaze attacks, as if averting her eyes.
 
 ### Chain Shirt
 (100 gp; 25 lbs)
@@ -450,22 +458,17 @@ Exotic weapon (polearm). 1d10 slashing; 18-20/x2; reach, trip.
 
 ## Carried
 ### Coinpurse
-3330 gold in your accounts.
+3240 gold in your accounts.
 
-## Mundane Item Workplace
+## Mundane Item Workplace (NOT YET PURCHASED)
 -  50.00 gp /   4 lbs | Backpack (Masterwork)
 -   0.10 gp /   5 lbs | Bedroll
 -   0.50 gp /   3 lbs | Blanket
--  50.00 gp / 0.5 lbs | Book of War Prayers
 -   0.10 gp / --- lbs | Chalk x10
 -  10.00 gp / 0.5 lbs | Compass
 -  10.00 gp /  15 lbs | Tent, Small 
--  25.00 gp /   1 lbs | Hourglass
 -   1.00 gp /  10 lbs | Rope (50')
 -   5.00 gp / --- lbs | Signet Ring
 -   0.20 gp /   1 lbs | Mess Kit
 -   0.01 gp / 0.5 lbs | Soap
--   1.00 gp /   4 lbs | Waterskin
--  40.00 gp / --- lbs | Veil        (+2 Bluff, All have concealment)
-- +50.00 gp / --- lbs | Silk Kimono (+2 Diplomacy w/ cultural context)
-- 
+-   1.00 gp /   4 lbs | Waterskin 

@@ -40,8 +40,8 @@
 |   Skill             | Total |  Boni  |
 |---------------------|-------|--------|
 | [Ilsivel]                   | -2 if untrained
-| *Bluff*             | +11   | -1 if disheveled
-| *Diplomacy*         | +11   | -1 if disheveled
+| *Bluff*             | +13   | -1 if disheveled
+| *Diplomacy*         | +13   | -1 if disheveled
 | *Kn. [Arcana]*      | +9    |
 | *Kn. [Dungeon]*     | +9    |
 | *Kn. [Engineering]* | +9    |
