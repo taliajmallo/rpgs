@@ -458,9 +458,9 @@ Exotic weapon (polearm). 1d10 slashing; 18-20/x2; reach, trip.
 
 ## Carried
 ### Coinpurse
-3240 gold in your accounts.
+3162.09 gold in your accounts.
 
-## Mundane Item Workplace (NOT YET PURCHASED)
+### Mundane Items
 -  50.00 gp /   4 lbs | Backpack (Masterwork)
 -   0.10 gp /   5 lbs | Bedroll
 -   0.50 gp /   3 lbs | Blanket
@@ -471,4 +471,4 @@ Exotic weapon (polearm). 1d10 slashing; 18-20/x2; reach, trip.
 -   5.00 gp / --- lbs | Signet Ring
 -   0.20 gp /   1 lbs | Mess Kit
 -   0.01 gp / 0.5 lbs | Soap
--   1.00 gp /   4 lbs | Waterskin 
+-   1.00 gp /   4 lbs | Waterskin
