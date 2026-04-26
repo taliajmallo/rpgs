@@ -18,7 +18,7 @@ LN Half-Elf worshipper of Tyr
 |---------------|-----|-----------|
 | *HP*          | 33  |  +4 / Long Rest
 | *Teamwork*    | 1   | ->1 / Long Rest
-| *Hero*        | 1   |
+| *Hero*        | 5   |  +1 / Level
 
 ### Combat
 | **Statistic** | Sum   | Base  | Ability | Boni  |
@@ -451,3 +451,21 @@ Exotic weapon (polearm). 1d10 slashing; 18-20/x2; reach, trip.
 ## Carried
 ### Coinpurse
 3330 gold in your accounts.
+
+## Mundane Item Workplace
+-  50.00 gp /   4 lbs | Backpack (Masterwork)
+-   0.10 gp /   5 lbs | Bedroll
+-   0.50 gp /   3 lbs | Blanket
+-  50.00 gp / 0.5 lbs | Book of War Prayers
+-   0.10 gp / --- lbs | Chalk x10
+-  10.00 gp / 0.5 lbs | Compass
+-  10.00 gp /  15 lbs | Tent, Small 
+-  25.00 gp /   1 lbs | Hourglass
+-   1.00 gp /  10 lbs | Rope (50')
+-   5.00 gp / --- lbs | Signet Ring
+-   0.20 gp /   1 lbs | Mess Kit
+-   0.01 gp / 0.5 lbs | Soap
+-   1.00 gp /   4 lbs | Waterskin
+-  40.00 gp / --- lbs | Veil        (+2 Bluff, All have concealment)
+- +50.00 gp / --- lbs | Silk Kimono (+2 Diplomacy w/ cultural context)
+- 
