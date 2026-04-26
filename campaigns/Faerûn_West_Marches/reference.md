@@ -5,8 +5,8 @@
 | *Ilsivel HP*    | 33/33       |
 | *Eidolon HP*    | 33/33       |
 | *Share Senses*  | 4/4         |
-| *Teamwork*      | [x]         |
-| *Hero*          | [x]         |
+| *Teamwork*      | [ ]         |
+| *Hero*          | 5           |
 
 ## Stats
 | **Statistic** | Sum   | Boni  |
@@ -51,6 +51,7 @@
 | *Kn. [Nature]*      | +9    |
 | *Kn. [Nobility]*    | +9    |
 | *Kn. [Planes]*      | +9    |
+| *Kn. [Religion]*    | +12   |
 | *Perception*        | +13   |
 | *Spellcraft*        | +12   |
 |---------------------|-------|--------|
