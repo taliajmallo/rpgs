@@ -21,7 +21,7 @@
 | Health       | [ ] [ ] [ ] [ ] [ ] [ ] [ ]             |
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
-| Willpower    | [x] [x] [x] [x] [ ]                     |
+| Willpower    | [x] [x] [x] [x] [x]                     |
 | Quintessence | [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] [ ] |
 |    & Paradox | [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
@@ -180,3 +180,4 @@ understanding current technology and modes of behavior.
 ### XP
 + 4 Session End 2026-03-25 (0 Spent, 4 Total)
 + 4 Session End 2026-04-01 (0 Spent, 8 Total)
++ 4 Session End 2026-05-13 (0 Spent, 12 Total)
