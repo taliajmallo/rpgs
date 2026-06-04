@@ -181,3 +181,5 @@ understanding current technology and modes of behavior.
 + 4 Session End 2026-03-25 (0 Spent, 4 Total)
 + 4 Session End 2026-04-01 (0 Spent, 8 Total)
 + 4 Session End 2026-05-13 (0 Spent, 12 Total)
++ 4 Session End 2026-05-20 (0 Spent, 16 Total)
++ 4 Session End 2026-06-03 (0 Spent, 20 Total)
