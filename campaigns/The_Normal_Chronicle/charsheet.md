@@ -25,7 +25,7 @@
 | Quintessence | [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] [ ] |
 |    & Paradox | [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
 |--------------|-----------------------------------------|
-| Arete        | Rating III                              |
+| Arete        | Rating IV                               |
 | > Spheres    | Prime III*, Entropy III, Time III,      |
 |              | Forces II                               |
 |--------------|-----------------------------------------|
@@ -184,5 +184,7 @@ understanding current technology and modes of behavior.
 + 4 Session End 2026-05-20 (0 Spent, 16 Total)
 + 4 Session End 2026-06-03 (0 Spent, 20 Total)
 + 4 Session End 2026-06-16 (0 Spent, 24 Total)
-- 24 Arete III->IV (24 Spent, 24 Total) *PENDING SEEKING*
+- 24 Arete III->IV (24 Spent, 24 Total)
 + 4 Session End 2026-07-01 (24 Spent, 28 Total)
++ 4 Session End 2026-07-08 (24 Spent, 32 Total)
++ 4 Session End 2026-07-29 (24 Spent, 36 Total)
