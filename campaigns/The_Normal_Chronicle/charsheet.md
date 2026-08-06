@@ -22,8 +22,8 @@
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
 | Willpower    | [x] [x] [x] [x] [ ]                     |
-| Quintessence | [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] [ ] |
-|    & Paradox | [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
+| Quintessence | [x] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
+|    & Paradox | [ ] [ ] [ ] [ ] [ ] [ ] [ ] [x] [x] [x] |
 |--------------|-----------------------------------------|
 | Arete        | Rating IV                               |
 | > Spheres    | Prime III*, Entropy III, Time III,      |
@@ -188,3 +188,4 @@ understanding current technology and modes of behavior.
 + 4 Session End 2026-07-01 (24 Spent, 28 Total)
 + 4 Session End 2026-07-08 (24 Spent, 32 Total)
 + 4 Session End 2026-07-29 (24 Spent, 36 Total)
++ 4 Session End 2026-08-05 (24 Spent, 40 Total)
