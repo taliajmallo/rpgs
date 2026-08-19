@@ -29,9 +29,9 @@ Witch I (Rogue, Brass 1)
 |  **Resolve**             |   2    |  -
 
 ## Goals
-*Motivation*: Survival
-*Short-term ambition*:
-*Long-term ambition*:
+- *Motivation*: Survival
+- *Short-term ambition*:
+- *Long-term ambition*:
 
 ## Skills
 ### Trained
