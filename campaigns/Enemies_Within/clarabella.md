@@ -192,7 +192,7 @@ Clarabella has gone by the following aliases:
 # Soot
 Animal Familiar (Cat)
 Power Familiar I (Gifted Animal)
-0 XP Gained, 0 XP Spent
+50 XP Gained, 0 XP Spent
 
 ## Attributes
 ### Primary Characteristics
@@ -282,3 +282,6 @@ You may ignore the Bestial condition.
 You may ignore the magic clause of Skittish.
 ### Weapon +3
 When attacking with claws and teeth, do Damage equal to this trait's Rating.
+
+## XP Audit
++ 50 Attributes in Order (50 Gained, 0 Spent)
