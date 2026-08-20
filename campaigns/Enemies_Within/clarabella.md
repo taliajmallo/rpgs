@@ -2,10 +2,11 @@
 ## Summary
 Human (Middenheim)
 Witch I (Rogue, Brass 1)
-130 XP Total, 125 XP Spent
+130 XP Gained, 125 XP Spent
 
 ## Attributes
-|  Primary Attributes      |  Adv.  |  Base  |  Total |
+### Primary Characteristics
+|  Primary Characteristics |  Adv.  |  Base  |  Total |
 |--------------------------|--------|--------|--------|
 |  **WS  (Weap. Skill)**   |  -     |  30    |  30
 |  **BS  (Bal. Skill)**    |  -     |  30    |  30
@@ -18,8 +19,8 @@ Witch I (Rogue, Brass 1)
 |  **WP  (Willpower)**     |  3     |  37    |  40
 |  **Fel (Fellowship)**    |  -     |  35    |  35
 
-### Secondary Attributes
-|  Secondary Attributes    |  Max   |  Current  |
+### Derived Characteristics
+|  Derived Characteristics |  Max   |  Current  |
 |--------------------------|--------|-----------|
 |  **W (Wounds)**          |   9    |  9
 |  **M (Movement)**        |   3    |  -
@@ -184,12 +185,106 @@ Clarabella has gone by the following aliases:
 - Ari
 
 ## XP Audit
-+ 20 XP Species (20 Total, 0 Spent)
-+ 25 Attribute Reorder (45 Total, 0 Spent)
-+ 10 Build (55 Total, 0 Spent)
-+ 25 Distinguishing Features (80 Total, 0 Spent)
-+ 50 Family (130 Total, 0 Spent)
-- 25 WP++ (130 Total, 25 Spent)
-- 25 WP++ (130 Total, 50 Spent)
-- 25 WP++ (130 Total, 75 Spent)
-- 50 Learn Petty Spell (130 Total, 125 Spent)
++ 20 XP Species (20 Gained, 0 Spent)
++ 25 Attribute Reorder (45 Gained, 0 Spent)
++ 10 Build (55 Gained, 0 Spent)
++ 25 Distinguishing Features (80 Gained, 0 Spent)
++ 50 Family (130 Gained, 0 Spent)
+- 25 WP++ (130 Gained, 25 Spent)
+- 25 WP++ (130 Gained, 50 Spent)
+- 25 WP++ (130 Gained, 75 Spent)
+- 50 Discounted Familiar (130 Gained, 125 Spent)
+
+# Soot
+Animal Familiar (Cat)
+Power Familiar I (Gifted Animal)
+0 XP Gained, 0 XP Spent
+
+## Attributes
+### Primary Characteristics
+|  Primary Characteristics |  Adv.  |  Base  |  Total |
+|--------------------------|--------|--------|--------|
+|  **WS  (Weap. Skill)**   |  -     |  41    |  41
+|  **BS  (Bal. Skill)**    |  -     |  --    |  --
+|  **S   (Strength)**      |  -     |  13    |  13
+|  **T   (Toughness)**     |  -     |  19    |  19
+|  **I   (Initiative)**    |  -     |  36    |  36
+|  **Ag  (Agility)**       |  -     |  44    |  44
+|  **Dex (Dexterity)**     |  -     |  --    |  --
+|  **Int (Intelligence)**  |  -     |   8    |   8
+|  **WP  (Willpower)**     |  3     |  15    |  15
+|  **Fel (Fellowship)**    |  -     |  30    |  30
+
+### Derived Characteristics
+|  Derived Characteristics |  Max   |  Current  |
+|--------------------------|--------|-----------|
+|  **W (Wounds)**          |   2    |  2
+|  **M (Movement)**        |   5    |  -
+|  **Fate**                |   2    |  -
+|  **Fortune**             |   3    |  -
+|  **Resilience**          |   1    |  -
+|  **Resolve**             |   1    |  -
+
+## Skills
+### Trained
+| Skill                     | Adv.  |
+|---------------------------|-------|
+| Athletics                 | 5     |
+| Climb                     | 5     |
+| Cool                      | 5     |
+| Dodge                     | 8     |
+| Entertain (Cutes)         | 5     |
+| Intuition                 | 5     |
+| Language (Barnyard)       | 5     |
+| Outdoor Survival          | 5     |
+| Perception                | 8     |
+| Stealth (Urban)           | 5     |
+
+## Talents
+### Luck
+- Max: Fellowship Bonus
+- Tests: None
+- Your maximum Fortune points are increased by the number of times you've taken
+  this talent.
+### Scale Sheer Surface
+- Max: Strength Bonus
+- Tests: Climb
+- You can attempt to climb even seemingly impossible surfaces, and ignore any
+  penalties to Climb tests derived from the difficulty of the surface.
+### Animal Assistant
+- Max: 1
+- Tests: None
+- You may assist your mistress with any Channeling or Language (Magick) tests
+  she makes. Additionally, you may assist Outdoor Survival tests, and Perception
+  tests that are magical in nature. Assisting grants a +10 bonus regardless of
+   whether you know the skill.
+### Night Vision
+- Max: Initiative Bonus
+- Tests: Perception tests in low-light conditions
+- Assuming you have at least a faint source of light, you can see clearly for
+  twenty yards per level of Night Vision. Further, you can extend the effective
+  illumination distance of any light sources by 20 yards per level of Night
+  Vision.
+
+## Traits
+### Animal Skill & Characteristic Modifications
+Outdoor Survival uses Initiative instead of Intelligence. Climb and Swim use
+Agility instead of Strength.
+### Bestial
+Ignored because of the Trained (Broken) trait.
+### Night Vision
+Gain one rank of the Night Vision Talent.
+### Size (Little)
+See book.
+### Skittish
+You are easily scared by loud noises. If such occurs, gain +3 Broken conditions.
+### Stealthy
+Add your Agility Bonus to the SL of all Stealth tests.
+### Stride
+Multiply Run Movement by 1.5 when Running.
+### Trained (Broken)
+You may ignore the Bestial condition.
+### Trained (Magic)
+You may ignore the magic clause of Skittish.
+### Weapon +3
+When attacking with claws and teeth, do Damage equal to this trait's Rating.
