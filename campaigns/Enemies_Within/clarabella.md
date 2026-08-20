@@ -159,19 +159,18 @@ Book of stories and fables, diary, charcoal pencil
 ### Coinpurse
 4 Pennies
 
-
 ## Biographical Info
 Age 16, born under the Witchling star in Middenheim to the Rosenblum mercantile
 family. She has two surviving parents (Ingfrid, 44; Luther, 38) and four
 siblings (Reinbert, 20; Adelinde, 17; Roderick, 13; Fredemund, 7). She was
 engaged at a young age to the son of a trade partner of her parents' (Dietrich
-Kepler, 16), though that engagement has quite fallen through.
+Kepler, 16), though that engagement has quite fallen through. She has pale grey
+eyes, long auburn hair, and stands at 5'3" tall.
 
 Eight years ago, she accidentally demonstrated magic, and fled her home, lest
 her parents turn her in to a witch-hunter. She has lived on the street since.
 This life of hardship has given her a frail and fragile build, as well as a
 persistent limp that she's never quite recovered from.
-
 
 ## XP Audit
 + 20 XP Species (20 Total, 0 Spent)
