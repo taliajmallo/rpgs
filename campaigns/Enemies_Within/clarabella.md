@@ -23,10 +23,10 @@ Witch I (Rogue, Brass 1)
 |--------------------------|--------|-----------|
 |  **W (Wounds)**          |   9    |  9
 |  **M (Movement)**        |   3    |  -
-|  **Fate**                |   4    |  -
-|  **Fortune**             |   4    |  -
-|  **Resilience**          |   2    |  -
-|  **Resolve**             |   2    |  -
+|  **Fate**                |   5    |  -
+|  **Fortune**             |   5    |  -
+|  **Resilience**          |   1    |  -
+|  **Resolve**             |   1    |  -
 
 ## Goals
 - *Motivation*: Survival
