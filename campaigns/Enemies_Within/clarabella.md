@@ -172,6 +172,17 @@ her parents turn her in to a witch-hunter. She has lived on the street since.
 This life of hardship has given her a frail and fragile build, as well as a
 persistent limp that she's never quite recovered from.
 
+### Aliases
+Clarabella has gone by the following aliases:
+- Clarabella
+- Clara
+- Bella
+- Laura
+- Rosabella
+- Rosa
+- Aribella
+- Ari
+
 ## XP Audit
 + 20 XP Species (20 Total, 0 Spent)
 + 25 Attribute Reorder (45 Total, 0 Spent)
