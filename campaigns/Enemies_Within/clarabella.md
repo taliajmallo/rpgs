@@ -206,7 +206,7 @@ Power Familiar I (Gifted Animal)
 |  **Ag  (Agility)**       |  -     |  44    |  44
 |  **Dex (Dexterity)**     |  -     |  --    |  --
 |  **Int (Intelligence)**  |  -     |   8    |   8
-|  **WP  (Willpower)**     |  3     |  15    |  15
+|  **WP  (Willpower)**     |  -     |  15    |  15
 |  **Fel (Fellowship)**    |  -     |  30    |  30
 
 ### Derived Characteristics
