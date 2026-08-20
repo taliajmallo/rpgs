@@ -134,12 +134,6 @@ Witch I (Rogue, Brass 1)
 - Duration: Initiative Bonus minutes
 - Whatever the target says is written down via some means you have at hand: ink
   on parchment, chalk on stone, lines scraped in dirt.
-### Open, Please? (Petty)
-- CN 0
-- Range: Touch
-- Target: Special
-- Duration: Instant
-- One non-magical lock you touch opens.
 ### Keep Me Safe From Storms (Petty)
 - CN 0
 - Range: You
