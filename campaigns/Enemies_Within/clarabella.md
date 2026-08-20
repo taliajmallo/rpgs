@@ -155,7 +155,7 @@ Clothing, dagger, pouch, sling bag containing 2 candles, a hood
 ### Career Trappings
 Candles, chalk, doll, pins
 ### Personal Belongings
-Book of stories and fables, diary, charcoal pencil
+Book of stories and fables, diary, charcoal pencil, walking-stick
 ### Coinpurse
 4 Pennies
 
