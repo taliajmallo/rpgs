@@ -212,7 +212,7 @@ Power Familiar I (Gifted Animal)
 ### Derived Characteristics
 |  Derived Characteristics |  Max   |  Current  |
 |--------------------------|--------|-----------|
-|  **W (Wounds)**          |   3    |  3
+|  **W (Wounds)**          |   4    |  4
 |  **M (Movement)**        |   5    |  -
 |  **Fate**                |   2    |  -
 |  **Fortune**             |   3    |  -
