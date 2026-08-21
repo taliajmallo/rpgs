@@ -17,7 +17,7 @@ Witch I (Rogue, Brass 1)
 |  **Dex (Dexterity)**     |  -     |  33    |  33
 |  **Int (Intelligence)**  |  -     |  39    |  39
 |  **WP  (Willpower)**     |  3     |  37    |  40
-|  **Fel (Fellowship)**    |  -     |  35    |  35
+|  **Fel (Fellowship)**    |  5     |  35    |  40
 
 ### Derived Characteristics
 |  Derived Characteristics |  Max   |  Current  |
@@ -206,13 +206,13 @@ Power Familiar I (Gifted Animal)
 |  **Ag  (Agility)**       |  -     |  44    |  44
 |  **Dex (Dexterity)**     |  -     |  --    |  --
 |  **Int (Intelligence)**  |  -     |   8    |   8
-|  **WP  (Willpower)**     |  -     |  15    |  15
+|  **WP  (Willpower)**     |  5     |  15    |  20
 |  **Fel (Fellowship)**    |  -     |  30    |  30
 
 ### Derived Characteristics
 |  Derived Characteristics |  Max   |  Current  |
 |--------------------------|--------|-----------|
-|  **W (Wounds)**          |   2    |  2
+|  **W (Wounds)**          |   3    |  3
 |  **M (Movement)**        |   5    |  -
 |  **Fate**                |   2    |  -
 |  **Fortune**             |   3    |  -
