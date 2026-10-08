@@ -18,10 +18,10 @@
 ## Stats
 | Statistic    | Track                                   |
 |--------------|-----------------------------------------|
-| Health       | [ ] [ ] [ ] [ ] [ ] [ ] [ ]             |
+| Health       | [x] [ ] [ ] [ ] [ ] [ ] [ ]             |
 | (Ref)        |  -  -1  -1  -2  -2  -5   X              |
 |--------------|-----------------------------------------|
-| Willpower    | [x] [x] [x] [x] [ ]                     |
+| Willpower    | [x] [x] [x] [x] [x]                     |
 | Quintessence | [x] [x] [x] [x] [x] [ ] [ ] [ ] [ ] [ ] |
 |    & Paradox | [ ] [ ] [ ] [ ] [ ] [ ] [ ] [x] [x] [x] |
 |--------------|-----------------------------------------|
@@ -102,6 +102,7 @@
 | Avatar             | ooooo | Stores 5 Quintessence
 | Chantry            | o     | You have membership in the Normal Chantry.
 | Sanctum            | oo    | All magic coincidental, -1 diff rituals
+| Totem              | o     | You can communicate telepathically to your cabal.
 |--------------------|-------|---------|
 | [Merits]           |
 | Lightning Calc.    | o     | -2 diff to math and calculation.
@@ -133,6 +134,8 @@ this space by you and your allies is always coincidental, and rituals have their
 difficulty reduced by 1. Furthermore, the space has an Arcane rating equal to
 its Sanctum rating, and the Gauntlet is reduced by one within it. Finally, it
 has a stock of materials and supplies you can use for your works.
+#### Totem I
+You can communicate telepathically with your cabal via the coffee goat union.
 
 ### Merits
 #### Lightning Calculator I
@@ -191,3 +194,6 @@ understanding current technology and modes of behavior.
 + 4 Session End 2026-08-05 (24 Spent, 40 Total)
 + 4 Session End 2026-09-02 (24 Spent, 44 Total)
 + 4 Session End 2026-09-09 (24 Spent, 48 Total)
++ 4 Session End 2026-09-23 (24 Spent, 52 Total)
+- 2 Goat Totem Purchase (26 Spent, 52 Total)
++ 4 Session End 2026-10-07 (26 Spent, 56 Total)
