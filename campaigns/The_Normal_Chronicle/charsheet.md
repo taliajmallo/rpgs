@@ -27,7 +27,7 @@
 |--------------|-----------------------------------------|
 | Arete        | Rating IV                               |
 | > Spheres    | Prime III*, Entropy III, Time III,      |
-|              | Forces II                               |
+|              | Forces II, Mind I                       |
 |--------------|-----------------------------------------|
 | Experience   | 0 Spent / 8 Total                       |
 |--------------|-----------------------------------------|
@@ -197,3 +197,6 @@ understanding current technology and modes of behavior.
 + 4 Session End 2026-09-23 (24 Spent, 52 Total)
 - 2 Goat Totem Purchase (26 Spent, 52 Total)
 + 4 Session End 2026-10-07 (26 Spent, 56 Total)
+- 10 Mind 0->I (36 Spent, 56 Total)
++ 4 Session End 2026-10-21 (36 Spent, 60 Total)
++ 4 Session End 2026-10-28 (36 Spent, 64 Total)
