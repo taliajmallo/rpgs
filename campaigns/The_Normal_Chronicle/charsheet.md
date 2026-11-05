@@ -29,8 +29,6 @@
 | > Spheres    | Prime III*, Entropy III, Time III,      |
 |              | Forces II, Mind I                       |
 |--------------|-----------------------------------------|
-| Experience   | 0 Spent / 8 Total                       |
-|--------------|-----------------------------------------|
 
 ## Attributes
 | **Attribute**   | Level | Specialization   |
